@@ -1,0 +1,134 @@
+{
+  "source": "/Users/USER/Downloads/download.mp4",
+  "sha256": "ad5f01ee4588d2da1e515e736a39e2b5a74505fdae8bb20546f5c354513e88a7",
+  "bytes": 9214773,
+  "metadata": {
+    "format": {
+      "bit_rate": "728105",
+      "duration": "101.24654875283447",
+      "format_name": "mov,mp4 (AVFoundation adapter)",
+      "size": "9214773"
+    },
+    "streams": [
+      {
+        "avg_frame_rate": "30.000002/1",
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "height": 1280,
+        "width": 720
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  "metadata_tool": "existing AVFoundation avprobe adapter, not official ffprobe",
+  "native_source_candidate": "https://www.douyin.com/video/7698248643866290874",
+  "identity_visual_verified": true,
+  "ownership": "PMO bounded source inspection",
+  "scope": "reference only; never output footage or alter source",
+  "created_at": "2026-10-20T11:29:35.744796+08:00",
+  "generated_frames": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-0_3.jpg",
+      "nominal_sec": 0.3
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-8_6.jpg",
+      "nominal_sec": 8.6
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-20.jpg",
+      "nominal_sec": 20
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-40.jpg",
+      "nominal_sec": 40
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-60.jpg",
+      "nominal_sec": 60
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-80.jpg",
+      "nominal_sec": 80
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-99.jpg",
+      "nominal_sec": 99
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-26.jpg",
+      "nominal_sec": 26
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-31.jpg",
+      "nominal_sec": 31
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-46.jpg",
+      "nominal_sec": 46
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-54.jpg",
+      "nominal_sec": 54
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-72.jpg",
+      "nominal_sec": 72
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-75.jpg",
+      "nominal_sec": 75
+    }
+  ],
+  "identity_basis": [
+    "8.6sec frame matches b-01 free-tier/code-pane artwork",
+    "same101.25sec duration and matching black/gold KRP-1012 FUNNEL scene system",
+    "end frame shows Aulius AI brand matching native author"
+  ],
+  "verified_reference_url": "https://www.douyin.com/video/7698248643866290874",
+  "source_frames_actually_viewed": [
+    0.3,
+    8.6,
+    20,
+    26,
+    31,
+    40,
+    46,
+    54,
+    60,
+    72,
+    75,
+    80,
+    99
+  ],
+  "original_source_unchanged": true,
+  "direct_audio_heard": false,
+  "continuous_video_viewed": false,
+  "technical_failure_and_supported_alternative": {
+    "ffprobe": "bad CPU type; known LOCAL_BLOCKERS431",
+    "alternative": "existing AVFoundation avprobe plus existing arm64ffmpeg; no Rosetta/global repair/installation"
+  },
+  "whole_track_asr": {
+    "engine": "existing local whisper.cpp/base",
+    "duration_seconds": 101.26225,
+    "directory": "/Volumes/EXTERNAL/Tools/Whisper/transcripts/20261020-112940-2156e6",
+    "transcript_read": true,
+    "srt_read": true,
+    "full_track_processed": true,
+    "direct_listening": false,
+    "known_asr_errors": [
+      "Karpathy name wrong",
+      "5000people misrecognized as5000yuan",
+      "frontier models misrecognized"
+    ],
+    "not_factual_authority": "Karpathy primary text remains source of numerical semantics"
+  },
+  "burst_contact_sheet": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/grid-to-funnel-70-75.jpg",
+    "sampling": "6frames at1fps, nominal70–75sec, resampling approx half-second centers; not continuous",
+    "actually_viewed": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage": "04",
+  "decision": "PASS",
+  "scope": "五项集中返修完整候选和原件可交05独立复核；不是整片审美、正常速连续观看或用户终审通过",
+  "video": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/output/ai-funnel-v4-repair1-150s-r1.mp4",
+  "sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/README.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/delivery-index.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/verification.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/source-protection.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/assembly.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/repair-review.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/repair-evidence.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/time-map.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/src/RepairScenes.tsx",
+    "实际导出221个采样状态，export-sheet-1至10",
+    "原尺寸F6480/F7260/F7476/F7500/F8436/F8496/F8760/F8796/F8820",
+    "phone-scale-1/2，仅静态360x640布局"
+  ],
+  "hash_verification": {
+    "delivery_named_entries": 12,
+    "source_files": 15,
+    "all_match": true
+  },
+  "observed_repairs": {
+    "V4-Q1": "同一编号01事项实际新增/勾选/保存副本/关闭重开/比对，条件缺失后回保存逻辑；StepChain缩为导航，主画面有状态变化。",
+    "V4-Q2": "访问树缩为132至141秒，三个分支约137.6齐全，140.1开始退出；不再重复根节点凑停留。",
+    "V4-Q3": "124.1起旧窗口向下离场，新标题在顶部，已读124.6/125原尺寸无触字；125至125.7的空白主视图区交05判断节奏。",
+    "V4-Q4": "旧树向下离场，新引线141.5后从新节点底部出现；已读140.6/141.6状态无旧叶子文字穿线。",
+    "V4-Q5": "三因素缩进同一结论载体，146.3只余一壳，再向上换结尾问句；146.0合并中仍有小凸起/残线消退，交05判断自然度。"
+  },
+  "preservation": "0至84秒沿原r5片段并统一编码；对应源码及kit未变。不宣称编码后逐字节相同。",
+  "remaining_required_work": [],
+  "handoff_scope_limit": "04完整制作交接无缺项；美感与变化范围的独立05复核尚未通过。",
+  "independent_review_required": [
+    "五项返修是否真正闭合",
+    "84至150秒新连贯过程及关键边界",
+    "124.1至126秒离场/短空白是否自然",
+    "145.5至147秒收拢是否仍有叠壳观感",
+    "手机尺度文字阅读与既有原效果质感"
+  ],
+  "continuous_normal_speed_visual": "NOT_PERFORMED",
+  "mobile_timed_reading": "NOT_PERFORMED",
+  "audio": "NOT_APPLICABLE_ZERO_AUDIO_TRACK",
+  "user_final_acceptance": "PENDING",
+  "publication": "NOT_AUTHORIZED"
+}

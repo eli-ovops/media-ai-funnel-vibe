@@ -1,0 +1,60 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "created_at": "2026-10-20T03:23:17.732436+00:00",
+  "scope": "existing evidence only; no new acquisition",
+  "A": {
+    "author": "江景OPC",
+    "url": "https://www.douyin.com/video/7695739830881945253",
+    "published_page": "2026-10-12 19:20",
+    "duration_seconds_player": 71.494,
+    "frames": {
+      "a-01.jpg": 20.006616,
+      "a-02.jpg": 3.045814,
+      "a-03.jpg": 47.16596,
+      "a-04.jpg": 3.856841
+    }
+  },
+  "B": {
+    "author": "傲岭AI",
+    "url": "https://www.douyin.com/video/7698248643866290874",
+    "published_page": "2026-10-19 13:36",
+    "duration_seconds_player": 101.248005,
+    "frames": {
+      "b-01.jpg": 8.573052,
+      "b-02.jpg": 36.876215
+    }
+  },
+  "timestamp_evidence": "currentTime readings recovered from this run context; standalone timestamp log unavailable; screenshots have whole-second player labels",
+  "coverage": {
+    "saved_frames_inspected": 6,
+    "continuous_visual": "NOT_VERIFIED",
+    "full_audio_asr": "NOT_DONE",
+    "direct_audio": "NOT_VERIFIED",
+    "visible_subtitle_samples": "READ",
+    "primary_post_full_text": "READ"
+  },
+  "primary": {
+    "url": "https://x.com/karpathy/status/2109361546505966046",
+    "last_edit_ui": "2026-10-12 03:12",
+    "published_at": "UNKNOWN",
+    "ui_timezone": "UNKNOWN",
+    "evidence_file": "Karpathy-原文.txt",
+    "data_status": "author napkin math, not independently verified population survey"
+  },
+  "download_receipt": {
+    "path": "/Users/USER/Downloads/download.mp4",
+    "source": "native locator.downloadMedia tool returned path in original acquisition run",
+    "bytes": 9214773,
+    "header": "ftyp isom",
+    "media_duration_and_content_verified": false,
+    "retained": true
+  },
+  "new_cache_in_resume": [],
+  "route": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  }
+}

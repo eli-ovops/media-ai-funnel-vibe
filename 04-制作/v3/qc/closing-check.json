@@ -1,0 +1,8 @@
+{
+  "created_at": "2026-10-20T14:30:22.612851+08:00",
+  "final_sha256": "3cdb6ce08d9ab4826737bf76d0efab926a9ca86c2d726ad240be446fd6c6b386",
+  "frozen_inputs": "qc/frozen-input-check.json",
+  "base_mp4_still_matches": true,
+  "generated_files_retained_for_QA": true,
+  "no_cleanup_performed": true
+}

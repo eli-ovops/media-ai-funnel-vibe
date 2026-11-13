@@ -1,0 +1,233 @@
+{
+  "version": "v4-complete-150s-r5",
+  "componentRefs": [
+    {
+      "id": "fred-wave3-40-t15f",
+      "reason": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+      "preserve": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+      "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+      "useScope": "16-46s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T15f-DonutShare.tsx",
+        "sha256": "19370051e5c1360af7a3f89040818ee8159e3bc689ff07fea6ab12515c7f5404",
+        "symbol": "DonutShare"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T15f-DonutShare.tsx",
+        "sha256": "137722b4e9b706ee00532ae6f3680395edd8409c168fc57c6926c0b56c4662a4",
+        "symbol": "DonutShare"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+        "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+        "symbol": "Population",
+        "callee": "DonutShare"
+      }
+    },
+    {
+      "id": "fred-wave3-40-t05h",
+      "reason": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+      "preserve": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+      "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+      "useScope": "59.8-70s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+        "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+        "symbol": "SyncVsCopy"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T05h-SyncVsCopy.tsx",
+        "sha256": "a83aa9965398e10a5997a558399ebbb210defcf8067d51114f1cd50e804f700e",
+        "symbol": "SyncVsCopy"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+        "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+        "symbol": "Task",
+        "callee": "SyncVsCopy"
+      }
+    },
+    {
+      "id": "fred-wave3-40-t02g",
+      "reason": "Two experiences build separate lanes from role to steps; no completion checks",
+      "preserve": "Two experiences build separate lanes from role to steps; no completion checks",
+      "change": "Complete source module adapted to portrait geometry and local props/cues; exact source archived; original kit retained except documented portrait/fonts/silent adapters",
+      "useScope": "0-12s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T02g-RoleRoadmap.tsx",
+        "sha256": "4f93cc9418c91ea65f98423375da8d22205893b92984aac373f0eebbbd6a6c66",
+        "symbol": "RoleRoadmap"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T02g-RoleRoadmap.tsx",
+        "sha256": "df2162b4cb50e2822f7b7278af4df1e00758bd307610cbd2cba0548a4d5bedc8",
+        "symbol": "RoleRoadmap"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+        "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+        "symbol": "Intro",
+        "callee": "RoleRoadmap"
+      }
+    },
+    {
+      "id": "fred-wave2-42-t04b",
+      "reason": "One task bar splits into assigned responsibilities; tool cards enter underneath",
+      "preserve": "One task bar splits into assigned responsibilities; tool cards enter underneath",
+      "change": "Complete source module adapted to portrait geometry and local props/cues; exact source archived; original kit retained except documented portrait/fonts/silent adapters",
+      "useScope": "70-77.2s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T04b-RoleSplit.tsx",
+        "sha256": "d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb",
+        "symbol": "RoleSplit"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T04b-RoleSplit.tsx",
+        "sha256": "f59ba1e1acf3ad78432ac80e39249f5be111b13b3fbe4cdbfb4857e19809e9aa",
+        "symbol": "RoleSplit"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+        "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+        "symbol": "Roles",
+        "callee": "RoleSplit"
+      }
+    },
+    {
+      "id": "fred-wave2-42-t03e",
+      "reason": "Sequential arrows and wrap topology show what to do and inspect",
+      "preserve": "Sequential arrows and wrap topology show what to do and inspect",
+      "change": "Complete source module adapted to portrait geometry and local props/cues; exact source archived; original kit retained except documented portrait/fonts/silent adapters",
+      "useScope": "90.4-105s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T03e-StepChain.tsx",
+        "sha256": "cbe67fa526d5cfbf4c4b927d1e166086281d8da5e7b956c9c5bf13711fcb3546",
+        "symbol": "StepChain"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T03e-StepChain.tsx",
+        "sha256": "51e50e71ac13fe4788056be4f87e3cd0e7e66174fcff80f96c4b3bc93947b3ed",
+        "symbol": "StepChain"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+        "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+        "symbol": "TaskSequence",
+        "callee": "StepChain"
+      }
+    },
+    {
+      "id": "fred-wave3-40-t04g",
+      "reason": "Access conditions branch to entry types; recommend=-1, no winner",
+      "preserve": "Access conditions branch to entry types; recommend=-1, no winner",
+      "change": "Complete source module adapted to portrait geometry and local props/cues; exact source archived; original kit retained except documented portrait/fonts/silent adapters",
+      "useScope": "126-141s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T04g-DecisionTree.tsx",
+        "sha256": "56cf99105c4a28c7f86b35801e35e2999a7a6042c7ac0db3bac033c818bc43dd",
+        "symbol": "DecisionTree"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T04g-DecisionTree.tsx",
+        "sha256": "036dc8bd35e0efe03bcaab09620867d70e4fadbdeb3f3cd4e3bfe5a3723197b6",
+        "symbol": "DecisionTree"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+        "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+        "symbol": "Access",
+        "callee": "DecisionTree"
+      }
+    }
+  ],
+  "exactAdditionalT20m": [
+    {
+      "name": "T20m-PillToWindow",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T20m-PillToWindow.tsx",
+        "sha256": "849a13b9b1ff7740ec00214727628503d6e6dddf50cd81bc7e246f6c3eee041c"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T20m-PillToWindow.tsx",
+        "sha256": "458dc1719dfcdd37e9233e765cc1adae77fcaa2b61afbbf286f6db13bcae5508"
+      },
+      "call": "Episode -> PillToWindow -> Sequence from48 -> Task -> SyncVsCopy",
+      "preserved": "同一黑胶囊尺寸连续扩为媒体窗口，标题随开放让位；原曲线/剪裁/阴影",
+      "changed": "Destination changed from1080x1920 outer window to actual720x310 black source-card; hook retained until room ready, complete task label admitted only25.73s onward, child sequence begins25.8s. Returns-to-pill unused.",
+      "useScope": "59-59.8s carrier; children59.8-70s"
+    }
+  ],
+  "episodeExtension": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/Magnified.tsx",
+    "sha256": "6ccdc1feb694fda8dd2f0604838696913e49e9d4b926460e806792e85fd31ac9",
+    "description": "Approved annular interval to explicit linear window, fixed fractions; full-film offset +34s vs representative"
+  },
+  "localExtensions": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+    "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+    "description": "Intro/title-ring handoff, task/feedback conceptual window, factor synthesis. Not claimed as complete original Fred components."
+  },
+  "kit": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/kit/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/kit/ui.tsx",
+      "sha256": "4371cdbcc34ca169e3f486aea0a4671c6109ddf4c7c57a1b77ea4260d437b51d"
+    }
+  ],
+  "differences": [
+    "Portrait 1080x1920 geometry",
+    "Local fonts and zero-audio adapter",
+    "T15f enter fixed at1 to retain faint overall ring; data geometry unchanged",
+    "T04b enter fixed at1 to receive prior task pill; neutral numbered Agent labels replace product logos",
+    "T03e task window kept at90,600,900,810; no window reentry; original sequential arrows preserved",
+    "T04g recommend=-1: equal access branches, no recommended winner"
+  ],
+  "syUsed": false,
+  "counterexampleRemap": [
+    {
+      "oldRepresentativeFrame": 1170,
+      "fullFrame": 3210,
+      "fullTime": 53.5,
+      "reason": "second true-scale window handoff"
+    },
+    {
+      "oldRepresentativeFrame": 1520,
+      "fullFrame": 3560,
+      "fullTime": 59.333333333333336,
+      "reason": "carrier mid-state before content ready"
+    },
+    {
+      "oldRepresentativeFrame": 1548,
+      "fullFrame": 3588,
+      "fullTime": 59.8,
+      "reason": "task source card ready"
+    }
+  ],
+  "finalOverlapFix": {
+    "version": "r5",
+    "baseline": "r4",
+    "patches": [
+      [
+        1380,
+        1458
+      ],
+      [
+        2100,
+        2178
+      ],
+      [
+        8445,
+        8478
+      ]
+    ],
+    "reason": "Delay new content until the old geometric carrier or labels clear; end frames exclusive",
+    "sourceChanged": "src/FullEpisode.tsx"
+  },
+  "deliveryAssembly": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/assembly-r5.json",
+    "sha256": "283fcbf319598d7d927a795430baf413b102ff3b04bb79e2d3dc76dcc47c89f4"
+  }
+}

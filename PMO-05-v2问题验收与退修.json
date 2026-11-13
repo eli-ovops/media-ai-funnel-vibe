@@ -1,0 +1,96 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "stage": "05",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "RETURN_TO04",
+  "at": "2026-10-20T13:25:32.046524+08:00",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/ai-funnel-v2-review-150s.mp4",
+  "video_sha256": "9a3ce43284d15afa47178e7e188d8baca3d17b2aedee5c64eab45a50ec3da537",
+  "owner_report_received": true,
+  "report_sha256": "05e54fd0c53fd0e9e092abebd89fd8014f25230f0e1457d71d7158fe6a62de16",
+  "pmo_report_read": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/独立质检报告.md",
+  "pmo_independent_hashes": {
+    "sample_index": 157,
+    "mismatches": []
+  },
+  "pmo_actual_native_images": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/issue-F2421.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/extra-049.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/extra-065.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/extra-121.jpg"
+  ],
+  "confirmed_defects": [
+    {
+      "id": "Q1",
+      "times": [
+        40.35,
+        54.25,
+        68.25
+      ],
+      "frames": [
+        2421,
+        3255,
+        4095
+      ],
+      "reason": "Moving gold count crosses existing white count/description.",
+      "repair_ranges": [
+        [
+          40,
+          40.5
+        ],
+        [
+          54,
+          54.5
+        ],
+        [
+          68,
+          68.5
+        ]
+      ]
+    },
+    {
+      "id": "Q2",
+      "times": [
+        117.25
+      ],
+      "frames": [
+        7035
+      ],
+      "reason": "Returning save carrier occludes complete checkmark.",
+      "repair_ranges": [
+        [
+          117,
+          117.5
+        ]
+      ]
+    }
+  ],
+  "05_scope_accepted": {
+    "claimed_frames_viewed": 178,
+    "beats": 22,
+    "seams": 21,
+    "native_frames": 6,
+    "not_pmo_full178_view": true
+  },
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/独立质检报告.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/coverage-and-verdict.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/sample-index.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/issue-F2421.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/extra-049.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/extra-065.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/extra-121.jpg"
+  ],
+  "remaining_required_work": [
+    "Q1 count trajectories",
+    "Q2 function-carrier return separation",
+    "05 changed-range recheck",
+    "Exact BGM and affected mix checks",
+    "Truthful full audiovisual/user final review"
+  ],
+  "next_task": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-v2定向返修-Q1Q2.md",
+  "normal_speed_continuous_visual": false,
+  "direct_hearing": false,
+  "final_av_complete": false,
+  "human_review_source": null
+}

@@ -1,0 +1,90 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "started_at": "2026-10-20 21:25:06",
+  "browser": "2",
+  "records": [
+    {
+      "id": "1",
+      "providerTabId": "browser-use:bbe34b4b-8078-4aae-b068-ecfe1901844f",
+      "title": "创作中心 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯~",
+      "url": "https://member.bilibili.com/platform/upload-manager/archive-process?bvid=BV1WBnA6iEvn",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    },
+    {
+      "id": "2",
+      "providerTabId": "browser-use:4c19f47a-158e-4bc6-8620-aba4b59efae0",
+      "title": "视频发布 - 微博",
+      "url": "https://weibo.com/upload/channel",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    },
+    {
+      "id": "3",
+      "providerTabId": "browser-use:38d217d4-4e30-4db1-800f-175607352a57",
+      "title": "TikTok Studio",
+      "url": "https://www.tiktok.com/tiktokstudio/content",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    },
+    {
+      "id": "4",
+      "providerTabId": "browser-use:9afdd22e-d508-4192-af8a-43ac152090dc",
+      "title": "(1) X 上的 Eli-AI：“AI認知漏斗，你在第幾層？ 有人把AI當聊天框，有人已經讓它拆任務、寫程式、檢查結果。 這2分半，把Karpathy的「AI認知漏斗」畫出來。你上次交給AI的是問題，還是任務？ #AI #AIAgent https://t.co/2Kko28nH2Y” / X",
+      "url": "https://x.com/cczij1112/status/2112535172579307890",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    },
+    {
+      "id": "5",
+      "providerTabId": "browser-use:70ad76fb-db87-4697-af99-88cf77700821",
+      "title": "Post | LinkedIn",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7518295729858203648/",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    },
+    {
+      "id": "6",
+      "providerTabId": "browser-use:2f8f47e6-d443-4a98-9fd7-a69212dc0df7",
+      "title": "频道内容 - YouTube Studio",
+      "url": "https://studio.youtube.com/channel/UCqJaVQRO3FrxD5spt1GG7Iw/videos/short?d=ud&filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D&udvid=0iSk4fxiGH8",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    },
+    {
+      "id": "8",
+      "providerTabId": "browser-use:8e10c880-3102-411c-bc69-ce151b70c8d9",
+      "title": "视频发布 - 微博",
+      "url": "https://weibo.com/upload/channel",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    },
+    {
+      "id": "9",
+      "providerTabId": "browser-use:ca68050f-524b-4e34-9e3e-f9445988876a",
+      "title": "小红书创作服务平台",
+      "url": "https://creator.xiaohongshu.com/publish/publish?source=&published=true",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    },
+    {
+      "id": "10",
+      "providerTabId": "browser-use:c1e28c6d-2254-4838-8d67-726988a36f21",
+      "title": "Activity | ELi Chao | LinkedIn",
+      "url": "https://www.linkedin.com/in/eli-chao-548a7a43b/recent-activity/all/",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    },
+    {
+      "id": "11",
+      "providerTabId": "7b813529-4171-40dc-8290-b6b6c50dfff2",
+      "title": "视频管理 - 内容管理 - 创作者中心",
+      "url": "https://me.weibo.com/content/video",
+      "browserId": "2",
+      "state": "CLOSED_VERIFIED_NOT_IN_INVENTORY"
+    }
+  ],
+  "recovery": "07-关页恢复资料.json",
+  "remaining_tabs": [],
+  "completed_at": "2026-10-20 21:25:10"
+}

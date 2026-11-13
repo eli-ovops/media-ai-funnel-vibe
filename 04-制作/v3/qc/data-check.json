@@ -1,0 +1,58 @@
+{
+  "checkedFrames": 9000,
+  "independentSourceRatios": [
+    0.75,
+    0.2,
+    0.002,
+    6e-07
+  ],
+  "settledStates": [
+    {
+      "index": 0,
+      "share": 0.75,
+      "denominator": "same original overall population",
+      "spanRadians": 4.71238898038469,
+      "rangeFraction": 1,
+      "detailWidth": 540,
+      "fullRingArcPixels": 1555.0883635269477,
+      "gap": 0,
+      "minAngle": 0
+    },
+    {
+      "index": 1,
+      "share": 0.2,
+      "denominator": "same original overall population",
+      "spanRadians": 1.2566370614359172,
+      "rangeFraction": 1,
+      "detailWidth": 144,
+      "fullRingArcPixels": 414.6902302738527,
+      "gap": 0,
+      "minAngle": 0
+    },
+    {
+      "index": 2,
+      "share": 0.002,
+      "denominator": "same original overall population",
+      "spanRadians": 0.012566370614359173,
+      "rangeFraction": 0.009999999999999995,
+      "detailWidth": 144.00000000000006,
+      "fullRingArcPixels": 4.1469023027385274,
+      "gap": 0,
+      "minAngle": 0
+    },
+    {
+      "index": 3,
+      "share": 6e-07,
+      "denominator": "same original overall population",
+      "spanRadians": 3.7699111843077517e-06,
+      "rangeFraction": 9.999999999999991e-07,
+      "detailWidth": 432.00000000000034,
+      "fullRingArcPixels": 0.001244070690821558,
+      "gap": 0,
+      "minAngle": 0
+    }
+  ],
+  "status": "PASS",
+  "scope": "source ratio/denominator and finite camera geometry; not visual perception",
+  "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17"
+}

@@ -1,0 +1,21 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage": "05",
+  "decision": "PASS",
+  "scope": "仅确认已有内部采样复核及用户本轮选择当前素材进入非公开准备；不等于用户全面审美认可或公开发布许可",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-05-v4repair1收口复核.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/独立质检报告.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/独立判定.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-四比例封面-v4验收.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/用户非公开准备授权.json"
+  ],
+  "human_review_source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/用户非公开准备授权.json",
+  "remaining_required_work": [],
+  "handoff_scope_limit": "remaining_required_work只表示转入本次具体非公开平台准备的必要输入无缺项；正常速连续视觉、用户对审美全面终审、各站新配乐完成及公开发送均不由此补写PASS",
+  "public_release_authorized": false,
+  "user_final_visual_acceptance": "NOT_ASSERTED",
+  "audio_preparation": "NEW_SCOPE_PENDING_PER_PLATFORM_NATIVE_ASSOCIATION",
+  "artifact_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc"
+}

@@ -1,0 +1,12 @@
+{
+  "at": "2026-10-20T22:59:00.472568+08:00",
+  "other_state_exact_refs": [],
+  "current_content": "User closed publication; old samples superseded by full v4-repair1; original source/render parameters retained",
+  "evidence": [
+    "two-history-matches.json",
+    "two-history-render-window.json",
+    "two-evidence/contact.png",
+    "../v4-fix1/src/Episode.tsx",
+    "../v4-fix1/src/index.tsx"
+  ]
+}

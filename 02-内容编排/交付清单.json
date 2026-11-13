@@ -1,0 +1,159 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "02-screen-v1",
+  "stage": "02 with logical03 input checklist",
+  "status": "READY_FOR_PMO_REVIEW_NOT_RELEASED_TO04",
+  "owner_thread": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+  "main_entry": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/03-输入检查与04交接.md",
+  "content_package": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/content-package.json",
+  "duration_seconds": 60,
+  "frames": 3600,
+  "statistics": {
+    "main_text_non_whitespace_characters": 150,
+    "main_text_cjk_characters": 122,
+    "persistent_label_unique_non_whitespace_characters": 22,
+    "reading_units_total_including_first_introduction": 144.0,
+    "minimum_reading_margin_seconds": 0.5,
+    "densest_scene_by_new_reading_units": "professional_frontier"
+  },
+  "sources_viewed": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-01.jpg",
+      "sha256": "71f7e4a83b77cd2b2aa3bd221fddcf0857d6d278eddc7b748b32437ed0152d10",
+      "actually_viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-02.jpg",
+      "sha256": "2f82b35df6862bc49a9c658cd47e3b011a4af457639fde449660c87335008729",
+      "actually_viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-03.jpg",
+      "sha256": "1a7b41489406ddb8f63c9d0fbafb922f0e77d84631895eb18c16e78d7b7596e8",
+      "actually_viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-04.jpg",
+      "sha256": "a76de702b6c795071edd1fc060f56b9e576e3c1d401474b1d04c7bd8ee2f8dcc",
+      "actually_viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/b-01.jpg",
+      "sha256": "28f7535333d3797fbaae489a02d447ca8af428482f0a649fda4fcf9cde3c556a",
+      "actually_viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/b-02.jpg",
+      "sha256": "b73f4225256be20a4e6e792db8b3f30888e7d07f226fcbfc72357f303c8c23c3",
+      "actually_viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-46.jpg",
+      "sha256": "34d5a0dfa91d39e56ab794608738b9b3533f07adc600a5a07396af3aea750acd",
+      "actually_viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-60.jpg",
+      "sha256": "25750264e106baeee2b6a2640d3fb913889c1c9dfd8a3a5d3bcdccc75990d723",
+      "actually_viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-75.jpg",
+      "sha256": "8a7b8c412f8f746f7cf2c9f9205fff3a85f9272dd94783c6f45cda08b3ba2dee",
+      "actually_viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/grid-to-funnel-70-75.jpg",
+      "sha256": "444e73de20e4ac0fcfabdc47b71fb8abd657d43f9b4ca9dac569264781112f83",
+      "actually_viewed_by02": true
+    }
+  ],
+  "required_user_decisions": [],
+  "remaining_production_checks": [
+    "04准确组件/字体选择和实际本片渲染",
+    "04/05实际手机阅读、转场中间态与同版输出",
+    "现有直接听感/连续视觉缺口由PMO确定承担路径，不能补PASS"
+  ],
+  "scope_boundaries": [
+    "无制作或渲染",
+    "无拍摄/录音/TTS",
+    "无新调研/下载/付费/外传/子agent",
+    "未改共享状态、原片或资产库",
+    "未唤醒04/05或轮询"
+  ],
+  "route": {
+    "requested_model": "gpt-6-astra",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  },
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/03-输入检查与04交接.md",
+      "bytes": 7401,
+      "sha256": "0d6a38eb6addcff494a5c3134243fc71e146c03dfc470924e412092b0fdb0b68",
+      "origin": "02 authored from frozen source and observed reference images",
+      "purpose": "04/PMO content handoff or reproducible text/timing checks",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/build_content_package.py",
+      "bytes": 14031,
+      "sha256": "988da29099b03fe3ff659934ecbc34b6875c5414d2db2df63cdcf85124d51dd9",
+      "origin": "02 authored from frozen source and observed reference images",
+      "purpose": "04/PMO content handoff or reproducible text/timing checks",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/content-package.json",
+      "bytes": 17432,
+      "sha256": "352e44defd7851b4f88c217d8d11af1901c1b7e137d61b071c5660d8e66748ce",
+      "origin": "02 authored from frozen source and observed reference images",
+      "purpose": "04/PMO content handoff or reproducible text/timing checks",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/screen-copy-review.srt",
+      "bytes": 768,
+      "sha256": "9babb1864e68092911bf510fb7424ed81850375991254368d3a9399b524669fc",
+      "origin": "02 authored from frozen source and observed reference images",
+      "purpose": "04/PMO content handoff or reproducible text/timing checks",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/参考使用与证据边界.md",
+      "bytes": 6162,
+      "sha256": "2fdf1921857366f24b49500ecec2bd93d06a2ebe7c1a5b17d82cdc947b34d8f1",
+      "origin": "02 authored from frozen source and observed reference images",
+      "purpose": "04/PMO content handoff or reproducible text/timing checks",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/屏幕文案.md",
+      "bytes": 1025,
+      "sha256": "491552802c75390c576f1975470913d0a00f6a93651a4b1cb48e5c349cb0b878",
+      "origin": "02 authored from frozen source and observed reference images",
+      "purpose": "04/PMO content handoff or reproducible text/timing checks",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/校核结果.json",
+      "bytes": 6777,
+      "sha256": "8e5f5dbe488a1ae179289719d9f46adc8e964239bd53bebd3db745071af2d64f",
+      "origin": "02 authored from frozen source and observed reference images",
+      "purpose": "04/PMO content handoff or reproducible text/timing checks",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/阅读时间轴.md",
+      "bytes": 8164,
+      "sha256": "66ab6cb28e7dafc99cac6164becdac846eb907066db854b2fa9b8cc7ac8e9455",
+      "origin": "02 authored from frozen source and observed reference images",
+      "purpose": "04/PMO content handoff or reproducible text/timing checks",
+      "retain": true
+    }
+  ],
+  "cleanup": "All new files are retained for handoff; no deletion",
+  "report_receipt": "PMO回报回执.json will record transport; PMO receipt and approval remain separate"
+}

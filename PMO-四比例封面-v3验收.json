@@ -1,0 +1,74 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-20T19:16:35.908122+08:00",
+  "decision": "PMO_COVER_VISUAL_AND_DIMENSIONS_PASS_USER_REVIEW_PENDING",
+  "cover_rule_version": "ELI-COVER-20261017-v3",
+  "received_original_report": true,
+  "received_repair_report": true,
+  "final_manifest": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v3/manifest-r1.json",
+  "final_manifest_sha256": "665fe289f3427770153cafd0eff464b173d731eaaf501bb614e9d83f423d6c47",
+  "accepted_files": [
+    {
+      "ratio": "3x4",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v3/cover-3x4-1080x1440-v3.png",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "sha256": "ab305d20f3da74e4017cec026f5c3f767f1c32aaacea43c9e2132dacddbf4035"
+    },
+    {
+      "ratio": "9x16",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v3/cover-9x16-1080x1920-v3-r1.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "8bb38361400e2cd03156eb056bbc2a00d4722927149b49caec50aa5f2cf41f80"
+    },
+    {
+      "ratio": "16x9",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v3/cover-16x9-1920x1080-v3.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "sha256": "fee004f662922f10c65c43035b89082a69c4e20d0bfc3ecd159ccf2d2b7fa34c"
+    },
+    {
+      "ratio": "4x3",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v3/cover-4x3-1440x1080-v3.png",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "sha256": "9a5cee10c16a089fdfe8de16dacd6ff5066f00b11037c8d0a561d89971449180"
+    }
+  ],
+  "pmo_reviewed": [
+    "初轮四张最终原图及320px联系表",
+    "原身份艺术照及认可封面参照",
+    "初轮inputs/sources/manifest/generation-prompts/README",
+    "修订9:16最终原尺寸和最终四图320px联系表",
+    "修订manifest-r1/generation-r1/qc/review-r1"
+  ],
+  "verified": [
+    "四文件存在、PNG真实像素与SHA逐一相符",
+    "上紫你还在跟AI聊天、下黑别人已经让它干活了，逐字完整",
+    "白底黑紫大字、原艺术照身份输入、大幅本人、紫漏斗",
+    "四比例独立构图，头发/脸与文字不遮挡",
+    "9:16留白定向修正后可见明确白边；不再贴字",
+    "另三张SHA与已验版相同"
+  ],
+  "nine_sixteen_gap": "原尺寸视觉确认明显白边，04阈值辅助约73行留白仅作辅助，不作发丝亚像素测量",
+  "generation": "built-in imagegen，生成处理的人像及版面，不称原照像素抠取",
+  "normalization": "ffmpeg等比规范化至精确目标像素，源图并非全部原生目标分辨率",
+  "limits": [
+    "平台实际裁切未验",
+    "用户终审待定"
+  ],
+  "video_changed": false,
+  "public_release": "NOT_AUTHORIZED",
+  "protected_originals_preserved": true
+}

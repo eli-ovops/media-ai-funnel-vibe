@@ -1,0 +1,43 @@
+{
+  "version": "v4-repair1-150s-r1",
+  "sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+  "verdict": "SCOPED_PASS_READY_FOR_USER_REVIEW",
+  "scope_seconds": [
+    84,
+    150
+  ],
+  "extra_seam_seconds": 83.98333333333333,
+  "issues": {
+    "Q1": {
+      "verdict": "PASS_WITH_SAMPLING_LIMIT",
+      "must_fix": false
+    },
+    "Q2": {
+      "verdict": "PASS_WITH_SAMPLING_LIMIT",
+      "must_fix": false
+    },
+    "Q3": {
+      "verdict": "PASS_WITH_SAMPLING_LIMIT",
+      "must_fix": false
+    },
+    "Q4": {
+      "verdict": "PASS_WITH_SAMPLING_LIMIT",
+      "must_fix": false
+    },
+    "Q5": {
+      "verdict": "PASS_WITH_SAMPLING_LIMIT",
+      "must_fix": false
+    }
+  },
+  "new_substantial_defects": [],
+  "must_fix_count": 0,
+  "recommend_user_review": true,
+  "continuous_normal_speed": "NOT_PERFORMED",
+  "audio": "NOT_APPLICABLE_ZERO_TRACKS",
+  "sample_count": 144,
+  "native_file_views": 9,
+  "user_acceptance": "UNKNOWN",
+  "pmo_acceptance": "UNKNOWN",
+  "actual_model_route": "UNKNOWN",
+  "report_sha256": "f1779f3b36d8b6ced3f9e7c38ca058061ed8cc28522f5d1705894365089f3eef"
+}

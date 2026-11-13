@@ -1,0 +1,3 @@
+Error: Error: Download 03182043-2e02-4106-8637-0373c2f8db78 failed.
+locator.downloadMedia failed for selector video >> nth=0
+Locator diagnostics: {"kind":"action_failed","action":"downloadMedia","locator":"video >> nth=0","matchCount":1,"matches":[{"ariaLabel":null,"disabled":false,"role":null,"tag":"video","text":"","type":null,"visible":true}],"visibleCount":1,"truncated":false}

@@ -1,0 +1,236 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "audio-preparation-v2",
+  "video": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/media/ai-funnel-150s-1080p60-with-music.mp4",
+  "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+  "source_audio": "USER_SUPPLIED_PACKET_IDENTICAL_PER_PMO",
+  "file_audio_tracks": "AAC44100Hz stereo 149.999002sec",
+  "direct_listening": "NOT_PERFORMED",
+  "public_release_authorized": false,
+  "release_actions": 0,
+  "platforms": [
+    {
+      "platform": "weibo",
+      "account": "Eli-AI/7720929036",
+      "tabId": "8",
+      "url": "https://weibo.com/upload/channel",
+      "state": "NEW_AUDIO_EDIT_PAGE_UNSAVED",
+      "replaced": false,
+      "old_silent_tab": "2 kept; irreversible removal cancelled",
+      "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+      "title": [
+        "AI认知漏斗，你在第几层？"
+      ],
+      "body": "AI认知漏斗，你在第几层？\n\n都在用AI，为什么有人只看到聊天框，有人已经把项目交给它？这次用2分半动画，把Karpathy的「AI认知漏斗」画出来。\n\n你上次交给AI的，是一个问题，还是一件要办完的事？\n\n#人工智能# #AI# ",
+      "tags": [
+        "人工智能",
+        "AI"
+      ],
+      "cover": "3x4-v4",
+      "copyright_check": "NO_UI_CHECK_OBSERVED",
+      "audio_ui": "NO_PLAYER_CONTROL_IN_UPLOAD_PAGE",
+      "screenshot": "执行截图-v2/weibo-audio.png"
+    },
+    {
+      "platform": "bilibili",
+      "account": "Eli-AI/432834855",
+      "tabId": "1",
+      "url": "https://member.bilibili.com/platform/upload/video/frame?type=draft&draftId=4011403",
+      "state": "AUDIO_REPLACED_PRIVATE_DRAFT_SAVED_REOPENED",
+      "draft_id": "4011403",
+      "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+      "title": "AI认知漏斗，你在第几层？",
+      "body": "为什么有人觉得AI没什么用，有人却觉得工作方式变了？\n\n用2分半动画，拆开Karpathy的「AI认知漏斗」：任务的规模、应用的领域、能接触的系统，都会影响你对AI的判断。\n\n你最近让AI独立推进过什么事？",
+      "paragraphs": [
+        "为什么有人觉得AI没什么用，有人却觉得工作方式变了？",
+        "",
+        "用2分半动画，拆开Karpathy的「AI认知漏斗」：任务的规模、应用的领域、能接触的系统，都会影响你对AI的判断。",
+        "",
+        "你最近让AI独立推进过什么事？"
+      ],
+      "tags": "*\n\n标签\n\n人工智能\n\nAI\n\nAI智能体\n\n还可以添加7个标签",
+      "cover": "Retained saved4:3+16:9-v4",
+      "native_media": "upload complete after replacing with with-music file",
+      "copyright_check": "NO_ENTRY_OBSERVED",
+      "direct_listening": "NOT_PERFORMED",
+      "screenshot": "执行截图-v2/bilibili-audio.png"
+    },
+    {
+      "platform": "tiktok",
+      "account": "Eli-AI/@elimakesapps",
+      "tabId": "3",
+      "url": "https://www.tiktok.com/tiktokstudio/upload?from=creator_center&draft_id=176764766980&open_editor=0",
+      "state": "NEW_AUDIO_DRAFT_SAVED_REOPENED_OLD_SILENT_KEPT",
+      "draft_id": "176764766980",
+      "old_silent_draft_id": "176764753924",
+      "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+      "body": "AI認知漏斗，你在第幾層？\n\n\n有人只跟AI聊天，有人已經讓它做專案。差距只是提示詞嗎？2分半動畫，看懂Karpathy的「AI認知漏斗」。\n\n\n#AI #人工智慧 #AIAgent ",
+      "tags": [
+        "AI",
+        "人工智慧",
+        "AIAgent"
+      ],
+      "cover": "3x4-v4",
+      "native_media": "ai-funnel-150s-1080p60-with-music.mp4 1080P 12.22MB 00:02:30",
+      "copyright_check": "未发现问题",
+      "content_check": "未发现问题",
+      "audio_ui": "Native静音 control and00:02:30 shown; actual muted/volume UNKNOWN; DOM video not exposed",
+      "direct_listening": "NOT_PERFORMED",
+      "screenshot": "执行截图-v2/tiktok-checks-complete.png"
+    },
+    {
+      "platform": "x",
+      "account": "Eli-AI/@cczij1112",
+      "tabId": "4",
+      "url": "https://x.com/compose/post",
+      "state": "AUDIO_REPLACED_DRAFT_SAVED_REOPENED",
+      "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+      "body": "AI認知漏斗，你在第幾層？\n\n\n有人把AI當聊天框，有人已經讓它拆任務、寫程式、檢查結果。\n\n\n這2分半，把Karpathy的「AI認知漏斗」畫出來。你上次交給AI的是問題，還是任務？\n\n\n#AI #AIAgent",
+      "native_media": "reopened transcoded filename q_Enjx2zAblB3JLe.mp4 就绪; duration150",
+      "tags": [
+        "AI",
+        "AIAgent"
+      ],
+      "tag_evidence": "native hashtag spans verified; unpublished so public clickable links not available",
+      "cover": "native video cover only; custom cover unavailable",
+      "audio_ui": "video duration150 muted=true; direct listening NOT_PERFORMED",
+      "copyright_check": "NO_ENTRY_OBSERVED",
+      "screenshot": "执行截图-v2/x-audio.png"
+    },
+    {
+      "platform": "linkedin",
+      "account": "ELi Chao",
+      "tabId": "5",
+      "url": "https://www.linkedin.com/sharing/compose",
+      "state": "NEW_AUDIO_DRAFT_SAVED_REOPENED",
+      "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+      "body": "AI認知漏斗，你在第幾層？\n\n同樣在用AI，為什麼不同團隊的評價差這麼多？\n\n差別不只是模型名稱或提示詞。交給它的任務、結果能否驗證，以及能接觸的系統，都會改變使用體驗。\n\n用2分半動畫，拆解Karpathy的「AI認知漏斗」。如果你在團隊推AI，最想交給它的一件事是什麼？\n\n#人工智慧 #生成式AI #AIAgent #企業效率 #數位轉型",
+      "cover": "9x16-v4 uploaded via native Thumbnail and Add",
+      "native_media": "duration150 readyState4 before save; native Video Player restored on reopen",
+      "audio_ui": "muted=true in preview; direct listening NOT_PERFORMED",
+      "tags": [
+        "人工智慧",
+        "生成式AI",
+        "AIAgent",
+        "企業效率",
+        "數位轉型"
+      ],
+      "tag_evidence": "PLAIN_TEXT_ONLY_IN_EDITOR; native topic attribute not confirmed; publication required for clickable check, not authorized",
+      "copyright_check": "NO_CHECK_UI_OBSERVED",
+      "prior_draft_backup": "领英旧草稿恢复资料-v2.json",
+      "screenshot": "执行截图-v2/linkedin-reopened.png"
+    },
+    {
+      "platform": "youtube",
+      "account": "Eli-AI/@EliChao-m9o6r channelUCqJaVQRO3FrxD5spt1GG7Iw",
+      "tabId": "6",
+      "draft_id": "0iSk4fxiGH8",
+      "old_silent_draft_id": "BCuF26Dfg2U",
+      "url": "https://youtube.com/shorts/0iSk4fxiGH8",
+      "state": "AUDIO_DRAFT_SAVED_REOPENED_COPYRIGHT_GLOBALLY_BLOCKED",
+      "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+      "title": "AI認知漏斗，你在第幾層？",
+      "body": "同樣用AI，有人只看到聊天框，有人已經用它推進複雜專案。差別只在提示詞嗎？\n\n用2分半動畫，拆開Karpathy的「AI認知漏斗」：任務、領域與能接觸的系統，如何改變我們對AI的判斷。\n\n你上次交給AI的，是一個問題，還是一件要完成的事？\n\n#AI #人工智慧 #AIAgent #Vibe知識大賞 #Shorts",
+      "backend_tags": [
+        "AI",
+        "人工智慧",
+        "AI Agent",
+        "AI智能體",
+        "AI認知漏斗",
+        "Karpathy",
+        "知識動畫"
+      ],
+      "tags": [
+        "AI",
+        "人工智慧",
+        "AIAgent",
+        "Vibe知識大賞",
+        "Shorts"
+      ],
+      "tag_evidence": "7 native backend chips; 5 recognized native hashtag tokens on reopen",
+      "cover": "9x16-v4 uploaded thumbnail restored",
+      "native_media": "filename with-music; platform2:31 vs source150.000s; draftID verified",
+      "audio_ui": "native volume100 button静音; direct listening NOT_PERFORMED",
+      "copyright_check": "CLAIM; GLOBAL_BLOCK; 非版权警示/对频道没有影响",
+      "claimed_music": "若如初见 (千年之后)",
+      "claimant": "外星猫牙牙乐",
+      "action": "No appeal, audio alteration or final Save/publication; stopped at upload details",
+      "screenshot": "执行截图-v2/youtube-copyright-details.png"
+    },
+    {
+      "platform": "xiaohongshu",
+      "account": "Eli AI FDE native creator header; numeric11520431136 historical not reverified here",
+      "tabId": "9",
+      "url": "https://creator.xiaohongshu.com/publish/publish?from=menu&target=video",
+      "state": "AUDIO_EDIT_PAGE_READY_SAVE_UNCONFIRMED_USER_MANUAL_SEND",
+      "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+      "title": "AI认知漏斗，你在第几层？",
+      "body_html": "<p>同样用AI，为什么有人觉得没什么用，有人却说工作方式变了？</p><p><br class=\"ProseMirror-trailingBreak\"></p><p>这次用2分半动画，把Karpathy的「AI认知漏斗」画出来。你交给它什么任务、在哪个领域用、能接触到什么系统，看到的AI就可能很不一样。</p><p><br class=\"ProseMirror-trailingBreak\"></p><p>你平时用AI最多的一件事是什么？<a class=\"tiptap-topic\" data-topic=\"{&quot;id&quot;:&quot;620cd421000000000100130c&quot;,&quot;link&quot;:&quot;xhsdiscover://topic/v2/620cd4214ce6550001a0fd2c&quot;,&quot;name&quot;:&quot;人工智能&quot;}\" contenteditable=\"false\">#人工智能<span class=\"content-hide\">[话题]#</span></a>&nbsp; <a class=\"tiptap-topic\" data-topic=\"{&quot;id&quot;:&quot;635679cb000000000100505c&quot;,&quot;link&quot;:&quot;xhsdiscover://topic/v2/635679cbe14d4b0001165870&quot;,&quot;name&quot;:&quot;AI工具&quot;}\" contenteditable=\"false\">#AI工具<span class=\"content-hide\">[话题]#</span></a>&nbsp; <a class=\"tiptap-topic\" data-topic=\"{&quot;id&quot;:&quot;64e1e61e0000000004001fad&quot;,&quot;link&quot;:&quot;xhsdiscover://topic/v2/64e1e61ed90d360001866a74&quot;,&quot;name&quot;:&quot;AIAgent&quot;}\" contenteditable=\"false\">#AIAgent<span class=\"content-hide\">[话题]#</span></a>&nbsp; <a class=\"tiptap-topic\" data-topic=\"{&quot;id&quot;:&quot;5fb7a728000000000101d771&quot;,&quot;link&quot;:&quot;xhsdiscover://topic/v2/5fb7a72819b9810001e362e4&quot;,&quot;name&quot;:&quot;认知差&quot;}\" contenteditable=\"false\">#认知差<span class=\"content-hide\">[话题]#</span></a>&nbsp; <a class=\"tiptap-topic\" data-topic=\"{&quot;id&quot;:&quot;6abf2785000000002103a168&quot;,&quot;link&quot;:&quot;xhsdiscover://topic/v2/6abf2785021e000000000001&quot;,&quot;name&quot;:&quot;Vibe知识大赏&quot;}\" contenteditable=\"false\">#Vibe知识大赏<span class=\"content-hide\">[话题]#</span></a>&nbsp;</p>",
+      "tags": [
+        {
+          "id": "620cd421000000000100130c",
+          "link": "xhsdiscover://topic/v2/620cd4214ce6550001a0fd2c",
+          "name": "人工智能"
+        },
+        {
+          "id": "635679cb000000000100505c",
+          "link": "xhsdiscover://topic/v2/635679cbe14d4b0001165870",
+          "name": "AI工具"
+        },
+        {
+          "id": "64e1e61e0000000004001fad",
+          "link": "xhsdiscover://topic/v2/64e1e61ed90d360001866a74",
+          "name": "AIAgent"
+        },
+        {
+          "id": "5fb7a728000000000101d771",
+          "link": "xhsdiscover://topic/v2/5fb7a72819b9810001e362e4",
+          "name": "认知差"
+        },
+        {
+          "id": "6abf2785000000002103a168",
+          "link": "xhsdiscover://topic/v2/6abf2785021e000000000001",
+          "name": "Vibe知识大赏"
+        }
+      ],
+      "tag_evidence": "5 tiptap-topic anchors with native topic IDs; not plain#",
+      "cover": "3x4-v4 full frame verified screenshot; native封面效果评估通过",
+      "native_media": "with-music filename uploadcomplete HD; duration150 readyState4",
+      "audio_ui": "muted=false; volumeUNKNOWN; direct listening NOT_PERFORMED",
+      "copyright_check": "NO_MUSIC_CHECK_UI_OBSERVED",
+      "ai_disclosure": "笔记含AI合成内容",
+      "draft_save": "暂存离开 failed Cannot click content inside a closed shadow root; retained live editor, no claim saved",
+      "duplicate_check": "published list no current title; existing2drafts interview and life guide only",
+      "screenshot": "执行截图-v2/xiaohongshu-audio.png"
+    },
+    {
+      "platform": "weixin_channels",
+      "account": "Eli-FDE historical; currentlogin UNKNOWN",
+      "state": "USER_MANUAL_REQUIRED_SITE_SAFETY",
+      "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+      "uploaded": false,
+      "url": "https://channels.weixin.qq.com/platform",
+      "tabId": null,
+      "title": "AI认知漏斗，你在第几层？",
+      "short_title": "AI认知漏斗你在第几层",
+      "body": "你眼里的AI，是聊天工具，还是能把一件事做完的助手？\n\n同样谈AI，判断却可能差很远。2分半，看懂Karpathy的「AI认知漏斗」。\n\n你最近交给AI的一件具体任务是什么？",
+      "tags": [
+        "人工智能",
+        "AI",
+        "AI应用",
+        "AIAgent",
+        "认知差"
+      ],
+      "tag_evidence": "NOT_PERFORMED_MANUAL_REQUIRED",
+      "cover": "4x3-v4 local only",
+      "copyright_check": "UNKNOWN",
+      "audio_ui": "UNKNOWN",
+      "manual_package": "视频号手动包-v2.md",
+      "blocker": "B002 existing site-safety; not requested again, no alternate channel",
+      "screenshot": null
+    }
+  ],
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "updated_at": "2026-10-20T13:08:07.204Z"
+}

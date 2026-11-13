@@ -1,0 +1,90 @@
+[
+  {
+    "cue": "question",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "contrast",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "attribution",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "barely_exposed",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "exposure_meaning",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "casual_free",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "casual_tasks",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "professional_frontier",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "agent_projects",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "internal_access",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "internal_collaboration",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "causes",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "small_task",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "large_task",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "scale_meaning",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "verifiable_domains",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "training_feedback",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "uneven_capability",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "access_tiers",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "access_meaning",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "synthesis",
+    "stable_drawn_texts": true
+  },
+  {
+    "cue": "closing",
+    "stable_drawn_texts": true
+  }
+]

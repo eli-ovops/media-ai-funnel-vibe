@@ -1,0 +1,98 @@
+[
+  {
+    "path": "/Users/USER/Downloads/微信视频2026-10-20_201157_614.mp4",
+    "exists": true,
+    "sha256": "b207dc5196bec1cfc1e866a2c727a83e6cc7300563b38a39a266bb7db5d49b95",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/src/FullEpisode.tsx",
+    "exists": true,
+    "sha256": "efda71c91e521a99be3b1624ba5752662a08a278b3363cf6006d5cf1b595bcd2",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/src/RepairScenes.tsx",
+    "exists": true,
+    "sha256": "b52bb4bafa215b223535e3607671116c67a8429d4d53239176ee9c7a98f4b72c",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/render.cjs",
+    "exists": true,
+    "sha256": "08aa856cde1f8c3cb69ed12924e4cd72e2cb06d1689e69de96587642a8fcdfd7",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/runtime.json",
+    "exists": true,
+    "sha256": "1b6b48f5ecb94b9ea86b5edc59b7f84e5274f34614fa32a8a040d32c79264f00",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/delivery-index.json",
+    "exists": true,
+    "sha256": "844545d594282f4cf4be9c1e0f7a77ce5ed6b8a55c3d22a9500b25385fd2acc0",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/screen-script.txt",
+    "exists": true,
+    "sha256": "2e2e6bffa893a1a89f9c6ed3de6705c988ec9a81204982b828a29b30570e1d7e",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/code-sfx-v1.wav",
+    "exists": true,
+    "sha256": "7a2c98b7c97d5817d1640caaa15713277a938cff62cbd95c03a024167a13bc0d",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/文件清单.json",
+    "exists": true,
+    "sha256": "102d23b650d5c6200d82467926b8913390fac3fe541716e441d044af53e48a61",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-本期发布收口索引.json",
+    "exists": true,
+    "sha256": "b35068b8d0bb42c0b7bda76324e8a1c255ce9d0a6f6eff8e1d388139fc4076ce",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/带音频版核验/带音乐高清版核验.json",
+    "exists": true,
+    "sha256": "80397cb404804ae31af2d89691a609fbe2ffa6003a456a77a79d0bb0afc16312",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/manifest.json",
+    "exists": true,
+    "sha256": "67733e730f18d9b97e918ef9d21f00ac393e09dbfff920f2c1eb79f1e48008dc",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-3x4-1080x1440-v4.png",
+    "exists": true,
+    "sha256": "1e5deba1aa45ec65c8281601f00ece7fc4d37399b43b601f4b821ad5c3b9de73",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-9x16-1080x1920-v4.png",
+    "exists": true,
+    "sha256": "3c803b0995e74e5209120b12e1ed86d1bd1d912bd932eadaf390c810ef182597",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-16x9-1920x1080-v4.png",
+    "exists": true,
+    "sha256": "b2f6db2ccd569306b74080c281b94dd92c1554db97c2a78bfcd1287ab4e63f2c",
+    "unchanged": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-4x3-1440x1080-v4.png",
+    "exists": true,
+    "sha256": "3f3cee255599ef844acdf7faeb2d6916a291bad47ea9f403c79af78ec2af7cd8",
+    "unchanged": true
+  }
+]

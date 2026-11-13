@@ -1,0 +1,13 @@
+{
+  "reason": "Preserve the exact item row geometry at pickup90s and return103.5s; replace generic moving pill with continuously scaled same checkbox row.",
+  "base_source_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/World-full-base.ts",
+  "base_source_sha256": "4729886afd38ef5a09227f596c764f814889b5449db591427987e756a5f3e01a",
+  "final_source_sha256": "c074fd836e7c018588eddb00e88348b259b04423f1ee6f40fedc89b47cb9b523",
+  "affected_frames": [
+    5400,
+    6210
+  ],
+  "end_exclusive": true,
+  "outside_range": "Only code under if(t>=90&&t<103.5) changes; no outside-range behavior change.",
+  "delivery_plan": "Finish in-flight base; render exactly810 corrected frames at60fps; trim/concat decoded frame ranges and encode complete9000-frame visual then mux SFX. Original base and patch retained."
+}

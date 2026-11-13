@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "full_9000_frame_decode": "PASS within full decode then temporal selection SSIM",
+  "protected_frames_compared": 8184,
+  "protected_ssim": 0.999811,
+  "reencoded_video_bytes_not_identical": true
+}

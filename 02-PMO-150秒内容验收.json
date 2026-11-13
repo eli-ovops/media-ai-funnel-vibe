@@ -1,0 +1,62 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage": "02",
+  "decision": "PASS",
+  "scope": "150sec screen text, reading timing and semantic object plan; not rendered audiovisual acceptance",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/屏幕文案.md",
+      "sha256": "3eb5cd48bee4fd4d9d34a7fc6d431009f7f1101c1149684bb630679c5f1256e7"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/阅读时间轴.md",
+      "sha256": "73eb611bb5c54afd08fad8908d8267d3b3e377b5ac0cd67c3877c7bb2cf9d8c0"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/交接说明.md",
+      "sha256": "91a2af10d03c96810ac6d28403845d6681f3709b060a125b7f0e20506942ee8a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/参考取舍与对象交接.md",
+      "sha256": "b3d7e802c24eda5e22ab6b6366b5c7d1402aa1e0829af5c04d1affd764bf5e22"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/content-package.json",
+      "sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/screen-copy-review.srt",
+      "sha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/校核结果.json",
+      "sha256": "38db49d5369d2cea90fc662a1d408e55488e0a826a2a75443362fc5c7c3b5f23"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/文件清单.json",
+      "sha256": "e9736078966d9c8f4101e2c258347e6826c67209ab992ccfc7295aaac6652e5d"
+    }
+  ],
+  "verified": {
+    "file_manifest_items": 8,
+    "file_mismatches": 0,
+    "seconds": 150,
+    "frames": 9000,
+    "cue_count": 22,
+    "timeline_contiguous": true,
+    "reading_windows_within_scenes": true,
+    "srt_text_matches_cue": true,
+    "source_group_meanings_preserved": true,
+    "original_todo_example_and_conditional_test_not_claimed_real_experiment": true,
+    "no_generic_disclaimer_tag": true,
+    "no_voice_or_tts": true
+  },
+  "known_downstream_work": [
+    "Accurate Fred/sy candidate selection and implementation by04",
+    "Actual font/layout/phone readability/motion/sound QA by04/05",
+    "Exact Nico music file/version and beat mapping still required before full audiovisual completion"
+  ],
+  "remaining_required_work": [],
+  "at": "2026-10-20T12:02:57.639563+08:00"
+}

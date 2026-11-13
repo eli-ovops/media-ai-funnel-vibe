@@ -1,0 +1,35 @@
+{
+  "base_video_sha256": "9a3ce43284d15afa47178e7e188d8baca3d17b2aedee5c64eab45a50ec3da537",
+  "unchanged_copies": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/src/kit.ts",
+      "base": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/src/kit.ts",
+      "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/content-package.json",
+      "base": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/content-package.json",
+      "sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/screen-copy-review.srt",
+      "base": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/screen-copy-review.srt",
+      "sha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/screen-script.txt",
+      "base": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/screen-script.txt",
+      "sha256": "516349a822525a5c23f55033ebac66f3d244b6f7c05797a2c9a07a99234f4de0",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/events.json",
+      "base": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/events.json",
+      "sha256": "e2747b2ccceb5eeddf1bec7b7c9737891494afa971b4bd2ef26eb0c0fc5432fe",
+      "matches": true
+    }
+  ]
+}

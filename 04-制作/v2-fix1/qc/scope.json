@@ -1,0 +1,37 @@
+{
+  "base_artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/ai-funnel-v2-review-150s.mp4",
+  "base_sha256": "9a3ce43284d15afa47178e7e188d8baca3d17b2aedee5c64eab45a50ec3da537",
+  "base_source_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+  "new_source_sha256": "3d9cf1b267641364602417fcdc7665162cec1b47bf79b45c4b00d30d15507d2d",
+  "ranges_frames": [
+    [
+      2400,
+      2430
+    ],
+    [
+      3240,
+      3270
+    ],
+    [
+      4080,
+      4110
+    ],
+    [
+      7020,
+      7050
+    ]
+  ],
+  "range_end_exclusive": true,
+  "rendered_patch_frames": 120,
+  "expanded_scope": false,
+  "method_Q1": "same number compacts at original upper position; travels at x32 gutter then expands in own empty row",
+  "method_Q2": "save center drops1510to1560, moves540to750, then returns1470; complete follows retained path",
+  "unchanged": [
+    "first group27–27.5",
+    "all stable text sizes and positions",
+    "all outside-range behavior",
+    "22 frozen cues and SRT",
+    "34 SFX; audio stream copied",
+    "150s/9000frames/native60fps"
+  ]
+}

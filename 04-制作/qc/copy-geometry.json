@@ -1,0 +1,702 @@
+{
+  "scope": "Font-file glyph geometry and source schedule, not perception acceptance",
+  "exact_copy_input_sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+  "line_count": 46,
+  "within_safe_area": true,
+  "max_right": 882,
+  "rows": [
+    {
+      "scene": "question",
+      "text": "同样谈AI",
+      "font": "MiSans-Medium.otf",
+      "size_px": 80,
+      "x": 90,
+      "y": 350,
+      "right_px": 405,
+      "bottom_px": 440,
+      "within_safe_area": true,
+      "reading_window": [
+        30,
+        348
+      ]
+    },
+    {
+      "scene": "question",
+      "text": "为何判断差这么远？",
+      "font": "MiSans-Medium.otf",
+      "size_px": 80,
+      "x": 90,
+      "y": 468.4,
+      "right_px": 810,
+      "bottom_px": 559.4,
+      "within_safe_area": true,
+      "reading_window": [
+        30,
+        348
+      ]
+    },
+    {
+      "scene": "contrast",
+      "text": "有人看到聊天框",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 594,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        390,
+        708
+      ]
+    },
+    {
+      "scene": "contrast",
+      "text": "有人看到复杂项目",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 666,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        390,
+        708
+      ]
+    },
+    {
+      "scene": "attribution",
+      "text": "AI认知漏斗",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 445,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        750,
+        1188
+      ]
+    },
+    {
+      "scene": "barely_exposed",
+      "text": "约60亿人",
+      "font": "MiSans-Heavy.otf",
+      "size_px": 112,
+      "x": 90,
+      "y": 330,
+      "right_px": 579,
+      "bottom_px": 456,
+      "within_safe_area": true,
+      "reading_window": [
+        1230,
+        1608
+      ]
+    },
+    {
+      "scene": "barely_exposed",
+      "text": "几乎未接触",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 489.03999999999996,
+      "right_px": 450,
+      "bottom_px": 570.04,
+      "within_safe_area": true,
+      "reading_window": [
+        1230,
+        1608
+      ]
+    },
+    {
+      "scene": "barely_exposed",
+      "text": "大语言模型",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 595.5999999999999,
+      "right_px": 450,
+      "bottom_px": 677.5999999999999,
+      "within_safe_area": true,
+      "reading_window": [
+        1230,
+        1608
+      ]
+    },
+    {
+      "scene": "exposure_meaning",
+      "text": "听过AI",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 301,
+      "bottom_px": 421,
+      "within_safe_area": true,
+      "reading_window": [
+        1650,
+        1968
+      ]
+    },
+    {
+      "scene": "exposure_meaning",
+      "text": "不等于亲手用过",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 594,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        1650,
+        1968
+      ]
+    },
+    {
+      "scene": "casual_free",
+      "text": "约10—20亿人",
+      "font": "MiSans-Heavy.otf",
+      "size_px": 112,
+      "x": 90,
+      "y": 330,
+      "right_px": 823,
+      "bottom_px": 456,
+      "within_safe_area": true,
+      "reading_window": [
+        2010,
+        2388
+      ]
+    },
+    {
+      "scene": "casual_free",
+      "text": "偶尔使用",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 489.03999999999996,
+      "right_px": 378,
+      "bottom_px": 571.04,
+      "within_safe_area": true,
+      "reading_window": [
+        2010,
+        2388
+      ]
+    },
+    {
+      "scene": "casual_free",
+      "text": "免费聊天产品",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 595.5999999999999,
+      "right_px": 522,
+      "bottom_px": 677.5999999999999,
+      "within_safe_area": true,
+      "reading_window": [
+        2010,
+        2388
+      ]
+    },
+    {
+      "scene": "casual_tasks",
+      "text": "查资料 · 改文字",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 600,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        2430,
+        2748
+      ]
+    },
+    {
+      "scene": "casual_tasks",
+      "text": "更像一个问答工具",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 666,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        2430,
+        2748
+      ]
+    },
+    {
+      "scene": "professional_frontier",
+      "text": "约2000万人",
+      "font": "MiSans-Heavy.otf",
+      "size_px": 112,
+      "x": 90,
+      "y": 330,
+      "right_px": 729,
+      "bottom_px": 457,
+      "within_safe_area": true,
+      "reading_window": [
+        2790,
+        3228
+      ]
+    },
+    {
+      "scene": "professional_frontier",
+      "text": "数学／编程中",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 489.03999999999996,
+      "right_px": 522,
+      "bottom_px": 571.04,
+      "within_safe_area": true,
+      "reading_window": [
+        2790,
+        3228
+      ]
+    },
+    {
+      "scene": "professional_frontier",
+      "text": "专业使用前沿大模型",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 595.5999999999999,
+      "right_px": 738,
+      "bottom_px": 677.5999999999999,
+      "within_safe_area": true,
+      "reading_window": [
+        2790,
+        3228
+      ]
+    },
+    {
+      "scene": "agent_projects",
+      "text": "比如：待办清单",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 594,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        3270,
+        3648
+      ]
+    },
+    {
+      "scene": "agent_projects",
+      "text": "新增 · 完成 · 保存",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 678,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        3270,
+        3648
+      ]
+    },
+    {
+      "scene": "internal_access",
+      "text": "约5000人",
+      "font": "MiSans-Heavy.otf",
+      "size_px": 112,
+      "x": 90,
+      "y": 330,
+      "right_px": 618,
+      "bottom_px": 456,
+      "within_safe_area": true,
+      "reading_window": [
+        3690,
+        4068
+      ]
+    },
+    {
+      "scene": "internal_access",
+      "text": "可访问",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 489.03999999999996,
+      "right_px": 306,
+      "bottom_px": 570.04,
+      "within_safe_area": true,
+      "reading_window": [
+        3690,
+        4068
+      ]
+    },
+    {
+      "scene": "internal_access",
+      "text": "内部前沿系统",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 595.5999999999999,
+      "right_px": 522,
+      "bottom_px": 677.5999999999999,
+      "within_safe_area": true,
+      "reading_window": [
+        3690,
+        4068
+      ]
+    },
+    {
+      "scene": "internal_collaboration",
+      "text": "多Agent协作",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 508,
+      "bottom_px": 433,
+      "within_safe_area": true,
+      "reading_window": [
+        4110,
+        4488
+      ]
+    },
+    {
+      "scene": "internal_collaboration",
+      "text": "分工，再汇合",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 522,
+      "bottom_px": 535.56,
+      "within_safe_area": true,
+      "reading_window": [
+        4110,
+        4488
+      ]
+    },
+    {
+      "scene": "causes",
+      "text": "差距来自哪里？",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 594,
+      "bottom_px": 421,
+      "within_safe_area": true,
+      "reading_window": [
+        4530,
+        4908
+      ]
+    },
+    {
+      "scene": "causes",
+      "text": "任务 · 领域 · 权限",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 678,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        4530,
+        4908
+      ]
+    },
+    {
+      "scene": "small_task",
+      "text": "只问：怎样做待办清单？",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 882,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        4950,
+        5328
+      ]
+    },
+    {
+      "scene": "small_task",
+      "text": "得到一段说明",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 522,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        4950,
+        5328
+      ]
+    },
+    {
+      "scene": "large_task",
+      "text": "新增事项 → 标记完成",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 780,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        5370,
+        5748
+      ]
+    },
+    {
+      "scene": "large_task",
+      "text": "保存后，再打开",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 594,
+      "bottom_px": 535.56,
+      "within_safe_area": true,
+      "reading_window": [
+        5370,
+        5748
+      ]
+    },
+    {
+      "scene": "scale_meaning",
+      "text": "把目标拆成步骤",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 594,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        5790,
+        6168
+      ]
+    },
+    {
+      "scene": "scale_meaning",
+      "text": "才知道要检查什么",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 666,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        5790,
+        6168
+      ]
+    },
+    {
+      "scene": "verifiable_domains",
+      "text": "检查保存功能",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 522,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        6210,
+        6588
+      ]
+    },
+    {
+      "scene": "verifiable_domains",
+      "text": "刷新后，事项还在吗？",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 810,
+      "bottom_px": 535.56,
+      "within_safe_area": true,
+      "reading_window": [
+        6210,
+        6588
+      ]
+    },
+    {
+      "scene": "training_feedback",
+      "text": "如果不在",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 378,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        6630,
+        7008
+      ]
+    },
+    {
+      "scene": "training_feedback",
+      "text": "就回到保存逻辑",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 594,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        6630,
+        7008
+      ]
+    },
+    {
+      "scene": "uneven_capability",
+      "text": "数学、编程",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 450,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        7050,
+        7428
+      ]
+    },
+    {
+      "scene": "uneven_capability",
+      "text": "结果更容易验证",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 594,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        7050,
+        7428
+      ]
+    },
+    {
+      "scene": "access_tiers",
+      "text": "免费版 · 付费版",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 600,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        7470,
+        7908
+      ]
+    },
+    {
+      "scene": "access_tiers",
+      "text": "内部系统",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 378,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        7470,
+        7908
+      ]
+    },
+    {
+      "scene": "access_meaning",
+      "text": "能接触哪些系统",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 594,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        7950,
+        8328
+      ]
+    },
+    {
+      "scene": "access_meaning",
+      "text": "取决于访问条件",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 594,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        7950,
+        8328
+      ]
+    },
+    {
+      "scene": "synthesis",
+      "text": "任务、领域、权限",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 340,
+      "right_px": 666,
+      "bottom_px": 422,
+      "within_safe_area": true,
+      "reading_window": [
+        8370,
+        8748
+      ]
+    },
+    {
+      "scene": "synthesis",
+      "text": "共同影响AI体验",
+      "font": "MiSans-Medium.otf",
+      "size_px": 72,
+      "x": 90,
+      "y": 446.56,
+      "right_px": 589,
+      "bottom_px": 528.56,
+      "within_safe_area": true,
+      "reading_window": [
+        8370,
+        8748
+      ]
+    },
+    {
+      "scene": "closing",
+      "text": "你交给AI什么任务？",
+      "font": "MiSans-Medium.otf",
+      "size_px": 80,
+      "x": 90,
+      "y": 350,
+      "right_px": 805,
+      "bottom_px": 441,
+      "within_safe_area": true,
+      "reading_window": [
+        8790,
+        9000
+      ]
+    }
+  ],
+  "reading_stability": "Canvas copy has no translation/scale; opacity is 1 from start+0.5 through end-0.2, closing through frame8999",
+  "no_population_geometry": "Counts are text only; graph population data is never imported",
+  "clock": "60fps frame/60; no frame skipping or time/random state"
+}

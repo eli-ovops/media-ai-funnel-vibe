@@ -1,0 +1,150 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/canvas-full-visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:02:30.00, start: 0.000000, bitrate: 795 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 790 kb/s, 60 fps, 60 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.3.100 libx264
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from '/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/canvas-labels-a-visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:00:06.00, start: 0.000000, bitrate: 402 kb/s
+  Stream #1:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 395 kb/s, 60 fps, 60 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.3.100 libx264
+Input #2, mov,mp4,m4a,3gp,3g2,mj2, from '/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/canvas-labels-b-visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:00:01.40, start: 0.000000, bitrate: 1704 kb/s
+  Stream #2:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 1693 kb/s, 60 fps, 60 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.3.100 libx264
+Input #3, mov,mp4,m4a,3gp,3g2,mj2, from '/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/canvas-labels-c-visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:00:07.60, start: 0.000000, bitrate: 1282 kb/s
+  Stream #3:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 1276 kb/s, 60 fps, 60 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.3.100 libx264
+Input #4, mov,mp4,m4a,3gp,3g2,mj2, from '/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/canvas-seam-b-visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.3.100
+  Duration: 00:00:01.80, start: 0.000000, bitrate: 1745 kb/s
+  Stream #4:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 1736 kb/s, 60 fps, 60 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.3.100 libx264
+Stream mapping:
+  Stream #0:0 (h264) -> split:default
+  Stream #1:0 (h264) -> setpts:default
+  Stream #2:0 (h264) -> setpts:default
+  Stream #3:0 (h264) -> setpts:default
+  Stream #4:0 (h264) -> setpts:default
+  concat:out:v0 -> Stream #0:0 (libx264)
+[libx264 @ 0x137a07b70] using SAR=1/1
+[libx264 @ 0x137a07b70] using cpu capabilities: ARMv8 NEON
+[libx264 @ 0x137a07b70] profile High, level 4.2, 4:2:0, 8-bit
+[libx264 @ 0x137a07b70] 264 - core 164 r3075 66a5bc1 - H.264/MPEG-4 AVC codec - Copyleft 2003-2021 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=15 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/canvas-final-visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf60.3.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 60 fps, 15360 tbn
+    Metadata:
+      encoder         : Lavc60.3.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=    0 fps=0.0 q=0.0 size=       0kB time=-577014:32:22.77 bitrate=  -0.0kbits/s speed=N/A    
+frame=  170 fps=0.0 q=26.0 size=       0kB time=00:00:02.80 bitrate=   0.1kbits/s speed=5.17x    
+frame=  393 fps=377 q=26.0 size=     512kB time=00:00:06.51 bitrate= 643.7kbits/s speed=6.25x    
+frame=  621 fps=402 q=26.0 size=     768kB time=00:00:10.33 bitrate= 608.9kbits/s speed=6.69x    
+frame=  839 fps=410 q=26.0 size=    1024kB time=00:00:13.95 bitrate= 601.4kbits/s speed=6.82x    
+frame= 1108 fps=434 q=26.0 size=    1280kB time=00:00:18.43 bitrate= 568.9kbits/s speed=7.23x    
+frame= 1347 fps=441 q=26.0 size=    1280kB time=00:00:22.40 bitrate= 468.1kbits/s speed=7.34x    
+frame= 1573 fps=442 q=26.0 size=    1536kB time=00:00:26.16 bitrate= 480.9kbits/s speed=7.36x    
+frame= 1705 fps=420 q=26.0 size=    1536kB time=00:00:28.36 bitrate= 443.6kbits/s speed=6.99x    
+frame= 1898 fps=416 q=26.0 size=    1792kB time=00:00:31.60 bitrate= 464.6kbits/s speed=6.93x    
+frame= 2029 fps=401 q=26.0 size=    2048kB time=00:00:33.76 bitrate= 496.9kbits/s speed=6.67x    
+frame= 2251 fps=404 q=26.0 size=    2048kB time=00:00:37.48 bitrate= 447.6kbits/s speed=6.73x    
+frame= 2469 fps=406 q=26.0 size=    2048kB time=00:00:41.11 bitrate= 408.0kbits/s speed=6.77x    
+frame= 2593 fps=394 q=26.0 size=    2304kB time=00:00:43.16 bitrate= 437.3kbits/s speed=6.56x    
+frame= 2696 fps=381 q=26.0 size=    2304kB time=00:00:44.90 bitrate= 420.4kbits/s speed=6.34x    
+frame= 2835 fps=374 q=26.0 size=    2560kB time=00:00:47.20 bitrate= 444.3kbits/s speed=6.22x    
+frame= 3023 fps=374 q=26.0 size=    2816kB time=00:00:50.36 bitrate= 458.0kbits/s speed=6.23x    
+frame= 3261 fps=380 q=26.0 size=    3072kB time=00:00:54.31 bitrate= 463.3kbits/s speed=6.33x    
+frame= 3471 fps=382 q=26.0 size=    3072kB time=00:00:57.80 bitrate= 435.4kbits/s speed=6.36x    
+frame= 3643 fps=380 q=26.0 size=    3328kB time=00:01:00.66 bitrate= 449.4kbits/s speed=6.32x    
+frame= 3863 fps=382 q=26.0 size=    3584kB time=00:01:04.35 bitrate= 456.3kbits/s speed=6.37x    
+frame= 4117 fps=388 q=26.0 size=    3840kB time=00:01:08.56 bitrate= 458.8kbits/s speed=6.47x    
+frame= 4370 fps=394 q=26.0 size=    4096kB time=00:01:12.80 bitrate= 460.9kbits/s speed=6.56x    
+frame= 4562 fps=393 q=26.0 size=    4352kB time=00:01:16.00 bitrate= 469.1kbits/s speed=6.55x    
+frame= 4739 fps=391 q=26.0 size=    4864kB time=00:01:18.95 bitrate= 504.7kbits/s speed=6.52x    
+frame= 4920 fps=390 q=26.0 size=    5120kB time=00:01:21.96 bitrate= 511.7kbits/s speed= 6.5x    
+frame= 5080 fps=387 q=26.0 size=    5888kB time=00:01:24.63 bitrate= 569.9kbits/s speed=6.45x    
+frame= 5238 fps=385 q=26.0 size=    6144kB time=00:01:27.25 bitrate= 576.9kbits/s speed=6.41x    
+frame= 5387 fps=381 q=26.0 size=    6656kB time=00:01:29.75 bitrate= 607.5kbits/s speed=6.35x    
+frame= 5553 fps=380 q=26.0 size=    7168kB time=00:01:32.53 bitrate= 634.6kbits/s speed=6.33x    
+frame= 5687 fps=376 q=26.0 size=    7424kB time=00:01:34.73 bitrate= 642.0kbits/s speed=6.26x    
+frame= 5834 fps=373 q=26.0 size=    8192kB time=00:01:37.18 bitrate= 690.5kbits/s speed=6.22x    
+frame= 6045 fps=375 q=26.0 size=    8192kB time=00:01:40.70 bitrate= 666.4kbits/s speed=6.24x    
+frame= 6250 fps=376 q=26.0 size=    8704kB time=00:01:44.13 bitrate= 684.7kbits/s speed=6.26x    
+frame= 6487 fps=378 q=26.0 size=    8960kB time=00:01:48.08 bitrate= 679.1kbits/s speed= 6.3x    
+frame= 6697 fps=379 q=26.0 size=    9216kB time=00:01:51.58 bitrate= 676.6kbits/s speed=6.32x    
+frame= 6874 fps=379 q=26.0 size=    9728kB time=00:01:54.53 bitrate= 695.8kbits/s speed=6.31x    
+frame= 7031 fps=377 q=26.0 size=   10240kB time=00:01:57.15 bitrate= 716.1kbits/s speed=6.28x    
+frame= 7247 fps=378 q=26.0 size=   10496kB time=00:02:00.75 bitrate= 712.1kbits/s speed= 6.3x    
+frame= 7446 fps=379 q=26.0 size=   10752kB time=00:02:04.06 bitrate= 709.9kbits/s speed=6.31x    
+frame= 7672 fps=381 q=26.0 size=   11264kB time=00:02:07.83 bitrate= 721.8kbits/s speed=6.34x    
+frame= 7890 fps=382 q=26.0 size=   11520kB time=00:02:11.46 bitrate= 717.8kbits/s speed=6.36x    
+frame= 8097 fps=383 q=26.0 size=   12032kB time=00:02:14.90 bitrate= 730.7kbits/s speed=6.37x    
+frame= 8322 fps=384 q=26.0 size=   12288kB time=00:02:18.66 bitrate= 725.9kbits/s speed= 6.4x    
+frame= 8479 fps=382 q=26.0 size=   13312kB time=00:02:21.28 bitrate= 771.9kbits/s speed=6.37x    
+frame= 8658 fps=382 q=26.0 size=   13824kB time=00:02:24.26 bitrate= 785.0kbits/s speed=6.36x    
+frame= 8901 fps=384 q=26.0 size=   14080kB time=00:02:28.31 bitrate= 777.7kbits/s speed= 6.4x    
+[mp4 @ 0x137a11050] Starting second pass: moving the moov atom to the beginning of the file
+frame= 9000 fps=385 q=-1.0 Lsize=   14358kB time=00:02:29.95 bitrate= 784.4kbits/s speed=6.42x    
+video:14253kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.736550%
+[libx264 @ 0x137a07b70] frame I:36    Avg QP: 8.60  size:104439
+[libx264 @ 0x137a07b70] frame P:2550  Avg QP:13.35  size:  2747
+[libx264 @ 0x137a07b70] frame B:6414  Avg QP:14.67  size:   597
+[libx264 @ 0x137a07b70] consecutive B-frames:  2.8%  5.6%  2.7% 88.9%
+[libx264 @ 0x137a07b70] mb I  I16..4: 21.2% 65.7% 13.1%
+[libx264 @ 0x137a07b70] mb P  I16..4:  0.3%  0.4%  0.2%  P16..4:  2.8%  0.8%  0.4%  0.0%  0.0%    skip:95.1%
+[libx264 @ 0x137a07b70] mb B  I16..4:  0.1%  0.1%  0.0%  B16..8:  1.3%  0.5%  0.0%  direct: 0.2%  skip:97.9%  L0:50.8% L1:44.4% BI: 4.8%
+[libx264 @ 0x137a07b70] 8x8 transform intra:54.8% inter:35.6%
+[libx264 @ 0x137a07b70] coded y,uvDC,uvAC intra: 46.3% 20.9% 14.8% inter: 0.3% 0.2% 0.0%
+[libx264 @ 0x137a07b70] i16 v,h,dc,p: 37% 49% 13%  1%
+[libx264 @ 0x137a07b70] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19% 36% 43%  0%  0%  0%  0%  0%  0%
+[libx264 @ 0x137a07b70] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 25% 31% 28%  3%  3%  2%  2%  2%  3%
+[libx264 @ 0x137a07b70] i8c dc,h,v,p: 77% 11% 11%  1%
+[libx264 @ 0x137a07b70] Weighted P-Frames: Y:0.2% UV:0.0%
+[libx264 @ 0x137a07b70] ref P L0: 70.9% 29.1%
+[libx264 @ 0x137a07b70] ref B L0: 77.2% 22.8%
+[libx264 @ 0x137a07b70] ref B L1: 93.2%  6.8%
+[libx264 @ 0x137a07b70] kb/s:778.37

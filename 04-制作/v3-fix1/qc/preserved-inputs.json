@@ -1,0 +1,32 @@
+[
+  {
+    "file": "src/kit.ts",
+    "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+    "matches_v3": true
+  },
+  {
+    "file": "chart-data.json",
+    "sha256": "52f952a9aea93e1a5b18bd516b74a40d28e8a02ccca9626e58a87d2e750e7300",
+    "matches_v3": true
+  },
+  {
+    "file": "content-package.json",
+    "sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+    "matches_v3": true
+  },
+  {
+    "file": "events.json",
+    "sha256": "e2747b2ccceb5eeddf1bec7b7c9737891494afa971b4bd2ef26eb0c0fc5432fe",
+    "matches_v3": true
+  },
+  {
+    "file": "screen-copy-review.srt",
+    "sha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8",
+    "matches_v3": true
+  },
+  {
+    "file": "screen-script.txt",
+    "sha256": "516349a822525a5c23f55033ebac66f3d244b6f7c05797a2c9a07a99234f4de0",
+    "matches_v3": true
+  }
+]

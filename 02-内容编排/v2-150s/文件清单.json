@@ -1,0 +1,64 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "02-screen-v2-150s",
+  "status": "WIP_SAVED_STOPPED_AT_REFERENCE_INPUT_BOUNDARY",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v2-150s/build_content_package.py",
+      "bytes": 14683,
+      "sha256": "8076c5f2b082da1a0c70cf805c59d9de2ebf0512009f04246a2a9cc1836bfd70",
+      "origin": "02 local150-second content revision",
+      "purpose": "PMO/04 handoff draft, deterministic time/read-budget verification",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v2-150s/content-package.json",
+      "bytes": 35927,
+      "sha256": "f8a6fa94dd448bc860e868b937a442d0e175c3a09f6436aa7d4e32199f991c27",
+      "origin": "02 local150-second content revision",
+      "purpose": "PMO/04 handoff draft, deterministic time/read-budget verification",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v2-150s/screen-copy-review.srt",
+      "bytes": 1604,
+      "sha256": "7858a2e712e3f8c16ac0f68c647c83e8a3e5dc3161352e1ad7db6d41c9d8a187",
+      "origin": "02 local150-second content revision",
+      "purpose": "PMO/04 handoff draft, deterministic time/read-budget verification",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v2-150s/交接说明.md",
+      "bytes": 6753,
+      "sha256": "42a50b80531db4455be6836a981468306427d46ae2c8c8c4e9d7acb95915a6aa",
+      "origin": "02 local150-second content revision",
+      "purpose": "PMO/04 handoff draft, deterministic time/read-budget verification",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v2-150s/屏幕文案.md",
+      "bytes": 1663,
+      "sha256": "56a77184afa7114c23d9bc7d771813a5fa1cd15b9e4b4a52dd5f088ebda5f08e",
+      "origin": "02 local150-second content revision",
+      "purpose": "PMO/04 handoff draft, deterministic time/read-budget verification",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v2-150s/校核结果.json",
+      "bytes": 1176,
+      "sha256": "3e7e75480fca1b084e1710ea92f14f6c221975cdc879d0d46845e692a633a882",
+      "origin": "02 local150-second content revision",
+      "purpose": "PMO/04 handoff draft, deterministic time/read-budget verification",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v2-150s/阅读时间轴.md",
+      "bytes": 16237,
+      "sha256": "c24110ba02a52105d53b0c23c875936e946498552750f121c4dc8d11831c46ed",
+      "origin": "02 local150-second content revision",
+      "purpose": "PMO/04 handoff draft, deterministic time/read-budget verification",
+      "retain": true
+    }
+  ],
+  "cleanup": "Retain all for ongoing150s revision; no deletion"
+}

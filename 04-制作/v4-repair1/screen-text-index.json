@@ -1,0 +1,484 @@
+{
+  "version": "v4-repair1-150s-r1",
+  "fps": 60,
+  "total_frames": 9000,
+  "semantics": [
+    {
+      "id": "question",
+      "start_sec": 0,
+      "end_sec": 6,
+      "start_frame": 0,
+      "end_frame_exclusive": 360,
+      "screen_lines": [
+        "同样谈 AI",
+        "为何判断差这么远？",
+        "问答",
+        "输入问题",
+        "一段回答"
+      ],
+      "original_screen_lines": [
+        "同样谈AI",
+        "为何判断差这么远？"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "contrast",
+      "start_sec": 6,
+      "end_sec": 12,
+      "start_frame": 360,
+      "end_frame_exclusive": 720,
+      "screen_lines": [
+        "有人看到聊天框",
+        "有人看到复杂项目",
+        "项目",
+        "拆任务",
+        "实际操作",
+        "检查结果"
+      ],
+      "original_screen_lines": [
+        "有人看到聊天框",
+        "有人看到复杂项目"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "attribution",
+      "start_sec": 12,
+      "end_sec": 16,
+      "start_frame": 720,
+      "end_frame_exclusive": 960,
+      "screen_lines": [
+        "AI 认知漏斗"
+      ],
+      "original_screen_lines": [
+        "AI认知漏斗"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "barely_exposed",
+      "start_sec": 16,
+      "end_sec": 23,
+      "start_frame": 960,
+      "end_frame_exclusive": 1380,
+      "screen_lines": [
+        "几乎未接触大语言模型",
+        "约75%",
+        "约60亿人",
+        "其余人群",
+        "25%"
+      ],
+      "original_screen_lines": [
+        "约60亿人",
+        "几乎未接触",
+        "大语言模型"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "exposure_meaning",
+      "start_sec": 23,
+      "end_sec": 28,
+      "start_frame": 1380,
+      "end_frame_exclusive": 1680,
+      "screen_lines": [
+        "听过 AI",
+        "≠ 亲手用过"
+      ],
+      "original_screen_lines": [
+        "听过AI",
+        "不等于亲手用过"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "casual_free",
+      "start_sec": 28,
+      "end_sec": 35,
+      "start_frame": 1680,
+      "end_frame_exclusive": 2100,
+      "screen_lines": [
+        "偶尔使用免费聊天产品",
+        "约20%",
+        "约10—20亿人",
+        "其余人群",
+        "80%"
+      ],
+      "original_screen_lines": [
+        "约10—20亿人",
+        "偶尔使用",
+        "免费聊天产品"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "casual_tasks",
+      "start_sec": 35,
+      "end_sec": 41,
+      "start_frame": 2100,
+      "end_frame_exclusive": 2460,
+      "screen_lines": [
+        "查资料 · 改文字",
+        "更像一个问答工具"
+      ],
+      "original_screen_lines": [
+        "查资料 · 改文字",
+        "更像一个问答工具"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "professional_frontier",
+      "start_sec": 41,
+      "end_sec": 53.4,
+      "start_frame": 2460,
+      "end_frame_exclusive": 3204,
+      "screen_lines": [
+        "数学／编程中专业使用前沿模型",
+        "约0.2%",
+        "约2000万人",
+        "同一总体",
+        "放大范围：总体的1%",
+        "0",
+        "1%"
+      ],
+      "original_screen_lines": [
+        "约2000万人",
+        "数学／编程中",
+        "专业使用前沿大模型"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "internal_access",
+      "start_sec": 53.4,
+      "end_sec": 59,
+      "start_frame": 3204,
+      "end_frame_exclusive": 3540,
+      "screen_lines": [
+        "可访问内部前沿系统",
+        "约0.00006%",
+        "约5000人",
+        "放大范围：总体的0.0001%",
+        "0.2% · 约2000万人",
+        "0",
+        "0.0001%"
+      ],
+      "original_screen_lines": [
+        "约5000人",
+        "可访问",
+        "内部前沿系统"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "agent_projects",
+      "start_sec": 59,
+      "end_sec": 70,
+      "start_frame": 3540,
+      "end_frame_exclusive": 4200,
+      "screen_lines": [
+        "检查保存功能",
+        "新增 · 完成 · 待办清单",
+        "保存后，再打开",
+        "一条事项",
+        "已完成",
+        "未保存",
+        "已保存",
+        "再打开：记录丢失",
+        "再打开：检查结果",
+        "回到保存逻辑",
+        "事项仍在",
+        "空"
+      ],
+      "original_screen_lines": [
+        "比如：待办清单",
+        "新增 · 完成 · 保存"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "internal_collaboration",
+      "start_sec": 70,
+      "end_sec": 78,
+      "start_frame": 4200,
+      "end_frame_exclusive": 4680,
+      "screen_lines": [
+        "做一份待办清单",
+        "多 Agent 协作",
+        "新增",
+        "完成",
+        "保存",
+        "01",
+        "02",
+        "03",
+        "Agent A",
+        "Agent B",
+        "Agent C",
+        "分工，再汇合",
+        "待办清单"
+      ],
+      "original_screen_lines": [
+        "多Agent协作",
+        "分工，再汇合"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "causes",
+      "start_sec": 78,
+      "end_sec": 84,
+      "start_frame": 4680,
+      "end_frame_exclusive": 5040,
+      "screen_lines": [
+        "差距来自哪里？",
+        "任务",
+        "领域",
+        "权限",
+        "从一个具体任务看"
+      ],
+      "original_screen_lines": [
+        "差距来自哪里？",
+        "任务 · 领域 · 权限"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows."
+    },
+    {
+      "id": "small_task",
+      "start_sec": 84,
+      "end_sec": 91,
+      "start_frame": 5040,
+      "end_frame_exclusive": 5460,
+      "screen_lines": [
+        "只问：怎样做待办清单？",
+        "待办清单",
+        "怎样做待办清单？",
+        "得到一段说明"
+      ],
+      "original_screen_lines": [
+        "只问：怎样做待办清单？",
+        "得到一段说明"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 84,
+      "baseline_end_sec": 91,
+      "adaptation": "沿用问答窗，清除说明后接具体事项"
+    },
+    {
+      "id": "large_task",
+      "start_sec": 91,
+      "end_sec": 98,
+      "start_frame": 5460,
+      "end_frame_exclusive": 5880,
+      "screen_lines": [
+        "新增一条具体事项",
+        "01",
+        "整理客户需求",
+        "标记为完成",
+        "新增",
+        "完成"
+      ],
+      "original_screen_lines": [
+        "新增事项 → 标记完成",
+        "保存后，再打开"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 91,
+      "baseline_end_sec": 98,
+      "adaptation": "同一01事项逐字新增和打勾"
+    },
+    {
+      "id": "scale_meaning",
+      "start_sec": 98,
+      "end_sec": 105,
+      "start_frame": 5880,
+      "end_frame_exclusive": 6300,
+      "screen_lines": [
+        "保存这条记录",
+        "关掉，再打开",
+        "保存的记录",
+        "保存",
+        "重开",
+        "核对"
+      ],
+      "original_screen_lines": [
+        "把目标拆成步骤",
+        "才知道要检查什么"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 98,
+      "baseline_end_sec": 105,
+      "adaptation": "保存01状态，关窗，再打开；StepChain只作导航"
+    },
+    {
+      "id": "verifiable_domains",
+      "start_sec": 105,
+      "end_sec": 111,
+      "start_frame": 6300,
+      "end_frame_exclusive": 6660,
+      "screen_lines": [
+        "核对内容和完成状态",
+        "重开后的记录",
+        "01",
+        "整理客户需求"
+      ],
+      "original_screen_lines": [
+        "检查保存功能",
+        "刷新后，事项还在吗？"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 105,
+      "baseline_end_sec": 112,
+      "adaptation": "逐项检查同一事项文字和勾选状态"
+    },
+    {
+      "id": "training_feedback",
+      "start_sec": 111,
+      "end_sec": 125,
+      "start_frame": 6660,
+      "end_frame_exclusive": 7500,
+      "screen_lines": [
+        "如果这条记录不在",
+        "如果记录丢失",
+        "回到保存逻辑",
+        "再次打开，核对同一条",
+        "01 · 整理客户需求",
+        "还在吗？完成状态保留了吗？"
+      ],
+      "original_screen_lines": [
+        "如果不在",
+        "就回到保存逻辑"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 112,
+      "baseline_end_sec": 119,
+      "adaptation": "如果记录丢失，回保存逻辑，再核对同一事项；尾部退场"
+    },
+    {
+      "id": "uneven_capability",
+      "start_sec": 125,
+      "end_sec": 132,
+      "start_frame": 7500,
+      "end_frame_exclusive": 7920,
+      "screen_lines": [
+        "数学、编程",
+        "数学",
+        "编程",
+        "核算结果",
+        "检查运行",
+        "结果更容易验证"
+      ],
+      "original_screen_lines": [
+        "数学、编程",
+        "结果更容易验证"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 119,
+      "baseline_end_sec": 126,
+      "adaptation": "数学/编程延后6秒，标题在旧窗退出时单独接入"
+    },
+    {
+      "id": "access_tiers",
+      "start_sec": 132,
+      "end_sec": 137.6,
+      "start_frame": 7920,
+      "end_frame_exclusive": 8256,
+      "screen_lines": [
+        "能接触哪些系统",
+        "访问条件",
+        "免费版",
+        "付费版",
+        "内部系统",
+        "公开入口",
+        "订阅入口",
+        "内部授权"
+      ],
+      "original_screen_lines": [
+        "免费版 · 付费版",
+        "内部系统"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 126,
+      "baseline_end_sec": 133.5,
+      "adaptation": "三种条件按原组件cue建立"
+    },
+    {
+      "id": "access_meaning",
+      "start_sec": 137.6,
+      "end_sec": 141,
+      "start_frame": 8256,
+      "end_frame_exclusive": 8460,
+      "screen_lines": [
+        "访问条件",
+        "免费版 / 公开入口",
+        "付费版 / 订阅入口",
+        "内部系统 / 内部授权"
+      ],
+      "original_screen_lines": [
+        "能接触哪些系统",
+        "取决于访问条件"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 133.5,
+      "baseline_end_sec": 141,
+      "adaptation": "三分支阅读至140.1后退出；删除重复结论"
+    },
+    {
+      "id": "synthesis",
+      "start_sec": 141,
+      "end_sec": 147,
+      "start_frame": 8460,
+      "end_frame_exclusive": 8820,
+      "screen_lines": [
+        "差距从这里产生",
+        "任务",
+        "领域",
+        "权限",
+        "共同影响 AI 体验"
+      ],
+      "original_screen_lines": [
+        "任务、领域、权限",
+        "共同影响AI体验"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 141,
+      "baseline_end_sec": 147,
+      "adaptation": "旧树退离后从新因素下缘连线；因素缩入唯一结论载体"
+    },
+    {
+      "id": "closing",
+      "start_sec": 147,
+      "end_sec": 150,
+      "start_frame": 8820,
+      "end_frame_exclusive": 9000,
+      "screen_lines": [
+        "你交给 AI 什么任务？"
+      ],
+      "original_screen_lines": [
+        "你交给AI什么任务？"
+      ],
+      "scope": "Semantic beat window; individual lines appear at component cues. Retained text may overlap adjacent beat windows.",
+      "baseline_start_sec": 147,
+      "baseline_end_sec": 150,
+      "adaptation": "仅结论载体换成最终问题"
+    }
+  ],
+  "count": 22,
+  "caption_layer": "One visual text layer; no extra burned SRT",
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/src/FullEpisode.tsx",
+      "sha256": "efda71c91e521a99be3b1624ba5752662a08a278b3363cf6006d5cf1b595bcd2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/src/Magnified.tsx",
+      "sha256": "6ccdc1feb694fda8dd2f0604838696913e49e9d4b926460e806792e85fd31ac9"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/src/RepairScenes.tsx",
+      "sha256": "b52bb4bafa215b223535e3607671116c67a8429d4d53239176ee9c7a98f4b72c"
+    }
+  ],
+  "exact_line_timing": "Source cues; semantic windows not OCR timestamps. Access meaning is encoded in existing tree rather than repeated conclusion."
+}

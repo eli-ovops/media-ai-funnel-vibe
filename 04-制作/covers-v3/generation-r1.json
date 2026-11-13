@@ -1,0 +1,9 @@
+{
+  "prompt": "Edit input1 ONLY: a precise portrait reposition, not a redesign. Keep 9:16 canvas, target1080x1920. The hair is too close to the bottom black text. Move the ENTIRE man down by approximately90 pixels on the1080x1920 canvas; reduce him slightly if needed. Preserve full hair without erasing/cropping any tips. The topmost hair must start BELOW y=990, while the last text row remains ending around y=890. Thus a continuous WHITE GAP around80-100px must exist between ALL headline strokes and the topmost hair; minimum40px is mandatory. Keep the entire headline exactly unchanged in text, typography, position and color: purple「你还在」「跟AI聊天」and black「别人已经」「让它干活了」. Keep the purple funnel in its existing position/size. Keep white background. Input2 is the original identity portrait: preserve this man's recognizable face, silver round glasses, natural photographic texture. Keep brown blazer and white T-shirt. His lower torso/arms may extend naturally beyond bottom. No patch covering hair, no new text, no other layout changes. A clear visible WHITE horizontal band separates title from head.",
+  "source": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-f0f83edc-8613-41d6-b477-6c7c458788c4.png",
+  "inputs": [
+    "cover-9x16-1080x1920-v3.png",
+    "/Volumes/EXTERNAL/自媒体/人物形象与封面资产-20261009/外部艺术照精选-20261009/入选/01-主形象-图2-棕色西装.png"
+  ],
+  "method": "built-in imagegen targeted edit; one call"
+}

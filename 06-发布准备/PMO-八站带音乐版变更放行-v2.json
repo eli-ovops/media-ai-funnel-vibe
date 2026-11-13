@@ -1,0 +1,26 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage": "06",
+  "decision": "REVISE_NONPUBLIC_PREPARATION_INPUTS_ONLY",
+  "user_authority": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/用户八站带音乐准备授权-v2.json",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/六站执行汇总-v1.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/六站执行回执-v1.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/平台实际适配-v1.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/原生字段回读-v1.json"
+  ],
+  "previous_result": "PARTIAL_SILENT_DRAFTS; LinkedIn prior draft retained",
+  "preserved": "01-05 unchanged visual evidence; video packet hash unchanged",
+  "new_audio": "User-provided AAC copied without re-encoding, volume or timing change; packet hash identical",
+  "technical_check": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/带音频版核验/带音乐高清版核验.json",
+  "continuous_av_and_direct_hearing": "NOT_PERFORMED",
+  "picture_samples_viewed_seconds": [
+    5,
+    75,
+    147
+  ],
+  "full_decode_errors": 0,
+  "public_release_authorized": false
+}
+

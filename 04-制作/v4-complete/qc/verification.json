@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "scope": "Technical delivery and extracted samples only",
+  "checks": {
+    "width": true,
+    "height": true,
+    "native60": true,
+    "frames9000": true,
+    "duration150": true,
+    "silent": true,
+    "completeDecode": true
+  },
+  "video": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/output/ai-funnel-v4-complete-150s-r5.mp4",
+    "sha256": "6ac2862d8b34a813ff471ff13d14a572bb77f35e0c5df78e1267bcaab343cbd0",
+    "bytes": 9291858,
+    "duration": "150.000000",
+    "frames": "9000",
+    "width": 1080,
+    "height": 1920,
+    "fps": "60/1",
+    "audioStreams": 0
+  },
+  "extractedFrameCount": 65,
+  "continuousVisualReview": "NOT_PERFORMED",
+  "directAudioReview": "NOT_APPLICABLE_NO_AUDIO_STREAM",
+  "aestheticFinalAcceptance": "PENDING_PMO_AND_05"
+}

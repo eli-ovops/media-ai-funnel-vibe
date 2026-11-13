@@ -1,0 +1,650 @@
+{
+  "sha256": "98f5e6328713e2f8bb4ad85c10f74f8957e931a4a27c064d243ed0edb188ca4d",
+  "verdict": "FAIL_TARGETED_REPAIR_REQUIRED",
+  "issues": [
+    {
+      "id": "V3-Q1",
+      "type": "ambiguous_percentage_label_placement",
+      "range_seconds": [
+        23,
+        27
+      ],
+      "proof_frames": [
+        1410,
+        1440,
+        1619
+      ],
+      "minimal_fix": "attach remainder label to upper-left gray25% region; retain75% geometry"
+    },
+    {
+      "id": "V3-Q2",
+      "type": "active_permission_route_endpoint_clipped",
+      "range_seconds": [
+        132,
+        139
+      ],
+      "proof_frames": [
+        7980,
+        8130,
+        8160
+      ],
+      "minimal_fix": "keep selector, highlighted route and H destination inside viewport during explanation; preserve adjacent camera handoffs"
+    }
+  ],
+  "sampled_frames": 163,
+  "contact_sheets_actually_viewed": 28,
+  "native_frames_actually_viewed": [
+    1410,
+    2940,
+    3900,
+    5688,
+    7218,
+    7980,
+    8160
+  ],
+  "beats": [
+    {
+      "id": "question",
+      "range": [
+        0,
+        6
+      ],
+      "midpoint": 180,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        0,
+        1,
+        180,
+        240,
+        359
+      ]
+    },
+    {
+      "id": "contrast",
+      "range": [
+        6,
+        12
+      ],
+      "midpoint": 540,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        378,
+        408,
+        540,
+        648,
+        684,
+        719
+      ]
+    },
+    {
+      "id": "attribution",
+      "range": [
+        12,
+        20
+      ],
+      "midpoint": 960,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        720,
+        738,
+        762,
+        768,
+        810,
+        870,
+        930,
+        960,
+        1199
+      ]
+    },
+    {
+      "id": "barely_exposed",
+      "range": [
+        20,
+        27
+      ],
+      "midpoint": 1410,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        1218,
+        1230,
+        1248,
+        1410,
+        1440,
+        1619
+      ]
+    },
+    {
+      "id": "exposure_meaning",
+      "range": [
+        27,
+        33
+      ],
+      "midpoint": 1800,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        1638,
+        1668,
+        1710,
+        1800,
+        1950,
+        1979
+      ]
+    },
+    {
+      "id": "casual_free",
+      "range": [
+        33,
+        40
+      ],
+      "midpoint": 2190,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        1980,
+        1998,
+        2010,
+        2028,
+        2190,
+        2399
+      ]
+    },
+    {
+      "id": "casual_tasks",
+      "range": [
+        40,
+        46
+      ],
+      "midpoint": 2580,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        2418,
+        2448,
+        2580,
+        2730,
+        2759
+      ]
+    },
+    {
+      "id": "professional_frontier",
+      "range": [
+        46,
+        54
+      ],
+      "midpoint": 3000,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        2772,
+        2778,
+        2790,
+        2808,
+        2820,
+        2844,
+        2880,
+        2940,
+        3000,
+        3239
+      ]
+    },
+    {
+      "id": "agent_projects",
+      "range": [
+        54,
+        61
+      ],
+      "midpoint": 3450,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        3258,
+        3288,
+        3450,
+        3659
+      ]
+    },
+    {
+      "id": "internal_access",
+      "range": [
+        61,
+        68
+      ],
+      "midpoint": 3870,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        3678,
+        3690,
+        3708,
+        3720,
+        3780,
+        3840,
+        3870,
+        3900,
+        4079
+      ]
+    },
+    {
+      "id": "internal_collaboration",
+      "range": [
+        68,
+        75
+      ],
+      "midpoint": 4290,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        4098,
+        4128,
+        4290,
+        4499
+      ]
+    },
+    {
+      "id": "causes",
+      "range": [
+        75,
+        82
+      ],
+      "midpoint": 4710,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        4500,
+        4501,
+        4518,
+        4530,
+        4548,
+        4560,
+        4590,
+        4620,
+        4644,
+        4680,
+        4710,
+        4919
+      ]
+    },
+    {
+      "id": "small_task",
+      "range": [
+        82,
+        89
+      ],
+      "midpoint": 5130,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        4938,
+        4968,
+        5130,
+        5280,
+        5339
+      ]
+    },
+    {
+      "id": "large_task",
+      "range": [
+        89,
+        96
+      ],
+      "midpoint": 5550,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        5340,
+        5358,
+        5370,
+        5388,
+        5412,
+        5448,
+        5502,
+        5550,
+        5592,
+        5646,
+        5688,
+        5718,
+        5736,
+        5759
+      ]
+    },
+    {
+      "id": "scale_meaning",
+      "range": [
+        96,
+        103
+      ],
+      "midpoint": 5970,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        5778,
+        5808,
+        5850,
+        5940,
+        5970,
+        6030,
+        6179
+      ]
+    },
+    {
+      "id": "verifiable_domains",
+      "range": [
+        103,
+        110
+      ],
+      "midpoint": 6390,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        6198,
+        6210,
+        6228,
+        6240,
+        6276,
+        6390,
+        6599
+      ]
+    },
+    {
+      "id": "training_feedback",
+      "range": [
+        110,
+        117
+      ],
+      "midpoint": 6810,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        6618,
+        6630,
+        6648,
+        6708,
+        6780,
+        6810,
+        6828,
+        6888,
+        6948,
+        6996,
+        7019
+      ]
+    },
+    {
+      "id": "uneven_capability",
+      "range": [
+        117,
+        124
+      ],
+      "midpoint": 7230,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        7038,
+        7062,
+        7068,
+        7104,
+        7158,
+        7218,
+        7230,
+        7439
+      ]
+    },
+    {
+      "id": "access_tiers",
+      "range": [
+        124,
+        132
+      ],
+      "midpoint": 7680,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        7458,
+        7488,
+        7500,
+        7668,
+        7680,
+        7692,
+        7722,
+        7848,
+        7872,
+        7919
+      ]
+    },
+    {
+      "id": "access_meaning",
+      "range": [
+        132,
+        139
+      ],
+      "midpoint": 8130,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        7938,
+        7968,
+        7980,
+        8130,
+        8160,
+        8339
+      ]
+    },
+    {
+      "id": "synthesis",
+      "range": [
+        139,
+        146
+      ],
+      "midpoint": 8550,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        8358,
+        8370,
+        8388,
+        8460,
+        8550,
+        8580,
+        8640,
+        8759
+      ]
+    },
+    {
+      "id": "closing",
+      "range": [
+        146,
+        150
+      ],
+      "midpoint": 8880,
+      "midpoint_viewed": true,
+      "viewed_frames": [
+        8778,
+        8808,
+        8820,
+        8880,
+        8999
+      ]
+    }
+  ],
+  "seams": [
+    {
+      "second": 6,
+      "frames": [
+        359,
+        378,
+        408
+      ],
+      "covered": true
+    },
+    {
+      "second": 12,
+      "frames": [
+        719,
+        738,
+        768
+      ],
+      "covered": true
+    },
+    {
+      "second": 20,
+      "frames": [
+        1199,
+        1218,
+        1248
+      ],
+      "covered": true
+    },
+    {
+      "second": 27,
+      "frames": [
+        1619,
+        1638,
+        1668
+      ],
+      "covered": true
+    },
+    {
+      "second": 33,
+      "frames": [
+        1979,
+        1998,
+        2028
+      ],
+      "covered": true
+    },
+    {
+      "second": 40,
+      "frames": [
+        2399,
+        2418,
+        2448
+      ],
+      "covered": true
+    },
+    {
+      "second": 46,
+      "frames": [
+        2759,
+        2778,
+        2808
+      ],
+      "covered": true
+    },
+    {
+      "second": 54,
+      "frames": [
+        3239,
+        3258,
+        3288
+      ],
+      "covered": true
+    },
+    {
+      "second": 61,
+      "frames": [
+        3659,
+        3678,
+        3708
+      ],
+      "covered": true
+    },
+    {
+      "second": 68,
+      "frames": [
+        4079,
+        4098,
+        4128
+      ],
+      "covered": true
+    },
+    {
+      "second": 75,
+      "frames": [
+        4499,
+        4518,
+        4548
+      ],
+      "covered": true
+    },
+    {
+      "second": 82,
+      "frames": [
+        4919,
+        4938,
+        4968
+      ],
+      "covered": true
+    },
+    {
+      "second": 89,
+      "frames": [
+        5339,
+        5358,
+        5388
+      ],
+      "covered": true
+    },
+    {
+      "second": 96,
+      "frames": [
+        5759,
+        5778,
+        5808
+      ],
+      "covered": true
+    },
+    {
+      "second": 103,
+      "frames": [
+        6179,
+        6198,
+        6228
+      ],
+      "covered": true
+    },
+    {
+      "second": 110,
+      "frames": [
+        6599,
+        6618,
+        6648
+      ],
+      "covered": true
+    },
+    {
+      "second": 117,
+      "frames": [
+        7019,
+        7038,
+        7068
+      ],
+      "covered": true
+    },
+    {
+      "second": 124,
+      "frames": [
+        7439,
+        7458,
+        7488
+      ],
+      "covered": true
+    },
+    {
+      "second": 132,
+      "frames": [
+        7919,
+        7938,
+        7968
+      ],
+      "covered": true
+    },
+    {
+      "second": 139,
+      "frames": [
+        8339,
+        8358,
+        8388
+      ],
+      "covered": true
+    },
+    {
+      "second": 146,
+      "frames": [
+        8759,
+        8778,
+        8808
+      ],
+      "covered": true
+    }
+  ],
+  "continuous_normal_speed": "UNKNOWN_NOT_PERFORMED",
+  "direct_hearing": "UNKNOWN_NOT_PERFORMED",
+  "BGM": "NOT_REQUIRED_USER_ADDS",
+  "user_review": "PENDING",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN"
+}

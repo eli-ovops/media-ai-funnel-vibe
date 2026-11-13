@@ -1,0 +1,45 @@
+{
+  "status": "FULL_CANDIDATE_PENDING_PMO_05",
+  "version": "r5",
+  "video": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/output/ai-funnel-v4-complete-150s-r5.mp4",
+    "sha256": "6ac2862d8b34a813ff471ff13d14a572bb77f35e0c5df78e1267bcaab343cbd0",
+    "bytes": 9291858,
+    "duration": "150.000000",
+    "frames": "9000",
+    "width": 1080,
+    "height": 1920,
+    "fps": "60/1",
+    "audioStreams": 0
+  },
+  "manifest": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/Manifest.json",
+    "sha256": "b582f161627c8329e59334fb8cf435fa1b8e16f7fa28b68c87231b86cb63c346"
+  },
+  "sourceMap": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/source-map.json",
+    "sha256": "8a598b55550837ade511ec46f8a7ca376c64ff70db05526f266933c6528f86ec"
+  },
+  "screenText": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/screen-text-index.json",
+    "sha256": "0726ee57af4744708c176b732d51bb312255ed90aed85b40f4fd2ea0bcb21b58"
+  },
+  "qc": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/verification.json",
+    "sha256": "b5a43412fbf57db1f599f37d0e8da2d560a8eb36780b7ac8dad8b19bc81778e6"
+  },
+  "visualReview": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/visual-review.md",
+    "sha256": "6683bff7098555f9bbb1704eb32d80b55a293ce04027c857781c454a0cd23954"
+  },
+  "motionReview": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/motion-review.md",
+    "sha256": "fe8f52c065809b297b00ef5127d590276037bd9c7e3c3234975c64cb16f952c7"
+  },
+  "covers": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/covers-index.json",
+    "sha256": "7b08c8a2f96345aaf9e75c3d8e06dba337238dcbe26a7fbde4a7c578ccaee237"
+  },
+  "reportStatus": "TOOL_SEND_RETURNED_SUCCESS; PMO_RECEIVED_UNKNOWN; PMO_ACCEPTANCE_PENDING",
+  "reportReceipt": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/pmo-report-receipt.json"
+}

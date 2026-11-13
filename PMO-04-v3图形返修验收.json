@@ -1,0 +1,106 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "stage": "04",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "Current v3-fix1 graph-based full visual rework and user-directed badge removal ready for sole05 independent visual QA; not user approval or continuous audiovisual PASS.",
+  "at": "2026-10-20T14:48:58.298846+08:00",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/output/ai-funnel-v3-fix1-review-150s.mp4",
+  "sha256": "98f5e6328713e2f8bb4ad85c10f74f8957e931a4a27c064d243ed0edb188ca4d",
+  "files_verified": {
+    "v3_regular_files": 554,
+    "v3_frozen_inputs_at_receipt": 18,
+    "current_regular_files": 61,
+    "current_symlinks_target_only_not_traversed": 2,
+    "mismatches_after_type_correct_verification": []
+  },
+  "actual_images_viewed": {
+    "v3_export_contact_sheets": [
+      1,
+      3,
+      5,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16
+    ],
+    "v3_presented_samples": 73,
+    "current_export_contact_sheets": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "current_presented_samples": 19,
+    "current_native_frames": [
+      1440,
+      3000,
+      3900,
+      7038,
+      7722
+    ]
+  },
+  "observations": [
+    "Main pie/donut now occupies the screen; approximate75% and20% are independently shown rather than four equal text stations.",
+    "Small true arcs unroll into explicitly labeled1% and0.0001% overall-population windows; settled144/720 and432/720 widths match source fractions. No four-way100percent normalization.",
+    "The second half visibly follows the same task item through creation,check,storage,reopen,feedback and path selection. This is a substantive graph/process change from v2; subjective continuous rhythm remains unverified.",
+    "Current samples no longer show source-name/estimate/opinion or four-way disclaimer badges, while approx counts and axes remain. No visible rectangular repair edge in viewed contact/native samples.",
+    "Paper/chat/storage are still stylized illustrations; no claim they prove a real product test or match all reference aesthetics."
+  ],
+  "technical_evidence_accepted": {
+    "duration": 150,
+    "frames": 9000,
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "native_fps": "60/1",
+    "audio_duration": 150,
+    "sample_rate": 48000,
+    "SSIM_all_frames": 0.999733,
+    "decode_reused_existing_raw_log": true,
+    "new_source_background_roi_proof_frames": 9000,
+    "export_roi_frames": 9000,
+    "max_luma_difference": 4,
+    "AAC_packet_hash": "c68872fe3304672124928e58a082cd8ebebb83e7fa55b7004af8602fa39be693"
+  },
+  "source_implementation": {
+    "T15f_source": "19370051e5c1360af7a3f89040818ee8159e3bc689ff07fea6ab12515c7f5404",
+    "current_World_sha256": "74f1795b0a63de29415bce78e591181dd9606d2b57a47f69c2a4a7250db1fda6",
+    "source_map_current_paths_checked": true
+  },
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/README.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/delivery.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/file-inventory.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/source-map.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/chart-data.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/screen-text-index.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/qc/visual-review.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/qc/source-diff.txt",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/qc/static-background-proof.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/qc/export-background-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/qc/audio-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/qc/full-decode.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/qc/ffprobe.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/qc/outside-ssim.txt",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/qc/preserved-inputs.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/qc/data-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/qc/delivery-full-decode.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/qc/delivery-audio-copy-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/qc/library-keyframes-localpaths.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/qc/delivery-frame-index.json"
+  ],
+  "remaining_required_work": [],
+  "outside_this_04_handoff_scope": [
+    "Independent05 check current whole visual rework",
+    "PMO audit05 originals and complete current-file delivery",
+    "User final review and any publication decision"
+  ],
+  "normal_speed_continuous_visual": "NOT_PERFORMED",
+  "direct_SFX_hearing": "NOT_PERFORMED",
+  "user_final_review": "PENDING",
+  "BGM_required": false
+}

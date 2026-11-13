@@ -1,0 +1,80 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-20T13:44:19.847212+08:00",
+  "decision": "PASS_INTERNAL_SCOPED_QA_READY_FOR_USER_REVIEW",
+  "scope": "Current complete no-BGM video delivery; inherited unchanged-range v2 review plus current Q1/Q2 repairs. Not formal user-final stage05 approval or continuous audiovisual PASS.",
+  "report_received_via_actual_tool_message": true,
+  "report": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2-fix1/局部复核报告.md",
+    "sha256": "544ce59dbebde7997e66f9768fe2a3f2035b0a1cbdb27463c8096545419938f5"
+  },
+  "verdict": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2-fix1/复核结论.json",
+    "sha256": "d0e6cfcbd4ed8a4873e5d436aab6ed3ea6f4296dba97994ca5b4278abad78e75"
+  },
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/ai-funnel-v2-fix1-internal-150s.mp4",
+  "sha256": "758ab4d64be1aedbafdb4d1c444b34a39de79f7004581bb3f3b9a9882f282e63",
+  "frozen_inputs_verified": 13,
+  "input_hash_mismatches": [],
+  "qa_image_hashes_verified": 64,
+  "pmo_originals_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2-fix1/局部复核报告.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2-fix1/复核结论.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2-fix1/PMO发送回执.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-04-v2fix1定向验收.json"
+  ],
+  "pmo_previous_actual_views": {
+    "current_patch_frames": 64,
+    "contact_sheets": 8,
+    "native_frames": [
+      2421,
+      3255,
+      4095,
+      7035,
+      4107
+    ]
+  },
+  "pmo_new_native_image_viewed": 7032,
+  "independent05_actual_coverage": {
+    "frames": 64,
+    "contact_sheets": 8,
+    "native_frames": [
+      2421,
+      3255,
+      4095,
+      7035,
+      7032
+    ],
+    "ranges": [
+      [
+        39.8,
+        40.7
+      ],
+      [
+        53.8,
+        54.7
+      ],
+      [
+        67.8,
+        68.7
+      ],
+      [
+        116.8,
+        117.7
+      ]
+    ]
+  },
+  "Q1": "CLOSED_IN_REVIEWED_SCOPE",
+  "Q2": "CLOSED_IN_REVIEWED_SCOPE",
+  "new_material_defects_in_reviewed_scope": [],
+  "technical_decode": "Existing current raw 9000-frame completion and zero-byte errors accepted; not rerun.",
+  "audio": "34 code SFX retained; identical AAC packet stream to v2; BGM not required by current user decision.",
+  "normal_speed_continuous_visual": "NOT_PERFORMED",
+  "direct_sfx_hearing": "NOT_PERFORMED",
+  "known_limit": "Q1 movement uses a tiny 6px carrier briefly; primary numbers remain readable before movement and after docking. No claim full-time number legibility or full normal-speed viewing.",
+  "production_delivery_remaining_required_work": [],
+  "user_final_review": "PENDING",
+  "publication": "PENDING_NOT_AUTHORIZED",
+  "formal_stage05_user_approval_written": false
+}

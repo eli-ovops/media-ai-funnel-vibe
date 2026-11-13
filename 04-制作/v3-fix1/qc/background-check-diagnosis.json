@@ -1,0 +1,9 @@
+{
+  "first_two_checks": "failed by1 luma/RGB channel level at pixel1 in both ROIs from first frame; did not composite after failed checks",
+  "resolution": "Use Canvas willReadFrequently:true to keep all verification rasterization on CPU; same source gradient/noise, no tolerance introduced in source proof. Third check all9000 exact RGBA equal.",
+  "initial_receipts": [
+    "static-background-first-check.json",
+    "static-background-second-check.json"
+  ],
+  "current_receipt": "static-background-proof.json"
+}

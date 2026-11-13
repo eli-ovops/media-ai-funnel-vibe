@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-20T22:25:03.619411+08:00",
+  "command": [
+    "df",
+    "-kP",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020"
+  ],
+  "unit_bytes": 1024,
+  "stdout": "Filesystem   1024-blocks      Used  Available Capacity  Mounted on\n/dev/disk7s1  2000478168 340126076 1660054908    18%    /Volumes/EXTERNAL\n",
+  "stderr": "",
+  "filesystem": "/dev/disk7s1",
+  "available_blocks": 1660054908,
+  "mount": "/Volumes/EXTERNAL"
+}

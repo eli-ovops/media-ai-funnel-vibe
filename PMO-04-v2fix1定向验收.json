@@ -1,0 +1,69 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "stage": "04",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "Q1/Q2 four-range repair and complete no-BGM video ready for independent05 scoped recheck; not user final or continuous audiovisual acceptance.",
+  "at": "2026-10-20T13:38:52.320627+08:00",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/ai-funnel-v2-fix1-internal-150s.mp4",
+  "sha256": "758ab4d64be1aedbafdb4d1c444b34a39de79f7004581bb3f3b9a9882f282e63",
+  "files_hashed": 131,
+  "hash_mismatches": [],
+  "actual_sampled_frames_viewed": 64,
+  "actual_contact_sheets_viewed": 8,
+  "actual_native_frames": [
+    2421,
+    3255,
+    4095,
+    7035,
+    4107
+  ],
+  "Q1": "RESOLVED_IN_SAMPLED_IMAGES: number contracts above old rows, travels in blank left gutter, unfolds only in own row; existing labels stay visible.",
+  "Q2": "RESOLVED_IN_SAMPLED_IMAGES: save takes lower route; complete and save contours remain visibly separate.",
+  "computational_support": {
+    "per_frame_avoidance_frames": 120,
+    "failures": 0,
+    "unchanged_source_boundary_pixels": 19,
+    "all_identical_source_pixels": true,
+    "pmo_first_boundary_summary_used_wrong_field": true,
+    "corrected_using_actual_field": "identicalSourcePixels"
+  },
+  "technical_receipts_read": {
+    "full_decode_terminal": "9000frames, dup0/drop0, progress=end",
+    "error_file_bytes": 0,
+    "native_dimensions": [
+      1080,
+      1920
+    ],
+    "fps": "60/1",
+    "duration": 150,
+    "audio_packets_identical_to_v2": true,
+    "pmo_did_not_rerun_full_decode": true
+  },
+  "user_music_decision": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/用户配乐决定-20261020.md",
+  "BGM_required_for_delivery": false,
+  "code_sfx_preserved": true,
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/delivery.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/file-inventory.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/README.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/scope.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/source-diff.patch",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/per-frame-avoidance.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/boundary-source-pixels.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/protected-input-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/assembly.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/export-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/decode-progress.txt",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/decode-errors.txt",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/frame-index.json"
+  ],
+  "remaining_required_work": [],
+  "outside_this_handoff_scope": [
+    "05 changed-range independent recheck",
+    "PMO final delivery index and user-facing complete video"
+  ],
+  "normal_speed_continuous_visual": "NOT_PERFORMED",
+  "direct_hearing": "NOT_PERFORMED",
+  "user_final_review": "PENDING"
+}

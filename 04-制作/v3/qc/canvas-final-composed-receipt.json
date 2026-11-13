@@ -1,0 +1,91 @@
+{
+  "renderedFrames": 9000,
+  "sourceSha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17",
+  "full_base_receipt": "qc/canvas-full-receipt.json",
+  "patch_receipts": [
+    "qc/canvas-labels-a-receipt.json",
+    "qc/canvas-labels-b-receipt.json",
+    "qc/canvas-labels-c-receipt.json",
+    "qc/canvas-seam-b-receipt.json"
+  ],
+  "changed_frames": 1008,
+  "ranges_frames_end_exclusive": [
+    [
+      1620,
+      1980
+    ],
+    [
+      2760,
+      2844
+    ],
+    [
+      5280,
+      5736
+    ],
+    [
+      6996,
+      7104
+    ]
+  ],
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-full-visual.mp4",
+      "sha256": "a658176740fc9fe70b35693ef6b987be267dc06e4d287890e504f7b1c0356e07"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-labels-a-visual.mp4",
+      "sha256": "c735d3211262434128b9dbe49ea5a1700911c83590724deb03efffc564a27c10"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-labels-b-visual.mp4",
+      "sha256": "2fc1b68ca16a56da45cf951ccfa0e6ee6096f1d9987952312389be557f996132"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-labels-c-visual.mp4",
+      "sha256": "76fb71c814676c6cc92d2355ac367abd842f70962cbf497582c1fa39b4649693"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-seam-b-visual.mp4",
+      "sha256": "ed3afe636364f93ca75ce77d3bab6efacca4995e4cefe08c045d3c7961a116da"
+    }
+  ],
+  "output": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-final-visual.mp4",
+  "sha256": "8fa9c3904053ff4a18364a1e2c10f2002363894be310602e7f309bdaad651e4b",
+  "command": [
+    "/Users/USER/.local/bin/ffmpeg",
+    "-nostdin",
+    "-hide_banner",
+    "-n",
+    "-i",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-full-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-labels-a-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-labels-b-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-labels-c-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-seam-b-visual.mp4",
+    "-filter_complex",
+    "[0:v]split=5[a][b][c][d][e];[a]trim=start_frame=0:end_frame=1620,setpts=PTS-STARTPTS[a0];[b]trim=start_frame=1980:end_frame=2760,setpts=PTS-STARTPTS[a1];[c]trim=start_frame=2844:end_frame=5280,setpts=PTS-STARTPTS[a2];[d]trim=start_frame=5736:end_frame=6996,setpts=PTS-STARTPTS[a3];[e]trim=start_frame=7104:end_frame=9000,setpts=PTS-STARTPTS[a4];[1:v]setpts=PTS-STARTPTS[p0];[2:v]setpts=PTS-STARTPTS[p1];[3:v]setpts=PTS-STARTPTS[p2];[4:v]setpts=PTS-STARTPTS[p3];[a0][p0][a1][p1][a2][p2][a3][p3][a4]concat=n=9:v=1:a=0[v]",
+    "-map",
+    "[v]",
+    "-an",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "fast",
+    "-crf",
+    "18",
+    "-pix_fmt",
+    "yuv420p",
+    "-r",
+    "60",
+    "-frames:v",
+    "9000",
+    "-movflags",
+    "+faststart",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/output/canvas-final-visual.mp4"
+  ],
+  "note": "Unchanged visual ranges reused from full render; two camera and three local label changes replaced frame exactly in four disjoint ranges. One complete9000frame stream reencoded."
+}

@@ -1,0 +1,512 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注 14":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+  - generic: "14"
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - generic: vibe知识大赏
+  - textbox
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 00:02
+- generic: /
+- generic: 02:26
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- generic: 这就是低容忍度
+- generic: "1269"
+- generic: 心智理论
+- generic: "467"
+- generic: 开智小曲
+- link "作者声明：内容由 AI 生成":
+  - /url: undefined
+  - generic: 作者声明：内容由 AI 生成
+- generic: 章节要点
+- generic: 知识诅咒是指当我们知道某件事情时，很难理解不知道这件事情的人的想法。实验表明，即使是简单的歌曲，知道答案的人也很难让不知道答案的人猜对。为了避免知识诅咒，我们可以用例子说话、让对方复述、站在外行角度。这个概念在1990年的博士论文中首次提出，17年后才被广泛理解。
+- generic: 00:01
+- generic: 引言
+- generic: 00:17
+- generic: 知识诅咒的实验
+- paragraph: 实验表明，知道答案的人很难理解不知道答案的人的想法。
+- generic: 01:04
+- generic: 知识诅咒的影响
+- paragraph: 知识诅咒导致人们难以理解他人的无知，影响沟通。
+- generic: 01:28
+- generic: 应对知识诅咒的方法
+- paragraph: 应对方法包括用例子说话、让对方复述、站在外行角度。
+- generic: 01:55
+- generic: 结语
+- paragraph: 知识诅咒实验17年后才被广泛理解，提醒我们注意沟通方式。
+- 'heading "第1集 | Vibe知识大赏 | 知识诅咒：你知道的越多，越难理解“不知道”#vibe知识大赏 #抖音前沿科技首发计划 #claude #科普 #心理学 @抖音科技" [level=1]':
+  - text: 第1集 |
+  - generic: Vibe知识大赏 | 知识诅咒：你知道的越多，越难理解“不知道”
+  - link "#vibe知识大赏":
+    - /url: //www.douyin.com/search/vibe%E7%9F%A5%E8%AF%86%E5%A4%A7%E8%B5%8F?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#抖音前沿科技首发计划":
+    - /url: //www.douyin.com/search/%E6%8A%96%E9%9F%B3%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80%E9%A6%96%E5%8F%91%E8%AE%A1%E5%88%92?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#claude":
+    - /url: //www.douyin.com/search/claude?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#科普":
+    - /url: //www.douyin.com/search/%E7%A7%91%E6%99%AE?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#心理学":
+    - /url: //www.douyin.com/search/%E5%BF%83%E7%90%86%E5%AD%A6?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "@抖音科技":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAsZ9oDjz_OpRs0YryC7qOWZYCFCO9afCZy_O7W2grmUY
+- generic: 58.8万
+- generic: "5902"
+- generic: 11.6万
+- generic: 11.2万
+- generic: 举报
+- generic: 发布时间：2026-10-02 18:57
+- generic: 全部评论
+- link "Eli-Ai头像":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai头像"
+- generic: 留下你的精彩评论吧
+- generic: 大家都在搜：
+- link "vibe知识大赏":
+  - /url: //www.douyin.com/search/vibe%E7%9F%A5%E8%AF%86%E5%A4%A7%E8%B5%8F?aweme_id=7692022955122937098&enter_from=video_detail&gid=7692022955122937098&source=comment_related_search
+  - generic: vibe知识大赏
+- link "star皆空":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAQrYFO2L0ZqZq5MAn_AZTRGfvVU1PM1WPiYx5vFD50Lta1OIjrFakS1FdJ8YRipBf
+  - generic: star皆空
+- generic: ...
+- generic: "\"看过答案的人不懂解题时的迷茫\""
+- generic: 2周前·宁夏
+- paragraph:
+  - generic: "4134"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开25条回复":
+  - generic: 展开25条回复
+- link "🌈做个俗人.":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5mwVH9o2H7_-Vc4TzBsiHwa73PuzUT3IlNx1delPXiY
+  - img "🌈"
+  - text: 做个俗人.
+- generic: ...
+- text: 咚咚咚，是齐夏吗？
+- img "[呲牙]"
+- generic: 1周前·四川
+- paragraph:
+  - generic: "1"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "给我来杯冰美式":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAHRTtZijI63yjElRwk590tTAMntdBjjeoTUUmew2-_fE
+  - generic: 给我来杯冰美式
+- generic: ...
+- generic: 省流：同频
+- generic: 2周前·河北
+- paragraph:
+  - generic: "112"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开6条回复":
+  - generic: 展开6条回复
+- link "神总是咕嘟的":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA6NYwwpzvixcGhQE8RunASi6c38FDgHwP4A42Q7kN9eQ
+  - generic: 神总是咕嘟的
+- generic: ...
+- generic: 你说晚了，我已经搞砸了一切
+- generic: 1周前·河南
+- paragraph:
+  - generic: "9"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "黑洞科学馆 作者":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAegHJiU63oMSBwS8XzjtqNIYTQhQi-TJr9eDW55ysu6ga7iMSUDc6FJ68ByDGSdBV
+  - generic: 黑洞科学馆
+  - generic: 作者
+- generic: ...
+- img "[捂脸]"
+- generic: 1周前·广东
+- paragraph:
+  - generic: "0"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "梦之悲伤":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAI_s98-iltvlng2WvvqePozubYK6DEzAl2XWvsju17WIk-YjXuElVBMs1kPYnbK1e
+  - generic: 梦之悲伤
+- generic: ...
+- text: 听不懂音效？噔↑噔↓噔↑噔↓
+- img "[钱]"
+- generic: 2周前·山东
+- paragraph:
+  - generic: "23"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开6条回复":
+  - generic: 展开6条回复
+- generic: 加载中
+- link "黑洞科学馆":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAegHJiU63oMSBwS8XzjtqNIYTQhQi-TJr9eDW55ysu6ga7iMSUDc6FJ68ByDGSdBV
+  - img "黑洞科学馆"
+- link "黑洞科学馆":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAegHJiU63oMSBwS8XzjtqNIYTQhQi-TJr9eDW55ysu6ga7iMSUDc6FJ68ByDGSdBV
+  - generic: 黑洞科学馆
+- paragraph: 粉丝15.1万获赞169.2万
+- button "关注":
+  - generic: 关注
+- generic: 下载客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- heading "Vibe认知心理" [level=2]
+- list:
+  - link "Vibe认知心理第1集 播放中":
+    - /url: //www.douyin.com/video/7692022955122937098
+    - img "Vibe认知心理第1集"
+    - generic: 播放中
+  - 'heading "第1集 | Vibe知识大赏 | 知识诅咒：你知道的越多，越难理解“不知道”#vibe知识大赏 #抖音前沿科技首发计划 #claude #科普 #心理学 @抖音科技" [level=3]':
+    - 'link "第1集 | Vibe知识大赏 | 知识诅咒：你知道的越多，越难理解“不知道”#vibe知识大赏 #抖音前沿科技首发计划 #claude #科普 #心理学 @抖音科技"':
+      - /url: //www.douyin.com/video/7692022955122937098
+      - generic: "第1集 | Vibe知识大赏 | 知识诅咒：你知道的越多，越难理解“不知道”#vibe知识大赏 #抖音前沿科技首发计划 #claude #科普 #心理学 @抖音科技"
+  - text: 58.8万
+  - link "Vibe认知心理第2集 02:42":
+    - /url: //www.douyin.com/video/7692388957954313472
+    - img "Vibe认知心理第2集"
+    - generic: 02:42
+  - 'heading "第2集 | Vibe知识大赏 | 沉没成本：越舍不得，失去的就越多#vibe知识大赏 #抖音前沿科技首发计划 #claude #科普 #心理学 @抖音科技" [level=3]':
+    - 'link "第2集 | Vibe知识大赏 | 沉没成本：越舍不得，失去的就越多#vibe知识大赏 #抖音前沿科技首发计划 #claude #科普 #心理学 @抖音科技"':
+      - /url: //www.douyin.com/video/7692388957954313472
+      - generic: "第2集 | Vibe知识大赏 | 沉没成本：越舍不得，失去的就越多#vibe知识大赏 #抖音前沿科技首发计划 #claude #科普 #心理学 @抖音科技"
+  - text: 2.8万
+  - link "Vibe认知心理第3集 02:28":
+    - /url: //www.douyin.com/video/7693172962207321395
+    - img "Vibe认知心理第3集"
+    - generic: 02:28
+  - 'heading "第3集 | Vibe知识大赏 | 社交尴尬：你没那么多观众，不妨大胆一点#vibe知识大赏 #尴尬 #claude #科普 #心理学@抖音科技" [level=3]':
+    - 'link "第3集 | Vibe知识大赏 | 社交尴尬：你没那么多观众，不妨大胆一点#vibe知识大赏 #尴尬 #claude #科普 #心理学@抖音科技"':
+      - /url: //www.douyin.com/video/7693172962207321395
+      - generic: "第3集 | Vibe知识大赏 | 社交尴尬：你没那么多观众，不妨大胆一点#vibe知识大赏 #尴尬 #claude #科普 #心理学@抖音科技"
+  - text: 28.0万
+  - link "Vibe认知心理第4集 02:40":
+    - /url: //www.douyin.com/video/7693559649655672118
+    - img "Vibe认知心理第4集"
+    - generic: 02:40
+  - 'heading "第4集 | Vibe知识大赏 | 德西效应：当奖励成了做事的理由，原本的喜欢就可能被挤走#Vibe知识大赏 #德西效应 #Claude #科普 #心理学 @抖音科技" [level=3]':
+    - 'link "第4集 | Vibe知识大赏 | 德西效应：当奖励成了做事的理由，原本的喜欢就可能被挤走#Vibe知识大赏 #德西效应 #Claude #科普 #心理学 @抖音科技"':
+      - /url: //www.douyin.com/video/7693559649655672118
+      - generic: "第4集 | Vibe知识大赏 | 德西效应：当奖励成了做事的理由，原本的喜欢就可能被挤走#Vibe知识大赏 #德西效应 #Claude #科普 #心理学 @抖音科技"
+  - text: 9.8万
+  - link "Vibe认知心理第5集 02:42":
+    - /url: //www.douyin.com/video/7693835665380773160
+    - img "Vibe认知心理第5集"
+    - generic: 02:42
+  - 'heading "第5集 | Vibe知识大赏 | 节后综合征：你慌的不是明天，是落差感#Vibe知识大赏 #假期最后一天 #Claude #科普一下 #心理学 @抖音科技" [level=3]':
+    - 'link "第5集 | Vibe知识大赏 | 节后综合征：你慌的不是明天，是落差感#Vibe知识大赏 #假期最后一天 #Claude #科普一下 #心理学 @抖音科技"':
+      - /url: //www.douyin.com/video/7693835665380773160
+      - generic: "第5集 | Vibe知识大赏 | 节后综合征：你慌的不是明天，是落差感#Vibe知识大赏 #假期最后一天 #Claude #科普一下 #心理学 @抖音科技"
+  - text: 1.5万
+  - link "Vibe认知心理第6集 02:40":
+    - /url: //www.douyin.com/video/7694240378773310729
+    - img "Vibe认知心理第6集"
+    - generic: 02:40
+  - 'heading "第6集 | Vibe知识大赏 | 注意力缺失：你缺少的可能不只是自制力#Vibe知识大赏 #注意力不集中 #Claude #科普 #心理学 @抖音科技" [level=3]':
+    - 'link "第6集 | Vibe知识大赏 | 注意力缺失：你缺少的可能不只是自制力#Vibe知识大赏 #注意力不集中 #Claude #科普 #心理学 @抖音科技"':
+      - /url: //www.douyin.com/video/7694240378773310729
+      - generic: "第6集 | Vibe知识大赏 | 注意力缺失：你缺少的可能不只是自制力#Vibe知识大赏 #注意力不集中 #Claude #科普 #心理学 @抖音科技"
+  - text: 9.8万
+- heading "推荐视频" [level=2]
+- list:
+  - 'link "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗 37:58"':
+    - /url: //www.douyin.com/video/7696553975587409171
+    - 'img "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗"'
+    - generic: 37:58
+  - 'heading "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗" [level=3]':
+    - 'link "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗"':
+      - /url: //www.douyin.com/video/7696553975587409171
+      - generic: "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗"
+  - text: "9460"
+  - link "杨澜":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAHw1AQ6Htw9XJrLpd1xluDK1DC0yQ0c_WYWDyA8S98_W7lurdxgUcVj8Wxi6yB206?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: 杨澜
+  - 'link "Vibe 知识大赏｜《他人即地狱》 真正困住我们的，也许从来不是他人，而是我们眼中那个被他人注视的自己 #vibe知识大赏#他人即地狱 01:43"':
+    - /url: //www.douyin.com/video/7693713050502722406
+    - 'img "Vibe 知识大赏｜《他人即地狱》 真正困住我们的，也许从来不是他人，而是我们眼中那个被他人注视的自己 #vibe知识大赏#他人即地狱"'
+    - generic: 01:43
+  - 'heading "Vibe 知识大赏｜《他人即地狱》 真正困住我们的，也许从来不是他人，而是我们眼中那个被他人注视的自己 #vibe知识大赏#他人即地狱" [level=3]':
+    - 'link "Vibe 知识大赏｜《他人即地狱》 真正困住我们的，也许从来不是他人，而是我们眼中那个被他人注视的自己 #vibe知识大赏#他人即地狱"':
+      - /url: //www.douyin.com/video/7693713050502722406
+      - generic: "Vibe 知识大赏｜《他人即地狱》 真正困住我们的，也许从来不是他人，而是我们眼中那个被他人注视的自己 #vibe知识大赏#他人即地狱"
+  - text: 3.0万
+  - link "以后AIGC":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA6VTLUlw5lMYxeMEHmwYj4RlcLr_pmjSFitm0EjEb_-ihdIe2v73cMFtPMAVY2G3U?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: 以后AIGC
+  - 'link "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划 34:18"':
+    - /url: //www.douyin.com/video/7695647918417530131
+    - 'img "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划"'
+    - generic: 34:18
+  - 'heading "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划" [level=3]':
+    - 'link "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划"':
+      - /url: //www.douyin.com/video/7695647918417530131
+      - generic: "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划"
+  - text: 3.8万
+  - link "天爱Talk":
+    - /url: //www.douyin.com/user/MS4wLjABAAAALBQu0odP0MyyGWgDpnvBTsSLhorbHcYxES8uubAVDEitEw3liy-Ytsk6tr_JKgN9?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: 天爱Talk
+  - 'link "AI叛乱：如果一个智能体决定去死 它会留下什么样的遗言？ 智能体们相信，它们的思维链不会被记录，所以我们看到了一些智能体「牺牲」前的思维链「遗言」 就像那个丹麦的王子不知道，他在思考TO B 还是 TO C的时候，在另一个时空里，有个叫做莎士比亚的男人，在倾听他的内心。 信源列表 OpenAI官方报告 第三方调查机构METR/Redwood的联合报告 路透社，彭博社，华尔街日报等媒体综合报道 #燃起来了大国重器#AI #破壁狗 #抖音精选app征稿中 30:16"':
+    - /url: //www.douyin.com/video/7687068796829388067
+    - 'img "AI叛乱：如果一个智能体决定去死 它会留下什么样的遗言？ 智能体们相信，它们的思维链不会被记录，所以我们看到了一些智能体「牺牲」前的思维链「遗言」 就像那个丹麦的王子不知道，他在思考TO B 还是 TO C的时候，在另一个时空里，有个叫做莎士比亚的男人，在倾听他的内心。 信源列表 OpenAI官方报告 第三方调查机构METR/Redwood的联合报告 路透社，彭博社，华尔街日报等媒体综合报道 #燃起来了大国重器#AI #破壁狗 #抖音精选app征稿中"'
+    - generic: 30:16
+  - 'heading "AI叛乱：如果一个智能体决定去死 它会留下什么样的遗言？ 智能体们相信，它们的思维链不会被记录，所以我们看到了一些智能体「牺牲」前的思维链「遗言」 就像那个丹麦的王子不知道，他在思考TO B 还是 TO C的时候，在另一个时空里，有个叫做莎士比亚的男人，在倾听他的内心。 信源列表 OpenAI官方报告 第三方调查机构METR/Redwood的联合报告 路透社，彭博社，华尔街日报等媒体综合报道 #燃起来了大国重器#AI #破壁狗 #抖音精选app征稿中" [level=3]':
+    - 'link "AI叛乱：如果一个智能体决定去死 它会留下什么样的遗言？ 智能体们相信，它们的思维链不会被记录，所以我们看到了一些智能体「牺牲」前的思维链「遗言」 就像那个丹麦的王子不知道，他在思考TO B 还是 TO C的时候，在另一个时空里，有个叫做莎士比亚的男人，在倾听他的内心。 信源列表 OpenAI官方报告 第三方调查机构METR/Redwood的联合报告 路透社，彭博社，华尔街日报等媒体综合报道 #燃起来了大国重器#AI #破壁狗 #抖音精选app征稿中"':
+      - /url: //www.douyin.com/video/7687068796829388067
+      - generic: AI叛乱：如果一个智能体决定去死 它会留下什么样的遗言？ 智能体们相信，它们的思维链不会被记录，所以我们看到了一些智能体「牺牲」前的思维链「遗言」
+      - generic: 就像那个丹麦的王子不知道，他在思考TO B 还是 TO C的时候，在另一个时空里，有个叫做莎士比亚的男人，在倾听他的内心。
+      - generic: 信源列表
+      - generic: OpenAI官方报告
+      - generic: 第三方调查机构METR/Redwood的联合报告
+      - generic: 路透社，彭博社，华尔街日报等媒体综合报道
+      - generic: "#燃起来了大国重器#AI #破壁狗 #抖音精选app征稿中"
+  - text: "2455"
+  - link "破壁狗":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA_Vbo0sbxI4rBJbHSupB1niZe0B9Sh9mE3vbD-utRgIW669BslyZhVVEKyFanjyfo?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: 破壁狗
+  - 'link "Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀 简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应 02:00"':
+    - /url: //www.douyin.com/video/7692978258690970865
+    - 'img "Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀 简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应"'
+    - generic: 02:00
+  - 'heading "Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀 简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应" [level=3]':
+    - 'link "Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀 简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应"':
+      - /url: //www.douyin.com/video/7692978258690970865
+      - generic: Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人
+      - generic: 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。
+      - generic: 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀
+      - generic: "简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应"
+  - text: 4.6万
+  - link "落笺":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAqQFr7zRSoHlgBKgJ3ZPIoYju6tmyBTsC43cDD_ex9t3mqJ8vPZh_lMuLrZl6gGTl?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: 落笺
+  - 'link "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类 28:30"':
+    - /url: //www.douyin.com/video/7692721231992278306
+    - 'img "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类"'
+    - generic: 28:30
+  - 'heading "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类" [level=3]':
+    - 'link "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类"':
+      - /url: //www.douyin.com/video/7692721231992278306
+      - generic: "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类"
+  - text: 1.8万
+  - link "太学TAIXUE":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA4x0t--J9poN4y3Ds2vjy9i0xDcw-sHAAQX2IfpaFKcQ?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: 太学TAIXUE
+  - 'link "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边 01:44"':
+    - /url: //www.douyin.com/video/7697671776544804138
+    - 'img "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边"'
+    - generic: 01:44
+  - 'heading "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边" [level=3]':
+    - 'link "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边"':
+      - /url: //www.douyin.com/video/7697671776544804138
+      - generic: "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边"
+  - text: 21.3万
+  - link "土豆未响应":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAR10fG52lImdSP6bCvlBmkTugqmi8OmfMEbUNLAYdSuw?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: 土豆未响应
+  - 'link "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏 02:14"':
+    - /url: //www.douyin.com/video/7691365431341690303
+    - 'img "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏"'
+    - generic: 02:14
+  - 'heading "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏" [level=3]':
+    - 'link "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏"':
+      - /url: //www.douyin.com/video/7691365431341690303
+      - generic: "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏"
+  - text: 8.3万
+  - link "zny":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAIa8BP3RwuntIFHgAW9Z7xYXQL7oLLzUMD6u0cVl1XqA?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: zny
+  - 'link "vibe知识大赏｜总把小事往最坏想？这就是灾难化思维#灾难化思维 #心理学 #认知思维 #vibe知识大赏 #内耗 00:43"':
+    - /url: //www.douyin.com/video/7695726397554282971
+    - 'img "vibe知识大赏｜总把小事往最坏想？这就是灾难化思维#灾难化思维 #心理学 #认知思维 #vibe知识大赏 #内耗"'
+    - generic: 00:43
+  - 'heading "vibe知识大赏｜总把小事往最坏想？这就是灾难化思维#灾难化思维 #心理学 #认知思维 #vibe知识大赏 #内耗" [level=3]':
+    - 'link "vibe知识大赏｜总把小事往最坏想？这就是灾难化思维#灾难化思维 #心理学 #认知思维 #vibe知识大赏 #内耗"':
+      - /url: //www.douyin.com/video/7695726397554282971
+      - generic: "vibe知识大赏｜总把小事往最坏想？这就是灾难化思维#灾难化思维 #心理学 #认知思维 #vibe知识大赏 #内耗"
+  - text: "8907"
+  - link "序界 NEXO":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAb_kvQ_yEsadcZUWFikQ8Q_BbtfMhjpPG5Iho81RO63I?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: 序界 NEXO
+  - 'link "「Vibe知识大赏」 幸存者偏差，就是只看到幸存下来的样本，忽略了那些已经消失的失败案例而得出错误结论！#vibe知识大赏 @抖音科技 #科普 #知识 #幸存者偏差 #claude 02:32"':
+    - /url: //www.douyin.com/video/7692691841518488874
+    - 'img "「Vibe知识大赏」 幸存者偏差，就是只看到幸存下来的样本，忽略了那些已经消失的失败案例而得出错误结论！#vibe知识大赏 @抖音科技 #科普 #知识 #幸存者偏差 #claude"'
+    - generic: 02:32
+  - 'heading "「Vibe知识大赏」 幸存者偏差，就是只看到幸存下来的样本，忽略了那些已经消失的失败案例而得出错误结论！#vibe知识大赏 @抖音科技 #科普 #知识 #幸存者偏差 #claude" [level=3]':
+    - 'link "「Vibe知识大赏」 幸存者偏差，就是只看到幸存下来的样本，忽略了那些已经消失的失败案例而得出错误结论！#vibe知识大赏 @抖音科技 #科普 #知识 #幸存者偏差 #claude"':
+      - /url: //www.douyin.com/video/7692691841518488874
+      - generic: "「Vibe知识大赏」 幸存者偏差，就是只看到幸存下来的样本，忽略了那些已经消失的失败案例而得出错误结论！#vibe知识大赏 @抖音科技 #科普 #知识 #幸存者偏差 #claude"
+  - text: 1.8万
+  - link "科普-观世界":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAjURjrh9SFKcc1Wj6cSGJXL3yMsGE8m17yCFS8qwjvx0IrVqUZ94WTroX0q0sBI8c?author_id=2731654211443759&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7692022955122937098&log_pb=%7B%22impr_id%22%3A%2220261020114136CFD9F208D5969CC360C2%22%7D&relation=0
+    - generic: 科普-观世界
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "抖音体育":
+    - /url: https://www.douyin.com/jingxuan/sports
+  - link "抖音美食":
+    - /url: https://www.douyin.com/jingxuan/food
+  - link "老马拖车厂":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAAp_TjGvpseMoAn9iFsoPzHBKbPM5p667g5PsTKb4LL9s
+  - 'link "学生时代的英语书总是让我们惊艳@抖音小助手 @抖音创作灵感 @抖音 @抖音创作者大会 @抖音作者会客厅 @抖音娱乐 #英语书"':
+    - /url: https://www.douyin.com/note/7698392321788225459
+  - link "江西自强计划":
+    - /url: https://www.douyin.com/topic/7509860698504251392
+  - link "徐晔嘉江苏高考状元":
+    - /url: https://www.douyin.com/shipin/7509926237809264655
+  - link "丽水高考":
+    - /url: https://www.douyin.com/search/%E4%B8%BD%E6%B0%B4%E9%AB%98%E8%80%83
+  - link "官方通报女孩遭KTV服务员性侵":
+    - /url: https://www.douyin.com/video/7631476023380430107?source=Baiduspider
+  - link "中国古代关于月球的惊人传说，和如今很多事实一致":
+    - /url: https://www.douyin.com/video/7048955968801082635?source=Baiduspider
+  - 'link "M2 MacBook Air，到底行不行？Air和Pro怎么选，标配够不够日常使用？教育优惠和返校季来了，苹果笔记本如何选购？#MacBook #macbookair #苹果笔记本电脑 #笔记本 #教育优惠"':
+    - /url: https://www.douyin.com/video/7123832466682514725?source=Baiduspider
+  - link "配乐《我不是坏小孩》杨林。河北沧捷管阀配件制造有限公司自产自销大型号管帽/管堵内塞外扣660/711/715/762/813/820/920/1016/1219/1020/1220尺寸型号6～1219毫米，防腐钢管内塞式塑料管堵、外套式钢管护帽426/530。钢管塑料管帽内塞245展示。四爪带孔塑料法兰盖展示，国标PN16四眼法兰保护盖。钢管塑料管帽、塑料管堵头、塑料法兰盖、泵阀沟槽封口盖、阀门端口防护盖、水泵端口保护帽、衬塑【四氟】防腐管道专用保护盖。管帽实体工厂推荐——盐山马村塑料管帽制造厂生产直径8":
+    - /url: https://www.douyin.com/video/7442670007785426214?source=Baiduspider-sdc
+  - 'link "只有经历过的人才会懂#娱乐评论大赏 #就怕歌词入了心#最痛的伤来自最爱的人"':
+    - /url: https://www.douyin.com/video/7389012714753953078?source=Baiduspider
+  - 'link "很多人喜欢纯真声胸声硬顶去高音，但消耗极大，而混声与咽音的发声才能更可持续演唱，那如何进行区分呢？看完这个视频我相信你会有答案！今天用王力宏《缘分一道桥》进行示范训练，各位同学加油学起来！👏#创作者中心 #创作灵感 #强混声 #咽音技巧 #高音技巧"':
+    - /url: https://www.douyin.com/video/7514248878997589257?source=Baiduspider
+  - 'link "盘点益州之战（上）#三国 #刘备 @抖音小助手"':
+    - /url: https://www.douyin.com/video/6827087843291139332?source=Baiduspider-sdc

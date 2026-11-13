@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "gate": "implementation",
+  "manifestPath": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/manifest.json",
+  "manifestSha256": "28d0cf7408a8d21d3136dea38ff46924cb0320d9b10cad8bb34f3e946dd56d93",
+  "durationInFrames": 9000,
+  "timelineFps": 60,
+  "previousReceipt": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/planning-delivery.json",
+  "previousReceiptSha256": "aba92a063d96849d8e99058f33b2e29384e7caae8d15786f2c322d57a1f9ffbf",
+  "sourceDir": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src",
+  "sourceTreeSha256": "ce57f9333a5ac2ec313bb645559787b9251e4c188d11aefe714de187999277dd",
+  "requiredRepresentativeScenes": [
+    "S1",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+  ],
+  "status": "PASS",
+  "errors": [],
+  "warnings": []
+}

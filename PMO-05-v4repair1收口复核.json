@@ -1,0 +1,101 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-20T17:38:59.339892+08:00",
+  "decision": "SCOPED_INTERNAL_REVIEW_ACCEPTED_READY_FOR_USER",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/output/ai-funnel-v4-repair1-150s-r1.mp4",
+  "sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/独立质检报告.md",
+      "sha256": "f1779f3b36d8b6ced3f9e7c38ca058061ed8cc28522f5d1705894365089f3eef"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/独立判定.json",
+      "sha256": "67d272db57bb601b4f5436246424e4d51b5c0c01c94b5454b27cb969876885db"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/sample-index.json",
+      "sha256": "c29b77a5f5e05ac93f76f3ed2f3234ee3579fe92a2e4c9f37d128bc67bd56a3f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/PMO发送回执.json",
+      "sha256": "03150712771a48ddc828a4f1ac1d174969ebb0ccb59c197c7ea7127fb2bbaff3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/sheet-08.jpg",
+      "sha256": "badf6c96170a69dffa2a667ebf76ff9bdcafa370be6d464649db11010158c63c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/sheet-10.jpg",
+      "sha256": "5ac74ecd9243006a1a72a011bfde4e0b0dd6dc3b2e1e52320f27ed36d8f9002e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/sheet-11.jpg",
+      "sha256": "6e8ef86c8aeda2f8f6e20c6c3371b7e3aa93fec3bea92cc83b6aebfec70b6260"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/sheet-12.jpg",
+      "sha256": "793fd9f7421ba89b3f33be005f436a11425b3864e2ec4dcdb45d281ea0220ce0"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/frame-036.jpg",
+      "sha256": "083e48d4897a6ea5ed3194cf10b4c8e65956328fed058ea393dc0aec007b9671"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/frame-052.jpg",
+      "sha256": "233e2704cb6e4fd796d899fd560ec7aebcba7ad419cf544e11bcf8bc0558c022"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/frame-082.jpg",
+      "sha256": "3d07e5d96937c98c4840ed44f29c5203e53a57e0db11582555b038178f32ddd8"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/frame-100.jpg",
+      "sha256": "6755db59b8de32cc1a9b32e34b61775d0e60c78fbb340af9c1c97eaeb748ebf2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/frame-115.jpg",
+      "sha256": "b823001247b006431566e6ad739bd44eb8f666c40bd1ccec96f02bc77647d6fc"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/frame-121.jpg",
+      "sha256": "38fd020c16d150328a21e964e45c00c37223fa83261d54500e1836e6c2215b44"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/frame-135.jpg",
+      "sha256": "3711cfb154c02e5c65d2063a8d0cab83694bb16b8ab71605d3c0f05ecbca2685"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/frame-136.jpg",
+      "sha256": "fd5f518bd60ccb68016dead340c92f21b3ed42439ef5fabaae32c14eae4251d5"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v4-repair1/frame-138.jpg",
+      "sha256": "7bda16dba2ad1de4e46b72f52b943fde681d4f8d4cb430ff53207fb9b252a2ff"
+    }
+  ],
+  "owner_report_received": true,
+  "pmo_viewed_independent_sheets": 4,
+  "pmo_native_issue_frames_viewed": 9,
+  "prior_pmo_repair_review": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-04-v4repair1交接复核.json",
+  "issue_decisions": {
+    "Q1": "CLOSED_IN_REVIEWED_SAMPLING_SCOPE",
+    "Q2": "CLOSED_IN_REVIEWED_SAMPLING_SCOPE",
+    "Q3": "CLOSED_IN_REVIEWED_SAMPLING_SCOPE",
+    "Q4": "CLOSED_IN_REVIEWED_SAMPLING_SCOPE",
+    "Q5": "CLOSED_IN_REVIEWED_SAMPLING_SCOPE"
+  },
+  "must_fix": [],
+  "reason": "独立原件支持同一事项的实际状态过程、访问树阅读压缩、离场避标题、新线避旧字、收尾合并为单载体。125秒短空白和146秒收拢中间态结合前后未构成新增必改。",
+  "limits": {
+    "normal_speed_continuous_visual": "NOT_PERFORMED",
+    "physical_phone_playback": "NOT_PERFORMED",
+    "human_timed_reading": "NOT_PERFORMED",
+    "audio": "NOT_APPLICABLE_ZERO_TRACK",
+    "full_video_aesthetic_acceptance": "NOT_CLAIMED",
+    "user_final": "PENDING",
+    "publication": "NOT_AUTHORIZED"
+  },
+  "formal05": "RELEASED_AWAITING_USER_FINAL_NO_FABRICATED_HUMAN_REVIEW"
+}

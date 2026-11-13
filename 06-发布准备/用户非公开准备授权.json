@@ -1,0 +1,26 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "source": "2026-10-20用户在PMO聊天明确请求",
+  "quote": "除了抖音以外，你都帮我准备发送吧，抖音小红书 视频号我自己来发送。其他海外 平台你都先别发。停在发送前 ，我需要这次使用音频了 你给我对应的文案标签标题",
+  "scope": "六站非公开平台准备，手动三站仅文件/文案；全部不发送、不提交审核、不定时。新增音频准备依当前平台可用性核实。",
+  "selected_artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/output/ai-funnel-v4-repair1-150s-r1.mp4",
+  "selected_video_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+  "selected_cover_manifest": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/manifest.json",
+  "manual_platforms": [
+    "douyin",
+    "xiaohongshu",
+    "weixin_channels"
+  ],
+  "draft_preparation_platforms": [
+    "bilibili",
+    "weibo",
+    "youtube",
+    "linkedin",
+    "x",
+    "tiktok"
+  ],
+  "public_release_authorized": false,
+  "comments_dms_mentions_registration_paid_spend_authorized": false,
+  "user_final_visual_acceptance": "NOT_ASSERTED_BY_PREPARATION_REQUEST",
+  "existing_internal_review": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-05-v4repair1收口复核.json"
+}

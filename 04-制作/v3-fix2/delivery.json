@@ -1,0 +1,83 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "v3-fix2",
+  "status": "04_SCOPED_REPAIR_READY_FOR_PMO_05",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/output/ai-funnel-v3-fix2-review-150s.mp4",
+  "sha256": "17fbb4955849347a09d2364924a3809a575ce5a441b730a5cff4a8e6b67aa434",
+  "bytes": 24908609,
+  "spec": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "frames": 9000,
+    "seconds": 150
+  },
+  "base": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/output/ai-funnel-v3-fix1-review-150s.mp4",
+  "base_sha256": "98f5e6328713e2f8bb4ad85c10f74f8957e931a4a27c064d243ed0edb188ca4d",
+  "source_sha256": "41b6888ef1b23e1ecf429f29ff52c229d70f97d6f06936f5da7f8dd0424f6caf",
+  "changes": {
+    "Q1": {
+      "frames_inclusive": [
+        1380,
+        1619
+      ],
+      "seconds_half_open": [
+        23,
+        27
+      ],
+      "change": "label moved from 832,562 to 248,562 with gray-arc short leader"
+    },
+    "Q2": {
+      "source_changed_frames_inclusive": [
+        7885,
+        8459
+      ],
+      "rendered_frames_inclusive": [
+        7884,
+        8459
+      ],
+      "rendered_seconds_half_open": [
+        131.4,
+        141
+      ],
+      "change": "133/138 camera keys from x-400,y140,z.85 to x-280,y-90,z.64; original interpolation and boundary keys retained"
+    }
+  },
+  "protected_ssim": 0.999811,
+  "audio_packet_copy_identical": true,
+  "sfx": 34,
+  "music": "USER_ADDS_NATIVE_PLATFORM_MUSIC",
+  "unchanged_scope": "Other picture processes, chart data, badges removed, reference scales and zoom labels, 124/128/131 selector timing, ending ring, total clock; full stream video reencoded",
+  "evidence": [
+    "qc/geometry-check.json",
+    "qc/source-diff.txt",
+    "qc/assembly.json",
+    "qc/technical-check.json",
+    "qc/audio-check.json",
+    "qc/visual-review.json",
+    "qc/export-frame-index.json",
+    "qc/preserved-inputs.json"
+  ],
+  "continuous_visual": "NOT_PERFORMED",
+  "direct_hearing": "NOT_PERFORMED",
+  "pmo_report_sent": true,
+  "pmo_received": "UNKNOWN",
+  "pmo_acceptance": "PENDING",
+  "target_model": "gpt-6-astra",
+  "target_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "quota_reported": {
+    "ordinary": true,
+    "weekly_used_percent": 2,
+    "five_hour": "UNKNOWN",
+    "reset_consumed": false
+  },
+  "rules": [
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4",
+    "ELI-REWORK-20261019-v1"
+  ],
+  "pmo_report_receipt": "qc/pmo-report-receipt.json"
+}

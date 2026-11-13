@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/src/kit.ts",
+    "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+    "base_identical": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/chart-data.json",
+    "sha256": "52f952a9aea93e1a5b18bd516b74a40d28e8a02ccca9626e58a87d2e750e7300",
+    "base_identical": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/content-package.json",
+    "sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+    "base_identical": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/events.json",
+    "sha256": "e2747b2ccceb5eeddf1bec7b7c9737891494afa971b4bd2ef26eb0c0fc5432fe",
+    "base_identical": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/screen-copy-review.srt",
+    "sha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8",
+    "base_identical": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/screen-script.txt",
+    "sha256": "516349a822525a5c23f55033ebac66f3d244b6f7c05797a2c9a07a99234f4de0",
+    "base_identical": true
+  }
+]

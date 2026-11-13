@@ -1,0 +1,21 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "current_targets": [
+    "抖音",
+    "小红书",
+    "B站",
+    "视频号",
+    "微博",
+    "TikTok",
+    "X",
+    "LinkedIn"
+  ],
+  "youtube_excluded_this_issue": true,
+  "human_completion": "Actual user: all published; then explicitly excludes YouTube",
+  "human_source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/清理授权与范围.json",
+  "native_receipts": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布回执.json",
+  "later_native_evidence": "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261020-2144.md",
+  "all_current_targets_complete_basis": "USER_CONFIRMATION_PLUS_AVAILABLE_NATIVE_RECEIPTS_NOT_ANONYMOUS_TEST_OF_EVERY_SITE",
+  "no_new_submissions": true,
+  "at": "2026-10-20T22:15:09.900381+08:00"
+}

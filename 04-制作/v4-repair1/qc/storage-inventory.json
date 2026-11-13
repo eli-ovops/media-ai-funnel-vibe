@@ -1,0 +1,40 @@
+{
+  "scope": "This repair project only; symlinks not followed; no deletion",
+  "items": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/output",
+      "files": 2,
+      "bytes": 12813566,
+      "purpose": "candidate/evidence/source or local rendering bundle; retained for review/reproduction",
+      "delete": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/qc",
+      "files": 300,
+      "bytes": 45589767,
+      "purpose": "candidate/evidence/source or local rendering bundle; retained for review/reproduction",
+      "delete": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/tmp",
+      "files": 116,
+      "bytes": 71277006,
+      "purpose": "candidate/evidence/source or local rendering bundle; retained for review/reproduction",
+      "delete": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src",
+      "files": 15,
+      "bytes": 96642,
+      "purpose": "candidate/evidence/source or local rendering bundle; retained for review/reproduction",
+      "delete": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/source",
+      "files": 10,
+      "bytes": 73421,
+      "purpose": "candidate/evidence/source or local rendering bundle; retained for review/reproduction",
+      "delete": false
+    }
+  ]
+}

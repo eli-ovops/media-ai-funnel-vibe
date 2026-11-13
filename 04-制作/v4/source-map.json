@@ -1,0 +1,161 @@
+{
+  "scope": "36秒代表动态，原源码不等于原效果原样复制",
+  "sources": [
+    {
+      "id": "fred-wave3-40-t15f",
+      "reason": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+      "preserve": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+      "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+      "useScope": "0–12s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T15f-DonutShare.tsx",
+        "sha256": "19370051e5c1360af7a3f89040818ee8159e3bc689ff07fea6ab12515c7f5404",
+        "symbol": "DonutShare"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/components/T15f-DonutShare.tsx",
+        "sha256": "3baa8adf4788b7f87c02494fe96cd14721fc83d4d572ab33bc8b0b782a23f6ae",
+        "symbol": "DonutShare"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/Episode.tsx",
+        "sha256": "aa43ab9d0cd653d03568f342cd515781d08e26266fdca42242375bfe6d8e02ae",
+        "symbol": "Population",
+        "callee": "DonutShare"
+      }
+    },
+    {
+      "id": "fred-wave3-40-t05h",
+      "reason": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+      "preserve": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+      "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+      "useScope": "25–36s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+        "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+        "symbol": "SyncVsCopy"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/components/T05h-SyncVsCopy.tsx",
+        "sha256": "51f91957d6fe356ceb0b210b2f23595f702be044a02c31a2945974f36aaaaf2c",
+        "symbol": "SyncVsCopy"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/Episode.tsx",
+        "sha256": "aa43ab9d0cd653d03568f342cd515781d08e26266fdca42242375bfe6d8e02ae",
+        "symbol": "Task",
+        "callee": "SyncVsCopy"
+      }
+    }
+  ],
+  "additional": [
+    {
+      "name": "T20m-PillToWindow",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T20m-PillToWindow.tsx",
+        "sha256": "849a13b9b1ff7740ec00214727628503d6e6dddf50cd81bc7e246f6c3eee041c"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/components/T20m-PillToWindow.tsx",
+        "sha256": "30e8cd28d88ffdea4085d15abcd4bb7c6309afd73498be0ef610552ca4e5de86"
+      },
+      "call": "Representative → PillToWindow → Task",
+      "preserved": "同一黑胶囊尺寸连续扩为媒体窗口，标题随开放让位；原曲线/剪裁/阴影",
+      "changed": "开始即继承上镜850×200胶囊；窗口终态原生1080×1920且圆角归零；取消原收回胶囊结尾；原预览后半未复用"
+    }
+  ],
+  "kit": [
+    {
+      "name": "theme.ts",
+      "snapshot": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/source/kit/theme.ts",
+        "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+      },
+      "actual": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/kit/theme.ts",
+        "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+      },
+      "changes": "原样"
+    },
+    {
+      "name": "ui.tsx",
+      "snapshot": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/source/kit/ui.tsx",
+        "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9"
+      },
+      "actual": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/kit/ui.tsx",
+        "sha256": "4371cdbcc34ca169e3f486aea0a4671c6109ddf4c7c57a1b77ea4260d437b51d"
+      },
+      "changes": "Frame改竖屏，字体实际本地文件、无品牌、Sfx返回null；保留Surface/Pill/Roll/Handoff结构"
+    }
+  ],
+  "timeline": [
+    {
+      "range": [
+        0,
+        7
+      ],
+      "source": "T15f",
+      "state": "75%扫环及重点抽出",
+      "fullFilmSemantic": "barely_exposed"
+    },
+    {
+      "range": [
+        7,
+        12
+      ],
+      "source": "T15f",
+      "state": ".2%扫环、重点回收、环缩至总体参照",
+      "fullFilmSemantic": "professional_frontier"
+    },
+    {
+      "range": [
+        12,
+        19.5
+      ],
+      "source": "episode Magnified",
+      "state": ".2%放大到总体1%的视窗，真实20%条长",
+      "fullFilmSemantic": "professional_frontier"
+    },
+    {
+      "range": [
+        19.5,
+        23.3
+      ],
+      "source": "episode Magnified",
+      "state": ".00006%放大到总体.0001%的视窗，真实60%条长",
+      "fullFilmSemantic": "internal_access"
+    },
+    {
+      "range": [
+        23.3,
+        25
+      ],
+      "source": "episode carrier handoff",
+      "state": "数据视窗退出，条转为检查保存功能胶囊；是编辑性转场，不代表人口转任务"
+    },
+    {
+      "range": [
+        25,
+        25.8
+      ],
+      "source": "T20m",
+      "state": "同一胶囊展开窗口"
+    },
+    {
+      "range": [
+        25.8,
+        36
+      ],
+      "source": "T05h",
+      "state": "同源分支、断开、状态传递；教学关系，不是本人的运行成果"
+    }
+  ],
+  "losses": [
+    "T15f横版右侧列表改为底部图例，失去横向阅读密度；极小比例去除间隙，保真优先。",
+    "T05h原Git同步/副本语义改为保存检查，保留关系动作，不宣称原业务逻辑等同。",
+    "T20m不使用返回底部胶囊阶段；代表段无组件原音效。",
+    "Magnified为解释极小比例的本期适配，需PMO审美核验，不能归入完整T15f复用。"
+  ]
+}

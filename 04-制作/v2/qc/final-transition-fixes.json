@@ -1,0 +1,24 @@
+{
+  "reason": "Actual first composite image inspection found explanatory lines crossed by old branches82–89.5; conditional slot detached from morphing window103–103.5; moving function cap over paper139–139.5.",
+  "base_source_sha256": "c074fd836e7c018588eddb00e88348b259b04423f1ee6f40fedc89b47cb9b523",
+  "final_source_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+  "ranges": [
+    [
+      4920,
+      5370
+    ],
+    [
+      6180,
+      6210
+    ],
+    [
+      8340,
+      8370
+    ]
+  ],
+  "end_exclusive": true,
+  "total_frames": 510,
+  "base_artifact": "output/ai-funnel-v2-internal-150s.mp4",
+  "base_artifact_sha256": "319acc9a721fa4bd0c25d71a9370c673822a7c760b1c1f5f1409781b160c6833",
+  "first_composite_review": "75 actual MP4 extracted frames viewed in10 contact sheets. Corrections confined to listed ranges."
+}

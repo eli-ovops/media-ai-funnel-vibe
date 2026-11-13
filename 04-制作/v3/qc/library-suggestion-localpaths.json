@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "stage": "suggestion",
+  "scope": "Component suggestion/source bindings at recorded manifest revision only; sampled-image and AST validation belongs to later keyframes receipt.",
+  "errors": [],
+  "manifestSha256": "3dcccdd39a50a376933889aa6dc50fd00a3b80c253e4ff05939aca96a04c65cd",
+  "local_binding_adapter": "Exact catalog SHA + already-authorized source files; no catalog mutation, network, token download or shared install.",
+  "scope_correction": "Original generic scope text was overbroad for suggestion stage; result and original manifest SHA retained, not re-run."
+}

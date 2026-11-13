@@ -1,0 +1,30 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "02-screen-v2-150s",
+  "status": "DRAFT_SELF_CHECK_NOT_PMO_APPROVAL",
+  "seconds": 150,
+  "frames": 9000,
+  "cues": 22,
+  "timeline_contiguous": true,
+  "stats": {
+    "foreground_non_whitespace_characters": 296,
+    "foreground_cjk_characters": 249,
+    "persistent_labels_non_whitespace_characters": 22,
+    "new_reading_units": 279.75,
+    "minimum_reading_margin_seconds": 0.514,
+    "densest_scene": "professional_frontier"
+  },
+  "reading_method": {
+    "units": "CJK=1; Latin letters/digits=.5; punctuation=.25; spaces=0",
+    "assumed_rate_units_per_second": 3.5,
+    "orientation_allowance_seconds": 0.5,
+    "counting": "New foreground and newly introduced attribution; already-read static node numbers are retained navigation, not new reading.",
+    "claim_limit": "Planning estimate only; not an actual timed phone-reading, final font, motion or export acceptance."
+  },
+  "reading_actual_phone": "NOT_DONE",
+  "new_seven_videos_read_by02": false,
+  "music_identity_heard_by02": false,
+  "new_gate": "PENDING_PMO_UPDATE",
+  "direct_audio_or_continuous_visual": "NOT_DONE",
+  "rendered_video": "NOT_DONE"
+}

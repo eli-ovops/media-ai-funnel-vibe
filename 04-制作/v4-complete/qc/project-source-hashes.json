@@ -1,0 +1,109 @@
+{
+  "files": [
+    {
+      "path": "src/index.tsx",
+      "sha256": "a9b8f3c9cc331ad79e36190897b6d0f9ffe029ffa10e73fa9c64327312d6f357"
+    },
+    {
+      "path": "src/Magnified.tsx",
+      "sha256": "6ccdc1feb694fda8dd2f0604838696913e49e9d4b926460e806792e85fd31ac9"
+    },
+    {
+      "path": "src/Episode.tsx",
+      "sha256": "e9125ac23d5dad7895be411beb863f8b579abeff2eb7cef261427553a44027d9"
+    },
+    {
+      "path": "src/FullEpisode.tsx",
+      "sha256": "082022de45c86d605e50d324f3009ca9d6b39c8d0b4387562cd140b25f788944"
+    },
+    {
+      "path": "src/kit/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+    },
+    {
+      "path": "src/kit/ui.tsx",
+      "sha256": "4371cdbcc34ca169e3f486aea0a4671c6109ddf4c7c57a1b77ea4260d437b51d"
+    },
+    {
+      "path": "src/components/T05h-SyncVsCopy.tsx",
+      "sha256": "a83aa9965398e10a5997a558399ebbb210defcf8067d51114f1cd50e804f700e"
+    },
+    {
+      "path": "src/components/T04b-RoleSplit.tsx",
+      "sha256": "f59ba1e1acf3ad78432ac80e39249f5be111b13b3fbe4cdbfb4857e19809e9aa"
+    },
+    {
+      "path": "src/components/_shared.ts",
+      "sha256": "f5ebf5850bf3dd67d094ce7e9778bd52c44ff138b27abf70ce72b3378f79aaa8"
+    },
+    {
+      "path": "src/components/T20m-PillToWindow.tsx",
+      "sha256": "458dc1719dfcdd37e9233e765cc1adae77fcaa2b61afbbf286f6db13bcae5508"
+    },
+    {
+      "path": "src/components/T04g-DecisionTree.tsx",
+      "sha256": "036dc8bd35e0efe03bcaab09620867d70e4fadbdeb3f3cd4e3bfe5a3723197b6"
+    },
+    {
+      "path": "src/components/T15f-DonutShare.tsx",
+      "sha256": "137722b4e9b706ee00532ae6f3680395edd8409c168fc57c6926c0b56c4662a4"
+    },
+    {
+      "path": "src/components/T03e-StepChain.tsx",
+      "sha256": "51e50e71ac13fe4788056be4f87e3cd0e7e66174fcff80f96c4b3bc93947b3ed"
+    },
+    {
+      "path": "src/components/T02g-RoleRoadmap.tsx",
+      "sha256": "df2162b4cb50e2822f7b7278af4df1e00758bd307610cbd2cba0548a4d5bedc8"
+    },
+    {
+      "path": "source/T04b-RoleSplit.tsx",
+      "sha256": "d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb"
+    },
+    {
+      "path": "source/T04g-DecisionTree.tsx",
+      "sha256": "56cf99105c4a28c7f86b35801e35e2999a7a6042c7ac0db3bac033c818bc43dd"
+    },
+    {
+      "path": "source/T03e-StepChain.tsx",
+      "sha256": "cbe67fa526d5cfbf4c4b927d1e166086281d8da5e7b956c9c5bf13711fcb3546"
+    },
+    {
+      "path": "source/T02g-RoleRoadmap.tsx",
+      "sha256": "4f93cc9418c91ea65f98423375da8d22205893b92984aac373f0eebbbd6a6c66"
+    },
+    {
+      "path": "source/kit/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+    },
+    {
+      "path": "source/kit/ui.tsx",
+      "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9"
+    },
+    {
+      "path": "source/components/T05h-SyncVsCopy.tsx",
+      "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73"
+    },
+    {
+      "path": "source/components/_shared.ts",
+      "sha256": "f5ebf5850bf3dd67d094ce7e9778bd52c44ff138b27abf70ce72b3378f79aaa8"
+    },
+    {
+      "path": "source/components/T20m-PillToWindow.tsx",
+      "sha256": "849a13b9b1ff7740ec00214727628503d6e6dddf50cd81bc7e246f6c3eee041c"
+    },
+    {
+      "path": "source/components/T15f-DonutShare.tsx",
+      "sha256": "19370051e5c1360af7a3f89040818ee8159e3bc689ff07fea6ab12515c7f5404"
+    },
+    {
+      "path": "inputs/Karpathy-\u539f\u6587.txt",
+      "sha256": "24e3726bec0355e9be259e9b16912ad5d991521efeb6484008f324fd0b459671"
+    }
+  ],
+  "protectedRepresentative": {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-fix1/output/ai-funnel-v4-fix1-representative-36s-r3.mp4",
+    "sha256": "0452b1e03b9233519869d736fb9066cd7659944b6ee414b40c87df47644cad3c",
+    "unchanged": true
+  }
+}

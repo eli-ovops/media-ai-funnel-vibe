@@ -1,0 +1,432 @@
+{
+  "base_script_unchanged": true,
+  "scenes": [
+    {
+      "id": "question",
+      "start_sec": 0,
+      "end_sec": 6,
+      "original_lines": [
+        "同样谈AI",
+        "为何判断差这么远？"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "同样谈AI",
+        "为何判断差这么远？"
+      ]
+    },
+    {
+      "id": "contrast",
+      "start_sec": 6,
+      "end_sec": 12,
+      "original_lines": [
+        "有人看到聊天框",
+        "有人看到复杂项目"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "有人看到聊天框",
+        "有人看到复杂项目"
+      ]
+    },
+    {
+      "id": "attribution",
+      "start_sec": 12,
+      "end_sec": 20,
+      "original_lines": [
+        "AI认知漏斗"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "AI认知漏斗"
+      ]
+    },
+    {
+      "id": "barely_exposed",
+      "start_sec": 20,
+      "end_sec": 27,
+      "original_lines": [
+        "约60亿人",
+        "几乎未接触",
+        "大语言模型"
+      ],
+      "number_location": "chart",
+      "actual_headline_lines": [
+        "几乎未接触",
+        "大语言模型"
+      ]
+    },
+    {
+      "id": "exposure_meaning",
+      "start_sec": 27,
+      "end_sec": 33,
+      "original_lines": [
+        "听过AI",
+        "不等于亲手用过"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "听过AI",
+        "不等于亲手用过"
+      ]
+    },
+    {
+      "id": "casual_free",
+      "start_sec": 33,
+      "end_sec": 40,
+      "original_lines": [
+        "约10—20亿人",
+        "偶尔使用",
+        "免费聊天产品"
+      ],
+      "number_location": "chart",
+      "actual_headline_lines": [
+        "偶尔使用",
+        "免费聊天产品"
+      ]
+    },
+    {
+      "id": "casual_tasks",
+      "start_sec": 40,
+      "end_sec": 46,
+      "original_lines": [
+        "查资料 · 改文字",
+        "更像一个问答工具"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "查资料 · 改文字",
+        "更像一个问答工具"
+      ]
+    },
+    {
+      "id": "professional_frontier",
+      "start_sec": 46,
+      "end_sec": 54,
+      "original_lines": [
+        "约2000万人",
+        "数学／编程中",
+        "专业使用前沿大模型"
+      ],
+      "number_location": "chart",
+      "actual_headline_lines": [
+        "数学／编程中",
+        "专业使用前沿大模型"
+      ]
+    },
+    {
+      "id": "agent_projects",
+      "start_sec": 54,
+      "end_sec": 61,
+      "original_lines": [
+        "比如：待办清单",
+        "新增 · 完成 · 保存"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "比如：待办清单",
+        "新增 · 完成 · 保存"
+      ]
+    },
+    {
+      "id": "internal_access",
+      "start_sec": 61,
+      "end_sec": 68,
+      "original_lines": [
+        "约5000人",
+        "可访问",
+        "内部前沿系统"
+      ],
+      "number_location": "chart",
+      "actual_headline_lines": [
+        "可访问",
+        "内部前沿系统"
+      ]
+    },
+    {
+      "id": "internal_collaboration",
+      "start_sec": 68,
+      "end_sec": 75,
+      "original_lines": [
+        "多Agent协作",
+        "分工，再汇合"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "多Agent协作",
+        "分工，再汇合"
+      ]
+    },
+    {
+      "id": "causes",
+      "start_sec": 75,
+      "end_sec": 82,
+      "original_lines": [
+        "差距来自哪里？",
+        "任务 · 领域 · 权限"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "差距来自哪里？",
+        "任务 · 领域 · 权限"
+      ]
+    },
+    {
+      "id": "small_task",
+      "start_sec": 82,
+      "end_sec": 89,
+      "original_lines": [
+        "只问：怎样做待办清单？",
+        "得到一段说明"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "只问：怎样做待办清单？",
+        "得到一段说明"
+      ]
+    },
+    {
+      "id": "large_task",
+      "start_sec": 89,
+      "end_sec": 96,
+      "original_lines": [
+        "新增事项 → 标记完成",
+        "保存后，再打开"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "新增事项 → 标记完成",
+        "保存后，再打开"
+      ]
+    },
+    {
+      "id": "scale_meaning",
+      "start_sec": 96,
+      "end_sec": 103,
+      "original_lines": [
+        "把目标拆成步骤",
+        "才知道要检查什么"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "把目标拆成步骤",
+        "才知道要检查什么"
+      ]
+    },
+    {
+      "id": "verifiable_domains",
+      "start_sec": 103,
+      "end_sec": 110,
+      "original_lines": [
+        "检查保存功能",
+        "刷新后，事项还在吗？"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "检查保存功能",
+        "刷新后，事项还在吗？"
+      ]
+    },
+    {
+      "id": "training_feedback",
+      "start_sec": 110,
+      "end_sec": 117,
+      "original_lines": [
+        "如果不在",
+        "就回到保存逻辑"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "如果不在",
+        "就回到保存逻辑"
+      ]
+    },
+    {
+      "id": "uneven_capability",
+      "start_sec": 117,
+      "end_sec": 124,
+      "original_lines": [
+        "数学、编程",
+        "结果更容易验证"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "数学、编程",
+        "结果更容易验证"
+      ]
+    },
+    {
+      "id": "access_tiers",
+      "start_sec": 124,
+      "end_sec": 132,
+      "original_lines": [
+        "免费版 · 付费版",
+        "内部系统"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "免费版 · 付费版",
+        "内部系统"
+      ]
+    },
+    {
+      "id": "access_meaning",
+      "start_sec": 132,
+      "end_sec": 139,
+      "original_lines": [
+        "能接触哪些系统",
+        "取决于访问条件"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "能接触哪些系统",
+        "取决于访问条件"
+      ]
+    },
+    {
+      "id": "synthesis",
+      "start_sec": 139,
+      "end_sec": 146,
+      "original_lines": [
+        "任务、领域、权限",
+        "共同影响AI体验"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "任务、领域、权限",
+        "共同影响AI体验"
+      ]
+    },
+    {
+      "id": "closing",
+      "start_sec": 146,
+      "end_sec": 150,
+      "original_lines": [
+        "你交给AI什么任务？"
+      ],
+      "number_location": "headline",
+      "actual_headline_lines": [
+        "你交给AI什么任务？"
+      ]
+    }
+  ],
+  "added_graph_labels": [
+    {
+      "time": [
+        12,
+        20
+      ],
+      "text": [
+        "同一总体",
+        "100%"
+      ]
+    },
+    {
+      "time": [
+        20,
+        33
+      ],
+      "text": [
+        "约75%",
+        "其余约25%"
+      ]
+    },
+    {
+      "time": [
+        33,
+        46
+      ],
+      "text": [
+        "约20%"
+      ]
+    },
+    {
+      "time": [
+        46,
+        61
+      ],
+      "text": [
+        "约0.2%",
+        "放大视窗",
+        "这一整段 = 总体的1%"
+      ]
+    },
+    {
+      "time": [
+        61,
+        75
+      ],
+      "text": [
+        "约0.00006%",
+        "这一整段 = 总体的0.0001%",
+        "全图中的扇区小于1像素"
+      ]
+    },
+    {
+      "time": [
+        75,
+        139
+      ],
+      "text": [
+        "问答",
+        "事项",
+        "保存",
+        "再打开",
+        "免费版",
+        "付费版",
+        "内部系统"
+      ]
+    },
+    {
+      "time": [
+        144,
+        150
+      ],
+      "text": [
+        "同一总体",
+        "不同任务，不同体验"
+      ]
+    }
+  ],
+  "dynamic_axis": "0 to current window fraction percent; computed from same original denominator, not extra source facts",
+  "fixed_labels": [
+    {
+      "time": [
+        0,
+        75
+      ],
+      "text": "Karpathy 粗估"
+    },
+    {
+      "time": [
+        75,
+        150
+      ],
+      "text": "Karpathy 观点"
+    },
+    {
+      "time": [
+        12,
+        75
+      ],
+      "text": "各项独立比较 · 非四块相加"
+    }
+  ],
+  "graph_label_timing_notes": {
+    "source": "src/World.ts; copy()/chart()/arcLens()/workSpace()",
+    "75_handoff": "chart frozen at74.999s continues during75–77.4s contraction",
+    "remaining_25": "23<=t<27 only",
+    "same_denominator_label": "20<=t<46",
+    "heard_used_labels": "27–33 at y1570, beneath denominator",
+    "lens": "starts46s; axis/description fades47.3–47.6s; zoom settles49s then64.5s",
+    "locator": "总体/位置/count labels fade47.1–47.4 after unroll clears text region",
+    "tiny_subpixel_note": "64.5s onward through75–77.4s contraction",
+    "access_selector": "free124–128;paid128–131;internal131 onward until final world contracts",
+    "window_axis": "dynamic0,25,50,75,100percent of current window; original overall denominator",
+    "question_label": "alpha declines88.5–88.9, returns90–90.4 while carrier leaves; all other timings unchanged"
+  },
+  "actual_sampled_text_metrics": [
+    "qc/text-metrics.json",
+    "qc/transition-text-metrics.json"
+  ]
+}

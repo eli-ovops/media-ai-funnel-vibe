@@ -1,0 +1,464 @@
+{
+  "catalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "count": 2,
+  "returned": 2,
+  "entries": [
+    {
+      "id": "component:fred-wave3-40-t02g",
+      "label": "T02g",
+      "title": "两个身份路线图",
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "lanes",
+          "mode",
+          "current",
+          "cues"
+        ],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/4d9c169d3e4a9cce708af55b27548b4088b5ecfce04f3dfb975ae42ee81d9e8e.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/9e8faa0d7de2cc3300697a615ea60b201a32c3ae12214fefd734e1b2000f4624.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/9e8faa0d7de2cc3300697a615ea60b201a32c3ae12214fefd734e1b2000f4624.jpg",
+              "frame": 90,
+              "timeSeconds": 1.5
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/eef233eb91b841dbbf322f50cc7caebb5ba6ce5ff3a4693aac26bf73e1458e4f.jpg",
+              "frame": 180,
+              "timeSeconds": 3.0
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/10d0b9c68ea79d3eb955762b4e79deaccdb08c25915cda4c0ab5612fa8a4c499.jpg",
+              "frame": 294,
+              "timeSeconds": 4.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 5.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "4d9c169d3e4a9cce708af55b27548b4088b5ecfce04f3dfb975ae42ee81d9e8e",
+          "label": "两个身份路线图",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "0a834287b4187fa5679befc6fdb03ef19d88de82c6ba044144268146a19ba4fd",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T02g-RoleRoadmap.tsx",
+          "path": "src/components/T02g-RoleRoadmap.tsx",
+          "symbol": "RoleRoadmap",
+          "url": "/api/visual-library/assets/4f93cc9418c91ea65f98423375da8d22205893b92984aac373f0eebbbd6a6c66.txt",
+          "sha256": "4f93cc9418c91ea65f98423375da8d22205893b92984aac373f0eebbbd6a6c66",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T02g-RoleRoadmap.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "matching": {
+        "referenceId": "fred-wave3-40-t02g",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain",
+          "handoff"
+        ],
+        "sourceId": "fred-wave3-40",
+        "conceptIds": [
+          "process",
+          "orientation",
+          "cards"
+        ],
+        "inputObjects": [
+          "身份",
+          "步骤",
+          "泳道"
+        ],
+        "action": "两条身份泳道 → 各自的步骤依次排开；回现时当前一步被点亮",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T02g",
+          "双身份",
+          "路线图",
+          "步骤回现",
+          "讲解段落",
+          "解释步骤与流程"
+        ],
+        "scenarioId": "process",
+        "addedAt": "2026-10-12T22:14:03+08:00",
+        "scenarioTitle": "解释步骤与流程",
+        "label": "T02g",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "relationship"
+        ],
+        "title": "两个身份路线图",
+        "collectionId": "fred-wave3-40-20261012",
+        "kind": "components",
+        "score": 224,
+        "matchedConceptIds": [],
+        "matchedUseIds": [],
+        "matchedWords": [],
+        "reasons": [
+          "原词命中：两个身份",
+          "原词命中：路线",
+          "相近词：两个、个身、路线、身份"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T02g-RoleRoadmap.tsx",
+          "sha256": "4f93cc9418c91ea65f98423375da8d22205893b92984aac373f0eebbbd6a6c66",
+          "url": "/api/visual-library/assets/4f93cc9418c91ea65f98423375da8d22205893b92984aac373f0eebbbd6a6c66.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "RoleRoadmap"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave3-40-20261012",
+        "sha256": "3b66f705b43458eb37c79c59d261489dfc5b0d64aadc9557f85b4af5c4d53546",
+        "size": 34169121,
+        "installRoot": ".artifacts/member-components/fred-wave3-40-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "candidateId": "fred-wave3-40-t02g"
+    },
+    {
+      "id": "component:fred-wave3-40-t04g",
+      "label": "T04g",
+      "title": "该选哪条路",
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "question",
+          "branches",
+          "recommend",
+          "cues"
+        ],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/1d69585228c4fc7a3c71a6513b88720e29d607f822c7aed08e067ba827a4f7e1.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/c4d1283fef50fe8cec223572e5b97f943eaa1a7f32cfd391ec13149c9291bb40.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/c4d1283fef50fe8cec223572e5b97f943eaa1a7f32cfd391ec13149c9291bb40.jpg",
+              "frame": 108,
+              "timeSeconds": 1.8
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/f3ef117483df6f508422dc71ff39464df7f2209ab38e93822ce8e01d946c81fc.jpg",
+              "frame": 216,
+              "timeSeconds": 3.6
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/80f3d1178e10cbbbfe03261d01c06c30dcf91d6a34da19feec1805bf0dec0d91.jpg",
+              "frame": 354,
+              "timeSeconds": 5.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 6.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "1d69585228c4fc7a3c71a6513b88720e29d607f822c7aed08e067ba827a4f7e1",
+          "label": "该选哪条路",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "28d592f2d5604b10c71906c6c1bb37a1894fd2ef6e32318e045e469bd0e29f58",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T04g-DecisionTree.tsx",
+          "path": "src/components/T04g-DecisionTree.tsx",
+          "symbol": "DecisionTree",
+          "url": "/api/visual-library/assets/56cf99105c4a28c7f86b35801e35e2999a7a6042c7ac0db3bac033c818bc43dd.txt",
+          "sha256": "56cf99105c4a28c7f86b35801e35e2999a7a6042c7ac0db3bac033c818bc43dd",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T04g-DecisionTree.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "matching": {
+        "referenceId": "fred-wave3-40-t04g",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain"
+        ],
+        "sourceId": "fred-wave3-40",
+        "conceptIds": [
+          "process",
+          "orientation",
+          "comparison"
+        ],
+        "inputObjects": [
+          "问题节点",
+          "条件",
+          "分支",
+          "结果"
+        ],
+        "action": "一个问题 → 分叉成几条路，按条件落到推荐答案",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 6.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T04g",
+          "决策树",
+          "条件判断",
+          "路线选择",
+          "讲解段落",
+          "分类、分支与归组"
+        ],
+        "scenarioId": "relation",
+        "addedAt": "2026-10-12T22:14:03+08:00",
+        "scenarioTitle": "分类、分支与归组",
+        "label": "T04g",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "relationship"
+        ],
+        "title": "该选哪条路",
+        "collectionId": "fred-wave3-40-20261012",
+        "kind": "components",
+        "score": 106,
+        "matchedConceptIds": [],
+        "matchedUseIds": [],
+        "matchedWords": [],
+        "reasons": [
+          "原词命中：路线",
+          "相近词：路线"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T04g-DecisionTree.tsx",
+          "sha256": "56cf99105c4a28c7f86b35801e35e2999a7a6042c7ac0db3bac033c818bc43dd",
+          "url": "/api/visual-library/assets/56cf99105c4a28c7f86b35801e35e2999a7a6042c7ac0db3bac033c818bc43dd.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "DecisionTree"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave3-40-20261012",
+        "sha256": "3b66f705b43458eb37c79c59d261489dfc5b0d64aadc9557f85b4af5c4d53546",
+        "size": 34169121,
+        "installRoot": ".artifacts/member-components/fred-wave3-40-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "candidateId": "fred-wave3-40-t04g"
+    }
+  ]
+}

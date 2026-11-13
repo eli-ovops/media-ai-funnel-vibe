@@ -1,0 +1,291 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "02-screen-v3-150s",
+  "status": "LOCAL_CONTENT_CHECKS_PASSED_PMO_REVIEW_PENDING",
+  "gate_actual_receipt": {
+    "allowed": true,
+    "content": "ai-funnel-vibe-20261020",
+    "stage": "02"
+  },
+  "input_sha_checks": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-无旁白内容编排任务.md",
+      "sha256": "370bf214fa9a89e8cc316675fb6a58e9278181a53994c4e4ec1298293352af71",
+      "actual_sha256": "370bf214fa9a89e8cc316675fb6a58e9278181a53994c4e4ec1298293352af71",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/制作总单.md",
+      "sha256": "a975d77343db9921c2ca1f8697ab726c23588bfb6e38373e9ed95c17b358599a",
+      "actual_sha256": "a975d77343db9921c2ca1f8697ab726c23588bfb6e38373e9ed95c17b358599a",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-PMO输入验收.json",
+      "sha256": "80ede667f9a8c2b94c207bdd407e56b87270fa37c4815cb20515f8895cb0972e",
+      "actual_sha256": "80ede667f9a8c2b94c207bdd407e56b87270fa37c4815cb20515f8895cb0972e",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/Karpathy-原文.txt",
+      "sha256": "24e3726bec0355e9be259e9b16912ad5d991521efeb6484008f324fd0b459671",
+      "actual_sha256": "24e3726bec0355e9be259e9b16912ad5d991521efeb6484008f324fd0b459671",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-PMO旧稿复用意见.md",
+      "sha256": "6e30dad2f48ebf20c544b58c467318b6a54dab28bde0ad84e2d0bbe2b3c3432d",
+      "actual_sha256": "6e30dad2f48ebf20c544b58c467318b6a54dab28bde0ad84e2d0bbe2b3c3432d",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考-PMO审阅.json",
+      "sha256": "ad6e62b26d4bce94f3c7634ff606f5bc8c4885829156d07fa963df705e38d641",
+      "actual_sha256": "ad6e62b26d4bce94f3c7634ff606f5bc8c4885829156d07fa963df705e38d641",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/七条参考地图与150秒启示.md",
+      "sha256": "12763ae76bb8c8cf7a8e60854bba4daf175732a31b05164821c00acb0beb9d9a",
+      "actual_sha256": "12763ae76bb8c8cf7a8e60854bba4daf175732a31b05164821c00acb0beb9d9a",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/读取范围.json",
+      "sha256": "edd259261742cdf3e19edfdd3f04edee27aea61e672396018e0fe326ed519bc1",
+      "actual_sha256": "edd259261742cdf3e19edfdd3f04edee27aea61e672396018e0fe326ed519bc1",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/音乐核验.json",
+      "sha256": "451e175f7d9bfc36b92926a7fdbd17d6811f9900d9dd4e1ebaf46b8dd5d8cd94",
+      "actual_sha256": "451e175f7d9bfc36b92926a7fdbd17d6811f9900d9dd4e1ebaf46b8dd5d8cd94",
+      "matches": true
+    }
+  ],
+  "duration_seconds": 150,
+  "frames": 9000,
+  "cues": 22,
+  "timeline_contiguous": true,
+  "all_reading_margins_nonnegative": true,
+  "statistics": {
+    "foreground_non_whitespace_characters": 313,
+    "foreground_cjk_characters": 262,
+    "persistent_label_characters": 20,
+    "total_text_characters": 333,
+    "new_reading_units": 290.0,
+    "minimum_margin_seconds": 0.514,
+    "densest_scene": "professional_frontier"
+  },
+  "reading_method": {
+    "units": "CJK=1; Latin letters/digits=.5; punctuation=.25; spaces=0",
+    "assumed_rate_units_per_second": 3.5,
+    "orientation_allowance_seconds": 0.5,
+    "counting": "New foreground and newly introduced attribution; already-read static node numbers are retained navigation, not new reading.",
+    "claim_limit": "Planning estimate only; not an actual timed phone-reading, final font, motion or export acceptance."
+  },
+  "windows": [
+    {
+      "id": "question",
+      "units": 12.25,
+      "stable_seconds": 5.3,
+      "estimated_seconds": 4.0,
+      "margin_seconds": 1.3
+    },
+    {
+      "id": "contrast",
+      "units": 15,
+      "stable_seconds": 5.3,
+      "estimated_seconds": 4.786,
+      "margin_seconds": 0.514
+    },
+    {
+      "id": "attribution",
+      "units": 11.0,
+      "stable_seconds": 7.3,
+      "estimated_seconds": 3.643,
+      "margin_seconds": 3.657
+    },
+    {
+      "id": "barely_exposed",
+      "units": 14.0,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.5,
+      "margin_seconds": 1.8
+    },
+    {
+      "id": "exposure_meaning",
+      "units": 10.0,
+      "stable_seconds": 5.3,
+      "estimated_seconds": 3.357,
+      "margin_seconds": 1.943
+    },
+    {
+      "id": "casual_free",
+      "units": 15.25,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.857,
+      "margin_seconds": 1.443
+    },
+    {
+      "id": "casual_tasks",
+      "units": 14.25,
+      "stable_seconds": 5.3,
+      "estimated_seconds": 4.571,
+      "margin_seconds": 0.729
+    },
+    {
+      "id": "professional_frontier",
+      "units": 19.25,
+      "stable_seconds": 7.3,
+      "estimated_seconds": 6.0,
+      "margin_seconds": 1.3
+    },
+    {
+      "id": "agent_projects",
+      "units": 12.75,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.143,
+      "margin_seconds": 2.157
+    },
+    {
+      "id": "internal_access",
+      "units": 13.0,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.214,
+      "margin_seconds": 2.086
+    },
+    {
+      "id": "internal_collaboration",
+      "units": 10.75,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 3.571,
+      "margin_seconds": 2.729
+    },
+    {
+      "id": "causes",
+      "units": 14.75,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.714,
+      "margin_seconds": 1.586
+    },
+    {
+      "id": "small_task",
+      "units": 15.5,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.929,
+      "margin_seconds": 1.371
+    },
+    {
+      "id": "large_task",
+      "units": 14.5,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.643,
+      "margin_seconds": 1.657
+    },
+    {
+      "id": "scale_meaning",
+      "units": 15,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.786,
+      "margin_seconds": 1.514
+    },
+    {
+      "id": "verifiable_domains",
+      "units": 14.5,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.643,
+      "margin_seconds": 1.657
+    },
+    {
+      "id": "training_feedback",
+      "units": 11,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 3.643,
+      "margin_seconds": 2.657
+    },
+    {
+      "id": "uneven_capability",
+      "units": 11.25,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 3.714,
+      "margin_seconds": 2.586
+    },
+    {
+      "id": "access_tiers",
+      "units": 10.25,
+      "stable_seconds": 7.3,
+      "estimated_seconds": 3.429,
+      "margin_seconds": 3.871
+    },
+    {
+      "id": "access_meaning",
+      "units": 14,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.5,
+      "margin_seconds": 1.8
+    },
+    {
+      "id": "synthesis",
+      "units": 13.5,
+      "stable_seconds": 6.3,
+      "estimated_seconds": 4.357,
+      "margin_seconds": 1.943
+    },
+    {
+      "id": "closing",
+      "units": 8.25,
+      "stable_seconds": 3.5,
+      "estimated_seconds": 2.857,
+      "margin_seconds": 0.643
+    }
+  ],
+  "reference_sheets": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Nico/transition-1.jpg",
+      "sha256": "b3b731d3b8edabeedf95d36edb5852d25b6d52c63c4f2272c6a705701b215406",
+      "viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Nico/transition-2.jpg",
+      "sha256": "ef21174fe01d89bcf8143ae2689ed5d5436006897a3b046d50ced9925ea01305",
+      "viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Zhao/transition-1.jpg",
+      "sha256": "58e37175a817e0a4cb3f09653e29c492fa14dc2f4192539167bb97e96b995963",
+      "viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Xiao/transition-1.jpg",
+      "sha256": "11823ccfff8fca1902c04ce9a21c393c9f5d2ed31fc4bc2b20ca98d446dbecac",
+      "viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Bird/transition-1.jpg",
+      "sha256": "9bb35d4747f833e3816dca44201dd51ebcb267f9a43f52695b16d5e49aba7188",
+      "viewed_by02": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Luck/transition-1.jpg",
+      "sha256": "eefafe4d7e2a0fe7548f0df3d31db624ac9b7d3c4bd8b2b1cde4d2a66fd56ec5",
+      "viewed_by02": true
+    }
+  ],
+  "viewed_presentations": 33,
+  "actual_phone_reading": "NOT_DONE",
+  "actual_components_or_render": "NOT_DONE",
+  "continuous_visual_or_direct_hearing": "NOT_DONE",
+  "final_bgm": "MISSING",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "additional_content_checks": {
+    "srt_matches_all22_cues": true,
+    "reading_frames_within_scene": true,
+    "no_generic_demo_labels_or_percentages": true,
+    "all_four_attributed_counts_retained": true,
+    "no_voice_or_tts": true,
+    "music_final_ready": false
+  }
+}

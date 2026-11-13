@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "gate": "implementation",
+  "manifestPath": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/manifest.json",
+  "manifestSha256": "252213e6411c2d3862e087d97bd5b12f71c756a6b0330a84bc5b88a7011fdec3",
+  "durationInFrames": 9000,
+  "timelineFps": 60,
+  "previousReceipt": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/planning-localpaths.json",
+  "previousReceiptSha256": "397333164156d593bd3aee4b55edc28e7d661047a7607294ddcf712428fe0254",
+  "sourceDir": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src",
+  "sourceTreeSha256": "7a9210118a51c6b8cba0a00d0caa28154a1f191fb8db674b7867c9d4521c1236",
+  "requiredRepresentativeScenes": [
+    "S1",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+  ],
+  "status": "FAIL",
+  "errors": [
+    "S1/fred-wave3-40-t05h/callSite: hash mismatch",
+    "S2/fred-wave3-40-t05h/callSite: hash mismatch",
+    "S3/fred-wave2-42-t04b/callSite: hash mismatch",
+    "S4/fred-wave3-40-t05h/callSite: hash mismatch",
+    "S5/fred-wave3-40-t05h/callSite: hash mismatch",
+    "S6/fred-wave3-40-t05h/callSite: hash mismatch"
+  ],
+  "warnings": []
+}

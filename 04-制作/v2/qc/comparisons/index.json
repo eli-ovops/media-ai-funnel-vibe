@@ -1,0 +1,38 @@
+[
+  {
+    "issue": "V1-01",
+    "times": [
+      3.15,
+      50.15
+    ],
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/comparisons/V1-01-before-after.jpg",
+    "sha256": "989046d3529c01cf5f8830587fadd21d43eab1e6a1153114c038f1b65e3c186c"
+  },
+  {
+    "issue": "V1-02",
+    "times": [
+      82.167,
+      103.167,
+      139.167
+    ],
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/comparisons/V1-02-before-after.jpg",
+    "sha256": "eb33d3bdfa9dbb69aa50753e693a7486957ff8149ac6367468c3398d08a3b1b4"
+  },
+  {
+    "issue": "V1-03",
+    "times": [
+      57.65,
+      135.65
+    ],
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/comparisons/V1-03-before-after.jpg",
+    "sha256": "8acaa093d268c419e5ed58ae098d832076fb2176fe85fbbe94f0aebc1d564d9f"
+  },
+  {
+    "issue": "V1-04",
+    "times": [
+      135.65
+    ],
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/comparisons/V1-04-before-after.jpg",
+    "sha256": "054ea11eb0af261a7b187e9bffcfb902fa19c70c71c1eb120bddbf1b6fe27578"
+  }
+]

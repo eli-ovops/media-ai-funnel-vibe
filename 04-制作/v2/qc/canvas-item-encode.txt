@@ -1,0 +1,148 @@
+Input #0, image2pipe, from 'pipe:0':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1080x1920 [SAR 1:1 DAR 9:16], 60 fps, 60 tbr, 60 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (mjpeg (native) -> h264 (libx264))
+[swscaler @ 0x118278000] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x1083d8000] deprecated pixel format used, make sure you did set range correctly
+    Last message repeated 1 times
+[swscaler @ 0x1481a8000] deprecated pixel format used, make sure you did set range correctly
+[libx264 @ 0x157c10400] using SAR=1/1
+[libx264 @ 0x157c10400] using cpu capabilities: ARMv8 NEON
+[libx264 @ 0x157c10400] profile High, level 4.2, 4:2:0, 8-bit
+[libx264 @ 0x157c10400] 264 - core 164 r3075 66a5bc1 - H.264/MPEG-4 AVC codec - Copyleft 2003-2021 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=15 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/canvas-item-visual.mp4':
+  Metadata:
+    encoder         : Lavf60.3.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 60 fps, 15360 tbn
+    Metadata:
+      encoder         : Lavc60.3.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=    0 fps=0.0 q=0.0 size=       0kB time=-577014:32:22.77 bitrate=  -0.0kbits/s speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0kB time=-577014:32:22.77 bitrate=  -0.0kbits/s speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0kB time=-577014:32:22.77 bitrate=  -0.0kbits/s speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0kB time=-577014:32:22.77 bitrate=  -0.0kbits/s speed=N/A    
+frame=    3 fps=1.4 q=26.0 size=       0kB time=00:00:00.01 bitrate=  23.0kbits/s speed=0.00787x    
+frame=    9 fps=3.4 q=26.0 size=       0kB time=00:00:00.11 bitrate=   3.3kbits/s speed=0.0437x    
+frame=   16 fps=5.0 q=26.0 size=       0kB time=00:00:00.23 bitrate=   1.6kbits/s speed=0.0726x    
+frame=   23 fps=6.1 q=26.0 size=       0kB time=00:00:00.35 bitrate=   1.1kbits/s speed=0.0929x    
+frame=   30 fps=7.0 q=26.0 size=       0kB time=00:00:00.46 bitrate=   0.8kbits/s speed=0.108x    
+frame=   37 fps=7.6 q=26.0 size=       0kB time=00:00:00.58 bitrate=   0.7kbits/s speed=0.121x    
+frame=   44 fps=8.2 q=26.0 size=       0kB time=00:00:00.70 bitrate=   0.5kbits/s speed=0.13x    
+frame=   51 fps=8.6 q=26.0 size=       0kB time=00:00:00.81 bitrate=   0.5kbits/s speed=0.138x    
+frame=   58 fps=9.0 q=26.0 size=       0kB time=00:00:00.93 bitrate=   0.4kbits/s speed=0.145x    
+frame=   65 fps=9.4 q=26.0 size=       0kB time=00:00:01.05 bitrate=   0.4kbits/s speed=0.151x    
+frame=   73 fps=9.8 q=26.0 size=       0kB time=00:00:01.16 bitrate=   0.3kbits/s speed=0.156x    
+frame=   79 fps=9.9 q=26.0 size=       0kB time=00:00:01.28 bitrate=   0.3kbits/s speed=0.16x    
+frame=   86 fps= 10 q=26.0 size=       0kB time=00:00:01.40 bitrate=   0.3kbits/s speed=0.164x    
+frame=   93 fps= 10 q=26.0 size=       0kB time=00:00:01.51 bitrate=   0.3kbits/s speed=0.167x    
+frame=  100 fps= 10 q=26.0 size=       0kB time=00:00:01.63 bitrate=   0.2kbits/s speed=0.17x    
+frame=  107 fps= 11 q=26.0 size=       0kB time=00:00:01.75 bitrate=   0.2kbits/s speed=0.172x    
+frame=  114 fps= 11 q=26.0 size=       0kB time=00:00:01.86 bitrate=   0.2kbits/s speed=0.175x    
+frame=  121 fps= 11 q=26.0 size=       0kB time=00:00:01.98 bitrate=   0.2kbits/s speed=0.177x    
+frame=  128 fps= 11 q=26.0 size=       0kB time=00:00:02.10 bitrate=   0.2kbits/s speed=0.179x    
+frame=  134 fps= 11 q=26.0 size=       0kB time=00:00:02.20 bitrate=   0.2kbits/s speed=0.18x    
+frame=  141 fps= 11 q=26.0 size=       0kB time=00:00:02.31 bitrate=   0.2kbits/s speed=0.182x    
+frame=  148 fps= 11 q=26.0 size=       0kB time=00:00:02.43 bitrate=   0.2kbits/s speed=0.183x    
+frame=  155 fps= 11 q=26.0 size=       0kB time=00:00:02.55 bitrate=   0.2kbits/s speed=0.185x    
+frame=  162 fps= 11 q=26.0 size=       0kB time=00:00:02.66 bitrate=   0.1kbits/s speed=0.186x    
+frame=  171 fps= 11 q=26.0 size=       0kB time=00:00:02.80 bitrate=   0.1kbits/s speed=0.188x    
+frame=  178 fps= 12 q=26.0 size=       0kB time=00:00:02.93 bitrate=   0.1kbits/s speed=0.19x    
+frame=  185 fps= 12 q=26.0 size=       0kB time=00:00:03.05 bitrate=   0.1kbits/s speed=0.191x    
+frame=  192 fps= 12 q=26.0 size=       0kB time=00:00:03.16 bitrate=   0.1kbits/s speed=0.192x    
+frame=  199 fps= 12 q=26.0 size=       0kB time=00:00:03.28 bitrate=   0.1kbits/s speed=0.193x    
+frame=  207 fps= 12 q=26.0 size=       0kB time=00:00:03.41 bitrate=   0.1kbits/s speed=0.194x    
+frame=  214 fps= 12 q=26.0 size=       0kB time=00:00:03.53 bitrate=   0.1kbits/s speed=0.195x    
+frame=  221 fps= 12 q=26.0 size=       0kB time=00:00:03.65 bitrate=   0.1kbits/s speed=0.196x    
+frame=  228 fps= 12 q=26.0 size=       0kB time=00:00:03.76 bitrate=   0.1kbits/s speed=0.197x    
+frame=  235 fps= 12 q=26.0 size=       0kB time=00:00:03.88 bitrate=   0.1kbits/s speed=0.198x    
+frame=  242 fps= 12 q=26.0 size=       0kB time=00:00:04.00 bitrate=   0.1kbits/s speed=0.199x    
+frame=  249 fps= 12 q=26.0 size=       0kB time=00:00:04.11 bitrate=   0.1kbits/s speed= 0.2x    
+frame=  256 fps= 12 q=26.0 size=       0kB time=00:00:04.23 bitrate=   0.1kbits/s speed= 0.2x    
+frame=  263 fps= 12 q=26.0 size=       0kB time=00:00:04.35 bitrate=   0.1kbits/s speed=0.201x    
+frame=  270 fps= 12 q=26.0 size=       0kB time=00:00:04.46 bitrate=   0.1kbits/s speed=0.202x    
+frame=  278 fps= 12 q=26.0 size=       0kB time=00:00:04.58 bitrate=   0.1kbits/s speed=0.202x    
+frame=  284 fps= 12 q=26.0 size=       0kB time=00:00:04.70 bitrate=   0.1kbits/s speed=0.203x    
+frame=  291 fps= 12 q=26.0 size=       0kB time=00:00:04.81 bitrate=   0.1kbits/s speed=0.203x    
+frame=  298 fps= 12 q=26.0 size=       0kB time=00:00:04.93 bitrate=   0.1kbits/s speed=0.204x    
+frame=  303 fps= 12 q=26.0 size=       0kB time=00:00:05.01 bitrate=   0.1kbits/s speed=0.202x    
+frame=  310 fps= 12 q=26.0 size=       0kB time=00:00:05.13 bitrate=   0.1kbits/s speed=0.202x    
+frame=  316 fps= 12 q=26.0 size=       0kB time=00:00:05.23 bitrate=   0.1kbits/s speed=0.202x    
+frame=  323 fps= 12 q=26.0 size=       0kB time=00:00:05.35 bitrate=   0.1kbits/s speed=0.203x    
+frame=  331 fps= 12 q=26.0 size=       0kB time=00:00:05.48 bitrate=   0.1kbits/s speed=0.203x    
+frame=  339 fps= 12 q=26.0 size=       0kB time=00:00:05.61 bitrate=   0.1kbits/s speed=0.204x    
+frame=  347 fps= 12 q=26.0 size=       0kB time=00:00:05.75 bitrate=   0.1kbits/s speed=0.205x    
+frame=  355 fps= 12 q=26.0 size=       0kB time=00:00:05.88 bitrate=   0.1kbits/s speed=0.206x    
+frame=  363 fps= 12 q=26.0 size=       0kB time=00:00:06.01 bitrate=   0.1kbits/s speed=0.206x    
+frame=  371 fps= 12 q=26.0 size=       0kB time=00:00:06.15 bitrate=   0.1kbits/s speed=0.207x    
+frame=  379 fps= 13 q=26.0 size=     256kB time=00:00:06.28 bitrate= 333.8kbits/s speed=0.208x    
+frame=  386 fps= 13 q=26.0 size=     256kB time=00:00:06.40 bitrate= 327.7kbits/s speed=0.208x    
+frame=  394 fps= 13 q=26.0 size=     256kB time=00:00:06.53 bitrate= 321.1kbits/s speed=0.209x    
+frame=  402 fps= 13 q=26.0 size=     256kB time=00:00:06.66 bitrate= 314.6kbits/s speed=0.21x    
+frame=  410 fps= 13 q=26.0 size=     256kB time=00:00:06.80 bitrate= 308.5kbits/s speed=0.21x    
+frame=  418 fps= 13 q=26.0 size=     256kB time=00:00:06.93 bitrate= 302.5kbits/s speed=0.211x    
+frame=  426 fps= 13 q=26.0 size=     256kB time=00:00:07.06 bitrate= 296.8kbits/s speed=0.211x    
+frame=  434 fps= 13 q=26.0 size=     256kB time=00:00:07.20 bitrate= 291.3kbits/s speed=0.212x    
+frame=  442 fps= 13 q=26.0 size=     256kB time=00:00:07.33 bitrate= 286.0kbits/s speed=0.213x    
+frame=  450 fps= 13 q=26.0 size=     256kB time=00:00:07.46 bitrate= 280.9kbits/s speed=0.213x    
+frame=  458 fps= 13 q=26.0 size=     256kB time=00:00:07.60 bitrate= 276.0kbits/s speed=0.214x    
+frame=  466 fps= 13 q=26.0 size=     256kB time=00:00:07.73 bitrate= 271.2kbits/s speed=0.214x    
+frame=  474 fps= 13 q=26.0 size=     256kB time=00:00:07.86 bitrate= 266.6kbits/s speed=0.215x    
+frame=  482 fps= 13 q=26.0 size=     256kB time=00:00:08.00 bitrate= 262.2kbits/s speed=0.215x    
+frame=  490 fps= 13 q=26.0 size=     256kB time=00:00:08.13 bitrate= 257.9kbits/s speed=0.216x    
+frame=  498 fps= 13 q=26.0 size=     256kB time=00:00:08.26 bitrate= 253.7kbits/s speed=0.216x    
+frame=  506 fps= 13 q=26.0 size=     256kB time=00:00:08.40 bitrate= 249.7kbits/s speed=0.217x    
+frame=  514 fps= 13 q=26.0 size=     256kB time=00:00:08.53 bitrate= 245.8kbits/s speed=0.217x    
+frame=  522 fps= 13 q=26.0 size=     256kB time=00:00:08.66 bitrate= 242.0kbits/s speed=0.218x    
+frame=  529 fps= 13 q=26.0 size=     256kB time=00:00:08.78 bitrate= 238.8kbits/s speed=0.218x    
+frame=  537 fps= 13 q=26.0 size=     256kB time=00:00:08.91 bitrate= 235.2kbits/s speed=0.218x    
+frame=  545 fps= 13 q=26.0 size=     256kB time=00:00:09.05 bitrate= 231.8kbits/s speed=0.218x    
+frame=  553 fps= 13 q=26.0 size=     256kB time=00:00:09.18 bitrate= 228.4kbits/s speed=0.219x    
+frame=  561 fps= 13 q=26.0 size=     256kB time=00:00:09.31 bitrate= 225.1kbits/s speed=0.219x    
+frame=  570 fps= 13 q=26.0 size=     256kB time=00:00:09.45 bitrate= 222.0kbits/s speed=0.22x    
+frame=  577 fps= 13 q=26.0 size=     256kB time=00:00:09.58 bitrate= 218.9kbits/s speed=0.22x    
+frame=  585 fps= 13 q=26.0 size=     256kB time=00:00:09.71 bitrate= 215.9kbits/s speed=0.22x    
+frame=  593 fps= 13 q=26.0 size=     256kB time=00:00:09.85 bitrate= 212.9kbits/s speed=0.221x    
+frame=  601 fps= 13 q=26.0 size=     256kB time=00:00:09.98 bitrate= 210.1kbits/s speed=0.221x    
+frame=  608 fps= 13 q=26.0 size=     256kB time=00:00:10.10 bitrate= 207.7kbits/s speed=0.221x    
+frame=  614 fps= 13 q=26.0 size=     256kB time=00:00:10.20 bitrate= 205.6kbits/s speed=0.221x    
+frame=  622 fps= 13 q=26.0 size=     256kB time=00:00:10.33 bitrate= 203.0kbits/s speed=0.221x    
+frame=  630 fps= 13 q=26.0 size=     256kB time=00:00:10.46 bitrate= 200.4kbits/s speed=0.221x    
+frame=  638 fps= 13 q=26.0 size=     256kB time=00:00:10.60 bitrate= 197.9kbits/s speed=0.222x    
+frame=  646 fps= 13 q=26.0 size=     256kB time=00:00:10.73 bitrate= 195.4kbits/s speed=0.222x    
+frame=  654 fps= 13 q=26.0 size=     256kB time=00:00:10.86 bitrate= 193.0kbits/s speed=0.222x    
+frame=  662 fps= 13 q=26.0 size=     256kB time=00:00:11.00 bitrate= 190.7kbits/s speed=0.222x    
+frame=  671 fps= 13 q=26.0 size=     256kB time=00:00:11.13 bitrate= 188.4kbits/s speed=0.222x    
+frame=  678 fps= 13 q=26.0 size=     256kB time=00:00:11.26 bitrate= 186.2kbits/s speed=0.223x    
+frame=  686 fps= 13 q=26.0 size=     256kB time=00:00:11.40 bitrate= 184.0kbits/s speed=0.223x    
+frame=  694 fps= 13 q=26.0 size=     256kB time=00:00:11.53 bitrate= 181.9kbits/s speed=0.223x    
+frame=  702 fps= 13 q=26.0 size=     256kB time=00:00:11.66 bitrate= 179.8kbits/s speed=0.223x    
+frame=  710 fps= 13 q=26.0 size=     256kB time=00:00:11.80 bitrate= 177.8kbits/s speed=0.223x    
+frame=  718 fps= 13 q=26.0 size=     256kB time=00:00:11.93 bitrate= 175.8kbits/s speed=0.224x    
+frame=  726 fps= 13 q=26.0 size=     256kB time=00:00:12.06 bitrate= 173.8kbits/s speed=0.224x    
+frame=  735 fps= 13 q=26.0 size=     256kB time=00:00:12.20 bitrate= 171.9kbits/s speed=0.224x    
+frame=  742 fps= 13 q=26.0 size=     256kB time=00:00:12.33 bitrate= 170.1kbits/s speed=0.224x    
+frame=  749 fps= 13 q=26.0 size=     256kB time=00:00:12.45 bitrate= 168.5kbits/s speed=0.224x    
+frame=  756 fps= 13 q=26.0 size=     256kB time=00:00:12.56 bitrate= 166.9kbits/s speed=0.224x    
+[mp4 @ 0x156e047c0] Starting second pass: moving the moov atom to the beginning of the file
+frame=  810 fps= 14 q=-1.0 Lsize=     622kB time=00:00:13.45 bitrate= 379.1kbits/s speed=0.238x    
+video:612kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.663314%
+[libx264 @ 0x157c10400] frame I:4     Avg QP: 8.91  size: 76016
+[libx264 @ 0x157c10400] frame P:227   Avg QP:13.40  size:  1032
+[libx264 @ 0x157c10400] frame B:579   Avg QP:13.48  size:   152
+[libx264 @ 0x157c10400] consecutive B-frames:  2.8%  4.0%  4.8% 88.4%
+[libx264 @ 0x157c10400] mb I  I16..4: 25.4% 67.2%  7.4%
+[libx264 @ 0x157c10400] mb P  I16..4:  0.2%  0.1%  0.2%  P16..4:  0.9%  0.1%  0.1%  0.0%  0.0%    skip:98.4%
+[libx264 @ 0x157c10400] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.1%  0.0%  0.0%  direct: 0.1%  skip:99.7%  L0:53.3% L1:41.8% BI: 4.8%
+[libx264 @ 0x157c10400] 8x8 transform intra:56.4% inter:45.8%
+[libx264 @ 0x157c10400] coded y,uvDC,uvAC intra: 47.8% 18.6% 14.4% inter: 0.1% 0.1% 0.0%
+[libx264 @ 0x157c10400] i16 v,h,dc,p: 32% 64%  3%  0%
+[libx264 @ 0x157c10400] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 17% 44% 37%  0%  0%  0%  0%  0%  0%
+[libx264 @ 0x157c10400] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 33% 35% 16%  4%  3%  3%  2%  3%  3%
+[libx264 @ 0x157c10400] i8c dc,h,v,p: 73% 14% 13%  0%
+[libx264 @ 0x157c10400] Weighted P-Frames: Y:0.9% UV:0.0%
+[libx264 @ 0x157c10400] ref P L0: 82.2% 17.8%
+[libx264 @ 0x157c10400] ref B L0: 79.8% 20.2%
+[libx264 @ 0x157c10400] ref B L1: 93.0%  7.0%
+[libx264 @ 0x157c10400] kb/s:371.11

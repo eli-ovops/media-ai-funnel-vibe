@@ -1,0 +1,29 @@
+{
+  "at": "2026-10-20T13:01:59.525547+08:00",
+  "source_work_id": "7697240924837748134",
+  "track_title": "We Never（Vibe知识大赏）",
+  "artist": "阿布学长",
+  "official_qishui_homepage": "https://www.qishui.com/",
+  "official_homepage_observed": "App download only; no visible web track search or media download",
+  "native_music_panel_observed": "Song title, artist, collection, comments, share, play/pause and progress controls; no download link",
+  "native_audio_element_count": 0,
+  "native_video_element_count": 2,
+  "no_extra_download_or_client_install": true,
+  "public_source_search": [
+    {
+      "query": "exact track name plus artist restricted to official music domains",
+      "result": "Empty search results"
+    },
+    {
+      "query": "exact track name plus artist public search fallback",
+      "result": "No attributable song source; unrelated matches excluded"
+    }
+  ],
+  "local_prompt_library_search": "No We Never textual source hit in selected local prompts; Fred asset path argument did not resolve and was not used as evidence",
+  "audio_bytes_obtained": 0,
+  "same_denied_resource_not_retried": true,
+  "no_cookie_or_referer_or_proxy_changes": true,
+  "independent_visual_rework_continues": true,
+  "owner_not_polled": true,
+  "next_music_action": "Need actual officially saved audio, a supported native export, or a new attributable public audio source; do not repeat title searches or substitute another arrangement."
+}

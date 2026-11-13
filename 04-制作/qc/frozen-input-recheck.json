@@ -1,0 +1,14 @@
+[
+  {
+    "file": "content-package.json",
+    "copySha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+    "frozenSourceSha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+    "match": true
+  },
+  {
+    "file": "screen-copy-review.srt",
+    "copySha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8",
+    "frozenSourceSha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8",
+    "match": true
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/df-after.json",
+    "bytes": 432,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/protected-after.json",
+    "bytes": 3780,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/reviewed-candidates.json",
+    "bytes": 169261,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/df-before.txt",
+    "bytes": 171,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/execute.py",
+    "bytes": 5234,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/重新导出入口.md",
+    "bytes": 2603,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/df-after.txt",
+    "bytes": 171,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/deletion-results.json",
+    "bytes": 33848,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/清理授权与范围.json",
+    "bytes": 1508,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/df-before.json",
+    "bytes": 432,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/render-processes.json",
+    "bytes": 2,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/清理报告.md",
+    "bytes": 3854,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/inspect.py",
+    "bytes": 1594,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/清理报告.json",
+    "bytes": 462,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/handles-before.json",
+    "bytes": 140,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/closeout.py",
+    "bytes": 2471,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/other-state-references.json",
+    "bytes": 2,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/派单工具回执.json",
+    "bytes": 450,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/任务.md",
+    "bytes": 5110,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/PMO报告回执.json",
+    "bytes": 305,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/inspection.json",
+    "bytes": 144833,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/prepare.py",
+    "bytes": 4398,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/发布后当前交付索引.json",
+    "bytes": 3742,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/protected-before.json",
+    "bytes": 3412,
+    "purpose": "cleanup authorization, provenance, safety check, deletion receipt or recovery/handoff evidence"
+  }
+]

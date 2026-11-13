@@ -1,0 +1,35 @@
+{
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/ai-funnel-v4-complete-150s-r5.mp4",
+      "sha256": "6ac2862d8b34a813ff471ff13d14a572bb77f35e0c5df78e1267bcaab343cbd0"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/output/preview-r1-5040-8999.mp4",
+      "sha256": "e1c2ea660491edc8f4039417b38b4e908247dc25c7e7e8673aab055ed5f147b5"
+    }
+  ],
+  "output": {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/output/ai-funnel-v4-repair1-150s-r1.mp4",
+    "sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc"
+  },
+  "protectedContentFramesExclusive": [
+    0,
+    5040
+  ],
+  "reRenderedFramesExclusive": [
+    5040,
+    9000
+  ],
+  "method": "Exact original 60fps clock; protected0-84s decoded from frozen r5; concat then unified H264 encode, not byte-identical output",
+  "sources": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/FullEpisode.tsx",
+      "sha256": "efda71c91e521a99be3b1624ba5752662a08a278b3363cf6006d5cf1b595bcd2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/RepairScenes.tsx",
+      "sha256": "b52bb4bafa215b223535e3607671116c67a8429d4d53239176ee9c7a98f4b72c"
+    }
+  ]
+}

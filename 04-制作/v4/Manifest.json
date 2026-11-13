@@ -1,0 +1,235 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "v4-representative-36s",
+  "status": "INTERNAL_REPRESENTATIVE_PENDING_PMO_REVIEW",
+  "timelineFps": 60,
+  "durationInFrames": 2160,
+  "outputSpec": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "durationSeconds": 36
+  },
+  "referenceCatalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "workflow": {
+    "profile": "fred-video-v2",
+    "componentMatching": "v1"
+  },
+  "designContract": {
+    "authority": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-v4审美重做.md",
+    "scope": "先代表动态后内部审原件；本版非150秒成片，不新增用户审批",
+    "style": "准确Fred实体表面、MiSans字阶、紫黑重点；无固定整片标题区；原版横向关系竖屏重排",
+    "numerical": "原近似值；不凑100%；微小扇区无最小角，条形窗口含明确总体分母",
+    "audio": "Representative is silent. Sfx returns null. No voice/TTS/BGM. Full-film sound design not verified.",
+    "targetFullFilmSeconds": 150,
+    "existing22BeatSemantics": "preserved as input, representative omits casual-free20% and other beats by scope"
+  },
+  "pages": [
+    {
+      "stableId": "representative-v4",
+      "startFrame": 0,
+      "durationInFrames": 2160,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion"
+      },
+      "oneQuestion": "比例重点怎样保持真实尺度，并交给保存检查任务？",
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t15f",
+          "reason": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+          "preserve": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+          "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+          "useScope": "0–12s",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T15f-DonutShare.tsx",
+            "sha256": "19370051e5c1360af7a3f89040818ee8159e3bc689ff07fea6ab12515c7f5404",
+            "symbol": "DonutShare"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/components/T15f-DonutShare.tsx",
+            "sha256": "3baa8adf4788b7f87c02494fe96cd14721fc83d4d572ab33bc8b0b782a23f6ae",
+            "symbol": "DonutShare"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/Episode.tsx",
+            "sha256": "aa43ab9d0cd653d03568f342cd515781d08e26266fdca42242375bfe6d8e02ae",
+            "symbol": "Population",
+            "callee": "DonutShare"
+          }
+        },
+        {
+          "id": "fred-wave3-40-t05h",
+          "reason": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+          "preserve": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+          "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+          "useScope": "25–36s",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+            "symbol": "SyncVsCopy"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "51f91957d6fe356ceb0b210b2f23595f702be044a02c31a2945974f36aaaaf2c",
+            "symbol": "SyncVsCopy"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/Episode.tsx",
+            "sha256": "aa43ab9d0cd653d03568f342cd515781d08e26266fdca42242375bfe6d8e02ae",
+            "symbol": "Task",
+            "callee": "SyncVsCopy"
+          }
+        }
+      ],
+      "componentPlan": {
+        "query": "占比环 重点抽出 同源分支 状态传递",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t15f",
+            "decision": "selected",
+            "reason": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。"
+          },
+          {
+            "id": "fred-wave3-40-t05h",
+            "decision": "selected",
+            "reason": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t15f",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T15f-1-preview.mp4",
+            "sha256": "9081c2ebab360753bfb088c2733f5a6e53dd21806d0613d0d3582cbd79b86ede",
+            "observations": "实际看过该准确版本全时段采样联系图；全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。 采样不等于连续视听。"
+          },
+          {
+            "id": "fred-wave3-40-t05h",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T05h-1-preview.mp4",
+            "sha256": "aa06dbff54fd44ac6ab13d047bc0f526299baee5689de5509038bef3f7748072",
+            "observations": "实际看过该准确版本全时段采样联系图；同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。 采样不等于连续视听。"
+          }
+        ]
+      },
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r2/F285.png",
+            "sha256": "63d1ebf8b56cd39bbd1ac28f5a64e834f61b19178f9387ccd544db822ed6409b"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r3/F719.png",
+            "sha256": "efb5ffbbaf749c9e46ca644f9536e0f22353b7bd6960795375d257d1568d4032"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r3/F720.png",
+            "sha256": "ce6877d22adb94d001151a4195ac2b8abc8b9217a6d54c8aa40927f850c97124"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r3/F780.png",
+            "sha256": "f951c580304805d2b14ff4818c4f1a2da008fc7ac9baef4cfe7337a4d2775459"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r2/F1260.png",
+            "sha256": "849f706d55884532d6ad1bcd997db97e0676ab8484cdbd82351e221cf0c28711"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r2/F1499.png",
+            "sha256": "3bef1bf539fd68b568fb990078ed79208a8c8602de87fe22f723c8bed63a5115"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r2/F1500.png",
+            "sha256": "3bef1bf539fd68b568fb990078ed79208a8c8602de87fe22f723c8bed63a5115"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r3/F1980.png",
+            "sha256": "366bd5a9c45135a541dc158785c94931ed4097cb508e1b3e0ef6c651342dfdc2"
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/index.tsx",
+            "sha256": "8c7c2d326f6ba170272b77b8391bf9a7ed0b55959f0044eb7e5ba69c3387d8b4"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/Episode.tsx",
+            "sha256": "aa43ab9d0cd653d03568f342cd515781d08e26266fdca42242375bfe6d8e02ae"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/kit/ui.tsx",
+            "sha256": "4371cdbcc34ca169e3f486aea0a4671c6109ddf4c7c57a1b77ea4260d437b51d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "51f91957d6fe356ceb0b210b2f23595f702be044a02c31a2945974f36aaaaf2c"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/components/T20m-PillToWindow.tsx",
+            "sha256": "30e8cd28d88ffdea4085d15abcd4bb7c6309afd73498be0ef610552ca4e5de86"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/src/components/T15f-DonutShare.tsx",
+            "sha256": "3baa8adf4788b7f87c02494fe96cd14721fc83d4d572ab33bc8b0b782a23f6ae"
+          }
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "已看关键静态：75%环、.2%原总体与1%视窗、.00006%与.0001%视窗、同一事项保存分支。",
+          "corePreserved": "T15f完整扫环/抽出/数字/图例；T05h完整源卡/复制分支/断开/状态胶囊；同源原kit保留颜色阴影与字体机制。",
+          "visualQuality": "自查当前关键静态：重点字号、主体尺度、分支层次成立，文本未见裁切；刻度随视窗展开，全屏最终无黑色圆角。此结论只够提交PMO审阅，不代表整段美感已验、连续动态或用户认可。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r2/F285.png",
+            "sha256": "63d1ebf8b56cd39bbd1ac28f5a64e834f61b19178f9387ccd544db822ed6409b"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r3/F719.png",
+            "sha256": "efb5ffbbaf749c9e46ca644f9536e0f22353b7bd6960795375d257d1568d4032"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r3/F720.png",
+            "sha256": "ce6877d22adb94d001151a4195ac2b8abc8b9217a6d54c8aa40927f850c97124"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r3/F780.png",
+            "sha256": "f951c580304805d2b14ff4818c4f1a2da008fc7ac9baef4cfe7337a4d2775459"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r2/F1260.png",
+            "sha256": "849f706d55884532d6ad1bcd997db97e0676ab8484cdbd82351e221cf0c28711"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r2/F1499.png",
+            "sha256": "3bef1bf539fd68b568fb990078ed79208a8c8602de87fe22f723c8bed63a5115"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r2/F1500.png",
+            "sha256": "3bef1bf539fd68b568fb990078ed79208a8c8602de87fe22f723c8bed63a5115"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/frames-r3/F1980.png",
+            "sha256": "366bd5a9c45135a541dc158785c94931ed4097cb508e1b3e0ef6c651342dfdc2"
+          }
+        ],
+        "contextSha256": "6c928b8affa6b2b986959164eac76abad985051941ac0e07a11d66f352aebb91"
+      }
+    }
+  ],
+  "additionalExactSources": {
+    "T20m": "完整模块适配；不冒充当前catalog成员，详见source-map.json",
+    "Magnified": "本期数值视窗延伸；并非T15f原组件，不署名sy17",
+    "sy17": "查阅比较后未采用，实际贡献为0"
+  },
+  "inspectionLimits": {
+    "continuousNormalSpeedViewing": "NOT_PERFORMED",
+    "directAudio": "NOT_APPLICABLE_SILENT_REPRESENTATIVE",
+    "PMOAestheticAcceptance": "PENDING",
+    "independent05QA": "NOT_STARTED",
+    "formal150s": "NOT_RENDERED"
+  }
+}

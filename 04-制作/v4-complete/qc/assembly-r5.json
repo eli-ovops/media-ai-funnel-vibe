@@ -1,0 +1,44 @@
+{
+  "inputs": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/ai-funnel-v4-complete-150s-r4.mp4",
+      "sha256": "1c1892ed7d17102a21200d70cd5676e26f6e19fc67dd91e5ef52cea373e063d1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r5-1380-1457.mp4",
+      "sha256": "2aab34774060b43d43983472deeff57f96263b0de7065273effcef4b03727af2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r5-2100-2177.mp4",
+      "sha256": "be8d787174055bfba715ce21991f66aff1551f0eda40b45d2f99b2434b4f765a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r5-8445-8477.mp4",
+      "sha256": "8785a584e68ea9349656b0e1fd53103b07c12a688679ec151a452dcdc0d25598"
+    }
+  ],
+  "patchFrameRangesExclusive": [
+    [
+      1380,
+      1458
+    ],
+    [
+      2100,
+      2178
+    ],
+    [
+      8445,
+      8478
+    ]
+  ],
+  "output": {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/ai-funnel-v4-complete-150s-r5.mp4",
+    "sha256": "6ac2862d8b34a813ff471ff13d14a572bb77f35e0c5df78e1267bcaab343cbd0"
+  },
+  "method": "Frame-exact trim/concat at original 60fps clock; final H264 encode at CRF16; unchanged content inherited from r4, encoded bytes not expected identical",
+  "expectedFrames": 9000,
+  "source": {
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/FullEpisode.tsx",
+    "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde"
+  }
+}

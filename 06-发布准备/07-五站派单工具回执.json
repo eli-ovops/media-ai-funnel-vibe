@@ -1,0 +1,24 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "at": "2026-10-20T21:21:39.527038+08:00",
+  "tool": "send_message_to_thread",
+  "tool_succeeded": true,
+  "returned_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "target_model": "gpt-6.1-sol",
+  "target_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "scope": [
+    "bilibili",
+    "weibo",
+    "tiktok",
+    "x",
+    "linkedin"
+  ],
+  "xiaohongshu": "USER_CONFIRMED_PUBLISHED_SKIP",
+  "youtube": "COPYRIGHT_BLOCK_SKIP",
+  "channels": "USER_MANUAL_NO_SITE_ACCESS",
+  "close_task_platform_tabs_authorized": true,
+  "report_received": false,
+  "once_pre_dispatch_cursor": "5287235a-893f-4d61-83b2-05f687fded10:5"
+}

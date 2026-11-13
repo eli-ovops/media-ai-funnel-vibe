@@ -1,0 +1,28 @@
+{
+  "startFrame": 3240,
+  "endFrameExclusive": 3660,
+  "renderedFrames": 420,
+  "durationSeconds": 7,
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "wallSeconds": 48.467,
+  "frames": [
+    {
+      "frame": 3240,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/canvas-proof-3240.png",
+      "sha256": "07ecffc5ac0cc723713f90b9b2fc3ce301acac58ee79a979102555f1674cec2b"
+    },
+    {
+      "frame": 3390,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/canvas-proof-3390.png",
+      "sha256": "bf3070b7b671b58ea69c364a8ba6ba00ff334b9deb8f8deed29a618dbdd8d120"
+    },
+    {
+      "frame": 3659,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/canvas-proof-3659.png",
+      "sha256": "bc2e71eef35ac8ef9f50bf4d4442f4c86358706396c6a959564422e3a116befc"
+    }
+  ],
+  "sourceSha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf"
+}

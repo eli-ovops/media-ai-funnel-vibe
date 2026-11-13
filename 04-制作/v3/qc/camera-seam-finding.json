@@ -1,0 +1,25 @@
+{
+  "status": "CLOSED_IN_SAMPLED_FINAL_EXPORT_REVIEW",
+  "discovered_by": "04 source-frame comparison plus actual camera key inspection",
+  "images_viewed": [
+    5328,
+    5340,
+    7008,
+    7020
+  ],
+  "finding": "At88–89s keyframed camera moved ahead of item then reset at follower start; at116.6–117s key camera began moving before follower takeover. These are code-path discontinuities, not a continuous-video viewing claim.",
+  "fix": "Hold follow camera at source until item starts; extend end to matching95.6 key; align116.6 start and118.4 endpoint.",
+  "affected_render_ranges_seconds": [
+    [
+      88,
+      95.6
+    ],
+    [
+      116.6,
+      118.4
+    ]
+  ],
+  "pending": "Current full render remains original source receipt. After completion create new source revision and patch only these ranges; reconstruct one complete video and check decoded final.",
+  "source_geometry_receipt": "qc/camera-patch-geometry.json",
+  "evidence": "qc/visual-review.json"
+}

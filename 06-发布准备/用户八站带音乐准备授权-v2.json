@@ -1,0 +1,30 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "source": "用户本PMO聊天2026-10-20",
+  "user_message": "ok了 无水印版的带音乐版的我发给你了。你直接帮我准备发布到其他8个平台吧",
+  "source_file": "/Users/USER/Downloads/微信视频2026-10-20_201157_614.mp4",
+  "source_sha256": "b207dc5196bec1cfc1e866a2c727a83e6cc7300563b38a39a266bb7db5d49b95",
+  "prepared_media": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/media/ai-funnel-150s-1080p60-with-music.mp4",
+  "prepared_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+  "target_platforms": [
+    "B站",
+    "微博",
+    "YouTube",
+    "TikTok",
+    "X",
+    "LinkedIn",
+    "小红书",
+    "视频号"
+  ],
+  "excluded": [
+    "抖音"
+  ],
+  "all_stop_before_send": true,
+  "public_release_authorized": false,
+  "manual_final_send": [
+    "小红书",
+    "视频号"
+  ],
+  "comments_pins_dms_schedule_paid_delete_authorized": false
+}
+

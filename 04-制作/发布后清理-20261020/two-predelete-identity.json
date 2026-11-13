@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s-r2.mp4",
+    "relative": "04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s-r2.mp4",
+    "bytes": 3407246,
+    "is_symlink": false,
+    "id": 2,
+    "sha256": "917b8e964d5f02e3cea072fc132ccc4c77ffc116cff4b418e0408aeb77a0dac7",
+    "dev": 16777244,
+    "inode": 9191902,
+    "mtime_ns": 1792483240715378277,
+    "mode": 33188,
+    "nlink": 1,
+    "resolved": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s-r2.mp4",
+    "matches": [],
+    "current_stat": {
+      "dev": 16777244,
+      "ino": 9191902,
+      "size": 3407246,
+      "mtime": 1792483240715378277
+    }
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s.mp4",
+    "relative": "04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s.mp4",
+    "bytes": 3360376,
+    "is_symlink": false,
+    "id": 3,
+    "sha256": "4450f102b264793e56c65a7477055f8d333a71686702026ee5b173fa72ad41dd",
+    "dev": 16777244,
+    "inode": 9189047,
+    "mtime_ns": 1792483073825531109,
+    "mode": 33188,
+    "nlink": 1,
+    "resolved": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s.mp4",
+    "matches": [],
+    "current_stat": {
+      "dev": 16777244,
+      "ino": 9189047,
+      "size": 3360376,
+      "mtime": 1792483073825531109
+    }
+  }
+]

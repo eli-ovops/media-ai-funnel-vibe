@@ -1,0 +1,159 @@
+{
+  "version": "v3",
+  "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17",
+  "source_implementations": [
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T04b-RoleSplit.tsx",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/00-T04b-RoleSplit.tsx",
+      "sha256": "d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb",
+      "name": "T04b-RoleSplit",
+      "implementation_symbols": "roleSplit",
+      "call_sites": "previewCircuit",
+      "use_scope": "54–61,68–75s",
+      "adaptation": "Exact segment gap/width/radius; shared task circuit with split bars.",
+      "active_in_v3": true,
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/World.ts",
+      "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17"
+    },
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/01-T05h-SyncVsCopy.tsx",
+      "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+      "name": "T05h-SyncVsCopy",
+      "implementation_symbols": "syncPoint",
+      "call_sites": "pathPoint / route / sceneCam / workSpace",
+      "use_scope": "0–12,54–75,78–144s",
+      "adaptation": "Exact source cubic; same checked item travels to storage/reopen/comparator. Camera follows its actual path at89–95.3 and117–118.4.",
+      "active_in_v3": true,
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/World.ts",
+      "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17"
+    },
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T20m-PillToWindow.tsx",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/02-T20m-PillToWindow.tsx",
+      "sha256": "849a13b9b1ff7740ec00214727628503d6e6dddf50cd81bc7e246f6c3eee041c",
+      "name": "T20m-PillToWindow",
+      "implementation_symbols": "pillWindow",
+      "call_sites": "paper",
+      "use_scope": "75.8–78s",
+      "adaptation": "Source pill/window size morph; scene enters at77s after previous lens contracts.",
+      "active_in_v3": true,
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/World.ts",
+      "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17"
+    },
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/03-theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "name": "Fred wave3 kit",
+      "implementation_symbols": "q / springAt",
+      "call_sites": "chart / drawWorld / all local timelines",
+      "use_scope": "throughout",
+      "adaptation": "Source q smoothing and spring radial extraction active. p imported but not called.",
+      "active_in_v3": true,
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/World.ts",
+      "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17"
+    },
+    {
+      "source": "/Users/USER/.codex/skills/sy-styles-20/references/repository/styles/17-editorial/index.html",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/04-index.html",
+      "sha256": "d0ff263a0039e6c4d7de03225b6ec2a67d0800f81bddc41de37103a0b57e8708",
+      "name": "sy17-editorial",
+      "implementation_symbols": "editorialCamera",
+      "call_sites": "chartGeometry / sceneCam",
+      "use_scope": "46–75,0–150s camera keys",
+      "adaptation": "Exact logarithmic scale/inOutCubic; arc-length lens and world camera. Follow-item ranges use actual source path.",
+      "active_in_v3": true,
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/World.ts",
+      "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17"
+    },
+    {
+      "source": "/Users/USER/.codex/skills/sy-styles-20/references/repository/styles/20-blueprint/index.html",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/05-index.html",
+      "sha256": "69d159ecfcce8c2d3be60d69f33e836f7cd95e4bbf68c52f0e00f63275e801d7",
+      "name": "sy20-blueprint",
+      "implementation_symbols": "camMat / project",
+      "call_sites": "NOT_CALLED",
+      "use_scope": "none",
+      "adaptation": "Retained prior source provenance only. World uses affine2.5D, not source perspective projector.",
+      "active_in_v3": false,
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/World.ts",
+      "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17"
+    },
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T15f-DonutShare.tsx",
+      "sha256": "19370051e5c1360af7a3f89040818ee8159e3bc689ff07fea6ab12515c7f5404",
+      "name": "T15f-DonutShare",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/reference/T15f-DonutShare.tsx",
+      "implementation_symbols": "donutShare / arcLens",
+      "call_sites": "chart / drawWorld",
+      "use_scope": "10.8–78,139–150s",
+      "adaptation": "Accumulated share span, sweep and radial extraction ported to Canvas; zero gap/no minimum angle/butt caps. Arc unroll and labeled overall window added for tiny shares.",
+      "active_in_v3": true,
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/World.ts",
+      "implementation_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17",
+      "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17"
+    }
+  ],
+  "reference_reading": {
+    "T15f": "22 source contact-sheet samples0–4.912s, full source and card read",
+    "Nico": "transition1/2:12 indexed samples, not continuous",
+    "same_topic_B": "17 new samples25–75s every5s plus44.5,45.5,46.5,51.5,52.5,53.5; plus previously supplied26,31,46,54,60 and70–75sheet viewed",
+    "continuous_video": false,
+    "direct_hearing": false,
+    "research_scope": "bounded existing local material; ended; no new research"
+  },
+  "additional_candidates_sampled": [
+    "T13a",
+    "T18d",
+    "T15a",
+    "T05h",
+    "T04b",
+    "T20m"
+  ],
+  "candidate_decisions": {
+    "T13a": "layer structure rejected",
+    "T18d": "project-name card rejected",
+    "T15a": "parallel bars rejected as main image",
+    "T05h": "same object paths adopted",
+    "T04b": "split mechanism adopted",
+    "T20m": "pill-window mechanism adopted"
+  },
+  "historical_reference_map": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/source-map.json",
+  "fonts": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-Heavy.otf",
+      "sha256": "6be4fe9fd5fcfbf766e90b0936b44b731893a3836376a77d964673f398b7131c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-Medium.otf",
+      "sha256": "f9239c75fa0a661b788916250c6d4ad0d52d8a643f1ce2a9142f6588d4d2cb64"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-Semibold.otf",
+      "sha256": "8a194c3e7f6813f73a2c68988bf77483296268416fb0c1d0870338a0b23b8c9a"
+    }
+  ],
+  "original_elements": [
+    "arc-length unroll and exact denominator lens",
+    "one shared work graph with check/save/reopen/feedback/compare states",
+    "camera following actual carrier",
+    "single access selector opening route boundaries"
+  ],
+  "catalog_gate_scope": "T15f/T05h/T04b current local catalog; T20m and sy17 tracked by exact source hashes, not asserted catalog membership",
+  "boundary": "Source mechanisms adapted; not a pixel-identical remake. No reference video composited. Discrete images viewed; continuous video/audio not performed.",
+  "late_camera_repair": "88–95.6 and116.6–118.4 only; exact same-item camera joins corrected; qc/camera-patch-geometry.json",
+  "late_label_repairs": "27–33,46–47.4,88.5–90.4: annotation spacing and label entry/avoidance; no ratio or story change"
+}

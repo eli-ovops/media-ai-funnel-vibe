@@ -1,0 +1,28 @@
+{
+  "startFrame": 5280,
+  "endFrameExclusive": 5736,
+  "renderedFrames": 456,
+  "durationSeconds": 7.6,
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "wallSeconds": 37.563,
+  "frames": [
+    {
+      "frame": 5280,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/qc/canvas-seam-a-proof-5280.jpg",
+      "sha256": "c7c70dae0dff610b399ef5ed08cbbb35d28ee6bc69bafe4da47bd0e5e048e038"
+    },
+    {
+      "frame": 5508,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/qc/canvas-seam-a-proof-5508.jpg",
+      "sha256": "094e623ca0fc91f8f0746034806a8fc6a908edca77cc6aedc706111a9c71ebf2"
+    },
+    {
+      "frame": 5735,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/qc/canvas-seam-a-proof-5735.jpg",
+      "sha256": "8730fc9cf2697a26ce54cf72b638d5d6f28593f27dc1e4cd09afa291ef173c1b"
+    }
+  ],
+  "sourceSha256": "8a82a40c1136fd08427f5bf43bf6d1569011170f13e065ae2410d8b7ef26aa74"
+}

@@ -1,0 +1,42 @@
+{
+  "source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/Karpathy-原文.txt",
+  "sha256": "24e3726bec0355e9be259e9b16912ad5d991521efeb6484008f324fd0b459671",
+  "url": "https://x.com/karpathy/status/2109361546505966046",
+  "author_estimate": true,
+  "not_partition_or_census": true,
+  "normalization_applied": false,
+  "first_binary_complement": 25,
+  "rows": [
+    {
+      "people": "约60亿",
+      "percentage": 75,
+      "fraction": 0.75,
+      "meaning": "几乎未接触LLM",
+      "detail_window_fraction": 1
+    },
+    {
+      "people": "约10–20亿",
+      "percentage": 20,
+      "fraction": 0.2,
+      "meaning": "偶尔使用免费聊天产品",
+      "detail_window_fraction": 1
+    },
+    {
+      "people": "约2000万",
+      "percentage": 0.2,
+      "fraction": 0.002,
+      "meaning": "数学/编程中专业使用前沿模型",
+      "detail_window_fraction": 0.01
+    },
+    {
+      "people": "约5000",
+      "percentage": 6e-05,
+      "fraction": 6e-07,
+      "meaning": "可访问内部前沿系统",
+      "detail_window_fraction": 1e-06
+    }
+  ],
+  "ruler_width_px": 760,
+  "mini_wedge": "zero gap, butt cap, no minimum angle; source tiny arc may be subpixel",
+  "location_marker": "locator only, not data area"
+}

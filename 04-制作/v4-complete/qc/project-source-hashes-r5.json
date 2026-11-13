@@ -1,0 +1,63 @@
+{
+  "changedFromR4": [
+    "src/FullEpisode.tsx"
+  ],
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/index.tsx",
+      "sha256": "a9b8f3c9cc331ad79e36190897b6d0f9ffe029ffa10e73fa9c64327312d6f357"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/Magnified.tsx",
+      "sha256": "6ccdc1feb694fda8dd2f0604838696913e49e9d4b926460e806792e85fd31ac9"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/Episode.tsx",
+      "sha256": "e9125ac23d5dad7895be411beb863f8b579abeff2eb7cef261427553a44027d9"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/FullEpisode.tsx",
+      "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/kit/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/kit/ui.tsx",
+      "sha256": "4371cdbcc34ca169e3f486aea0a4671c6109ddf4c7c57a1b77ea4260d437b51d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/components/T05h-SyncVsCopy.tsx",
+      "sha256": "a83aa9965398e10a5997a558399ebbb210defcf8067d51114f1cd50e804f700e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/components/T04b-RoleSplit.tsx",
+      "sha256": "f59ba1e1acf3ad78432ac80e39249f5be111b13b3fbe4cdbfb4857e19809e9aa"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/components/_shared.ts",
+      "sha256": "f5ebf5850bf3dd67d094ce7e9778bd52c44ff138b27abf70ce72b3378f79aaa8"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/components/T20m-PillToWindow.tsx",
+      "sha256": "458dc1719dfcdd37e9233e765cc1adae77fcaa2b61afbbf286f6db13bcae5508"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/components/T04g-DecisionTree.tsx",
+      "sha256": "036dc8bd35e0efe03bcaab09620867d70e4fadbdeb3f3cd4e3bfe5a3723197b6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/components/T15f-DonutShare.tsx",
+      "sha256": "137722b4e9b706ee00532ae6f3680395edd8409c168fc57c6926c0b56c4662a4"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/components/T03e-StepChain.tsx",
+      "sha256": "51e50e71ac13fe4788056be4f87e3cd0e7e66174fcff80f96c4b3bc93947b3ed"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/src/components/T02g-RoleRoadmap.tsx",
+      "sha256": "df2162b4cb50e2822f7b7278af4df1e00758bd307610cbd2cba0548a4d5bedc8"
+    }
+  ]
+}

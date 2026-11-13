@@ -1,0 +1,64 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "ACCEPT_SELECTED_VISUAL_REFERENCE_INPUTS_ONLY",
+  "scope": "Seven original identities, sampled visual structure and object relationship mechanisms for150sec; no full-track or continuous-AV or exact-BGM acceptance",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/七条参考地图与150秒启示.md",
+      "sha256": "12763ae76bb8c8cf7a8e60854bba4daf175732a31b05164821c00acb0beb9d9a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/七条索引.json",
+      "sha256": "aba5eaf7ebcb4a10c656df9bf646f95514d2d9a21e1cf1122f3e28296e6f2b59"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/读取范围.json",
+      "sha256": "edd259261742cdf3e19edfdd3f04edee27aea61e672396018e0fe326ed519bc1"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/音乐核验.json",
+      "sha256": "451e175f7d9bfc36b92926a7fdbd17d6811f9900d9dd4e1ebaf46b8dd5d8cd94"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/文件清单.json",
+      "sha256": "102d23b650d5c6200d82467926b8913390fac3fe541716e441d044af53e48a61"
+    }
+  ],
+  "pmo_viewed_contact_sheets": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Nico/transition-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Nico/transition-2.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Zhao/transition-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Xiao/transition-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Bird/transition-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Luck/transition-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Curse/transition-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Opus/transition-1.jpg"
+  ],
+  "pmo_viewed_presentations": 43,
+  "manifest_verified_count": 199,
+  "manifest_verified_bytes": 19583702,
+  "manifest_mismatches": [],
+  "owner_reported_coverage": {
+    "identities": 7,
+    "visual_samples": 147,
+    "full_track_asr": 0,
+    "continuous_av": 0,
+    "direct_audio": 0
+  },
+  "music": {
+    "status": "UNKNOWN_ACCURATE_NICO_TRACK_UNOBTAINED",
+    "user_text_clarification_requested": true,
+    "question": "Nico track name or native music-page link",
+    "does_not_block": "02 screen text/timing and later04 visual implementation",
+    "still_required_before_complete_delivery": "Exact user selected BGM or user-approved concrete alternative"
+  },
+  "retained_limitations": [
+    "No continuous motion/audio read for7 references",
+    "Do not claim the7 tracks are identical",
+    "Do not infer original software/curves from style",
+    "Source music still needs actual media/identity evidence"
+  ],
+  "next_owner": "02 sameOwner150sec WIP",
+  "at": "2026-10-20T11:54:33.381119+08:00"
+}

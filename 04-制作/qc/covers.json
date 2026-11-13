@@ -1,0 +1,34 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/covers/funnel-v1-cover-3x4.png",
+    "width": 1080,
+    "height": 1440,
+    "sha256": "b60edfc313d08fe63c28a729f2a6b77928c28ffc5e7233f5ebefb07d0ee64386",
+    "status": "CANDIDATE_FOR_USER_REVIEW",
+    "method": "Original code drawing, frozen copy; no imagegen or personal photo. Current pure-code/no-person instruction overrides default portrait/imagegen cover method."
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/covers/funnel-v1-cover-9x16.png",
+    "width": 1080,
+    "height": 1920,
+    "sha256": "7268d764a09cdd6b068f56352053f36782d00a8ad552e961a5ecfbf29c5ab5cc",
+    "status": "CANDIDATE_FOR_USER_REVIEW",
+    "method": "Original code drawing, frozen copy; no imagegen or personal photo. Current pure-code/no-person instruction overrides default portrait/imagegen cover method."
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/covers/funnel-v1-cover-16x9.png",
+    "width": 1920,
+    "height": 1080,
+    "sha256": "c840f9b4fabd0c87338c75bab0665482d16cf33a93ab85e7476f151a61a4f1ca",
+    "status": "CANDIDATE_FOR_USER_REVIEW",
+    "method": "Original code drawing, frozen copy; no imagegen or personal photo. Current pure-code/no-person instruction overrides default portrait/imagegen cover method."
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/covers/funnel-v1-cover-4x3.png",
+    "width": 1440,
+    "height": 1080,
+    "sha256": "b234785b6872ef0c727cbf6b34b4aac90539ae85f9e8d2e7dea8c8d9ad0791c7",
+    "status": "CANDIDATE_FOR_USER_REVIEW",
+    "method": "Original code drawing, frozen copy; no imagegen or personal photo. Current pure-code/no-person instruction overrides default portrait/imagegen cover method."
+  }
+]

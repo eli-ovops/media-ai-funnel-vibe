@@ -1,0 +1,15 @@
+{
+  "status": "TOOL_SEND_SUCCEEDED",
+  "PMOReceipt": "NOT_YET_CONFIRMED",
+  "PMOAcceptance": "PENDING",
+  "target": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "toolResult": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  }
+}

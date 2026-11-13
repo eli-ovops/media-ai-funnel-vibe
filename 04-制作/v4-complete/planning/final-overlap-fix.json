@@ -1,0 +1,20 @@
+{
+  "version": "r5",
+  "baseline": "r4",
+  "patches": [
+    [
+      1380,
+      1458
+    ],
+    [
+      2100,
+      2178
+    ],
+    [
+      8445,
+      8478
+    ]
+  ],
+  "reason": "Delay new content until the old geometric carrier or labels clear; end frames exclusive",
+  "sourceChanged": "src/FullEpisode.tsx"
+}

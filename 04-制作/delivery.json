@@ -1,0 +1,210 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "04-visual-v1-150s",
+  "status": "INTERNAL_MASTER_READY_FOR_PMO_REVIEW; NOT_FINAL_AV",
+  "owner": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "video": {
+    "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/ai-funnel-v1-internal-150s.mp4",
+    "sha256": "4a287e4dee64f6ebb689788dd002da481bbaf9a2413158672ee91962c8496adf",
+    "width": 1080,
+    "height": 1920,
+    "r_frame_rate": "60/1",
+    "avg_frame_rate": "60/1",
+    "nb_frames": "9000",
+    "video_duration": "150.000000",
+    "audio_duration": "150.000000",
+    "format_duration": "150.000000",
+    "full_decode": "PASS"
+  },
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/ai-funnel-v1-internal-150s.mp4",
+      "bytes": 7620518,
+      "sha256": "4a287e4dee64f6ebb689788dd002da481bbaf9a2413158672ee91962c8496adf"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/code-sfx-v1.wav",
+      "bytes": 28800044,
+      "sha256": "7a2c98b7c97d5817d1640caaa15713277a938cff62cbd95c03a024167a13bc0d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/README.md",
+      "bytes": 4626,
+      "sha256": "82c9f37279ce8bae19f43d43cf437eb802240082183500bbf5aed6cd99a7c33a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/content-package.json",
+      "bytes": 46728,
+      "sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/screen-copy-review.srt",
+      "bytes": 1673,
+      "sha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/manifest.json",
+      "bytes": 56546,
+      "sha256": "28d0cf7408a8d21d3136dea38ff46924cb0320d9b10cad8bb34f3e946dd56d93"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/source-map.json",
+      "bytes": 9574,
+      "sha256": "d395b0ed19178ec1a271cbea8b2c93e82a2c8217afe15aa3ad772b54c09aab23"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/World.ts",
+      "bytes": 15634,
+      "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/kit.ts",
+      "bytes": 2711,
+      "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/index.tsx",
+      "bytes": 1171,
+      "sha256": "9bd2df77ea5316f581086aea181fd22d14c285846f199646134152d3e9fac39a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/canvas-bootstrap.ts",
+      "bytes": 648,
+      "sha256": "b6e91911b47cfbc7984b7caea8d8c6003e0b3a1fe5ba91f6119310608feaf381"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/render-canvas.cjs",
+      "bytes": 3475,
+      "sha256": "bc7aacdc6330e7de9908c6368dcaa9d42e732fc26f385206f0bb71541cb8e5b7"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/render.cjs",
+      "bytes": 1543,
+      "sha256": "f68dd867fa2dc23fd45dbe00108d4675443edbfe2451fb04d8b7c22f89ae568d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/audio.py",
+      "bytes": 1564,
+      "sha256": "ba89bb87bfb60d9b87c536832a5d4a245c5d52e96e887ac4e02bb8d330069e6f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/events.json",
+      "bytes": 2127,
+      "sha256": "ed389fc987fcb8484f8d1c47f7b98920983ed24f7889598e5d7a444a933a3e87"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers.py",
+      "bytes": 2688,
+      "sha256": "e109e73411a3d3f47d208b70d30545ba1c1ab92f7a0362ac942abad871cc6ceb"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/verify-export.py",
+      "bytes": 3021,
+      "sha256": "f63bdf0f86ac669da2d3783912df53fcb9ff81bd8d1ba7cd5414e4c8daae5282"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/visual-review.json",
+      "bytes": 2511,
+      "sha256": "323483e82f00be6ee400af057f0ca7b530bd1c59183d3a014e974bb5d1741858"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/export-check.json",
+      "bytes": 14290,
+      "sha256": "7f985c2ff9f095e81159a7a5a031d6a00c74d8322cf16d70b33081e6af799e53"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/library-keyframes-localpaths.json",
+      "bytes": 421,
+      "sha256": "368e9591f0ca75467bb1f01ed06fec13da1bd303d9bed1ff9d5b1d90396eb62b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/planning-delivery.json",
+      "bytes": 482,
+      "sha256": "aba92a063d96849d8e99058f33b2e29384e7caae8d15786f2c322d57a1f9ffbf"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/implementation-delivery.json",
+      "bytes": 803,
+      "sha256": "75032929c2f9b035c0205712bf61dedb6e695aea99005f220e49e9368f29e31a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/covers/funnel-v1-cover-3x4.png",
+      "width": 1080,
+      "height": 1440,
+      "sha256": "b60edfc313d08fe63c28a729f2a6b77928c28ffc5e7233f5ebefb07d0ee64386",
+      "status": "CANDIDATE_FOR_USER_REVIEW",
+      "method": "Original code drawing, frozen copy; no imagegen or personal photo. Current pure-code/no-person instruction overrides default portrait/imagegen cover method."
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/covers/funnel-v1-cover-9x16.png",
+      "width": 1080,
+      "height": 1920,
+      "sha256": "7268d764a09cdd6b068f56352053f36782d00a8ad552e961a5ecfbf29c5ab5cc",
+      "status": "CANDIDATE_FOR_USER_REVIEW",
+      "method": "Original code drawing, frozen copy; no imagegen or personal photo. Current pure-code/no-person instruction overrides default portrait/imagegen cover method."
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/covers/funnel-v1-cover-16x9.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c840f9b4fabd0c87338c75bab0665482d16cf33a93ab85e7476f151a61a4f1ca",
+      "status": "CANDIDATE_FOR_USER_REVIEW",
+      "method": "Original code drawing, frozen copy; no imagegen or personal photo. Current pure-code/no-person instruction overrides default portrait/imagegen cover method."
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/covers/funnel-v1-cover-4x3.png",
+      "width": 1440,
+      "height": 1080,
+      "sha256": "b234785b6872ef0c727cbf6b34b4aac90539ae85f9e8d2e7dea8c8d9ad0791c7",
+      "status": "CANDIDATE_FOR_USER_REVIEW",
+      "method": "Original code drawing, frozen copy; no imagegen or personal photo. Current pure-code/no-person instruction overrides default portrait/imagegen cover method."
+    }
+  ],
+  "audio": {
+    "sfx_events": 37,
+    "music": "NICO_EXACT_TRACK_PENDING",
+    "voice_tts_human_recording": false,
+    "pcm_true_peak_dbfs": -14.1,
+    "aac_true_peak_dbfs": -14.1,
+    "direct_hearing": "NOT_PERFORMED"
+  },
+  "visual_review": {
+    "actual_mp4_unique_frames": 61,
+    "native_size_extra_checks": [
+      50.15,
+      106.65,
+      135.65
+    ],
+    "normal_speed_continuous": "NOT_PERFORMED",
+    "independent_05": "PENDING",
+    "user_final": "PENDING"
+  },
+  "stage_gates": {
+    "planning": "PASS_LOCAL_SHA_BINDINGS",
+    "implementation": "PASS_LOCAL_SHA_BINDINGS",
+    "keyframes": "PASS_LOCAL_SHA_BINDINGS",
+    "representative_normal_speed": "UNSATISFIED_CAPABILITY",
+    "formal_av": "NOT_PASSED"
+  },
+  "cleanup": {
+    "temporary_frame_pngs_deleted": 2907,
+    "actual_available_delta_bytes": 3051962368,
+    "protected_inputs_and_deliverables": "retained"
+  },
+  "renderer": {
+    "mode": "one Chrome context; native Canvas export from same World.ts and fonts; ffmpeg encoder",
+    "fps": 60,
+    "frames": 9000,
+    "full_render_seconds": 580.649,
+    "new_dependency_installs": 0,
+    "new_subagents": 0,
+    "model_effort_speed": "UNKNOWN"
+  },
+  "pmo_report": {
+    "sent": true,
+    "receipt": "qc/PMO-report-receipt.json",
+    "received": "UNKNOWN",
+    "acceptance": "PENDING"
+  },
+  "publication": "NOT_AUTHORIZED_AND_NOT_ATTEMPTED"
+}

@@ -1,0 +1,68 @@
+{
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/ai-funnel-v2-fix1-internal-150s.mp4",
+  "sha256": "758ab4d64be1aedbafdb4d1c444b34a39de79f7004581bb3f3b9a9882f282e63",
+  "width": 1080,
+  "height": 1920,
+  "fps": "60/1",
+  "avg_fps": "60/1",
+  "frames": "9000",
+  "video_duration": "150.000000",
+  "audio_duration": "150.000000",
+  "audio_sample_rate": "48000",
+  "full_decode": "PASS",
+  "full_decode_errors": "",
+  "audio_stream_hashes": [
+    "SHA256=c68872fe3304672124928e58a082cd8ebebb83e7fa55b7004af8602fa39be693",
+    "SHA256=c68872fe3304672124928e58a082cd8ebebb83e7fa55b7004af8602fa39be693"
+  ],
+  "audio_stream_exact_match": true,
+  "extracted_frames": 64,
+  "comparisons": [
+    {
+      "frame": 2421,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/compare-F2421.jpg",
+      "sha256": "a0f4604554f35de59078217d4cf0f145a9754c7f7cecf85354e358c37c705467",
+      "old": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/issue-F2421.jpg",
+      "new": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/selected-010.jpg"
+    },
+    {
+      "frame": 3255,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/compare-F3255.jpg",
+      "sha256": "50ee025c31e80a062a478fe144f7babf017a3ed751a1ba2ccc99a088b8a2da12",
+      "old": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/extra-049.jpg",
+      "new": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/selected-024.jpg"
+    },
+    {
+      "frame": 4095,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/compare-F4095.jpg",
+      "sha256": "473af7b4bbb2aeefdca82435c61fa37777d9ac43da2cb0949acae8b4aaa29d7d",
+      "old": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/extra-065.jpg",
+      "new": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/selected-040.jpg"
+    },
+    {
+      "frame": 7035,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/compare-F7035.jpg",
+      "sha256": "e9761e8270ca1cc03c477f59964cd18161edecacc8ebd0dfc5dc91be8d370a2b",
+      "old": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v2/extra-121.jpg",
+      "new": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/qc/final/selected-056.jpg"
+    }
+  ],
+  "actual_image_review": {
+    "status": "COMPLETED_WITHIN_SCOPED_STILL_FRAME_REVIEW",
+    "contact_sheets_viewed": 8,
+    "final_frames_viewed": 64,
+    "additional_native_size_reviews": [
+      2421,
+      3255,
+      4095,
+      7035
+    ],
+    "finding": "Q1 old counts/descriptions remain unobscured; compact carrier stays in clear gutter; Q2 complete/save contours remain separate in reviewed images. Adjacent splice states reviewed.",
+    "limits": "Discrete exported stills; not continuous normal-speed audiovisual acceptance."
+  },
+  "normal_speed_continuous": "NOT_PERFORMED",
+  "direct_hearing": "NOT_PERFORMED",
+  "music_status": "USER_WILL_ADD_NATIVE_PLATFORM_MUSIC; NOT_REQUIRED_IN_MASTER",
+  "independent_05_recheck": "PENDING",
+  "user_final_review": "PENDING"
+}

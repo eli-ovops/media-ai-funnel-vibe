@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-20T22:59:00.995184+08:00",
+  "stdout": "Filesystem   1024-blocks      Used  Available Capacity  Mounted on\n/dev/disk7s1  2000478168 339902084 1660278900    17%    /Volumes/EXTERNAL\n",
+  "unit_bytes": 1024,
+  "filesystem": "/dev/disk7s1",
+  "mount": "/Volumes/EXTERNAL",
+  "available_blocks": 1660278900
+}

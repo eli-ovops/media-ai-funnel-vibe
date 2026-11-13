@@ -1,0 +1,20 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "saved_at": "2026-10-20 21:24:26",
+  "media": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/media/ai-funnel-150s-1080p60-with-music.mp4",
+  "sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+  "preparation_receipts": [
+    "八站执行回执-v2.json",
+    "微博-v1替换前字段备份.json",
+    "领英旧草稿恢复资料-v2.json"
+  ],
+  "youtube": {
+    "draft": "0iSk4fxiGH8",
+    "state": "SAVED_GLOBALLY_BLOCKED_DRAFT",
+    "old_silent": "BCuF26Dfg2U"
+  },
+  "tiktok_old_silent_draft": "176764753924",
+  "weibo_unsent_old_silent": "tab2 only; do not publish; saved fieldbackup available",
+  "video_manual": "视频号手动包-v2.md",
+  "xiaohongshu": "USER_CONFIRMED_PUBLISHED; currenttab9published=true; no second send"
+}

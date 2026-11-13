@@ -1,0 +1,21 @@
+{
+  "findings": "Final native frame46.2 chart unroll over low-opacity count;28.5 labels close to denominator note;89 carrier overlaps问答 label.",
+  "fix": "Delay lens labels until47.1; lower heard/use process below denominator; hide question label only during carrier crossing.",
+  "patch_ranges_seconds": [
+    [
+      27,
+      33
+    ],
+    [
+      46,
+      47.4
+    ],
+    [
+      88,
+      95.6
+    ]
+  ],
+  "status": "CLOSED_IN_SAMPLED_FINAL_EXPORT_REVIEW",
+  "world_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17",
+  "evidence": "qc/visual-review.json"
+}

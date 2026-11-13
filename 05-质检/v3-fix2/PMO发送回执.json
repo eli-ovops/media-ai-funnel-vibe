@@ -1,0 +1,15 @@
+{
+  "status": "SUCCESS",
+  "meaning": "工具发送成功；PMO接收处理及验收未在本轮核实",
+  "target": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "report_sha256": "789d8e77922862d53bac8638f6a65f902fbcae31972ae65ea8409c4421675381",
+  "raw_result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  }
+}

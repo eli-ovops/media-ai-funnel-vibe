@@ -1,0 +1,15 @@
+{
+  "status": "SUCCESS",
+  "target_thread": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "report_sha256": "f1779f3b36d8b6ced3f9e7c38ca058061ed8cc28522f5d1705894365089f3eef",
+  "meaning": "工具发送成功；PMO处理与验收未核实",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"threadId\":\"01a11194-c40d-7bf0-8396-5bb5d6449444\"}"
+      }
+    ],
+    "isError": false
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "frames_checked": 9000,
+  "changed_camera_frame_count": 183,
+  "all_changes_within_patched_ranges": true,
+  "joins": [
+    {
+      "frame": 5280,
+      "before": {
+        "xy": 0.000037857577299369035,
+        "z": 0
+      },
+      "after": {
+        "xy": 0.000037857577299369035,
+        "z": 0
+      }
+    },
+    {
+      "frame": 5340,
+      "before": {
+        "xy": 603.341376899553,
+        "z": 0
+      },
+      "after": {
+        "xy": 0,
+        "z": 0
+      }
+    },
+    {
+      "frame": 5736,
+      "before": {
+        "xy": 0.0004822530864316832,
+        "z": 0
+      },
+      "after": {
+        "xy": 0,
+        "z": 0
+      }
+    },
+    {
+      "frame": 6996,
+      "before": {
+        "xy": 0.006322873799717854,
+        "z": 0
+      },
+      "after": {
+        "xy": 0.006322873799717854,
+        "z": 0
+      }
+    },
+    {
+      "frame": 7020,
+      "before": {
+        "xy": 25.11224787888102,
+        "z": 0.001966958035374722
+      },
+      "after": {
+        "xy": 0,
+        "z": 0
+      }
+    },
+    {
+      "frame": 7104,
+      "before": {
+        "xy": 4.996837878230524,
+        "z": 0.050000000000000044
+      },
+      "after": {
+        "xy": 0.0011087953766173015,
+        "z": 0.000021089785120498306
+      }
+    }
+  ],
+  "scope": "Source camera geometry only; final MP4 seam images checked separately"
+}

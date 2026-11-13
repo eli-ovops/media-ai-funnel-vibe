@@ -1,0 +1,149 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "v3",
+  "owner_thread": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "status": "04_VISUAL_REWORK_DELIVERABLE_PENDING_PMO_05_USER",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/ai-funnel-v3-review-final-150s.mp4",
+  "sha256": "3cdb6ce08d9ab4826737bf76d0efab926a9ca86c2d726ad240be446fd6c6b386",
+  "bytes": 15153274,
+  "source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/World.ts",
+  "source_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17",
+  "spec": {
+    "duration_seconds": 150,
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "frames": 9000
+  },
+  "change_scope_seconds": [
+    0,
+    150
+  ],
+  "late_internal_fix_ranges_frames_end_exclusive": [
+    [
+      1620,
+      1980
+    ],
+    [
+      2760,
+      2844
+    ],
+    [
+      5280,
+      5736
+    ],
+    [
+      6996,
+      7104
+    ]
+  ],
+  "full_render_receipt": "qc/canvas-full-receipt.json",
+  "final_composition_receipt": "qc/canvas-final-composed-receipt.json",
+  "data": "chart-data.json",
+  "text_index": "screen-text-index.json",
+  "source_map": "source-map.json",
+  "covers_retained": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/covers/funnel-v2-cover-16x9.png",
+      "sha256": "c840f9b4fabd0c87338c75bab0665482d16cf33a93ab85e7476f151a61a4f1ca",
+      "approval": "NOT_REAPPROVED"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/covers/funnel-v2-cover-3x4.png",
+      "sha256": "b60edfc313d08fe63c28a729f2a6b77928c28ffc5e7233f5ebefb07d0ee64386",
+      "approval": "NOT_REAPPROVED"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/covers/funnel-v2-cover-4x3.png",
+      "sha256": "b234785b6872ef0c727cbf6b34b4aac90539ae85f9e8d2e7dea8c8d9ad0791c7",
+      "approval": "NOT_REAPPROVED"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/covers/funnel-v2-cover-9x16.png",
+      "sha256": "7268d764a09cdd6b068f56352053f36782d00a8ad552e961a5ecfbf29c5ab5cc",
+      "approval": "NOT_REAPPROVED"
+    }
+  ],
+  "music_status": "USER_WILL_ADD_NATIVE_PLATFORM_MUSIC; NOT_REQUIRED_IN_MASTER",
+  "technical_checks": {
+    "metadata": "PASS",
+    "full_decode": "PASS",
+    "audio_stream_exact_match": "PASS",
+    "geometry": "PASS",
+    "final_chart_pixel_widths": [
+      144,
+      432
+    ],
+    "library_keyframes": "PASS"
+  },
+  "visual_review": {
+    "status": "COMPLETED_WITHIN_SAMPLED_SCOPE",
+    "final_mp4_sha256": "3cdb6ce08d9ab4826737bf76d0efab926a9ca86c2d726ad240be446fd6c6b386",
+    "reviewer": "assistant",
+    "owner": "04",
+    "prior_export_review": {
+      "sha256": "af6bd4398955812e89910affa223f6c1208f0a6966c70bfd6a2dfe9ce6c3a94a",
+      "sample_count": 127,
+      "contact_sheets_viewed": 15,
+      "coverage": "whole150s representative and transition times; precise index qc/final-frame-index.json"
+    },
+    "final_export_review": {
+      "generated_samples": 136,
+      "delta_samples_actually_viewed": 39,
+      "delta_sheets_actually_viewed": 5,
+      "native_frames_actually_viewed": [
+        1710,
+        2772,
+        2826,
+        2844,
+        3000,
+        3900,
+        5340,
+        5736,
+        7038,
+        7722,
+        8820
+      ],
+      "unchanged_sample_comparison": "qc/final-pixel-check.json",
+      "generated_does_not_mean_all_viewed": true
+    },
+    "findings_closed": [
+      "camera takeovers89/117 and endpoints95.6/118.4",
+      "chart46s label overlap",
+      "heard/use label spacing27–33",
+      "question label under carrier89s"
+    ],
+    "design_observations": [
+      "Main charts preserve source ratios and same denominator; no forced four-part100percent partition.",
+      "Micro shares have true full-ring spans plus explicitly labeled zoom windows, not enlarged pie slices.",
+      "One work graph/camera and item state changes replace prior station cards.",
+      "Nonfocus objects/labels may leave the work viewport during camera tour; foreground item follows actual path."
+    ],
+    "limits": [
+      "No normal-speed continuous video perception",
+      "No direct audio hearing",
+      "No global no-flicker claim between samples",
+      "No claim of reference-level aesthetics or user acceptance"
+    ],
+    "independent_05": "PENDING",
+    "PMO_acceptance": "PENDING",
+    "user_review": "PENDING"
+  },
+  "normal_speed_continuous": "NOT_PERFORMED",
+  "direct_hearing": "NOT_PERFORMED",
+  "independent_05": "PENDING",
+  "user_final_review": "PENDING",
+  "publication": "NOT_PERFORMED",
+  "protected_assets": "No older versions/source media/library/shared project state changed",
+  "pmo_report": {
+    "sent": true,
+    "receipt": "qc/PMO-report-receipt.json",
+    "received": "UNKNOWN",
+    "acceptance": "PENDING"
+  },
+  "evidence_inventory": "file-inventory.json",
+  "readme": "README.md",
+  "model_actual": "UNKNOWN",
+  "effort_actual": "UNKNOWN",
+  "speed_actual": "UNKNOWN"
+}

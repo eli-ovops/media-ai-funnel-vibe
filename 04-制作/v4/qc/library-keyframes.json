@@ -1,0 +1,12 @@
+{
+  "status": "FAIL",
+  "stage": "keyframes",
+  "errors": [
+    "representative-v4: source does not belong to selected component",
+    "representative-v4: source does not belong to selected component",
+    "Source parser unavailable; install apps/library dependencies",
+    "representative-v4: selected source unavailable: fred-wave3-40-t15f (needs-auth); install verified source or choose an available public component",
+    "representative-v4: selected source unavailable: fred-wave3-40-t05h (needs-auth); install verified source or choose an available public component"
+  ],
+  "manifestSha256": "5197a7da1f319b348a011b688d45d1f4adbc77fe4f13ff43a84d97087c34b56f"
+}

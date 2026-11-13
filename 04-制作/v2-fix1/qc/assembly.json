@@ -1,0 +1,120 @@
+{
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/ai-funnel-v2-fix1-internal-150s.mp4",
+  "sha256": "758ab4d64be1aedbafdb4d1c444b34a39de79f7004581bb3f3b9a9882f282e63",
+  "sourceSha256": "3d9cf1b267641364602417fcdc7665162cec1b47bf79b45c4b00d30d15507d2d",
+  "baseSha256": "9a3ce43284d15afa47178e7e188d8baca3d17b2aedee5c64eab45a50ec3da537",
+  "baseSourceSha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+  "patches": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/canvas-q1a-visual.mp4",
+      "sha256": "61ee37148490799bbe533a4efb6f08a83175c0159acbf75a7e500f828ad2a81d",
+      "frames": 30
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/canvas-q1b-visual.mp4",
+      "sha256": "f28561e8ed6977ae1f1b5b81c47948c98a64dffe1f5bf4cd1cc2b7049c9821aa",
+      "frames": 30
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/canvas-q1c-visual.mp4",
+      "sha256": "22f929c695f07602db327b1cab8b453ccd1e61f14f0daa1f1dc9ebac29aa31ad",
+      "frames": 30
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/canvas-q2-visual.mp4",
+      "sha256": "c6789dda2d0cf32c08a44e44694122dae56e1e4ac8eebd6124ada297208f2b32",
+      "frames": 30
+    }
+  ],
+  "segments": [
+    [
+      0,
+      2400,
+      "base"
+    ],
+    [
+      2400,
+      2430,
+      "q1a"
+    ],
+    [
+      2430,
+      3240,
+      "base"
+    ],
+    [
+      3240,
+      3270,
+      "q1b"
+    ],
+    [
+      3270,
+      4080,
+      "base"
+    ],
+    [
+      4080,
+      4110,
+      "q1c"
+    ],
+    [
+      4110,
+      7020,
+      "base"
+    ],
+    [
+      7020,
+      7050,
+      "q2"
+    ],
+    [
+      7050,
+      9000,
+      "base"
+    ]
+  ],
+  "endExclusive": true,
+  "totalPatchedFrames": 120,
+  "command": [
+    "/Users/USER/.local/bin/ffmpeg",
+    "-nostdin",
+    "-hide_banner",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/ai-funnel-v2-review-150s.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/canvas-q1a-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/canvas-q1b-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/canvas-q1c-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/canvas-q2-visual.mp4",
+    "-filter_complex",
+    "[0:v]split=5[b0][b1][b2][b3][b4];[b0]trim=start_frame=0:end_frame=2400,setpts=PTS-STARTPTS[s0];[1:v]setpts=PTS-STARTPTS[s1];[b1]trim=start_frame=2430:end_frame=3240,setpts=PTS-STARTPTS[s2];[2:v]setpts=PTS-STARTPTS[s3];[b2]trim=start_frame=3270:end_frame=4080,setpts=PTS-STARTPTS[s4];[3:v]setpts=PTS-STARTPTS[s5];[b3]trim=start_frame=4110:end_frame=7020,setpts=PTS-STARTPTS[s6];[4:v]setpts=PTS-STARTPTS[s7];[b4]trim=start_frame=7050:end_frame=9000,setpts=PTS-STARTPTS[s8];[s0][s1][s2][s3][s4][s5][s6][s7][s8]concat=n=9:v=1:a=0[out]",
+    "-map",
+    "[out]",
+    "-map",
+    "0:a:0",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "fast",
+    "-crf",
+    "18",
+    "-pix_fmt",
+    "yuv420p",
+    "-r",
+    "60",
+    "-frames:v",
+    "9000",
+    "-c:a",
+    "copy",
+    "-t",
+    "150",
+    "-movflags",
+    "+faststart",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/ai-funnel-v2-fix1-internal-150s.mp4"
+  ],
+  "wallSeconds": 28.776610136032104,
+  "audio": "Copied original AAC stream; no mixing, regeneration, gain or event edits"
+}

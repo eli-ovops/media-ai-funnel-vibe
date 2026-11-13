@@ -1,0 +1,32 @@
+[
+  {
+    "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T04b-RoleSplit.tsx",
+    "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/00-T04b-RoleSplit.tsx",
+    "sha256": "d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb"
+  },
+  {
+    "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+    "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/01-T05h-SyncVsCopy.tsx",
+    "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73"
+  },
+  {
+    "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T20m-PillToWindow.tsx",
+    "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/02-T20m-PillToWindow.tsx",
+    "sha256": "849a13b9b1ff7740ec00214727628503d6e6dddf50cd81bc7e246f6c3eee041c"
+  },
+  {
+    "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+    "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/03-theme.ts",
+    "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+  },
+  {
+    "source": "/Users/USER/.codex/skills/sy-styles-20/references/repository/styles/17-editorial/index.html",
+    "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/04-index.html",
+    "sha256": "d0ff263a0039e6c4d7de03225b6ec2a67d0800f81bddc41de37103a0b57e8708"
+  },
+  {
+    "source": "/Users/USER/.codex/skills/sy-styles-20/references/repository/styles/20-blueprint/index.html",
+    "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/05-index.html",
+    "sha256": "69d159ecfcce8c2d3be60d69f33e836f7cd95e4bbf68c52f0e00f63275e801d7"
+  }
+]

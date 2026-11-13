@@ -1,0 +1,171 @@
+{
+  "source_implementations": [
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T04b-RoleSplit.tsx",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/00-T04b-RoleSplit.tsx",
+      "sha256": "d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb",
+      "name": "T04b-RoleSplit",
+      "implementation_symbols": "roleSplit",
+      "call_sites": "caps",
+      "use_scope": "54-75s",
+      "adaptation": "Exact split gap/segment-width/inner radius primitive, then same three carriers transfer into task step coordinates.",
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+      "active_in_v2": true
+    },
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/01-T05h-SyncVsCopy.tsx",
+      "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+      "name": "T05h-SyncVsCopy",
+      "implementation_symbols": "syncPoint",
+      "call_sites": "curve / travel",
+      "use_scope": "0-12,33-46,54-75,89-117,124-150s",
+      "adaptation": "Same cubic path. One task item moves between add/complete/save/reopen, then returns to the paper for conditional comparison.",
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+      "active_in_v2": true
+    },
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T20m-PillToWindow.tsx",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/02-T20m-PillToWindow.tsx",
+      "sha256": "849a13b9b1ff7740ec00214727628503d6e6dddf50cd81bc7e246f6c3eee041c",
+      "name": "T20m-PillToWindow",
+      "implementation_symbols": "pillWindow",
+      "call_sites": "drawScene: single reopen boundary",
+      "use_scope": "93-94,103-104,124-127s",
+      "adaptation": "One pill expands into a reopen window and morphs to the expected-item boundary, without duplicate windows.",
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+      "active_in_v2": true
+    },
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/kit/theme.ts",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/03-theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "name": "Fred wave3 kit",
+      "implementation_symbols": "q / p / springAt",
+      "call_sites": "pose / groups / capPose / transitions",
+      "use_scope": "throughout",
+      "adaptation": "q smoothstep remains active. p and springAt retained in kit but not invoked in v2.",
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+      "active_in_v2": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/sy-styles-20/references/repository/styles/17-editorial/index.html",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/04-index.html",
+      "sha256": "d0ff263a0039e6c4d7de03225b6ec2a67d0800f81bddc41de37103a0b57e8708",
+      "name": "sy17-editorial",
+      "implementation_symbols": "editorialCamera",
+      "call_sites": "pose",
+      "use_scope": "12-20,46-82,139-150s",
+      "adaptation": "Exact logarithmic scale and inOutCubic drive persistent task-paper positions/scale; angle and tilt interpolate separately.",
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+      "active_in_v2": true
+    },
+    {
+      "source": "/Users/USER/.codex/skills/sy-styles-20/references/repository/styles/20-blueprint/index.html",
+      "snapshot": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/reference/05-index.html",
+      "sha256": "69d159ecfcce8c2d3be60d69f33e836f7cd95e4bbf68c52f0e00f63275e801d7",
+      "name": "sy20-blueprint",
+      "implementation_symbols": "camMat / project",
+      "call_sites": "NOT_CALLED_IN_V2",
+      "use_scope": "0-20,46-82,117-124s",
+      "adaptation": "Retained source/kit provenance only. V2 uses a single affine paper projection with computed live contour; sy20 perspective projector is not invoked.",
+      "implementation_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/src/kit.ts",
+      "implementation_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "world_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+      "active_in_v2": false
+    }
+  ],
+  "viewed_vibe_evidence": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Nico/transition-1.jpg",
+      "sha256": "b3b731d3b8edabeedf95d36edb5852d25b6d52c63c4f2272c6a705701b215406",
+      "viewed": "Actual image displayed to model; discrete frames only"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Nico/transition-2.jpg",
+      "sha256": "ef21174fe01d89bcf8143ae2689ed5d5436006897a3b046d50ced9925ea01305",
+      "viewed": "Actual image displayed to model; discrete frames only"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Xiao/transition-1.jpg",
+      "sha256": "11823ccfff8fca1902c04ce9a21c393c9f5d2ed31fc4bc2b20ca98d446dbecac",
+      "viewed": "Actual image displayed to model; discrete frames only"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Bird/transition-1.jpg",
+      "sha256": "9bb35d4747f833e3816dca44201dd51ebcb267f9a43f52695b16d5e49aba7188",
+      "viewed": "Actual image displayed to model; discrete frames only"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Luck/transition-1.jpg",
+      "sha256": "eefafe4d7e2a0fe7548f0df3d31db624ac9b7d3c4bd8b2b1cde4d2a66fd56ec5",
+      "viewed": "Actual image displayed to model; discrete frames only"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Curse/transition-1.jpg",
+      "sha256": "99797ea6804929f0b4a532622b1b1d52a521644ea8f297f96b9b3d2865d093fb",
+      "viewed": "Actual image displayed to model; discrete frames only"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Zhao/transition-1.jpg",
+      "sha256": "58e37175a817e0a4cb3f09653e29c492fa14dc2f4192539167bb97e96b995963",
+      "viewed": "Actual image displayed to model; discrete frames only"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考/Opus/transition-1.jpg",
+      "sha256": "2d90f607082dc1ca7ab0f99beec85d6d1ac96165889c50a8e8be4055a21127bd",
+      "viewed": "Actual image displayed to model; discrete frames only"
+    }
+  ],
+  "reference_coverage": "43 displayed frame presentations across 8 contact sheets, 7 creators. Zhao/Opus were additionally inspected during rendering as a scope audit; no new mechanism or fact was added from them. No continuous video/audio viewing claim.",
+  "opus_prompts": [
+    {
+      "id": "rossaxbt-707651",
+      "adopted": "Time-pure persistent object; spring not invoked in v2",
+      "evidence": "Text prompt read; original media not watched"
+    },
+    {
+      "id": "oxpsats-182908",
+      "adopted": "Code graphics and procedural synthesis; offline PCM in this implementation",
+      "evidence": "Text prompt read; original media not watched"
+    },
+    {
+      "id": "rneayan-417829",
+      "adopted": false,
+      "reason": "Population marbles would imply unsupported statistical nesting; not read/used in this task"
+    }
+  ],
+  "fonts": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-Heavy.otf",
+      "sha256": "6be4fe9fd5fcfbf766e90b0936b44b731893a3836376a77d964673f398b7131c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-Medium.otf",
+      "sha256": "f9239c75fa0a661b788916250c6d4ad0d52d8a643f1ce2a9142f6588d4d2cb64"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-Semibold.otf",
+      "sha256": "8a194c3e7f6813f73a2c68988bf77483296268416fb0c1d0870338a0b23b8c9a"
+    }
+  ],
+  "original_elements": [
+    "single persistent affine task-paper with edge-normal anchors",
+    "four equal editorial stations and retained numeric navigation",
+    "shared workspace with chat/task/collaboration access regions",
+    "same-window conditional save check",
+    "episode-specific timing, geometry and SFX"
+  ],
+  "boundary": "Accurate component mechanisms adapted, not a pixel-identical Fred/sy recreation. No source videos incorporated.",
+  "revision": "v2 concentrated PMO return; prior reference inspections retained, not reread/rewatched"
+}

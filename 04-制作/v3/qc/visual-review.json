@@ -1,0 +1,53 @@
+{
+  "status": "COMPLETED_WITHIN_SAMPLED_SCOPE",
+  "final_mp4_sha256": "3cdb6ce08d9ab4826737bf76d0efab926a9ca86c2d726ad240be446fd6c6b386",
+  "reviewer": "assistant",
+  "owner": "04",
+  "prior_export_review": {
+    "sha256": "af6bd4398955812e89910affa223f6c1208f0a6966c70bfd6a2dfe9ce6c3a94a",
+    "sample_count": 127,
+    "contact_sheets_viewed": 15,
+    "coverage": "whole150s representative and transition times; precise index qc/final-frame-index.json"
+  },
+  "final_export_review": {
+    "generated_samples": 136,
+    "delta_samples_actually_viewed": 39,
+    "delta_sheets_actually_viewed": 5,
+    "native_frames_actually_viewed": [
+      1710,
+      2772,
+      2826,
+      2844,
+      3000,
+      3900,
+      5340,
+      5736,
+      7038,
+      7722,
+      8820
+    ],
+    "unchanged_sample_comparison": "qc/final-pixel-check.json",
+    "generated_does_not_mean_all_viewed": true
+  },
+  "findings_closed": [
+    "camera takeovers89/117 and endpoints95.6/118.4",
+    "chart46s label overlap",
+    "heard/use label spacing27–33",
+    "question label under carrier89s"
+  ],
+  "design_observations": [
+    "Main charts preserve source ratios and same denominator; no forced four-part100percent partition.",
+    "Micro shares have true full-ring spans plus explicitly labeled zoom windows, not enlarged pie slices.",
+    "One work graph/camera and item state changes replace prior station cards.",
+    "Nonfocus objects/labels may leave the work viewport during camera tour; foreground item follows actual path."
+  ],
+  "limits": [
+    "No normal-speed continuous video perception",
+    "No direct audio hearing",
+    "No global no-flicker claim between samples",
+    "No claim of reference-level aesthetics or user acceptance"
+  ],
+  "independent_05": "PENDING",
+  "PMO_acceptance": "PENDING",
+  "user_review": "PENDING"
+}

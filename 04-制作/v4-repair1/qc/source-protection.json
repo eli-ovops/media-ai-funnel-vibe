@@ -1,0 +1,103 @@
+{
+  "protectedFunctionsIdentical": [
+    "Intro",
+    "Population",
+    "Task",
+    "Roles"
+  ],
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/Episode.tsx",
+      "sha256": "e9125ac23d5dad7895be411beb863f8b579abeff2eb7cef261427553a44027d9",
+      "baselineSha256": "e9125ac23d5dad7895be411beb863f8b579abeff2eb7cef261427553a44027d9",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/FullEpisode.tsx",
+      "sha256": "efda71c91e521a99be3b1624ba5752662a08a278b3363cf6006d5cf1b595bcd2",
+      "baselineSha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+      "changed": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/Magnified.tsx",
+      "sha256": "6ccdc1feb694fda8dd2f0604838696913e49e9d4b926460e806792e85fd31ac9",
+      "baselineSha256": "6ccdc1feb694fda8dd2f0604838696913e49e9d4b926460e806792e85fd31ac9",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/RepairScenes.tsx",
+      "sha256": "b52bb4bafa215b223535e3607671116c67a8429d4d53239176ee9c7a98f4b72c",
+      "baselineSha256": null,
+      "changed": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/components/T02g-RoleRoadmap.tsx",
+      "sha256": "df2162b4cb50e2822f7b7278af4df1e00758bd307610cbd2cba0548a4d5bedc8",
+      "baselineSha256": "df2162b4cb50e2822f7b7278af4df1e00758bd307610cbd2cba0548a4d5bedc8",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/components/T03e-StepChain.tsx",
+      "sha256": "d5c13d6d2915c73172267e29adcbadf66990cc5c16a7eeb645fee9295fb562b3",
+      "baselineSha256": "51e50e71ac13fe4788056be4f87e3cd0e7e66174fcff80f96c4b3bc93947b3ed",
+      "changed": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/components/T04b-RoleSplit.tsx",
+      "sha256": "f59ba1e1acf3ad78432ac80e39249f5be111b13b3fbe4cdbfb4857e19809e9aa",
+      "baselineSha256": "f59ba1e1acf3ad78432ac80e39249f5be111b13b3fbe4cdbfb4857e19809e9aa",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/components/T04g-DecisionTree.tsx",
+      "sha256": "036dc8bd35e0efe03bcaab09620867d70e4fadbdeb3f3cd4e3bfe5a3723197b6",
+      "baselineSha256": "036dc8bd35e0efe03bcaab09620867d70e4fadbdeb3f3cd4e3bfe5a3723197b6",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/components/T05h-SyncVsCopy.tsx",
+      "sha256": "a83aa9965398e10a5997a558399ebbb210defcf8067d51114f1cd50e804f700e",
+      "baselineSha256": "a83aa9965398e10a5997a558399ebbb210defcf8067d51114f1cd50e804f700e",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/components/T15f-DonutShare.tsx",
+      "sha256": "137722b4e9b706ee00532ae6f3680395edd8409c168fc57c6926c0b56c4662a4",
+      "baselineSha256": "137722b4e9b706ee00532ae6f3680395edd8409c168fc57c6926c0b56c4662a4",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/components/T20m-PillToWindow.tsx",
+      "sha256": "458dc1719dfcdd37e9233e765cc1adae77fcaa2b61afbbf286f6db13bcae5508",
+      "baselineSha256": "458dc1719dfcdd37e9233e765cc1adae77fcaa2b61afbbf286f6db13bcae5508",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/components/_shared.ts",
+      "sha256": "f5ebf5850bf3dd67d094ce7e9778bd52c44ff138b27abf70ce72b3378f79aaa8",
+      "baselineSha256": "f5ebf5850bf3dd67d094ce7e9778bd52c44ff138b27abf70ce72b3378f79aaa8",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/index.tsx",
+      "sha256": "a9b8f3c9cc331ad79e36190897b6d0f9ffe029ffa10e73fa9c64327312d6f357",
+      "baselineSha256": "a9b8f3c9cc331ad79e36190897b6d0f9ffe029ffa10e73fa9c64327312d6f357",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/kit/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "baselineSha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "changed": false
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-repair1/src/kit/ui.tsx",
+      "sha256": "4371cdbcc34ca169e3f486aea0a4671c6109ddf4c7c57a1b77ea4260d437b51d",
+      "baselineSha256": "4371cdbcc34ca169e3f486aea0a4671c6109ddf4c7c57a1b77ea4260d437b51d",
+      "changed": false
+    }
+  ],
+  "sharedLibraryModified": false,
+  "kitUnchanged": true,
+  "sourceArchiveUnchanged": true
+}

@@ -1,0 +1,163 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "platform-copy-v2-with-user-music",
+  "user_title": "AI认知漏斗，你在第几层？",
+  "video": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/media/ai-funnel-150s-1080p60-with-music.mp4",
+  "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+  "covers_manifest": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/manifest.json",
+  "public_release_authorized": false,
+  "music": {
+    "source": "USER_SUPPLIED_AUDIO_PACKET_COPY",
+    "baked_into_file": true,
+    "do_not_add_second_music_track": true,
+    "cross_platform_rights": "NOT_VERIFIED"
+  },
+  "native_topic_state": "候选，须在平台原生候选中核，抖音活动当前参与资格未证实",
+  "platforms": [
+    {
+      "id": "douyin",
+      "name": "抖音",
+      "mode": "EXCLUDED_USER_CONFIRMED_PUBLISHED",
+      "title": "AI认知漏斗，你在第几层？",
+      "body": "同样用AI，有人只把它当聊天框，有人已经让它拆任务、写程序、检查结果。\n\n差距只在提示词吗？2分半，看懂Karpathy的「AI认知漏斗」。\n\n你上次交给AI的，是一个问题，还是一件要办完的事？",
+      "tags": [
+        "Vibe知识大赏",
+        "AI新星计划",
+        "抖音精选app征稿中",
+        "人工智能",
+        "AIAgent"
+      ],
+      "cover": "9x16"
+    },
+    {
+      "id": "xiaohongshu",
+      "name": "小红书",
+      "mode": "PRIVATE_PREPARATION_USER_MANUAL_SEND",
+      "title": "AI认知漏斗，你在第几层？",
+      "body": "同样用AI，为什么有人觉得没什么用，有人却说工作方式变了？\n\n这次用2分半动画，把Karpathy的「AI认知漏斗」画出来。你交给它什么任务、在哪个领域用、能接触到什么系统，看到的AI就可能很不一样。\n\n你平时用AI最多的一件事是什么？",
+      "tags": [
+        "Vibe知识大赏",
+        "人工智能",
+        "AI工具",
+        "AIAgent",
+        "认知差"
+      ],
+      "cover": "3x4"
+    },
+    {
+      "id": "weixin_channels",
+      "name": "视频号",
+      "mode": "PRIVATE_PREPARATION_USER_MANUAL_SEND",
+      "title": "AI认知漏斗，你在第几层？",
+      "short_title": "AI认知漏斗你在第几层",
+      "body": "你眼里的AI，是聊天工具，还是能把一件事做完的助手？\n\n同样谈AI，判断却可能差很远。2分半，看懂Karpathy的「AI认知漏斗」。\n\n你最近交给AI的一件具体任务是什么？",
+      "tags": [
+        "人工智能",
+        "AI",
+        "AI应用",
+        "AIAgent",
+        "认知差"
+      ],
+      "cover": "4x3"
+    },
+    {
+      "id": "bilibili",
+      "name": "B站",
+      "mode": "PRIVATE_PREPARATION_ONLY",
+      "title": "AI认知漏斗，你在第几层？",
+      "body": "为什么有人觉得AI没什么用，有人却觉得工作方式变了？\n\n用2分半动画，拆开Karpathy的「AI认知漏斗」：任务的规模、应用的领域、能接触的系统，都会影响你对AI的判断。\n\n你最近让AI独立推进过什么事？",
+      "tags": [
+        "Vibe知识大赏",
+        "人工智能",
+        "AI",
+        "AI智能体",
+        "AIAgent",
+        "科技",
+        "知识分享",
+        "认知差"
+      ],
+      "cover": "16x9"
+    },
+    {
+      "id": "weibo",
+      "name": "微博",
+      "mode": "PRIVATE_PREPARATION_ONLY",
+      "title": "AI认知漏斗，你在第几层？",
+      "body": "AI认知漏斗，你在第几层？\n\n都在用AI，为什么有人只看到聊天框，有人已经把项目交给它？这次用2分半动画，把Karpathy的「AI认知漏斗」画出来。\n\n你上次交给AI的，是一个问题，还是一件要办完的事？",
+      "tags": [
+        "人工智能",
+        "AI",
+        "AI智能体",
+        "知识分享",
+        "Vibe知识大赏"
+      ],
+      "cover": "3x4"
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "mode": "PRIVATE_PREPARATION_ONLY",
+      "title": "AI認知漏斗，你在第幾層？",
+      "body": "同樣用AI，有人只看到聊天框，有人已經用它推進複雜專案。差別只在提示詞嗎？\n\n用2分半動畫，拆開Karpathy的「AI認知漏斗」：任務、領域與能接觸的系統，如何改變我們對AI的判斷。\n\n你上次交給AI的，是一個問題，還是一件要完成的事？",
+      "tags": [
+        "AI",
+        "人工智慧",
+        "AIAgent",
+        "Vibe知識大賞",
+        "Shorts"
+      ],
+      "backend_tags": [
+        "AI",
+        "人工智慧",
+        "AI Agent",
+        "AI智能體",
+        "AI認知漏斗",
+        "Karpathy",
+        "知識動畫"
+      ],
+      "cover": "9x16"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "mode": "PRIVATE_PREPARATION_ONLY",
+      "title": "AI認知漏斗，你在第幾層？",
+      "body": "AI認知漏斗，你在第幾層？\n\n有人只跟AI聊天，有人已經讓它做專案。差距只是提示詞嗎？2分半動畫，看懂Karpathy的「AI認知漏斗」。",
+      "tags": [
+        "AI",
+        "人工智慧",
+        "AIAgent",
+        "Vibe知識大賞",
+        "知識分享"
+      ],
+      "cover": "9x16"
+    },
+    {
+      "id": "x",
+      "name": "X",
+      "mode": "PRIVATE_PREPARATION_ONLY",
+      "title": "AI認知漏斗，你在第幾層？",
+      "body": "AI認知漏斗，你在第幾層？\n\n有人把AI當聊天框，有人已經讓它拆任務、寫程式、檢查結果。\n\n這2分半，把Karpathy的「AI認知漏斗」畫出來。你上次交給AI的是問題，還是任務？",
+      "tags": [
+        "AI",
+        "AIAgent"
+      ],
+      "cover": "16x9"
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "mode": "PRIVATE_PREPARATION_ONLY",
+      "title": "AI認知漏斗，你在第幾層？",
+      "body": "AI認知漏斗，你在第幾層？\n\n同樣在用AI，為什麼不同團隊的評價差這麼多？\n\n差別不只是模型名稱或提示詞。交給它的任務、結果能否驗證，以及能接觸的系統，都會改變使用體驗。\n\n用2分半動畫，拆解Karpathy的「AI認知漏斗」。如果你在團隊推AI，最想交給它的一件事是什麼？",
+      "tags": [
+        "人工智慧",
+        "生成式AI",
+        "AIAgent",
+        "企業效率",
+        "數位轉型"
+      ],
+      "cover": "9x16"
+    }
+  ]
+}

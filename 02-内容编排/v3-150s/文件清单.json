@@ -1,0 +1,97 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "02-screen-v3-150s",
+  "status": "SUBMITTED_FOR_PMO_REVIEW_VISUAL_CONTENT_READY_FINAL_BGM_MISSING",
+  "owner_thread": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+  "scope": "屏幕全文、阅读窗、150秒时序、对象语义；不含准确BGM与音乐重拍",
+  "visual_input_ready": true,
+  "final_bgm_ready": false,
+  "pmo_approved": false,
+  "downstream_dispatched": false,
+  "seconds": 150,
+  "frames": 9000,
+  "statistics": {
+    "foreground_non_whitespace_characters": 313,
+    "foreground_cjk_characters": 262,
+    "persistent_label_characters": 20,
+    "total_text_characters": 333,
+    "new_reading_units": 290.0,
+    "minimum_margin_seconds": 0.514,
+    "densest_scene": "professional_frontier"
+  },
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/build_content_package.py",
+      "bytes": 16518,
+      "sha256": "6c5ae347564d1601bc722edce9d95e34ab0f9888bb267300baf47785a51722e8",
+      "origin": "02 v3 content revision from saved150s WIP and accepted reference samples",
+      "purpose": "PMO review and04 semantic production input",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/content-package.json",
+      "bytes": 46728,
+      "sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+      "origin": "02 v3 content revision from saved150s WIP and accepted reference samples",
+      "purpose": "PMO review and04 semantic production input",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/screen-copy-review.srt",
+      "bytes": 1673,
+      "sha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8",
+      "origin": "02 v3 content revision from saved150s WIP and accepted reference samples",
+      "purpose": "PMO review and04 semantic production input",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/交接说明.md",
+      "bytes": 7618,
+      "sha256": "91a2af10d03c96810ac6d28403845d6681f3709b060a125b7f0e20506942ee8a",
+      "origin": "02 v3 content revision from saved150s WIP and accepted reference samples",
+      "purpose": "PMO review and04 semantic production input",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/参考取舍与对象交接.md",
+      "bytes": 4725,
+      "sha256": "b3d7e802c24eda5e22ab6b6366b5c7d1402aa1e0829af5c04d1affd764bf5e22",
+      "origin": "02 v3 content revision from saved150s WIP and accepted reference samples",
+      "purpose": "PMO review and04 semantic production input",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/屏幕文案.md",
+      "bytes": 1632,
+      "sha256": "3eb5cd48bee4fd4d9d34a7fc6d431009f7f1101c1149684bb630679c5f1256e7",
+      "origin": "02 v3 content revision from saved150s WIP and accepted reference samples",
+      "purpose": "PMO review and04 semantic production input",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/校核结果.json",
+      "bytes": 9356,
+      "sha256": "38db49d5369d2cea90fc662a1d408e55488e0a826a2a75443362fc5c7c3b5f23",
+      "origin": "02 v3 content revision from saved150s WIP and accepted reference samples",
+      "purpose": "PMO review and04 semantic production input",
+      "retain": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/阅读时间轴.md",
+      "bytes": 15879,
+      "sha256": "73eb611bb5c54afd08fad8908d8267d3b3e377b5ac0cd67c3877c7bb2cf9d8c0",
+      "origin": "02 v3 content revision from saved150s WIP and accepted reference samples",
+      "purpose": "PMO review and04 semantic production input",
+      "retain": true
+    }
+  ],
+  "report_receipt": "PMO回报回执.json",
+  "cleanup": "All outputs retained for handoff; no deletion",
+  "route": {
+    "requested_model": "gpt-6-astra",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  }
+}

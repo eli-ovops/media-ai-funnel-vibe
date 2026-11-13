@@ -1,0 +1,28 @@
+{
+  "findings": [
+    {
+      "segment": "preview-r4-5700-5850",
+      "kind": "hold-warn",
+      "start": 0.0,
+      "end": 2.4,
+      "meanStep": 0.026,
+      "netChange": 0.55,
+      "duration": 2.4,
+      "allowed": false
+    }
+  ],
+  "blocking": 0,
+  "params": {
+    "fps": 10.0,
+    "subtitle_band": 0.0,
+    "step_still": 0.12,
+    "step_slow": 0.9,
+    "max_hold": 2.0,
+    "max_hold_block": 3.0,
+    "max_slow": 1.2,
+    "max_move": 1.4,
+    "max_scroll": 2.0,
+    "cut_step": 80.0,
+    "allow": []
+  }
+}

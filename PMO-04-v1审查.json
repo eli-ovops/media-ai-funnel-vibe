@@ -1,0 +1,93 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage": "04",
+  "decision": "RETURN_FOR_VISUAL_REWORK",
+  "baseline_video_sha256": "4a287e4dee64f6ebb689788dd002da481bbaf9a2413158672ee91962c8496adf",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/delivery.json",
+      "sha256": "cc5930980ea675b99cceca5d98b20d9cd7faaf14ca951d61f1ebfb3189c96d18"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/README.md",
+      "sha256": "82c9f37279ce8bae19f43d43cf437eb802240082183500bbf5aed6cd99a7c33a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/source-map.json",
+      "sha256": "d395b0ed19178ec1a271cbea8b2c93e82a2c8217afe15aa3ad772b54c09aab23"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/World.ts",
+      "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/kit.ts",
+      "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/export-check.json",
+      "sha256": "7f985c2ff9f095e81159a7a5a031d6a00c74d8322cf16d70b33081e6af799e53"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/visual-review.json",
+      "sha256": "323483e82f00be6ee400af057f0ca7b530bd1c59183d3a014e974bb5d1741858"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/decode-progress.txt",
+      "sha256": "da722eb3aceccd9d699c0f17054f349a4f0a82afc108f9f95dea959bd5fd32a0"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/decode-errors.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "pmo_viewed_contact_sheets": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/content-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/content-2.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/content-3.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/seams-1.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/seams-2.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/seams-3.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/seams-4.jpg",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/seams-5.jpg"
+  ],
+  "pmo_viewed_unique_sample_times": 61,
+  "pmo_additional_native_size_reviews": [
+    3.15,
+    50.15,
+    57.65,
+    78.65,
+    106.65,
+    135.65
+  ],
+  "delivery_file_sha_checks": 26,
+  "delivery_file_mismatches": 0,
+  "technical_export_receipts_accepted": true,
+  "not_accepted": [
+    "Overall relation/diagram-led composition",
+    "Shared-object boundary continuity",
+    "Projected contour line routing",
+    "Meaningful access-condition visual process"
+  ],
+  "rework_task": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-v1集中返修.md",
+  "preserved": [
+    "02v3 screen text and reading contract",
+    "150sec/9000frames/no-voice",
+    "Attribution and count semantics",
+    "Oldv1/protected source evidence",
+    "Exact Nico BGM still pending; no invented music"
+  ],
+  "known_unperformed": [
+    "Direct hearing",
+    "Normal-speed continuous visual"
+  ],
+  "remaining_required_work": [
+    "Four numbered rework items in rework task",
+    "Complete new internal visual MP4",
+    "Independent05 review",
+    "Exact Nico BGM and final sound mix",
+    "User final review"
+  ],
+  "at": "2026-10-20T12:38:29.883477+08:00"
+}

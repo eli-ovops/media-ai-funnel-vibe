@@ -1,0 +1,10 @@
+{
+  "scope": "same frame3390 direct Canvas PNG versus decoded Remotion preflight; H264 quantization expected",
+  "MAE": 1.7459383037551441,
+  "PSNR_dB": 41.76579969244947,
+  "max_pixel_error": 70,
+  "files": [
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/qc/canvas-proof-3390.png",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/qc/preflight-56.5.png"
+  ]
+}

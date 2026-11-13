@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "stage": "keyframes",
+  "scope": "Sampled output images, source SHA and AST calls; not continuous visual/direct-hearing acceptance",
+  "errors": [],
+  "manifestSha256": "5197a7da1f319b348a011b688d45d1f4adbc77fe4f13ff43a84d97087c34b56f",
+  "local_binding_adapter": "Exact catalog SHA + already-authorized source files; no catalog mutation, network, token download or shared install."
+}

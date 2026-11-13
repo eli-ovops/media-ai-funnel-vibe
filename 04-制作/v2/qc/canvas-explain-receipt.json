@@ -1,0 +1,28 @@
+{
+  "startFrame": 4920,
+  "endFrameExclusive": 5370,
+  "renderedFrames": 450,
+  "durationSeconds": 7.5,
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "wallSeconds": 33.874,
+  "frames": [
+    {
+      "frame": 4920,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/canvas-explain-proof-4920.jpg",
+      "sha256": "27fdf83b754d73e372c95eec0ed43a07fc9c2e8f932e5ffa310de0c62e3284c7"
+    },
+    {
+      "frame": 5145,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/canvas-explain-proof-5145.jpg",
+      "sha256": "d2c017f75a34acaddf451ca7e1ff9f5486545ae3f59b47852615451d46250d03"
+    },
+    {
+      "frame": 5369,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/canvas-explain-proof-5369.jpg",
+      "sha256": "799206d0bc1b24434803e165a2dfb32116b05e247242a2333f44e3ac625abb39"
+    }
+  ],
+  "sourceSha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447"
+}

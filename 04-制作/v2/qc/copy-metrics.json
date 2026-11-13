@@ -1,0 +1,2196 @@
+{
+  "scope": "Actual loaded font metrics at both ends of each frozen reading window; not pixel or continuous audiovisual acceptance",
+  "rows": [
+    {
+      "cue": "question",
+      "time": 0.501,
+      "texts": [
+        {
+          "text": "同样谈AI",
+          "x": 90,
+          "y": 1290,
+          "width": 314.9599914550781,
+          "font": "500 80px \"Fred MiSans\"",
+          "right": 404.9599914550781,
+          "bottom": 1367.0431289672852
+        },
+        {
+          "text": "为何判断差这么远？",
+          "x": 90,
+          "y": 1408.4,
+          "width": 720,
+          "font": "500 80px \"Fred MiSans\"",
+          "right": 810,
+          "bottom": 1486.0831359863282
+        }
+      ]
+    },
+    {
+      "cue": "question",
+      "time": 5.7989999999999995,
+      "texts": [
+        {
+          "text": "同样谈AI",
+          "x": 90,
+          "y": 1290,
+          "width": 314.9599914550781,
+          "font": "500 80px \"Fred MiSans\"",
+          "right": 404.9599914550781,
+          "bottom": 1367.0431289672852
+        },
+        {
+          "text": "为何判断差这么远？",
+          "x": 90,
+          "y": 1408.4,
+          "width": 720,
+          "font": "500 80px \"Fred MiSans\"",
+          "right": 810,
+          "bottom": 1486.0831359863282
+        }
+      ]
+    },
+    {
+      "cue": "contrast",
+      "time": 6.501,
+      "texts": [
+        {
+          "text": "有人看到聊天框",
+          "x": 90,
+          "y": 1290,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 1359.838134765625
+        },
+        {
+          "text": "有人看到复杂项目",
+          "x": 90,
+          "y": 1396.56,
+          "width": 576,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 666,
+          "bottom": 1466.0381341552734
+        }
+      ]
+    },
+    {
+      "cue": "contrast",
+      "time": 11.799000000000001,
+      "texts": [
+        {
+          "text": "有人看到聊天框",
+          "x": 90,
+          "y": 1290,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 1359.838134765625
+        },
+        {
+          "text": "有人看到复杂项目",
+          "x": 90,
+          "y": 1396.56,
+          "width": 576,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 666,
+          "bottom": 1466.0381341552734
+        }
+      ]
+    },
+    {
+      "cue": "attribution",
+      "time": 12.501,
+      "texts": [
+        {
+          "text": "AI认知漏斗",
+          "x": 90,
+          "y": 340,
+          "width": 355.4639892578125,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 445.4639892578125,
+          "bottom": 409.3341293334961
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "attribution",
+      "time": 19.799,
+      "texts": [
+        {
+          "text": "AI认知漏斗",
+          "x": 90,
+          "y": 340,
+          "width": 355.4639892578125,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 445.4639892578125,
+          "bottom": 409.3341293334961
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "barely_exposed",
+      "time": 20.501,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 90,
+          "y": 326,
+          "width": 488.4320068359375,
+          "font": "800 112px \"Fred MiSans Heavy\"",
+          "right": 578.4320068359375,
+          "bottom": 434.6475067138672
+        },
+        {
+          "text": "几乎未接触",
+          "x": 90,
+          "y": 500,
+          "width": 360,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 450,
+          "bottom": 569.0461273193359
+        },
+        {
+          "text": "大语言模型",
+          "x": 90,
+          "y": 606.56,
+          "width": 360,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 450,
+          "bottom": 675.966135559082
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "barely_exposed",
+      "time": 26.799,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 90,
+          "y": 326,
+          "width": 488.4320068359375,
+          "font": "800 112px \"Fred MiSans Heavy\"",
+          "right": 578.4320068359375,
+          "bottom": 434.6475067138672
+        },
+        {
+          "text": "几乎未接触",
+          "x": 90,
+          "y": 500,
+          "width": 360,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 450,
+          "bottom": 569.0461273193359
+        },
+        {
+          "text": "大语言模型",
+          "x": 90,
+          "y": 606.56,
+          "width": 360,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 450,
+          "bottom": 675.966135559082
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "exposure_meaning",
+      "time": 27.501,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "听过AI",
+          "x": 90,
+          "y": 340,
+          "width": 211.4639892578125,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 301.4639892578125,
+          "bottom": 409.04612731933594
+        },
+        {
+          "text": "不等于亲手用过",
+          "x": 90,
+          "y": 446.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 515.9661279296874
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "exposure_meaning",
+      "time": 32.799,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "听过AI",
+          "x": 90,
+          "y": 340,
+          "width": 211.4639892578125,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 301.4639892578125,
+          "bottom": 409.04612731933594
+        },
+        {
+          "text": "不等于亲手用过",
+          "x": 90,
+          "y": 446.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 515.9661279296874
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "casual_free",
+      "time": 33.501,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 90,
+          "y": 326,
+          "width": 729.2319946289062,
+          "font": "800 112px \"Fred MiSans Heavy\"",
+          "right": 819.2319946289062,
+          "bottom": 434.6475067138672
+        },
+        {
+          "text": "偶尔使用",
+          "x": 90,
+          "y": 500,
+          "width": 288,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 378,
+          "bottom": 569.4781341552734
+        },
+        {
+          "text": "免费聊天产品",
+          "x": 90,
+          "y": 606.56,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 676.398134765625
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "casual_free",
+      "time": 39.799,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 90,
+          "y": 326,
+          "width": 729.2319946289062,
+          "font": "800 112px \"Fred MiSans Heavy\"",
+          "right": 819.2319946289062,
+          "bottom": 434.6475067138672
+        },
+        {
+          "text": "偶尔使用",
+          "x": 90,
+          "y": 500,
+          "width": 288,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 378,
+          "bottom": 569.4781341552734
+        },
+        {
+          "text": "免费聊天产品",
+          "x": 90,
+          "y": 606.56,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 676.398134765625
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "casual_tasks",
+      "time": 40.501,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "查资料 · 改文字",
+          "x": 90,
+          "y": 340,
+          "width": 509.90399169921875,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 599.9039916992188,
+          "bottom": 409.40614318847656
+        },
+        {
+          "text": "更像一个问答工具",
+          "x": 90,
+          "y": 446.56,
+          "width": 576,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 666,
+          "bottom": 516.0381341552734
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "casual_tasks",
+      "time": 45.799,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "查资料 · 改文字",
+          "x": 90,
+          "y": 340,
+          "width": 509.90399169921875,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 599.9039916992188,
+          "bottom": 409.40614318847656
+        },
+        {
+          "text": "更像一个问答工具",
+          "x": 90,
+          "y": 446.56,
+          "width": 576,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 666,
+          "bottom": 516.0381341552734
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "professional_frontier",
+      "time": 46.501,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "约2000万人",
+          "x": 90,
+          "y": 326,
+          "width": 637.16796875,
+          "font": "800 112px \"Fred MiSans Heavy\"",
+          "right": 727.16796875,
+          "bottom": 435.0955047607422
+        },
+        {
+          "text": "数学／编程中",
+          "x": 90,
+          "y": 500,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 569.4061431884766
+        },
+        {
+          "text": "专业使用前沿大模型",
+          "x": 90,
+          "y": 606.56,
+          "width": 648,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 738,
+          "bottom": 676.4701333618164
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "professional_frontier",
+      "time": 53.799,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "约2000万人",
+          "x": 90,
+          "y": 326,
+          "width": 637.16796875,
+          "font": "800 112px \"Fred MiSans Heavy\"",
+          "right": 727.16796875,
+          "bottom": 435.0955047607422
+        },
+        {
+          "text": "数学／编程中",
+          "x": 90,
+          "y": 500,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 569.4061431884766
+        },
+        {
+          "text": "专业使用前沿大模型",
+          "x": 90,
+          "y": 606.56,
+          "width": 648,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 738,
+          "bottom": 676.4701333618164
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "agent_projects",
+      "time": 54.501,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "约2000万人",
+          "x": 96,
+          "y": 1210,
+          "width": 261.6939697265625,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 357.6939697265625,
+          "bottom": 1254.8015022277832
+        },
+        {
+          "text": "专业使用",
+          "x": 96,
+          "y": 1278,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1320.7202529907227
+        },
+        {
+          "text": "前沿大模型",
+          "x": 96,
+          "y": 1329,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 1371.412254333496
+        },
+        {
+          "text": "比如：待办清单",
+          "x": 90,
+          "y": 340,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 409.7661437988281
+        },
+        {
+          "text": "新增 · 完成 · 保存",
+          "x": 90,
+          "y": 446.56,
+          "width": 587.8079833984375,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 677.8079833984375,
+          "bottom": 515.7501397705078
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "agent_projects",
+      "time": 60.799,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "约2000万人",
+          "x": 96,
+          "y": 1210,
+          "width": 261.6939697265625,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 357.6939697265625,
+          "bottom": 1254.8015022277832
+        },
+        {
+          "text": "专业使用",
+          "x": 96,
+          "y": 1278,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1320.7202529907227
+        },
+        {
+          "text": "前沿大模型",
+          "x": 96,
+          "y": 1329,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 1371.412254333496
+        },
+        {
+          "text": "比如：待办清单",
+          "x": 90,
+          "y": 340,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 409.7661437988281
+        },
+        {
+          "text": "新增 · 完成 · 保存",
+          "x": 90,
+          "y": 446.56,
+          "width": 587.8079833984375,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 677.8079833984375,
+          "bottom": 515.7501397705078
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "internal_access",
+      "time": 61.501,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "约2000万人",
+          "x": 96,
+          "y": 1210,
+          "width": 261.6939697265625,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 357.6939697265625,
+          "bottom": 1254.8015022277832
+        },
+        {
+          "text": "专业使用",
+          "x": 96,
+          "y": 1278,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1320.7202529907227
+        },
+        {
+          "text": "前沿大模型",
+          "x": 96,
+          "y": 1329,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 1371.412254333496
+        },
+        {
+          "text": "约5000人",
+          "x": 90,
+          "y": 326,
+          "width": 527.072021484375,
+          "font": "800 112px \"Fred MiSans Heavy\"",
+          "right": 617.072021484375,
+          "bottom": 434.6475067138672
+        },
+        {
+          "text": "可访问",
+          "x": 90,
+          "y": 500,
+          "width": 216,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 306,
+          "bottom": 569.0461273193359
+        },
+        {
+          "text": "内部前沿系统",
+          "x": 90,
+          "y": 606.56,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 675.8941369628906
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "internal_access",
+      "time": 67.79899999999999,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "约2000万人",
+          "x": 96,
+          "y": 1210,
+          "width": 261.6939697265625,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 357.6939697265625,
+          "bottom": 1254.8015022277832
+        },
+        {
+          "text": "专业使用",
+          "x": 96,
+          "y": 1278,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1320.7202529907227
+        },
+        {
+          "text": "前沿大模型",
+          "x": 96,
+          "y": 1329,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 1371.412254333496
+        },
+        {
+          "text": "约5000人",
+          "x": 90,
+          "y": 326,
+          "width": 527.072021484375,
+          "font": "800 112px \"Fred MiSans Heavy\"",
+          "right": 617.072021484375,
+          "bottom": 434.6475067138672
+        },
+        {
+          "text": "可访问",
+          "x": 90,
+          "y": 500,
+          "width": 216,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 306,
+          "bottom": 569.0461273193359
+        },
+        {
+          "text": "内部前沿系统",
+          "x": 90,
+          "y": 606.56,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 675.8941369628906
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "internal_collaboration",
+      "time": 68.501,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "约2000万人",
+          "x": 96,
+          "y": 1210,
+          "width": 261.6939697265625,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 357.6939697265625,
+          "bottom": 1254.8015022277832
+        },
+        {
+          "text": "专业使用",
+          "x": 96,
+          "y": 1278,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1320.7202529907227
+        },
+        {
+          "text": "前沿大模型",
+          "x": 96,
+          "y": 1329,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 1371.412254333496
+        },
+        {
+          "text": "约5000人",
+          "x": 96,
+          "y": 1420,
+          "width": 216.4759979248047,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 312.4759979248047,
+          "bottom": 1464.617504119873
+        },
+        {
+          "text": "内部前沿系统",
+          "x": 96,
+          "y": 1489,
+          "width": 264,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 360,
+          "bottom": 1531.368251800537
+        },
+        {
+          "text": "多Agent协作",
+          "x": 90,
+          "y": 340,
+          "width": 417.74395751953125,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 507.74395751953125,
+          "bottom": 420.49412536621094
+        },
+        {
+          "text": "分工，再汇合",
+          "x": 90,
+          "y": 446.56,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 522.6621270751953
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "internal_collaboration",
+      "time": 74.79899999999999,
+      "texts": [
+        {
+          "text": "约60亿人",
+          "x": 96,
+          "y": 790,
+          "width": 200.60598754882812,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 296.6059875488281,
+          "bottom": 834.617504119873
+        },
+        {
+          "text": "几乎未接触",
+          "x": 96,
+          "y": 859,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 901.192253112793
+        },
+        {
+          "text": "约10—20亿人",
+          "x": 96,
+          "y": 1000,
+          "width": 299.5059814453125,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 395.5059814453125,
+          "bottom": 1044.617504119873
+        },
+        {
+          "text": "偶尔使用",
+          "x": 96,
+          "y": 1069,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1111.4562530517578
+        },
+        {
+          "text": "约2000万人",
+          "x": 96,
+          "y": 1210,
+          "width": 261.6939697265625,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 357.6939697265625,
+          "bottom": 1254.8015022277832
+        },
+        {
+          "text": "专业使用",
+          "x": 96,
+          "y": 1278,
+          "width": 176,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 272,
+          "bottom": 1320.7202529907227
+        },
+        {
+          "text": "前沿大模型",
+          "x": 96,
+          "y": 1329,
+          "width": 220,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 316,
+          "bottom": 1371.412254333496
+        },
+        {
+          "text": "约5000人",
+          "x": 96,
+          "y": 1420,
+          "width": 216.4759979248047,
+          "font": "800 46px \"Fred MiSans Heavy\"",
+          "right": 312.4759979248047,
+          "bottom": 1464.617504119873
+        },
+        {
+          "text": "内部前沿系统",
+          "x": 96,
+          "y": 1489,
+          "width": 264,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 360,
+          "bottom": 1531.368251800537
+        },
+        {
+          "text": "多Agent协作",
+          "x": 90,
+          "y": 340,
+          "width": 417.74395751953125,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 507.74395751953125,
+          "bottom": 420.49412536621094
+        },
+        {
+          "text": "分工，再汇合",
+          "x": 90,
+          "y": 446.56,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 522.6621270751953
+        },
+        {
+          "text": "Karpathy 粗估",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "causes",
+      "time": 75.501,
+      "texts": [
+        {
+          "text": "差距来自哪里？",
+          "x": 90,
+          "y": 340,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 409.04613494873047
+        },
+        {
+          "text": "任务 · 领域 · 权限",
+          "x": 90,
+          "y": 446.56,
+          "width": 587.8079833984375,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 677.8079833984375,
+          "bottom": 516.398134765625
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "causes",
+      "time": 81.79899999999999,
+      "texts": [
+        {
+          "text": "差距来自哪里？",
+          "x": 90,
+          "y": 340,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 409.04613494873047
+        },
+        {
+          "text": "任务 · 领域 · 权限",
+          "x": 90,
+          "y": 446.56,
+          "width": 587.8079833984375,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 677.8079833984375,
+          "bottom": 516.398134765625
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "small_task",
+      "time": 82.501,
+      "texts": [
+        {
+          "text": "只问：怎样做待办清单？",
+          "x": 90,
+          "y": 440,
+          "width": 792,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 882,
+          "bottom": 509.7661437988281
+        },
+        {
+          "text": "得到一段说明",
+          "x": 90,
+          "y": 546.56,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 616.5421319580078
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "small_task",
+      "time": 88.79899999999999,
+      "texts": [
+        {
+          "text": "只问：怎样做待办清单？",
+          "x": 90,
+          "y": 440,
+          "width": 792,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 882,
+          "bottom": 509.7661437988281
+        },
+        {
+          "text": "得到一段说明",
+          "x": 90,
+          "y": 546.56,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 616.5421319580078
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "large_task",
+      "time": 89.501,
+      "texts": [
+        {
+          "text": "新增事项 → 标记完成",
+          "x": 90,
+          "y": 370,
+          "width": 689.9039916992188,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 779.9039916992188,
+          "bottom": 439.47813415527344
+        },
+        {
+          "text": "保存后，再打开",
+          "x": 90,
+          "y": 476.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 552.6621347045898
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "large_task",
+      "time": 95.79899999999999,
+      "texts": [
+        {
+          "text": "新增事项 → 标记完成",
+          "x": 90,
+          "y": 370,
+          "width": 689.9039916992188,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 779.9039916992188,
+          "bottom": 439.47813415527344
+        },
+        {
+          "text": "保存后，再打开",
+          "x": 90,
+          "y": 476.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 552.6621347045898
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "scale_meaning",
+      "time": 96.501,
+      "texts": [
+        {
+          "text": "把目标拆成步骤",
+          "x": 90,
+          "y": 370,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 439.47813415527344
+        },
+        {
+          "text": "才知道要检查什么",
+          "x": 90,
+          "y": 476.56,
+          "width": 576,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 666,
+          "bottom": 545.9661279296874
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "scale_meaning",
+      "time": 102.79899999999999,
+      "texts": [
+        {
+          "text": "把目标拆成步骤",
+          "x": 90,
+          "y": 370,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 439.47813415527344
+        },
+        {
+          "text": "才知道要检查什么",
+          "x": 90,
+          "y": 476.56,
+          "width": 576,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 666,
+          "bottom": 545.9661279296874
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "verifiable_domains",
+      "time": 103.501,
+      "texts": [
+        {
+          "text": "检查保存功能",
+          "x": 90,
+          "y": 340,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 409.62213134765625
+        },
+        {
+          "text": "刷新后，事项还在吗？",
+          "x": 90,
+          "y": 446.56,
+          "width": 720,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 810,
+          "bottom": 522.6621270751953
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "verifiable_domains",
+      "time": 109.79899999999999,
+      "texts": [
+        {
+          "text": "检查保存功能",
+          "x": 90,
+          "y": 340,
+          "width": 432,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 522,
+          "bottom": 409.62213134765625
+        },
+        {
+          "text": "刷新后，事项还在吗？",
+          "x": 90,
+          "y": 446.56,
+          "width": 720,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 810,
+          "bottom": 522.6621270751953
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "training_feedback",
+      "time": 110.501,
+      "texts": [
+        {
+          "text": "如果不在",
+          "x": 90,
+          "y": 340,
+          "width": 288,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 378,
+          "bottom": 409.5501251220703
+        },
+        {
+          "text": "就回到保存逻辑",
+          "x": 90,
+          "y": 446.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 515.6781335449218
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "training_feedback",
+      "time": 116.79899999999999,
+      "texts": [
+        {
+          "text": "如果不在",
+          "x": 90,
+          "y": 340,
+          "width": 288,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 378,
+          "bottom": 409.5501251220703
+        },
+        {
+          "text": "就回到保存逻辑",
+          "x": 90,
+          "y": 446.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 515.6781335449218
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "uneven_capability",
+      "time": 117.501,
+      "texts": [
+        {
+          "text": "数学、编程",
+          "x": 90,
+          "y": 470,
+          "width": 360,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 450,
+          "bottom": 539.4061431884766
+        },
+        {
+          "text": "结果更容易验证",
+          "x": 90,
+          "y": 576.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 646.2541375732421
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "uneven_capability",
+      "time": 123.79899999999999,
+      "texts": [
+        {
+          "text": "数学、编程",
+          "x": 90,
+          "y": 470,
+          "width": 360,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 450,
+          "bottom": 539.4061431884766
+        },
+        {
+          "text": "结果更容易验证",
+          "x": 90,
+          "y": 576.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 646.2541375732421
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "access_tiers",
+      "time": 124.501,
+      "texts": [
+        {
+          "text": "免费版",
+          "x": 103,
+          "y": 740,
+          "width": 180,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 283,
+          "bottom": 798.026252746582
+        },
+        {
+          "text": "付费版",
+          "x": 420,
+          "y": 740,
+          "width": 180,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 600,
+          "bottom": 798.026252746582
+        },
+        {
+          "text": "内部系统",
+          "x": 720,
+          "y": 740,
+          "width": 240,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 960,
+          "bottom": 797.7862548828125
+        },
+        {
+          "text": "·",
+          "x": 370,
+          "y": 740,
+          "width": 30,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 400,
+          "bottom": 773.7862510681152
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "access_tiers",
+      "time": 131.799,
+      "texts": [
+        {
+          "text": "免费版",
+          "x": 103,
+          "y": 740,
+          "width": 180,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 283,
+          "bottom": 798.026252746582
+        },
+        {
+          "text": "付费版",
+          "x": 420,
+          "y": 740,
+          "width": 180,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 600,
+          "bottom": 798.026252746582
+        },
+        {
+          "text": "内部系统",
+          "x": 720,
+          "y": 740,
+          "width": 240,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 960,
+          "bottom": 797.7862548828125
+        },
+        {
+          "text": "·",
+          "x": 370,
+          "y": 740,
+          "width": 30,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 400,
+          "bottom": 773.7862510681152
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "access_meaning",
+      "time": 132.501,
+      "texts": [
+        {
+          "text": "免费版",
+          "x": 103,
+          "y": 740,
+          "width": 180,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 283,
+          "bottom": 798.026252746582
+        },
+        {
+          "text": "付费版",
+          "x": 420,
+          "y": 740,
+          "width": 180,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 600,
+          "bottom": 798.026252746582
+        },
+        {
+          "text": "内部系统",
+          "x": 720,
+          "y": 740,
+          "width": 240,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 960,
+          "bottom": 797.7862548828125
+        },
+        {
+          "text": "·",
+          "x": 370,
+          "y": 740,
+          "width": 30,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 400,
+          "bottom": 773.7862510681152
+        },
+        {
+          "text": "能接触哪些系统",
+          "x": 90,
+          "y": 340,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 409.3341369628906
+        },
+        {
+          "text": "取决于访问条件",
+          "x": 90,
+          "y": 446.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 516.1101403808593
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "access_meaning",
+      "time": 138.799,
+      "texts": [
+        {
+          "text": "免费版",
+          "x": 103,
+          "y": 740,
+          "width": 180,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 283,
+          "bottom": 798.026252746582
+        },
+        {
+          "text": "付费版",
+          "x": 420,
+          "y": 740,
+          "width": 180,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 600,
+          "bottom": 798.026252746582
+        },
+        {
+          "text": "内部系统",
+          "x": 720,
+          "y": 740,
+          "width": 240,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 960,
+          "bottom": 797.7862548828125
+        },
+        {
+          "text": "·",
+          "x": 370,
+          "y": 740,
+          "width": 30,
+          "font": "500 60px \"Fred MiSans\"",
+          "right": 400,
+          "bottom": 773.7862510681152
+        },
+        {
+          "text": "能接触哪些系统",
+          "x": 90,
+          "y": 340,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 409.3341369628906
+        },
+        {
+          "text": "取决于访问条件",
+          "x": 90,
+          "y": 446.56,
+          "width": 504,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 594,
+          "bottom": 516.1101403808593
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "synthesis",
+      "time": 139.501,
+      "texts": [
+        {
+          "text": "任务、领域、权限",
+          "x": 90,
+          "y": 340,
+          "width": 576,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 666,
+          "bottom": 409.838134765625
+        },
+        {
+          "text": "共同影响AI体验",
+          "x": 90,
+          "y": 446.56,
+          "width": 499.4639892578125,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 589.4639892578125,
+          "bottom": 516.1821313476562
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "synthesis",
+      "time": 145.799,
+      "texts": [
+        {
+          "text": "任务、领域、权限",
+          "x": 90,
+          "y": 340,
+          "width": 576,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 666,
+          "bottom": 409.838134765625
+        },
+        {
+          "text": "共同影响AI体验",
+          "x": 90,
+          "y": 446.56,
+          "width": 499.4639892578125,
+          "font": "500 72px \"Fred MiSans\"",
+          "right": 589.4639892578125,
+          "bottom": 516.1821313476562
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "closing",
+      "time": 146.501,
+      "texts": [
+        {
+          "text": "你交给AI什么任务？",
+          "x": 90,
+          "y": 680,
+          "width": 714.9599609375,
+          "font": "500 80px \"Fred MiSans\"",
+          "right": 804.9599609375,
+          "bottom": 757.3631286621094
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    },
+    {
+      "cue": "closing",
+      "time": 149.999,
+      "texts": [
+        {
+          "text": "你交给AI什么任务？",
+          "x": 90,
+          "y": 680,
+          "width": 714.9599609375,
+          "font": "500 80px \"Fred MiSans\"",
+          "right": 804.9599609375,
+          "bottom": 757.3631286621094
+        },
+        {
+          "text": "Karpathy 观点",
+          "x": 90,
+          "y": 181,
+          "width": 286.2199401855469,
+          "font": "500 44px \"Fred MiSans\"",
+          "right": 376.2199401855469,
+          "bottom": 229.57225036621094
+        }
+      ]
+    }
+  ],
+  "outOfBounds": []
+}

@@ -1,0 +1,281 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - textbox "搜索你感兴趣的内容": AI使用漏斗
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 综合
+- generic: 视频
+- generic: 用户
+- generic: 直播
+- generic: 多列
+- generic: 单列
+- text: 筛选
+- text: 为你找到以下结果，问问AI智能总结内容
+- generic: 问问AI
+- generic: 01:31
+- generic: "23"
+- generic: "AI能力漏斗，使用AI也分等级？ #如何用好ai #ai认知 #ai知识分享 #ai能力 #人工智能通识"
+- generic: "@李礼の AI生意经"
+- generic: · 6天前
+- generic: 01:12
+- generic: "21"
+- generic: "openai卡帕西的AI认知漏斗 AI认知漏斗：你在第几层？ #江景AI #卡帕西 #openai"
+- generic: "@江景OPC"
+- generic: · 1周前
+- generic: 01:41
+- generic: "1"
+- generic: "AI认知的漏斗 大家对 AI 的认知，已经裂成一个越收越尖的漏斗： · 约 60 亿人，几乎没碰过大模型 · 10–20 亿人，偶尔用免费版 · 约 2000 万人，用最前沿的模型写代码、做数学 · 约 5000 人，用着没公开的内部系统 你在哪一层？ #AI #人工智能 #大模型 #Karpathy #企业AI"
+- generic: "@傲岭AI"
+- generic: · 21小时前
+- generic: 04:17
+- generic: "22"
+- generic: "你怎么用AI，决定了你在第几层 #ai #人工智能 #抖音前沿科技首发计划"
+- generic: "@黑皮诺NULL"
+- generic: · 5天前
+- generic: 02:33
+- generic: 2.0万
+- generic: "AI凭什么替你干活？就凭装对了skill 这期手把手讲4个：一个让AI走出聊天框，自己动鼠标敲键盘接管电脑；一个管剪辑；一个管查证，派出搜索员交叉查证，每个结论都带来源链接；最后这个管蒸馏——把爆款文案、教程甚至大神的决策方式，拆成你能直接照做的框架。四个装完，AI就不是聊天工具了。 #前沿科技 #ai干货 #codex #skill #AI新星计划"
+- generic: "@孟德君AI"
+- generic: · 10月6日
+- generic: 11:19
+- generic: "1543"
+- generic: "运营人常用的数据分析方法-漏斗分析法如何用？（详解版 #互联网运营 #运营干货 #互联网大厂 #数据分析 #运营学习"
+- generic: "@文夕夕的运营思考"
+- generic: · 8月7日
+- paragraph: 相关搜索
+- paragraph: ai使用一般是通过vscode吗
+- paragraph: ai使用qt
+- paragraph: ai漏斗3d绕转怎么做
+- paragraph: ai 使用向量数据库
+- paragraph: ai使用要费多少水
+- paragraph: ai使用数据图表
+- paragraph: ai使用ae创作动画
+- paragraph: AI使用相关内容
+- generic: 35:22
+- generic: "3141"
+- generic: "去了趟影视飓风公开我的AI工作流！ 1. 找到适合你的skill 2. 把你的经验打包成skill 3. 把多个skills组合成工作流 4. 批量化定时化工作流 看完你可以手搓一个视频剪辑skill！还能做出文案海报视频网页全链路的内容生产工作流！ #ai新星计划 #ai创作浪潮计划 #这个ai教程不烧心 #我在抖音学ai #影视飓风 @抖音科技 @抖音精选App官方账号 @抖音精选小助手"
+- generic: "@卡尔的AI沃茨"
+- generic: · 6天前
+- generic: 05:35
+- generic: "623"
+- generic: "学了那么多AI，为什么你还是没爆款？ #自媒体 #AI自媒体 #怎么做爆款 #流量技巧 #流量密码"
+- generic: "@池鸽-搞钱有道"
+- generic: · 7月23日
+- generic: 05:44
+- generic: "33"
+- generic: "你属于深度使用 AI 的那 0.2% 吗？ Karpathy 用一个“漏斗”描述不同人接触 AI 的程度。四层人数是他的粗略估算，不是人口调查；标题中的 0.2% 指在编程、数学等领域深入应用前沿模型的专业人群。任务规模、领域是否容易验证，以及可用模型的差异，也会改变我们的使用感受。 这条视频更想讲我的两点体会。第一，别指望一句话让 AI 做出完全符合要求的 PPT 或需求文档。我在做版权系统时，花了不少时间告诉它我对内容、图表、格式、修订记录的隐性标准。磨合下来的标准可以沉淀为可复用的 Skill。第二，AI 产出越来越快，人读和审核的速度跟不上。它几分钟能改完 100 集短剧，我仍要逐集核对。现在我会让它先整理改动要点和前后对比，再由我检查。 内容导览： 00:00 认知漏斗：为什么大家对 AI 的感受不同 01:02 三个原因：任务规模、领域和模型访问权限 02:19 和 AI 磨合：用版权系统文档讲清隐性标准 04:26 审核跟不上产出：百集短剧的修改与核对 05:22 我的做法：先看改动要点和前后对比 你和 AI 磨合时，最难讲清楚的要求是什么？ 来源：Karpathy 2026-10-11 漏斗推文 https://x.com/karpathy/status/2109361546505966046 。口播中“60 亿人从来没用过”的措辞比原文“几乎没接触过”更绝对，画面文字按原文口径提示。#人工智能 #AI工作流 #大模型 #人机协作 #需求文档"
+- generic: "@快乐小ho"
+- generic: · 3天前
+- generic: 03:45
+- generic: "1373"
+- generic: "本周Github热点，第63期【超级个体开源神作】 本周Github热点，第63期【超级个体开源神作】 1.Taste-Skill 拯救 AI 塑料感审美的品味注入器 2.Agent-Reach 免 API 费用抓取全网的天眼特工 3.MiroFish 预测万物的群体智能博弈推演沙盒 4.Archify 动效光流科技架构图秒级生成器 5.VoiceStudio 本地完全免费的开源 ElevenLabs #Ai新星计划#Github#Codex#Skills#Claude"
+- generic: "@小孔✨ Ai奇异点"
+- generic: · 3天前
+- generic: 03:17
+- generic: "3589"
+- generic: "写出这个skill的简直天才 #我在抖音学ai #vibe知识大赏 #零基础学ai焚决 #这个ai教程不烧心"
+- generic: "@赛博王同学"
+- generic: · 5天前
+- generic: 01:17
+- generic: "194"
+- generic: "不会写代码，也能用AI做出专业动画！🔥 用WorkBuddy搭配Remotion Skill，从创意构思、提示词优化到动画生成，3步搞定动态排行榜、知识科普和科技感视频。让AI替你完成繁琐制作，把时间留给创意！ #AI动画 #AI视频制作 #AI工具教程 #Skill #交流你的工作技巧"
+- generic: "@小樱学姐聊AI"
+- generic: · 1天前
+- generic: 00:39
+- generic: "4998"
+- generic: 挑战把我大的漏斗卖到国外去 你猜老外爱不爱#跨境电商#AI作图#电商#AI新星计划#流量玩家
+- generic: "@奇妙AI进化论"
+- generic: · 5月17日
+- generic: 04:13
+- generic: "2"
+- generic: "我用AI做了一个自动整理视频的功能 #真实生活分享计划 #如何用好ai #ai使用技巧"
+- generic: "@大龙认知觉醒"
+- generic: · 4天前
+- generic: 05:44
+- generic: 1.3万
+- generic: "爆火的Vibe知识视频是怎么做的？ #Vibe知识大赏 #Vibe知识 #抖音前沿科技首发计划 #ai新星计划 #Claude @抖音科技"
+- generic: "@汤姆CC的AI工具箱"
+- generic: · 10月10日
+- generic: 03:07
+- generic: "1267"
+- generic: "AI蒸馏：把大佬经验提取成你的skill 看一个人牛，不是看他赚多少，是看他脑子里那套判断。这期教你用AI「蒸馏」：把大佬的访谈、传记、播客里的方法论和思维框架，拆成随时能调用的skill；再教你把自己的成功经验也蒸成skill，外加一段自我进化提示词，用一次强一点，越用越贴合你的工作方式。手把手教学，一看就会。 #AI新星计划 #前沿科技 #ai干货 #codex #AI蒸馏"
+- generic: "@孟德君AI"
+- generic: · 10月4日
+- generic: 01:53
+- generic: "4549"
+- generic: AI 逆向一切？这个项目 4 天狂揽 4.5 万星 它是一个 MCP：一行命令装进 Claude Code、Codex、Cursor，你的 AI 就能直接拆软件——桌面程序、网页、安卓 APK、固件，一路拆到二进制。 Reddit 网友神评：以前只要你够强，所有软件都是开源的，现在只要你肯花几块钱买 token。 读懂一个软件的成本，正在趋近于零；代码，不再是护城河。
+- generic: "@陆三金"
+- generic: · 10月10日
+- paragraph: 相关搜索
+- paragraph: ai使用一般是通过vscode吗
+- paragraph: ai使用qt
+- paragraph: ai漏斗3d绕转怎么做
+- paragraph: ai 使用向量数据库
+- paragraph: ai使用要费多少水
+- paragraph: ai使用数据图表
+- paragraph: ai使用ae创作动画
+- paragraph: AI使用相关内容
+- textbox "搜索你感兴趣的内容"
+- button "搜索":
+  - generic: 搜索
+- generic: 01:11
+- generic: /
+- generic: 01:11
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link:
+  - /url: //www.douyin.com/user/MS4wLjABAAAAK1PYj5ywb5aL9psyvAuAQCjFgk8CohE6Lxy_i-T0wfE
+- generic: "21"
+- generic: "2"
+- generic: "5"
+- generic: "1"
+- generic: 点击推荐
+- generic: "@江景OPC"
+- generic: · 1周前
+- generic: openai卡帕西的AI认知漏斗 AI认知漏斗：你在第几层？
+- generic: "#江景AI"
+- generic: "#卡帕西"
+- generic: "#openai"
+- generic: AI认知漏斗分哪几层？
+- generic: 00:20
+- generic: /
+- generic: 01:41
+- textbox "发一条友好的弹幕吧"
+- generic: 发送
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link:
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjUEVLlfuthfjddO1F9NTfhopKAhEZVmPLyIBjqksRxakaovGHCHkB3ozpbgxkRR2
+- generic: "1"
+- generic: 抢首评
+- generic: 收藏
+- generic: 分享
+- generic: "@傲岭AI"
+- generic: · 21小时前
+- generic: AI认知的漏斗 大家对 AI 的认知，已经裂成一个越收越尖的漏斗：· 约 60 亿人，几乎没碰过大模型· 10–20 亿人，偶尔用免费版· 约 2000 万人，用最前沿的模型写代码、做数学· 约 5000 人，用着没公开的内部系统 你在哪一层？
+- generic: "#AI"
+- generic: "#人工智能"
+- generic: "#大模型"
+- generic: "#Karpathy"
+- generic: "#企业AI"
+- button "展开"
+- generic: 00:00
+- generic: /
+- generic: 04:17
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- link:
+  - /url: //www.douyin.com/user/MS4wLjABAAAAt13R3nn8nTef7NG-Yr-9nXUdfP7hpT1QCZvge8LgfjI
+- generic: "22"
+- generic: "1"
+- generic: "10"
+- generic: "2"
+- generic: "@黑皮诺NULL"
+- generic: · 5天前
+- generic: 你怎么用AI，决定了你在第几层
+- generic: "#ai"
+- generic: "#人工智能"
+- generic: "#抖音前沿科技首发计划"

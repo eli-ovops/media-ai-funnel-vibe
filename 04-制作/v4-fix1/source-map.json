@@ -1,0 +1,156 @@
+{
+  "baseline": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4",
+  "componentRefs": [
+    {
+      "id": "fred-wave3-40-t15f",
+      "reason": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+      "preserve": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+      "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+      "useScope": "0–12s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T15f-DonutShare.tsx",
+        "sha256": "19370051e5c1360af7a3f89040818ee8159e3bc689ff07fea6ab12515c7f5404",
+        "symbol": "DonutShare"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/src/components/T15f-DonutShare.tsx",
+        "sha256": "3baa8adf4788b7f87c02494fe96cd14721fc83d4d572ab33bc8b0b782a23f6ae",
+        "symbol": "DonutShare"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/src/Episode.tsx",
+        "sha256": "e9125ac23d5dad7895be411beb863f8b579abeff2eb7cef261427553a44027d9",
+        "symbol": "Population",
+        "callee": "DonutShare"
+      }
+    },
+    {
+      "id": "fred-wave3-40-t05h",
+      "reason": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+      "preserve": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+      "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+      "useScope": "25–36s",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+        "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+        "symbol": "SyncVsCopy"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/src/components/T05h-SyncVsCopy.tsx",
+        "sha256": "a83aa9965398e10a5997a558399ebbb210defcf8067d51114f1cd50e804f700e",
+        "symbol": "SyncVsCopy"
+      },
+      "callSite": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/src/Episode.tsx",
+        "sha256": "e9125ac23d5dad7895be411beb863f8b579abeff2eb7cef261427553a44027d9",
+        "symbol": "Task",
+        "callee": "SyncVsCopy"
+      }
+    }
+  ],
+  "source": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/src/Magnified.tsx",
+    "sha256": "6ccdc1feb694fda8dd2f0604838696913e49e9d4b926460e806792e85fd31ac9"
+  },
+  "episodeExtension": "outline maps the same true annular interval to the linear viewport with fixed range/fraction; not an original Fred module or sy mechanism",
+  "actualCalls": [
+    "Representative → Population → DonutShare",
+    "Representative → Magnified → outline",
+    "Representative → PillToWindow → Sequence from48 → Task → SyncVsCopy"
+  ],
+  "unchanged": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/src/components/T15f-DonutShare.tsx",
+      "sha256": "3baa8adf4788b7f87c02494fe96cd14721fc83d4d572ab33bc8b0b782a23f6ae"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/src/kit/theme.ts",
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/src/kit/ui.tsx",
+      "sha256": "4371cdbcc34ca169e3f486aea0a4671c6109ddf4c7c57a1b77ea4260d437b51d"
+    }
+  ],
+  "timeline": [
+    {
+      "seconds": [
+        0,
+        12
+      ],
+      "state": "unchanged complete T15f population ring and handoff"
+    },
+    {
+      "seconds": [
+        12.35,
+        14.3
+      ],
+      "state": "range1% annular interval unfolds; highlighted fraction .002 / .01 =20%; no minimum wedge"
+    },
+    {
+      "seconds": [
+        14.3,
+        18.7
+      ],
+      "state": "stable1% window,0.2% and20M reading"
+    },
+    {
+      "seconds": [
+        18.7,
+        21.3
+      ],
+      "state": "1% window retreats lower; second .0001% window unfolds from same whole anchor with60% fill; numeric claims appear only on arrival"
+    },
+    {
+      "seconds": [
+        21.3,
+        23.3
+      ],
+      "state": "second stable reading; first reference retires"
+    },
+    {
+      "seconds": [
+        23.3,
+        25
+      ],
+      "state": "highlight bar becomes checking capsule"
+    },
+    {
+      "seconds": [
+        25,
+        25.8
+      ],
+      "state": "T20m same capsule transforms to720x310 source-card at180,530; no full-page media opacity"
+    },
+    {
+      "seconds": [
+        25.8,
+        36
+      ],
+      "state": "T05h continues from ready source card; branch/update actions delayed0.8s, source identities unchanged"
+    }
+  ],
+  "T20mChanges": "Destination changed from1080x1920 outer window to actual720x310 black source-card; hook retained until room ready, complete task label admitted only25.73s onward, child sequence begins25.8s. Returns-to-pill unused.",
+  "limits": [
+    "source preview comparison only establishes shared mechanism and surface, not pixel-copy",
+    "continuous normal-speed viewing not performed",
+    "silent representative, no hearing acceptance",
+    "full150s not yet released"
+  ],
+  "additionalExactSources": [
+    {
+      "name": "T20m-PillToWindow",
+      "source": {
+        "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-chapter-transitions-20-20261014/src/components/T20m-PillToWindow.tsx",
+        "sha256": "849a13b9b1ff7740ec00214727628503d6e6dddf50cd81bc7e246f6c3eee041c"
+      },
+      "implementation": {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/src/components/T20m-PillToWindow.tsx",
+        "sha256": "458dc1719dfcdd37e9233e765cc1adae77fcaa2b61afbbf286f6db13bcae5508"
+      },
+      "call": "Representative → PillToWindow → Task",
+      "preserved": "同一黑胶囊尺寸连续扩为媒体窗口，标题随开放让位；原曲线/剪裁/阴影",
+      "changed": "Destination changed from1080x1920 outer window to actual720x310 black source-card; hook retained until room ready, complete task label admitted only25.73s onward, child sequence begins25.8s. Returns-to-pill unused."
+    }
+  ]
+}

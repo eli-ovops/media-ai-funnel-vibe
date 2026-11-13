@@ -1,0 +1,591 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "v4-complete-150s-r5",
+  "status": "PRODUCTION_CANDIDATE_PENDING_PMO_AND_05",
+  "timelineFps": 60,
+  "durationInFrames": 9000,
+  "outputSpec": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "durationSeconds": 150
+  },
+  "referenceCatalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "workflow": {
+    "profile": "fred-video-v2",
+    "componentMatching": "v1"
+  },
+  "designContract": {
+    "authority": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-v4完整150秒续接.md",
+    "scope": "Full 22 semantic beats after PMO release of representative; no final approval implied",
+    "style": "准确Fred实体表面、MiSans字阶、紫黑重点；无固定整片标题区；原版横向关系竖屏重排",
+    "numerical": "原近似值；不凑100%；微小扇区无最小角，条形窗口含明确总体分母",
+    "audio": "Intentionally silent: no audio stream, voice, TTS, music or SFX; user adds platform music",
+    "targetFullFilmSeconds": 150,
+    "existing22BeatSemantics": "All 22 mapped to screen-text-index.json"
+  },
+  "pages": [
+    {
+      "stableId": "full-v4-complete",
+      "startFrame": 0,
+      "durationInFrames": 9000,
+      "implementationMode": "adapted",
+      "productionRoute": {
+        "selected": "remotion"
+      },
+      "oneQuestion": "Why do AI experiences differ across exposure, task, domain and access?",
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t15f",
+          "reason": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+          "preserve": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。",
+          "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+          "useScope": "16-46s",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T15f-DonutShare.tsx",
+            "sha256": "19370051e5c1360af7a3f89040818ee8159e3bc689ff07fea6ab12515c7f5404",
+            "symbol": "DonutShare"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T15f-DonutShare.tsx",
+            "sha256": "137722b4e9b706ee00532ae6f3680395edd8409c168fc57c6926c0b56c4662a4",
+            "symbol": "DonutShare"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+            "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+            "symbol": "Population",
+            "callee": "DonutShare"
+          }
+        },
+        {
+          "id": "fred-wave3-40-t05h",
+          "reason": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+          "preserve": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。",
+          "change": "完整TSX及原kit复制后按竖屏重排，修改本期文案、尺寸、cue；无人声、不烧入音轨；原框架非像素原样。",
+          "useScope": "59.8-70s",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+            "symbol": "SyncVsCopy"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "a83aa9965398e10a5997a558399ebbb210defcf8067d51114f1cd50e804f700e",
+            "symbol": "SyncVsCopy"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+            "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+            "symbol": "Task",
+            "callee": "SyncVsCopy"
+          }
+        },
+        {
+          "id": "fred-wave3-40-t02g",
+          "reason": "Two experiences build separate lanes from role to steps; no completion checks",
+          "preserve": "Two experiences build separate lanes from role to steps; no completion checks",
+          "change": "Complete source module adapted to portrait geometry and local props/cues; exact source archived; original kit retained except documented portrait/fonts/silent adapters",
+          "useScope": "0-12s",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T02g-RoleRoadmap.tsx",
+            "sha256": "4f93cc9418c91ea65f98423375da8d22205893b92984aac373f0eebbbd6a6c66",
+            "symbol": "RoleRoadmap"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T02g-RoleRoadmap.tsx",
+            "sha256": "df2162b4cb50e2822f7b7278af4df1e00758bd307610cbd2cba0548a4d5bedc8",
+            "symbol": "RoleRoadmap"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+            "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+            "symbol": "Intro",
+            "callee": "RoleRoadmap"
+          }
+        },
+        {
+          "id": "fred-wave2-42-t04b",
+          "reason": "One task bar splits into assigned responsibilities; tool cards enter underneath",
+          "preserve": "One task bar splits into assigned responsibilities; tool cards enter underneath",
+          "change": "Complete source module adapted to portrait geometry and local props/cues; exact source archived; original kit retained except documented portrait/fonts/silent adapters",
+          "useScope": "70-77.2s",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T04b-RoleSplit.tsx",
+            "sha256": "d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb",
+            "symbol": "RoleSplit"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T04b-RoleSplit.tsx",
+            "sha256": "f59ba1e1acf3ad78432ac80e39249f5be111b13b3fbe4cdbfb4857e19809e9aa",
+            "symbol": "RoleSplit"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+            "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+            "symbol": "Roles",
+            "callee": "RoleSplit"
+          }
+        },
+        {
+          "id": "fred-wave2-42-t03e",
+          "reason": "Sequential arrows and wrap topology show what to do and inspect",
+          "preserve": "Sequential arrows and wrap topology show what to do and inspect",
+          "change": "Complete source module adapted to portrait geometry and local props/cues; exact source archived; original kit retained except documented portrait/fonts/silent adapters",
+          "useScope": "90.4-105s",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T03e-StepChain.tsx",
+            "sha256": "cbe67fa526d5cfbf4c4b927d1e166086281d8da5e7b956c9c5bf13711fcb3546",
+            "symbol": "StepChain"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T03e-StepChain.tsx",
+            "sha256": "51e50e71ac13fe4788056be4f87e3cd0e7e66174fcff80f96c4b3bc93947b3ed",
+            "symbol": "StepChain"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+            "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+            "symbol": "TaskSequence",
+            "callee": "StepChain"
+          }
+        },
+        {
+          "id": "fred-wave3-40-t04g",
+          "reason": "Access conditions branch to entry types; recommend=-1, no winner",
+          "preserve": "Access conditions branch to entry types; recommend=-1, no winner",
+          "change": "Complete source module adapted to portrait geometry and local props/cues; exact source archived; original kit retained except documented portrait/fonts/silent adapters",
+          "useScope": "126-141s",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T04g-DecisionTree.tsx",
+            "sha256": "56cf99105c4a28c7f86b35801e35e2999a7a6042c7ac0db3bac033c818bc43dd",
+            "symbol": "DecisionTree"
+          },
+          "implementation": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T04g-DecisionTree.tsx",
+            "sha256": "036dc8bd35e0efe03bcaab09620867d70e4fadbdeb3f3cd4e3bfe5a3723197b6",
+            "symbol": "DecisionTree"
+          },
+          "callSite": {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+            "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde",
+            "symbol": "Access",
+            "callee": "DecisionTree"
+          }
+        }
+      ],
+      "componentPlan": {
+        "query": "Population proportion, role lanes, task assignment, sequential inspection, access conditions",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t15f",
+            "decision": "selected",
+            "reason": "全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。"
+          },
+          {
+            "id": "fred-wave3-40-t05h",
+            "decision": "selected",
+            "reason": "同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。"
+          },
+          {
+            "id": "fred-wave3-40-t02g",
+            "decision": "selected",
+            "reason": "Two experiences build separate lanes from role to steps; no completion checks"
+          },
+          {
+            "id": "fred-wave2-42-t04b",
+            "decision": "selected",
+            "reason": "One task bar splits into assigned responsibilities; tool cards enter underneath"
+          },
+          {
+            "id": "fred-wave2-42-t03e",
+            "decision": "selected",
+            "reason": "Sequential arrows and wrap topology show what to do and inspect"
+          },
+          {
+            "id": "fred-wave3-40-t04g",
+            "decision": "selected",
+            "reason": "Access conditions branch to entry types; recommend=-1, no winner"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t15f",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T15f-1-preview.mp4",
+            "sha256": "9081c2ebab360753bfb088c2733f5a6e53dd21806d0613d0d3582cbd79b86ede",
+            "observations": "实际看过该准确版本全时段采样联系图；全环顺时针扫出，主份额抽出，中央数字与图例对应；竖屏环为视觉主体。 采样不等于连续视听。"
+          },
+          {
+            "id": "fred-wave3-40-t05h",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T05h-1-preview.mp4",
+            "sha256": "aa06dbff54fd44ac6ab13d047bc0f526299baee5689de5509038bef3f7748072",
+            "observations": "实际看过该准确版本全时段采样联系图；同一源对象分出两个分支，断线和持续连接决定状态是否传达；保存检查仍是概念解释，非真实产品实测。 采样不等于连续视听。"
+          },
+          {
+            "id": "fred-wave3-40-t02g",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T02g-1-preview.mp4",
+            "sha256": "4d9c169d3e4a9cce708af55b27548b4088b5ecfce04f3dfb975ae42ee81d9e8e",
+            "observations": "Read exact full source and card; viewed all contact sheets of sampled preview. Two experiences build separate lanes from role to steps; no completion checks. Not continuous watching/hearing."
+          },
+          {
+            "id": "fred-wave2-42-t04b",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T04b-1-preview.mp4",
+            "sha256": "888bcb60e7b15783d4de2a3af7645cd0904cee92040f7b1c3d6ecf12d4390950",
+            "observations": "Read exact full source and card; viewed all contact sheets of sampled preview. One task bar splits into assigned responsibilities; tool cards enter underneath. Not continuous watching/hearing."
+          },
+          {
+            "id": "fred-wave2-42-t03e",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T03e-1-preview.mp4",
+            "sha256": "26fd8f6dbc80436055bdbb3d6592f6487e5edebd198f90e47962e6a7dcb62b5b",
+            "observations": "Read exact full source and card; viewed all contact sheets of sampled preview. Sequential arrows and wrap topology show what to do and inspect. Not continuous watching/hearing."
+          },
+          {
+            "id": "fred-wave3-40-t04g",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T04g-1-preview.mp4",
+            "sha256": "1d69585228c4fc7a3c71a6513b88720e29d607f822c7aed08e067ba827a4f7e1",
+            "observations": "Read exact full source and card; viewed all contact sheets of sampled preview. Access conditions branch to entry types; recommend=-1, no winner. Not continuous watching/hearing."
+          }
+        ],
+        "rejectedCandidates": [
+          {
+            "id": "T14a2",
+            "reason": "Race implies measured speed; no measurements"
+          },
+          {
+            "id": "T05d",
+            "reason": "Winner comparison does not describe access"
+          },
+          {
+            "id": "T09d2",
+            "reason": "Automatic completion can imply an actual test"
+          },
+          {
+            "id": "T08i",
+            "reason": "Glass surface not allowed"
+          }
+        ]
+      },
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F430.png",
+            "sha256": "9227407ac71ac46634971064bbd40861c76d7c562ebb64f8d1955020dac049be"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F1260.png",
+            "sha256": "63d1ebf8b56cd39bbd1ac28f5a64e834f61b19178f9387ccd544db822ed6409b"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F2040.png",
+            "sha256": "4b[REDACTED_PHONE]a82a2739ab812b367b4e0179c3c4e1e4390d3e6d33cd5d1d574"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F3210.png",
+            "sha256": "5d2f27d041617a28c84631e5d57d5d2b0043bfc9deb8516b67acdc4d0d365fba"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F3585.png",
+            "sha256": "50bf9ee7a656de17dc74398e5e8da9c465657cc5b455ad7754eb73162e686735"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F3910.png",
+            "sha256": "3d7d1c3331e8b1d970c390879073fa9a4835616f2eaaaa3c2526a06938855ac6"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F4500.png",
+            "sha256": "d3b7e4f5f4342ba32b986af51aa2c0af3ae979f43d746c6d3c808ad538e91916"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F6800.png",
+            "sha256": "dfa084394537ca97d9d23bd6b9079b4f833b776ca8b3e5a07f07a05ba84e2b0a"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F7370.png",
+            "sha256": "05fbaba7fafdf49f5da1a274a2872593e3d2c48d4983bdd9b1f3275caec5d2bb"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F7950.png",
+            "sha256": "93f216b803f9a6efd4758975609d2282cf55ed60f675ccb9f2417d985518bcd0"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F30.png",
+            "sha256": "5887f0057853d7c060ad17e03e24f29e881adab5bbb6a56fbd2fcaaf5db4172f"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F945.png",
+            "sha256": "24ce9a4757fc4cbb0ede462b45534684c45eefb65b834f80e8ea30a914e8cf67"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F4200.png",
+            "sha256": "c6d77757091a78df901508c14d7ba5e2cc57e8450a861ba6677a17df2d6e27c0"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F4650.png",
+            "sha256": "26992ca08f4b8129287dacabffa576dcd69c89cdf5053e6fb08a1eac381bf1db"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F5520.png",
+            "sha256": "70d0d6aabb0c0ee1aea836d1010b7498a65a5491308feab3443dc82698f1b752"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F6050.png",
+            "sha256": "b98ad7e44b2aaf09305d8f2318708d2de4ddccdc87bfc41d60af6c1c4b87c6dd"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F6210.png",
+            "sha256": "17a89edede4517a368c262f013b73c26432341a8a2221e6fd6be1596dfd86f3c"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F8470.png",
+            "sha256": "2229bb2acd9c5647cb9354e263fd80effd30536173a51896fe895a0c2a5ebade"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F8830.png",
+            "sha256": "f800e21466b628080651e66aadb3dbd41f817a0dc2c914231fd1dba6be8f31c8"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F1428.png",
+            "sha256": "80181283cd863c4d5c4f14fdc9dcd5065ab8a3c00dd04f45e1adf0fa3744ab82"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F1440.png",
+            "sha256": "df009213af6d6accbc0313ec94a75e91026ef2e1dd18430ae1f9c3d26cc9fc4e"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F2160.png",
+            "sha256": "0944c5572a3cbe02869ac77e28d593b997bc4fee43cd9f6e898eefc7b1d77667"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F3210.png",
+            "sha256": "50f4c738eb422807b6ac0280d96c3c1f734de4b0168cc08d3e357b79f418c222"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F3560.png",
+            "sha256": "f7f8ffd79324037250359ca2218f2f0b7cc337c0a44fb091a55d2b896731f4f0"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F3588.png",
+            "sha256": "ec8179e24259a43da97e40b1dcc830768266dabd869950c40e17d2e776f0725f"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F8448.png",
+            "sha256": "f7c991ebc70a4c79de8a3ebd3ee93a7acccb0e4502fe3e841219ed1a8221ab96"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F8472.png",
+            "sha256": "8c87a7328eeaba70ab71efc1f706be2b34fe4fff61bc6a31c2f596bbb3437c8c"
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/index.tsx",
+            "sha256": "a9b8f3c9cc331ad79e36190897b6d0f9ffe029ffa10e73fa9c64327312d6f357"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/Magnified.tsx",
+            "sha256": "6ccdc1feb694fda8dd2f0604838696913e49e9d4b926460e806792e85fd31ac9"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/Episode.tsx",
+            "sha256": "e9125ac23d5dad7895be411beb863f8b579abeff2eb7cef261427553a44027d9"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/FullEpisode.tsx",
+            "sha256": "21667cd84f9d207a67bc771ed2a4672ca2a48bfd34e6ba3770998109d74f8cde"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/kit/ui.tsx",
+            "sha256": "4371cdbcc34ca169e3f486aea0a4671c6109ddf4c7c57a1b77ea4260d437b51d"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "a83aa9965398e10a5997a558399ebbb210defcf8067d51114f1cd50e804f700e"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T04b-RoleSplit.tsx",
+            "sha256": "f59ba1e1acf3ad78432ac80e39249f5be111b13b3fbe4cdbfb4857e19809e9aa"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T20m-PillToWindow.tsx",
+            "sha256": "458dc1719dfcdd37e9233e765cc1adae77fcaa2b61afbbf286f6db13bcae5508"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T04g-DecisionTree.tsx",
+            "sha256": "036dc8bd35e0efe03bcaab09620867d70e4fadbdeb3f3cd4e3bfe5a3723197b6"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T15f-DonutShare.tsx",
+            "sha256": "137722b4e9b706ee00532ae6f3680395edd8409c168fc57c6926c0b56c4662a4"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T03e-StepChain.tsx",
+            "sha256": "51e50e71ac13fe4788056be4f87e3cd0e7e66174fcff80f96c4b3bc93947b3ed"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/src/components/T02g-RoleRoadmap.tsx",
+            "sha256": "df2162b4cb50e2822f7b7278af4df1e00758bd307610cbd2cba0548a4d5bedc8"
+          }
+        ]
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "stage": "keyframes",
+        "reviewer": "assistant",
+        "checks": {
+          "semanticFit": "22 meanings mapped; approximate source counts preserved; no normalized partition, real-app pass or ranking claims",
+          "corePreserved": "Full TSX modules retain role extraction, continuous task split, sequential S-wrap, conditions-to-leaves; exact original snapshots and kit SHA retained",
+          "visualQuality": "Reviewed 209 full-r4 export samples plus65 actual r5 samples covering final changed windows/seams; fixed three onset overlaps. Native r5 F2040/3210/3560/3588/8448/8472 read. Whole-film normal-speed aesthetic acceptance remains pending. See qc/visual-review.md and motion-review.md."
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F430.png",
+            "sha256": "9227407ac71ac46634971064bbd40861c76d7c562ebb64f8d1955020dac049be"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F1260.png",
+            "sha256": "63d1ebf8b56cd39bbd1ac28f5a64e834f61b19178f9387ccd544db822ed6409b"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F2040.png",
+            "sha256": "4b[REDACTED_PHONE]a82a2739ab812b367b4e0179c3c4e1e4390d3e6d33cd5d1d574"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F3210.png",
+            "sha256": "5d2f27d041617a28c84631e5d57d5d2b0043bfc9deb8516b67acdc4d0d365fba"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F3585.png",
+            "sha256": "50bf9ee7a656de17dc74398e5e8da9c465657cc5b455ad7754eb73162e686735"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F3910.png",
+            "sha256": "3d7d1c3331e8b1d970c390879073fa9a4835616f2eaaaa3c2526a06938855ac6"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F4500.png",
+            "sha256": "d3b7e4f5f4342ba32b986af51aa2c0af3ae979f43d746c6d3c808ad538e91916"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F6800.png",
+            "sha256": "dfa084394537ca97d9d23bd6b9079b4f833b776ca8b3e5a07f07a05ba84e2b0a"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F7370.png",
+            "sha256": "05fbaba7fafdf49f5da1a274a2872593e3d2c48d4983bdd9b1f3275caec5d2bb"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r1/F7950.png",
+            "sha256": "93f216b803f9a6efd4758975609d2282cf55ed60f675ccb9f2417d985518bcd0"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F30.png",
+            "sha256": "5887f0057853d7c060ad17e03e24f29e881adab5bbb6a56fbd2fcaaf5db4172f"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F945.png",
+            "sha256": "24ce9a4757fc4cbb0ede462b45534684c45eefb65b834f80e8ea30a914e8cf67"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F4200.png",
+            "sha256": "c6d77757091a78df901508c14d7ba5e2cc57e8450a861ba6677a17df2d6e27c0"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F4650.png",
+            "sha256": "26992ca08f4b8129287dacabffa576dcd69c89cdf5053e6fb08a1eac381bf1db"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F5520.png",
+            "sha256": "70d0d6aabb0c0ee1aea836d1010b7498a65a5491308feab3443dc82698f1b752"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F6050.png",
+            "sha256": "b98ad7e44b2aaf09305d8f2318708d2de4ddccdc87bfc41d60af6c1c4b87c6dd"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F6210.png",
+            "sha256": "17a89edede4517a368c262f013b73c26432341a8a2221e6fd6be1596dfd86f3c"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F8470.png",
+            "sha256": "2229bb2acd9c5647cb9354e263fd80effd30536173a51896fe895a0c2a5ebade"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/stills-r3/F8830.png",
+            "sha256": "f800e21466b628080651e66aadb3dbd41f817a0dc2c914231fd1dba6be8f31c8"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F1428.png",
+            "sha256": "80181283cd863c4d5c4f14fdc9dcd5065ab8a3c00dd04f45e1adf0fa3744ab82"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F1440.png",
+            "sha256": "df009213af6d6accbc0313ec94a75e91026ef2e1dd18430ae1f9c3d26cc9fc4e"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F2160.png",
+            "sha256": "0944c5572a3cbe02869ac77e28d593b997bc4fee43cd9f6e898eefc7b1d77667"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F3210.png",
+            "sha256": "50f4c738eb422807b6ac0280d96c3c1f734de4b0168cc08d3e357b79f418c222"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F3560.png",
+            "sha256": "f7f8ffd79324037250359ca2218f2f0b7cc337c0a44fb091a55d2b896731f4f0"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F3588.png",
+            "sha256": "ec8179e24259a43da97e40b1dcc830768266dabd869950c40e17d2e776f0725f"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F8448.png",
+            "sha256": "f7c991ebc70a4c79de8a3ebd3ee93a7acccb0e4502fe3e841219ed1a8221ab96"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/qc/export-frames-r5/F8472.png",
+            "sha256": "8c87a7328eeaba70ab71efc1f706be2b34fe4fff61bc6a31c2f596bbb3437c8c"
+          }
+        ],
+        "contextSha256": "0405f5e8ec48341b9b61f3dfb47da762d5fc5fdfee1ebaf31eecc2b850437a6f"
+      }
+    }
+  ],
+  "additionalExactSources": {
+    "T20m": "Same-object opening adapted to source-card bounds, not a blank full-screen shell. See source-map.json.",
+    "Magnified": "本期数值视窗延伸；并非T15f原组件，不署名sy17",
+    "sy17": "查阅比较后未采用，实际贡献为0"
+  },
+  "inspectionLimits": [
+    "No normal-speed continuous visual review",
+    "No phone timed-reading test",
+    "No audio stream; no direct hearing acceptance",
+    "Full final film pending PMO and independent 05 review"
+  ],
+  "revision": {
+    "baseline": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1",
+    "fullFilmReleased": true,
+    "actualModel": "UNKNOWN",
+    "target": "Astra/high",
+    "weeklyUsageAtDispatch": "10%",
+    "fiveHourUsage": "UNKNOWN",
+    "noUserApprovalAdded": true
+  },
+  "delivery": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/output/ai-funnel-v4-complete-150s-r5.mp4",
+    "sha256": "6ac2862d8b34a813ff471ff13d14a572bb77f35e0c5df78e1267bcaab343cbd0",
+    "bytes": 9291858,
+    "duration": "150.000000",
+    "frames": "9000",
+    "width": 1080,
+    "height": 1920,
+    "fps": "60/1",
+    "audioStreams": 0
+  },
+  "remainingReview": [
+    "Normal-speed continuous viewing",
+    "05 independent review",
+    "Long silent reading holds, especially133.7-140.5",
+    "84/126 chapter cuts and140.6-141 exit clipping style",
+    "User final approval and inherited covers"
+  ]
+}

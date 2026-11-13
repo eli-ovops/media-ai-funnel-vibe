@@ -1,0 +1,1197 @@
+{
+  "workflow": {
+    "profile": "fred-video-v2",
+    "componentMatching": "v1",
+    "authorization": {
+      "mode": "direct-output",
+      "source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-完整代码动画任务.md"
+    }
+  },
+  "script": {
+    "path": "screen-script.txt",
+    "sha256": "516349a822525a5c23f55033ebac66f3d244b6f7c05797a2c9a07a99234f4de0"
+  },
+  "timingStatus": "approved-manual",
+  "timingEvidence": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-PMO-150秒内容验收.json",
+  "timelineFps": 60,
+  "durationInFrames": 9000,
+  "outputSpec": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60,
+    "audio": "required"
+  },
+  "clockContract": {
+    "mode": "scene-local",
+    "sourceRule": "画面使用单一全片世界帧时钟；各动作以自己的at为起点，文字cue以cue起点求局部帧。连续世界状态跨知识拍继承，禁止随组件挂载重置。"
+  },
+  "referenceCatalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "pages": [
+    {
+      "stableId": "S1",
+      "startFrame": 0,
+      "durationInFrames": 1200,
+      "oneQuestion": "同一个问题，为何产生不同体验？",
+      "sourceBeatIds": [
+        "question",
+        "contrast",
+        "attribution"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 0,
+          "endChar": 39,
+          "text": "同样谈AI\n为何判断差这么远？\n有人看到聊天框\n有人看到复杂项目\nAI认知漏斗"
+        }
+      ],
+      "exactScreenWords": [
+        "同样谈AI",
+        "为何判断差这么远？",
+        "有人看到聊天框",
+        "有人看到复杂项目",
+        "AI认知漏斗"
+      ],
+      "visualPlan": {
+        "enter": "问题端与两种任务载体",
+        "change": "同步曲线把同一输入分别传给短答载体和多步任务载体。",
+        "read": "各拍前0.5秒建立全文，此后在冻结阅读窗内固定字形/位置/尺度",
+        "exit": "曲线与所属对象一起交出，文字在末0.2秒退出",
+        "handoff": "四个稳定的组身份，排布可重组，数值不互相变换"
+      },
+      "implementationMode": "adapted",
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t05h",
+          "reason": "同步曲线把同一输入分别传给短答载体和多步任务载体。",
+          "preserve": "同源对象从原位置展开，沿连续三次曲线传递",
+          "change": "Canvas纵向知识图形；任务内容、曲线端点、调色和全片时序重新编排；不继承原文与品牌",
+          "useScope": "0–20s",
+          "useMode": "local",
+          "keyAction": "同步曲线把同一输入分别传给短答载体和多步任务载体。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+            "symbol": "SyncVsCopy"
+          },
+          "implementation": {
+            "path": "src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+            "symbol": "syncPoint"
+          },
+          "callSite": {
+            "path": "src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf",
+            "symbol": "path",
+            "callee": "syncPoint"
+          }
+        }
+      ],
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "sampleCount": 7,
+        "staticAllowanceSeconds": 8
+      },
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "当前04完整动画任务"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "modifiers": [
+          "object-transition",
+          "relation-lines",
+          "text-presentation",
+          "sound-effects"
+        ],
+        "signature": "b0daa5c7c5a5613625f65d8cd1c1125833888860081be1d0ba6177a398c2cb30",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "同步曲线把同一输入分别传给短答载体和多步任务载体。",
+            "check": "核对每个口播短语对应当前对象/可见状态；总述与分述焦点分别检查。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "正文64–80px，数字112px以上，所有可见词取自冻结screen_lines",
+            "check": "用最长文字、实际字体、最终倍率检查换行与字重；比较同职责元素。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F04",
+            "decision": "实体统一固体纸张/任务端，职责变化才变形",
+            "check": "检查同职责元素的稳定态几何与可见内容尺度；明确哪些等权、哪些正在被强调。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F10",
+            "decision": "四个稳定的组身份，排布可重组，数值不互相变换沿同一时钟接续",
+            "check": "以正常速度检查实际交接窗口的可读性和语义；复杂运动或已出现异常时逐帧核对对象可见区与载体边界。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F09",
+            "decision": "零进度不画线，曲线走图形区，不穿正文",
+            "check": "检查进度0、第一可见帧、收回末帧与下游首态，必要时零进度不挂载路径。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F12",
+            "decision": "同步曲线把同一输入分别传给短答载体和多步任务载体。",
+            "check": "逐个语义窗口说清新增加了什么信息或状态；删掉与结论无关的重复模块。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F14",
+            "decision": "离线代码SFX绑定同一个事件表；指定音乐缺失，不合成替代曲",
+            "check": "带声音以正常速度检查动作落点与听觉密度；验证正式混音满足当前交付合同。；本期连续正常速度与直接听音尚不可核"
+          }
+        ]
+      },
+      "componentPlan": {
+        "query": "同步曲线把同一输入分别传给短答载体和多步任务载体。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "decision": "selected",
+            "reason": "同步曲线把同一输入分别传给短答载体和多步任务载体。"
+          },
+          {
+            "id": "fred-wave3-40-t16a",
+            "decision": "rejected",
+            "reason": "时间刻度会暗示人口或能力沿单一维度增长，与本片范围不合"
+          },
+          {
+            "id": "fred-wave2-42-t04b",
+            "decision": "rejected",
+            "reason": "该拍优先所选的对象传递/分工关系，另一机制留给实际适用段落"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T05h-1-preview.mp4",
+            "sha256": "aa06dbff54fd44ac6ab13d047bc0f526299baee5689de5509038bef3f7748072",
+            "observations": "通过准确派生联系图实际查看T05h核心时序帧；不是连续观看。/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg；联系图SHA=72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0；同源对象从原位置展开，沿连续三次曲线传递"
+          }
+        ]
+      },
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-3.150.jpg",
+            "sha256": "e1947f467b8e7e3371c7027df84da4afc52363b7906a01559912f2ebfbbbaf45",
+            "atSeconds": 3.15
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e"
+          }
+        ],
+        "scope": "Exported MP4 stills only"
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "reviewer": "assistant",
+        "stage": "keyframes",
+        "checks": {
+          "semanticFit": "同一个端口连接短答与立体任务纸；首段纸张已收进画布，文字无裁切。",
+          "corePreserved": "同源对象从原位置展开，沿连续三次曲线传递，本期源码/调用另核。",
+          "visualQuality": "最终MP4联系图及高风险原尺寸图已看；采样中未发现文字裁切或文字与图形重叠。静帧结论不替代正常速度/声音。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-3.150.jpg",
+            "sha256": "e1947f467b8e7e3371c7027df84da4afc52363b7906a01559912f2ebfbbbaf45",
+            "atSeconds": 3.15
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg",
+            "sha256": "72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0"
+          }
+        ],
+        "contextSha256": "2fe918c0b863cbb79536eb3775a5fcd4decd60252c370c1db22a88082702c03a"
+      }
+    },
+    {
+      "stableId": "S2",
+      "startFrame": 1200,
+      "durationInFrames": 1560,
+      "oneQuestion": "接触与偶尔使用的区别是什么？",
+      "sourceBeatIds": [
+        "barely_exposed",
+        "exposure_meaning",
+        "casual_free",
+        "casual_tasks"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 40,
+          "endChar": 110,
+          "text": "约60亿人\n几乎未接触\n大语言模型\n听过AI\n不等于亲手用过\n约10—20亿人\n偶尔使用\n免费聊天产品\n查资料 · 改文字\n更像一个问答工具"
+        }
+      ],
+      "exactScreenWords": [
+        "约60亿人",
+        "几乎未接触",
+        "大语言模型",
+        "听过AI",
+        "不等于亲手用过",
+        "约10—20亿人",
+        "偶尔使用",
+        "免费聊天产品",
+        "查资料 · 改文字",
+        "更像一个问答工具"
+      ],
+      "visualPlan": {
+        "enter": "组标、未接通交互端",
+        "change": "交互端从断开到接通，纸张与检索对象从相同端口返回。",
+        "read": "各拍前0.5秒建立全文，此后在冻结阅读窗内固定字形/位置/尺度",
+        "exit": "曲线与所属对象一起交出，文字在末0.2秒退出",
+        "handoff": "输入端和可编辑的文字载体"
+      },
+      "implementationMode": "adapted",
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t05h",
+          "reason": "交互端从断开到接通，纸张与检索对象从相同端口返回。",
+          "preserve": "同源对象从原位置展开，沿连续三次曲线传递",
+          "change": "Canvas纵向知识图形；任务内容、曲线端点、调色和全片时序重新编排；不继承原文与品牌",
+          "useScope": "20–46s",
+          "useMode": "local",
+          "keyAction": "交互端从断开到接通，纸张与检索对象从相同端口返回。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+            "symbol": "SyncVsCopy"
+          },
+          "implementation": {
+            "path": "src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+            "symbol": "syncPoint"
+          },
+          "callSite": {
+            "path": "src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf",
+            "symbol": "path",
+            "callee": "syncPoint"
+          }
+        }
+      ],
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "sampleCount": 7,
+        "staticAllowanceSeconds": 8
+      },
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "当前04完整动画任务"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "modifiers": [
+          "object-transition",
+          "relation-lines",
+          "text-presentation",
+          "sound-effects"
+        ],
+        "signature": "b0daa5c7c5a5613625f65d8cd1c1125833888860081be1d0ba6177a398c2cb30",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "交互端从断开到接通，纸张与检索对象从相同端口返回。",
+            "check": "核对每个口播短语对应当前对象/可见状态；总述与分述焦点分别检查。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "正文64–80px，数字112px以上，所有可见词取自冻结screen_lines",
+            "check": "用最长文字、实际字体、最终倍率检查换行与字重；比较同职责元素。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F04",
+            "decision": "实体统一固体纸张/任务端，职责变化才变形",
+            "check": "检查同职责元素的稳定态几何与可见内容尺度；明确哪些等权、哪些正在被强调。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F10",
+            "decision": "输入端和可编辑的文字载体沿同一时钟接续",
+            "check": "以正常速度检查实际交接窗口的可读性和语义；复杂运动或已出现异常时逐帧核对对象可见区与载体边界。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F09",
+            "decision": "零进度不画线，曲线走图形区，不穿正文",
+            "check": "检查进度0、第一可见帧、收回末帧与下游首态，必要时零进度不挂载路径。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F12",
+            "decision": "交互端从断开到接通，纸张与检索对象从相同端口返回。",
+            "check": "逐个语义窗口说清新增加了什么信息或状态；删掉与结论无关的重复模块。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F14",
+            "decision": "离线代码SFX绑定同一个事件表；指定音乐缺失，不合成替代曲",
+            "check": "带声音以正常速度检查动作落点与听觉密度；验证正式混音满足当前交付合同。；本期连续正常速度与直接听音尚不可核"
+          }
+        ]
+      },
+      "componentPlan": {
+        "query": "交互端从断开到接通，纸张与检索对象从相同端口返回。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "decision": "selected",
+            "reason": "交互端从断开到接通，纸张与检索对象从相同端口返回。"
+          },
+          {
+            "id": "fred-wave3-40-t16a",
+            "decision": "rejected",
+            "reason": "时间刻度会暗示人口或能力沿单一维度增长，与本片范围不合"
+          },
+          {
+            "id": "fred-wave2-42-t04b",
+            "decision": "rejected",
+            "reason": "该拍优先所选的对象传递/分工关系，另一机制留给实际适用段落"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T05h-1-preview.mp4",
+            "sha256": "aa06dbff54fd44ac6ab13d047bc0f526299baee5689de5509038bef3f7748072",
+            "observations": "通过准确派生联系图实际查看T05h核心时序帧；不是连续观看。/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg；联系图SHA=72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0；同源对象从原位置展开，沿连续三次曲线传递"
+          }
+        ]
+      },
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-36.650.jpg",
+            "sha256": "fe5a70cde30e4182170c3d01929295aeac0cb4898e1db31069faf47ad2649169",
+            "atSeconds": 36.65
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e"
+          }
+        ],
+        "scope": "Exported MP4 stills only"
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "reviewer": "assistant",
+        "stage": "keyframes",
+        "checks": {
+          "semanticFit": "断开端口与接通后的聊天/纸张有区别；人数只有约数文字，没有数量对应的粒子。",
+          "corePreserved": "同源对象从原位置展开，沿连续三次曲线传递，本期源码/调用另核。",
+          "visualQuality": "最终MP4联系图及高风险原尺寸图已看；采样中未发现文字裁切或文字与图形重叠。静帧结论不替代正常速度/声音。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-36.650.jpg",
+            "sha256": "fe5a70cde30e4182170c3d01929295aeac0cb4898e1db31069faf47ad2649169",
+            "atSeconds": 36.65
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg",
+            "sha256": "72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0"
+          }
+        ],
+        "contextSha256": "e8b20645611a5e169fb08c6baeef41dbac6f3d4892572df4aa7f36f68a19536d"
+      }
+    },
+    {
+      "stableId": "S3",
+      "startFrame": 2760,
+      "durationInFrames": 2160,
+      "oneQuestion": "专业任务与内部系统怎样呈现？",
+      "sourceBeatIds": [
+        "professional_frontier",
+        "agent_projects",
+        "internal_access",
+        "internal_collaboration",
+        "causes"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 111,
+          "endChar": 211,
+          "text": "约2000万人\n数学／编程中\n专业使用前沿大模型\n比如：待办清单\n新增 · 完成 · 保存\n约5000人\n可访问\n内部前沿系统\n多Agent协作\n分工，再汇合\n差距来自哪里？\n任务 · 领域 · 权限"
+        }
+      ],
+      "exactScreenWords": [
+        "约2000万人",
+        "数学／编程中",
+        "专业使用前沿大模型",
+        "比如：待办清单",
+        "新增 · 完成 · 保存",
+        "约5000人",
+        "可访问",
+        "内部前沿系统",
+        "多Agent协作",
+        "分工，再汇合",
+        "差距来自哪里？",
+        "任务 · 领域 · 权限"
+      ],
+      "visualPlan": {
+        "enter": "项目轮廓和原输入端",
+        "change": "任务实体拆出三条职责；同列工作端承担各环节后交换汇合。",
+        "read": "各拍前0.5秒建立全文，此后在冻结阅读窗内固定字形/位置/尺度",
+        "exit": "曲线与所属对象一起交出，文字在末0.2秒退出",
+        "handoff": "任务树、检查回路入口、访问边界"
+      },
+      "implementationMode": "adapted",
+      "referenceChoices": [
+        {
+          "id": "fred-wave2-42-t04b",
+          "reason": "任务实体拆出三条职责；同列工作端承担各环节后交换汇合。",
+          "preserve": "分段缝隙/内圆角同步展开；下方负责端同列落位",
+          "change": "Canvas纵向知识图形；任务内容、曲线端点、调色和全片时序重新编排；不继承原文与品牌",
+          "useScope": "46–82s",
+          "useMode": "local",
+          "keyAction": "任务实体拆出三条职责；同列工作端承担各环节后交换汇合。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave2-42-20261012/src/components/T04b-RoleSplit.tsx",
+            "sha256": "d4d168ccaf731926424ce7915b62bb2eccdad69cbcb153071067b9ccd21cf6fb",
+            "symbol": "RoleSplit"
+          },
+          "implementation": {
+            "path": "src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+            "symbol": "roleSplit"
+          },
+          "callSite": {
+            "path": "src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf",
+            "symbol": "branching",
+            "callee": "roleSplit"
+          }
+        }
+      ],
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "sampleCount": 7,
+        "staticAllowanceSeconds": 8
+      },
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "当前04完整动画任务"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "modifiers": [
+          "object-transition",
+          "relation-lines",
+          "text-presentation",
+          "sound-effects"
+        ],
+        "signature": "b0daa5c7c5a5613625f65d8cd1c1125833888860081be1d0ba6177a398c2cb30",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "任务实体拆出三条职责；同列工作端承担各环节后交换汇合。",
+            "check": "核对每个口播短语对应当前对象/可见状态；总述与分述焦点分别检查。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "正文64–80px，数字112px以上，所有可见词取自冻结screen_lines",
+            "check": "用最长文字、实际字体、最终倍率检查换行与字重；比较同职责元素。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F04",
+            "decision": "实体统一固体纸张/任务端，职责变化才变形",
+            "check": "检查同职责元素的稳定态几何与可见内容尺度；明确哪些等权、哪些正在被强调。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F10",
+            "decision": "任务树、检查回路入口、访问边界沿同一时钟接续",
+            "check": "以正常速度检查实际交接窗口的可读性和语义；复杂运动或已出现异常时逐帧核对对象可见区与载体边界。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F09",
+            "decision": "零进度不画线，曲线走图形区，不穿正文",
+            "check": "检查进度0、第一可见帧、收回末帧与下游首态，必要时零进度不挂载路径。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F12",
+            "decision": "任务实体拆出三条职责；同列工作端承担各环节后交换汇合。",
+            "check": "逐个语义窗口说清新增加了什么信息或状态；删掉与结论无关的重复模块。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F14",
+            "decision": "离线代码SFX绑定同一个事件表；指定音乐缺失，不合成替代曲",
+            "check": "带声音以正常速度检查动作落点与听觉密度；验证正式混音满足当前交付合同。；本期连续正常速度与直接听音尚不可核"
+          }
+        ]
+      },
+      "componentPlan": {
+        "query": "任务实体拆出三条职责；同列工作端承担各环节后交换汇合。",
+        "candidates": [
+          {
+            "id": "fred-wave2-42-t04b",
+            "decision": "selected",
+            "reason": "任务实体拆出三条职责；同列工作端承担各环节后交换汇合。"
+          },
+          {
+            "id": "fred-wave3-40-t16a",
+            "decision": "rejected",
+            "reason": "时间刻度会暗示人口或能力沿单一维度增长，与本片范围不合"
+          },
+          {
+            "id": "fred-wave3-40-t05h",
+            "decision": "rejected",
+            "reason": "该拍优先所选的对象传递/分工关系，另一机制留给实际适用段落"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave2-42-t04b",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T04b-1-preview.mp4",
+            "sha256": "888bcb60e7b15783d4de2a3af7645cd0904cee92040f7b1c3d6ecf12d4390950",
+            "observations": "通过准确派生联系图实际查看T04b核心时序帧；不是连续观看。/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T04b-1-preview-p01.jpg；联系图SHA=de6d3c4da67cd8ea7cb73b2e11947f3e19dc42164f296d125d58abe6671c03ec；分段缝隙/内圆角同步展开；下方负责端同列落位"
+          }
+        ]
+      },
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-57.650.jpg",
+            "sha256": "c0d47f6a6b0b7380292be694acee8677769650daea39e0d33c54a19a78ecfd14",
+            "atSeconds": 57.65
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e"
+          }
+        ],
+        "scope": "Exported MP4 stills only"
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "reviewer": "assistant",
+        "stage": "keyframes",
+        "checks": {
+          "semanticFit": "三功能分工、下方负责端和交换路径可见；5000绑定内部访问说明，未写Agent总人数。",
+          "corePreserved": "分段缝隙/内圆角同步展开；下方负责端同列落位，本期源码/调用另核。",
+          "visualQuality": "最终MP4联系图及高风险原尺寸图已看；采样中未发现文字裁切或文字与图形重叠。静帧结论不替代正常速度/声音。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-57.650.jpg",
+            "sha256": "c0d47f6a6b0b7380292be694acee8677769650daea39e0d33c54a19a78ecfd14",
+            "atSeconds": 57.65
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T04b-1-preview-p01.jpg",
+            "sha256": "de6d3c4da67cd8ea7cb73b2e11947f3e19dc42164f296d125d58abe6671c03ec"
+          }
+        ],
+        "contextSha256": "f6d46b8596c95b0a0fd7e1fa31e36e1d154d48e1932711c931713944020688fd"
+      }
+    },
+    {
+      "stableId": "S4",
+      "startFrame": 4920,
+      "durationInFrames": 2520,
+      "oneQuestion": "怎样拆开并检查保存任务？",
+      "sourceBeatIds": [
+        "small_task",
+        "large_task",
+        "scale_meaning",
+        "verifiable_domains",
+        "training_feedback",
+        "uneven_capability"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 212,
+          "endChar": 312,
+          "text": "只问：怎样做待办清单？\n得到一段说明\n新增事项 → 标记完成\n保存后，再打开\n把目标拆成步骤\n才知道要检查什么\n检查保存功能\n刷新后，事项还在吗？\n如果不在\n就回到保存逻辑\n数学、编程\n结果更容易验证"
+        }
+      ],
+      "exactScreenWords": [
+        "只问：怎样做待办清单？",
+        "得到一段说明",
+        "新增事项 → 标记完成",
+        "保存后，再打开",
+        "把目标拆成步骤",
+        "才知道要检查什么",
+        "检查保存功能",
+        "刷新后，事项还在吗？",
+        "如果不在",
+        "就回到保存逻辑",
+        "数学、编程",
+        "结果更容易验证"
+      ],
+      "visualPlan": {
+        "enter": "task_root与说明端点",
+        "change": "同一事项随曲线路径进入保存盘，再到重开后的预期位置，条件失败回查。",
+        "read": "各拍前0.5秒建立全文，此后在冻结阅读窗内固定字形/位置/尺度",
+        "exit": "曲线与所属对象一起交出，文字在末0.2秒退出",
+        "handoff": "已完成解释的检查关系、任务根"
+      },
+      "implementationMode": "adapted",
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t05h",
+          "reason": "同一事项随曲线路径进入保存盘，再到重开后的预期位置，条件失败回查。",
+          "preserve": "同源对象从原位置展开，沿连续三次曲线传递",
+          "change": "Canvas纵向知识图形；任务内容、曲线端点、调色和全片时序重新编排；不继承原文与品牌",
+          "useScope": "82–124s",
+          "useMode": "local",
+          "keyAction": "同一事项随曲线路径进入保存盘，再到重开后的预期位置，条件失败回查。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+            "symbol": "SyncVsCopy"
+          },
+          "implementation": {
+            "path": "src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+            "symbol": "syncPoint"
+          },
+          "callSite": {
+            "path": "src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf",
+            "symbol": "path",
+            "callee": "syncPoint"
+          }
+        }
+      ],
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "sampleCount": 7,
+        "staticAllowanceSeconds": 8
+      },
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "当前04完整动画任务"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "modifiers": [
+          "object-transition",
+          "relation-lines",
+          "text-presentation",
+          "sound-effects"
+        ],
+        "signature": "b0daa5c7c5a5613625f65d8cd1c1125833888860081be1d0ba6177a398c2cb30",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "同一事项随曲线路径进入保存盘，再到重开后的预期位置，条件失败回查。",
+            "check": "核对每个口播短语对应当前对象/可见状态；总述与分述焦点分别检查。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "正文64–80px，数字112px以上，所有可见词取自冻结screen_lines",
+            "check": "用最长文字、实际字体、最终倍率检查换行与字重；比较同职责元素。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F04",
+            "decision": "实体统一固体纸张/任务端，职责变化才变形",
+            "check": "检查同职责元素的稳定态几何与可见内容尺度；明确哪些等权、哪些正在被强调。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F10",
+            "decision": "已完成解释的检查关系、任务根沿同一时钟接续",
+            "check": "以正常速度检查实际交接窗口的可读性和语义；复杂运动或已出现异常时逐帧核对对象可见区与载体边界。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F09",
+            "decision": "零进度不画线，曲线走图形区，不穿正文",
+            "check": "检查进度0、第一可见帧、收回末帧与下游首态，必要时零进度不挂载路径。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F12",
+            "decision": "同一事项随曲线路径进入保存盘，再到重开后的预期位置，条件失败回查。",
+            "check": "逐个语义窗口说清新增加了什么信息或状态；删掉与结论无关的重复模块。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F14",
+            "decision": "离线代码SFX绑定同一个事件表；指定音乐缺失，不合成替代曲",
+            "check": "带声音以正常速度检查动作落点与听觉密度；验证正式混音满足当前交付合同。；本期连续正常速度与直接听音尚不可核"
+          }
+        ]
+      },
+      "componentPlan": {
+        "query": "同一事项随曲线路径进入保存盘，再到重开后的预期位置，条件失败回查。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "decision": "selected",
+            "reason": "同一事项随曲线路径进入保存盘，再到重开后的预期位置，条件失败回查。"
+          },
+          {
+            "id": "fred-wave3-40-t16a",
+            "decision": "rejected",
+            "reason": "时间刻度会暗示人口或能力沿单一维度增长，与本片范围不合"
+          },
+          {
+            "id": "fred-wave2-42-t04b",
+            "decision": "rejected",
+            "reason": "该拍优先所选的对象传递/分工关系，另一机制留给实际适用段落"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T05h-1-preview.mp4",
+            "sha256": "aa06dbff54fd44ac6ab13d047bc0f526299baee5689de5509038bef3f7748072",
+            "observations": "通过准确派生联系图实际查看T05h核心时序帧；不是连续观看。/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg；联系图SHA=72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0；同源对象从原位置展开，沿连续三次曲线传递"
+          }
+        ]
+      },
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-106.650.jpg",
+            "sha256": "e9fbf4991aa5802ce477ed67d6753fbe636909444d530d789a542d807d8f0418",
+            "atSeconds": 106.65
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e"
+          }
+        ],
+        "scope": "Exported MP4 stills only"
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "reviewer": "assistant",
+        "stage": "keyframes",
+        "checks": {
+          "semanticFit": "保存前事项与刷新后虚线预期槽对照；回查线路保持条件句，没有测试成功勾。",
+          "corePreserved": "同源对象从原位置展开，沿连续三次曲线传递，本期源码/调用另核。",
+          "visualQuality": "最终MP4联系图及高风险原尺寸图已看；采样中未发现文字裁切或文字与图形重叠。静帧结论不替代正常速度/声音。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-106.650.jpg",
+            "sha256": "e9fbf4991aa5802ce477ed67d6753fbe636909444d530d789a542d807d8f0418",
+            "atSeconds": 106.65
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg",
+            "sha256": "72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0"
+          }
+        ],
+        "contextSha256": "1ac5a31cffbc978c5fd32f2d6ea2226381ab7993f8f48dd9ad56e668f632e180"
+      }
+    },
+    {
+      "stableId": "S5",
+      "startFrame": 7440,
+      "durationInFrames": 900,
+      "oneQuestion": "访问条件改变什么？",
+      "sourceBeatIds": [
+        "access_tiers",
+        "access_meaning"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 313,
+          "endChar": 343,
+          "text": "免费版 · 付费版\n内部系统\n能接触哪些系统\n取决于访问条件"
+        }
+      ],
+      "exactScreenWords": [
+        "免费版 · 付费版",
+        "内部系统",
+        "能接触哪些系统",
+        "取决于访问条件"
+      ],
+      "visualPlan": {
+        "enter": "同一任务根、三处访问窗口",
+        "change": "同一个任务前的入口连续展开为三个空间窗口，不表示正确率。",
+        "read": "各拍前0.5秒建立全文，此后在冻结阅读窗内固定字形/位置/尺度",
+        "exit": "曲线与所属对象一起交出，文字在末0.2秒退出",
+        "handoff": "任务根及当前访问窗口"
+      },
+      "implementationMode": "adapted",
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t05h",
+          "reason": "同一个任务前的入口连续展开为三个空间窗口，不表示正确率。",
+          "preserve": "同源对象从原位置展开，沿连续三次曲线传递",
+          "change": "Canvas纵向知识图形；任务内容、曲线端点、调色和全片时序重新编排；不继承原文与品牌",
+          "useScope": "124–139s",
+          "useMode": "local",
+          "keyAction": "同一个任务前的入口连续展开为三个空间窗口，不表示正确率。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+            "symbol": "SyncVsCopy"
+          },
+          "implementation": {
+            "path": "src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+            "symbol": "syncPoint"
+          },
+          "callSite": {
+            "path": "src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf",
+            "symbol": "path",
+            "callee": "syncPoint"
+          }
+        }
+      ],
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "sampleCount": 7,
+        "staticAllowanceSeconds": 8
+      },
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "当前04完整动画任务"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "modifiers": [
+          "object-transition",
+          "relation-lines",
+          "text-presentation",
+          "sound-effects"
+        ],
+        "signature": "b0daa5c7c5a5613625f65d8cd1c1125833888860081be1d0ba6177a398c2cb30",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "同一个任务前的入口连续展开为三个空间窗口，不表示正确率。",
+            "check": "核对每个口播短语对应当前对象/可见状态；总述与分述焦点分别检查。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "正文64–80px，数字112px以上，所有可见词取自冻结screen_lines",
+            "check": "用最长文字、实际字体、最终倍率检查换行与字重；比较同职责元素。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F04",
+            "decision": "实体统一固体纸张/任务端，职责变化才变形",
+            "check": "检查同职责元素的稳定态几何与可见内容尺度；明确哪些等权、哪些正在被强调。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F10",
+            "decision": "任务根及当前访问窗口沿同一时钟接续",
+            "check": "以正常速度检查实际交接窗口的可读性和语义；复杂运动或已出现异常时逐帧核对对象可见区与载体边界。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F09",
+            "decision": "零进度不画线，曲线走图形区，不穿正文",
+            "check": "检查进度0、第一可见帧、收回末帧与下游首态，必要时零进度不挂载路径。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F12",
+            "decision": "同一个任务前的入口连续展开为三个空间窗口，不表示正确率。",
+            "check": "逐个语义窗口说清新增加了什么信息或状态；删掉与结论无关的重复模块。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F14",
+            "decision": "离线代码SFX绑定同一个事件表；指定音乐缺失，不合成替代曲",
+            "check": "带声音以正常速度检查动作落点与听觉密度；验证正式混音满足当前交付合同。；本期连续正常速度与直接听音尚不可核"
+          }
+        ]
+      },
+      "componentPlan": {
+        "query": "同一个任务前的入口连续展开为三个空间窗口，不表示正确率。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "decision": "selected",
+            "reason": "同一个任务前的入口连续展开为三个空间窗口，不表示正确率。"
+          },
+          {
+            "id": "fred-wave3-40-t16a",
+            "decision": "rejected",
+            "reason": "时间刻度会暗示人口或能力沿单一维度增长，与本片范围不合"
+          },
+          {
+            "id": "fred-wave2-42-t04b",
+            "decision": "rejected",
+            "reason": "该拍优先所选的对象传递/分工关系，另一机制留给实际适用段落"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T05h-1-preview.mp4",
+            "sha256": "aa06dbff54fd44ac6ab13d047bc0f526299baee5689de5509038bef3f7748072",
+            "observations": "通过准确派生联系图实际查看T05h核心时序帧；不是连续观看。/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg；联系图SHA=72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0；同源对象从原位置展开，沿连续三次曲线传递"
+          }
+        ]
+      },
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-135.650.jpg",
+            "sha256": "1ede042573178a420b50851426c93f818d7d128fbc390fd3d89be61c877d486f",
+            "atSeconds": 135.65
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e"
+          }
+        ],
+        "scope": "Exported MP4 stills only"
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "reviewer": "assistant",
+        "stage": "keyframes",
+        "checks": {
+          "semanticFit": "三访问窗口大小按构图处理，未表示性能倍数；文字和线条分区，完整可读。",
+          "corePreserved": "同源对象从原位置展开，沿连续三次曲线传递，本期源码/调用另核。",
+          "visualQuality": "最终MP4联系图及高风险原尺寸图已看；采样中未发现文字裁切或文字与图形重叠。静帧结论不替代正常速度/声音。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-135.650.jpg",
+            "sha256": "1ede042573178a420b50851426c93f818d7d128fbc390fd3d89be61c877d486f",
+            "atSeconds": 135.65
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg",
+            "sha256": "72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0"
+          }
+        ],
+        "contextSha256": "fbf40506012b0dd4c3757dbe488346daccf742045893336a420d56a733e73abb"
+      }
+    },
+    {
+      "stableId": "S6",
+      "startFrame": 8340,
+      "durationInFrames": 660,
+      "oneQuestion": "任务、领域和权限怎样合到一起？",
+      "sourceBeatIds": [
+        "synthesis",
+        "closing"
+      ],
+      "sourceSpans": [
+        {
+          "startChar": 344,
+          "endChar": 372,
+          "text": "任务、领域、权限\n共同影响AI体验\n你交给AI什么任务？"
+        }
+      ],
+      "exactScreenWords": [
+        "任务、领域、权限",
+        "共同影响AI体验",
+        "你交给AI什么任务？"
+      ],
+      "visualPlan": {
+        "enter": "同一task_root，其他关系降为背景",
+        "change": "已经建立的三条关系沿原路径回收到任务根，最后只留下提问入口。",
+        "read": "各拍前0.5秒建立全文，此后在冻结阅读窗内固定字形/位置/尺度",
+        "exit": "曲线与所属对象一起交出，文字在末0.2秒退出",
+        "handoff": "task_root与输入端，正常结束"
+      },
+      "implementationMode": "adapted",
+      "referenceChoices": [
+        {
+          "id": "fred-wave3-40-t05h",
+          "reason": "已经建立的三条关系沿原路径回收到任务根，最后只留下提问入口。",
+          "preserve": "同源对象从原位置展开，沿连续三次曲线传递",
+          "change": "Canvas纵向知识图形；任务内容、曲线端点、调色和全片时序重新编排；不继承原文与品牌",
+          "useScope": "139–150s",
+          "useMode": "local",
+          "keyAction": "已经建立的三条关系沿原路径回收到任务根，最后只留下提问入口。",
+          "source": {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/解包只读副本/fred-wave3-40-20261012/src/components/T05h-SyncVsCopy.tsx",
+            "sha256": "2e1db173f80f70a7d9b002a10b0bfaeaf2b5508ca99e2d64dff1cf3276145b73",
+            "symbol": "SyncVsCopy"
+          },
+          "implementation": {
+            "path": "src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+            "symbol": "syncPoint"
+          },
+          "callSite": {
+            "path": "src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf",
+            "symbol": "path",
+            "callee": "syncPoint"
+          }
+        }
+      ],
+      "dynamicContract": {
+        "mode": "mixed",
+        "requiredChangeEvents": 2,
+        "sampleCount": 7,
+        "staticAllowanceSeconds": 8
+      },
+      "productionRoute": {
+        "selected": "remotion",
+        "source": "当前04完整动画任务"
+      },
+      "sceneGuide": {
+        "type": "relationship",
+        "modifiers": [
+          "object-transition",
+          "relation-lines",
+          "text-presentation",
+          "sound-effects"
+        ],
+        "signature": "b0daa5c7c5a5613625f65d8cd1c1125833888860081be1d0ba6177a398c2cb30",
+        "applications": [
+          {
+            "ruleId": "F01",
+            "decision": "已经建立的三条关系沿原路径回收到任务根，最后只留下提问入口。",
+            "check": "核对每个口播短语对应当前对象/可见状态；总述与分述焦点分别检查。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F08",
+            "decision": "正文64–80px，数字112px以上，所有可见词取自冻结screen_lines",
+            "check": "用最长文字、实际字体、最终倍率检查换行与字重；比较同职责元素。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F04",
+            "decision": "实体统一固体纸张/任务端，职责变化才变形",
+            "check": "检查同职责元素的稳定态几何与可见内容尺度；明确哪些等权、哪些正在被强调。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F10",
+            "decision": "task_root与输入端，正常结束沿同一时钟接续",
+            "check": "以正常速度检查实际交接窗口的可读性和语义；复杂运动或已出现异常时逐帧核对对象可见区与载体边界。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F09",
+            "decision": "零进度不画线，曲线走图形区，不穿正文",
+            "check": "检查进度0、第一可见帧、收回末帧与下游首态，必要时零进度不挂载路径。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F12",
+            "decision": "已经建立的三条关系沿原路径回收到任务根，最后只留下提问入口。",
+            "check": "逐个语义窗口说清新增加了什么信息或状态；删掉与结论无关的重复模块。；本期连续正常速度与直接听音尚不可核"
+          },
+          {
+            "ruleId": "F14",
+            "decision": "离线代码SFX绑定同一个事件表；指定音乐缺失，不合成替代曲",
+            "check": "带声音以正常速度检查动作落点与听觉密度；验证正式混音满足当前交付合同。；本期连续正常速度与直接听音尚不可核"
+          }
+        ]
+      },
+      "componentPlan": {
+        "query": "已经建立的三条关系沿原路径回收到任务根，最后只留下提问入口。",
+        "candidates": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "decision": "selected",
+            "reason": "已经建立的三条关系沿原路径回收到任务根，最后只留下提问入口。"
+          },
+          {
+            "id": "fred-wave3-40-t16a",
+            "decision": "rejected",
+            "reason": "时间刻度会暗示人口或能力沿单一维度增长，与本片范围不合"
+          },
+          {
+            "id": "fred-wave2-42-t04b",
+            "decision": "rejected",
+            "reason": "该拍优先所选的对象传递/分工关系，另一机制留给实际适用段落"
+          }
+        ],
+        "inspectedReferences": [
+          {
+            "id": "fred-wave3-40-t05h",
+            "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T05h-1-preview.mp4",
+            "sha256": "aa06dbff54fd44ac6ab13d047bc0f526299baee5689de5509038bef3f7748072",
+            "observations": "通过准确派生联系图实际查看T05h核心时序帧；不是连续观看。/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg；联系图SHA=72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0；同源对象从原位置展开，沿连续三次曲线传递"
+          }
+        ]
+      },
+      "keyframeReview": {
+        "frames": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-148.250.jpg",
+            "sha256": "1c10a3806ff65c60f452db824e8c14d0c953afb86d9529dd0adb898af9309719",
+            "atSeconds": 148.25
+          }
+        ],
+        "sourceFiles": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/World.ts",
+            "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf"
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/src/kit.ts",
+            "sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e"
+          }
+        ],
+        "scope": "Exported MP4 stills only"
+      },
+      "componentAcceptance": {
+        "status": "passed",
+        "reviewer": "assistant",
+        "stage": "keyframes",
+        "checks": {
+          "semanticFit": "三关系收回到单个任务输入；最后提问保留到8999帧。",
+          "corePreserved": "同源对象从原位置展开，沿连续三次曲线传递，本期源码/调用另核。",
+          "visualQuality": "最终MP4联系图及高风险原尺寸图已看；采样中未发现文字裁切或文字与图形重叠。静帧结论不替代正常速度/声音。"
+        },
+        "evidence": [
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/qc/final/frame-148.250.jpg",
+            "sha256": "1c10a3806ff65c60f452db824e8c14d0c953afb86d9529dd0adb898af9309719",
+            "atSeconds": 148.25
+          },
+          {
+            "path": "/Volumes/EXTERNAL/自媒体/Fred付费资料全站学习-20261016/证据/333视频动态读取/时间序列图/T05h-1-preview-p01.jpg",
+            "sha256": "72bb7f1e8e4c4dcb2116ba968939f6ba2ea5d7b13df6a92c77b70d0f475123a0"
+          }
+        ],
+        "contextSha256": "0b1f6d9971789c7a858f8fd2b40e6214c7d6543238f4da5cf47b4edab5b0dc0a"
+      }
+    }
+  ],
+  "parts": [
+    {
+      "startFrame": 0,
+      "endFrameExclusive": 9000
+    }
+  ],
+  "representativeScenes": [
+    "S1",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+  ],
+  "brandCorner": {
+    "enabled": false
+  },
+  "subtitles": {
+    "enabled": false
+  },
+  "audio": {
+    "voice": false,
+    "sfx": "offline PCM from events.json",
+    "music": "PENDING_EXACT_NICO_ASSET"
+  }
+}

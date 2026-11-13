@@ -1,0 +1,19 @@
+{
+  "checkedFrames": 9000,
+  "rects": [
+    [
+      0,
+      150,
+      1080,
+      90
+    ],
+    [
+      0,
+      1750,
+      1080,
+      90
+    ]
+  ],
+  "failures": [],
+  "method": "Every new-source frame rendered with ROI clip, exact RGBA comparison to same-coordinate code background; no resampling"
+}

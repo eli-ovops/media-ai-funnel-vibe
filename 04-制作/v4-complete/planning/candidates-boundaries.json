@@ -1,0 +1,833 @@
+{
+  "catalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "count": 114,
+  "returned": 4,
+  "entries": [
+    {
+      "id": "component:fred-wave3-40-t08e",
+      "label": "T08e",
+      "title": "评论里拎出问题",
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "image",
+          "imageSize",
+          "comments",
+          "questions",
+          "cues"
+        ],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/7766dde92b8c62759fb875861efa2469112fe01daaf3e794a5fbe583234219af.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/4c8921767ff1460df4fe36c8792d00b090cc6aa1efa5ce46804ecb5f81c1b600.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/4c8921767ff1460df4fe36c8792d00b090cc6aa1efa5ce46804ecb5f81c1b600.jpg",
+              "frame": 90,
+              "timeSeconds": 1.5
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/c868bc5b64d7b034a0f0edb19b0e7338d06b487254d4e0f4578853bb826dd291.jpg",
+              "frame": 180,
+              "timeSeconds": 3.0
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/8f6e64b30d6223cfce10e1c613e9fc845df12365e697c2e8832be244378e5ea1.jpg",
+              "frame": 294,
+              "timeSeconds": 4.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 5.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "7766dde92b8c62759fb875861efa2469112fe01daaf3e794a5fbe583234219af",
+          "label": "评论里拎出问题",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "c56b7707ff63191dae339bd585418cdb87fb4abf40de992774dd632c3926ff8a",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T08e-CommentPull.tsx",
+          "path": "src/components/T08e-CommentPull.tsx",
+          "symbol": "CommentPull",
+          "url": "/api/visual-library/assets/36a72a620a499d59867c6cdbec38d06ff85409930b99aa9e0c980b0e4edac742.txt",
+          "sha256": "36a72a620a499d59867c6cdbec38d06ff85409930b99aa9e0c980b0e4edac742",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T08e-CommentPull.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "matching": {
+        "referenceId": "fred-wave3-40-t08e",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain",
+          "recording-focus"
+        ],
+        "sourceId": "fred-wave3-40",
+        "conceptIds": [
+          "text",
+          "focus",
+          "document",
+          "cards"
+        ],
+        "inputObjects": [
+          "评论截图",
+          "问题句",
+          "胶囊"
+        ],
+        "action": "一张真实评论截图 → 里面的几个问题被框出、拎成大号黑胶囊叠在前景",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T08e",
+          "评论提问",
+          "原文提取",
+          "问题拎起",
+          "讲解段落",
+          "提出问题与给出答案"
+        ],
+        "scenarioId": "question",
+        "addedAt": "2026-10-12T22:14:03+08:00",
+        "scenarioTitle": "提出问题与给出答案",
+        "label": "T08e",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "prompt-reading"
+        ],
+        "title": "评论里拎出问题",
+        "collectionId": "fred-wave3-40-20261012",
+        "kind": "components",
+        "score": 173.0,
+        "matchedConceptIds": [
+          "text"
+        ],
+        "matchedUseIds": [
+          "recording-focus"
+        ],
+        "matchedWords": [],
+        "reasons": [
+          "文字呈现"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T08e-CommentPull.tsx",
+          "sha256": "36a72a620a499d59867c6cdbec38d06ff85409930b99aa9e0c980b0e4edac742",
+          "url": "/api/visual-library/assets/36a72a620a499d59867c6cdbec38d06ff85409930b99aa9e0c980b0e4edac742.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "CommentPull"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave3-40-20261012",
+        "sha256": "3b66f705b43458eb37c79c59d261489dfc5b0d64aadc9557f85b4af5c4d53546",
+        "size": 34169121,
+        "installRoot": ".artifacts/member-components/fred-wave3-40-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "candidateId": "fred-wave3-40-t08e"
+    },
+    {
+      "id": "component:library-new10-x014",
+      "label": "X014",
+      "title": "报告卡局部放大",
+      "reusability": {
+        "level": "snapshot",
+        "label": "当前场景源码",
+        "parameters": [],
+        "limitations": [
+          "当前展示沿用统一库的清理版本；按所展示的准确源码适配本期内容。",
+          "不把旧参考的参数接口或参考片段认可自动转移给当前适配。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/9b41eac1112bd50762741b27",
+          "posterUrl": "/api/design-assets/38817d3bd2a26f3fb9d49f01",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/268cc207304bf76cb6899996",
+              "timeSeconds": 1.3166666666666667,
+              "frame": 79
+            },
+            {
+              "url": "/api/design-assets/729ba84136a019eee5a98566",
+              "timeSeconds": 3.1166666666666667,
+              "frame": 187
+            },
+            {
+              "url": "/api/design-assets/b6e2c8971c66ffce7bf01a50",
+              "timeSeconds": 4.683333333333334,
+              "frame": 281
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 6.0,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 2.1666666666666665,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "RebuiltX014.tsx",
+          "symbol": "",
+          "url": "/api/design-source/d39dd43a6ab265a8a30729ba",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "matching": {
+        "referenceId": "library-new10-x014",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain",
+          "recording-focus"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "text",
+          "focus",
+          "document"
+        ],
+        "inputObjects": [
+          "文字",
+          "信息结构",
+          "真实界面",
+          "前景重点",
+          "文档内容"
+        ],
+        "action": "报告卡局部放大",
+        "segmentRole": "一段解释",
+        "nativeDurationSeconds": 6.0,
+        "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。",
+        "tags": [
+          "讲解段落",
+          "录屏聚焦",
+          "文字",
+          "信息结构",
+          "真实界面",
+          "前景重点",
+          "文档内容",
+          "一段解释",
+          "局部放大与标注"
+        ],
+        "scenarioId": "focus",
+        "scenarioTitle": "局部放大与标注",
+        "label": "X014",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "summary"
+        ],
+        "title": "报告卡局部放大",
+        "collectionId": null,
+        "kind": "components",
+        "score": 173.0,
+        "matchedConceptIds": [
+          "text"
+        ],
+        "matchedUseIds": [
+          "recording-focus"
+        ],
+        "matchedWords": [],
+        "reasons": [
+          "文字呈现"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/f8e6405a4d33/src/RebuiltX014.tsx",
+          "sha256": "6028d67605fd76a5f5500c5295146d98deeea08adc46798a63edaf7c13eb129e",
+          "url": "/api/design-source/d39dd43a6ab265a8a30729ba",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-new10-x014"
+    },
+    {
+      "id": "component:fred-wave3-extra2-t08i",
+      "label": "T08i",
+      "title": "毛玻璃要点卡",
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "media",
+          "start",
+          "fact",
+          "highlight",
+          "note",
+          "brand",
+          "cues"
+        ],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/8b5ad5797568b80f6e082f756ac2deb37a6fc87d0c228af1f85fbc33b7286154.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/35acee8e8f7560f0fa970c4cd49b150c2d3063618e0e167c749c7a359945cba7.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/35acee8e8f7560f0fa970c4cd49b150c2d3063618e0e167c749c7a359945cba7.jpg",
+              "frame": 90,
+              "timeSeconds": 1.5
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/8003a2b61c612832bdfd69b812566044952d7be0443d0b7bab54ed6ff89f8cea.jpg",
+              "frame": 180,
+              "timeSeconds": 3.0
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/e74b92cb793f91edc5d598d688adb7c480ac3048c02383d01e8545f0d5ee39c7.jpg",
+              "frame": 294,
+              "timeSeconds": 4.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 5.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "8b5ad5797568b80f6e082f756ac2deb37a6fc87d0c228af1f85fbc33b7286154",
+          "label": "毛玻璃要点卡",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "fd068929d358d47d7a274755df4b80fd532327805eb2d84b0aa725cd9e1890b2",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T08i-FrostedFact.tsx",
+          "path": "src/components/T08i-FrostedFact.tsx",
+          "symbol": "FrostedFact",
+          "url": "/api/visual-library/assets/08ec4fae61678441b691284723ba0af593f4d8b8de0daa56733d27598036537d.txt",
+          "sha256": "08ec4fae61678441b691284723ba0af593f4d8b8de0daa56733d27598036537d",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/src/components/T08i-FrostedFact.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/e4fbc4f0ea9e1bf75cf187220c09c9a327d8c6465bb90b7b023f4503d9cb1204.txt",
+          "sha256": "e4fbc4f0ea9e1bf75cf187220c09c9a327d8c6465bb90b7b023f4503d9cb1204",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "matching": {
+        "referenceId": "fred-wave3-extra2-t08i",
+        "primaryUse": "recording-focus",
+        "useIds": [
+          "recording-focus",
+          "explain"
+        ],
+        "sourceId": "fred-wave3-extra2",
+        "conceptIds": [
+          "media",
+          "text",
+          "focus",
+          "cards"
+        ],
+        "inputObjects": [
+          "真实录屏",
+          "关键事实",
+          "重点词",
+          "补充说明"
+        ],
+        "action": "真实画面虚化 → 一张毛玻璃卡浮起，写着一个关键事实",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T08i",
+          "毛玻璃要点卡",
+          "录屏事实",
+          "背景退后",
+          "录屏聚焦",
+          "局部放大与标注"
+        ],
+        "scenarioId": "focus",
+        "addedAt": "2026-10-12T23:05:55+08:00",
+        "scenarioTitle": "局部放大与标注",
+        "label": "T08i",
+        "categoryId": "recording-focus",
+        "category": "录屏聚焦",
+        "sceneTypes": [
+          "prompt-reading"
+        ],
+        "title": "毛玻璃要点卡",
+        "collectionId": "fred-wave3-extra2-20261012",
+        "kind": "components",
+        "score": 173.0,
+        "matchedConceptIds": [
+          "text"
+        ],
+        "matchedUseIds": [
+          "recording-focus"
+        ],
+        "matchedWords": [],
+        "reasons": [
+          "文字呈现"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/src/components/T08i-FrostedFact.tsx",
+          "sha256": "08ec4fae61678441b691284723ba0af593f4d8b8de0daa56733d27598036537d",
+          "url": "/api/visual-library/assets/08ec4fae61678441b691284723ba0af593f4d8b8de0daa56733d27598036537d.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "FrostedFact"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/src/registry.ts",
+          "sha256": "e4fbc4f0ea9e1bf75cf187220c09c9a327d8c6465bb90b7b023f4503d9cb1204",
+          "url": "/api/visual-library/assets/e4fbc4f0ea9e1bf75cf187220c09c9a327d8c6465bb90b7b023f4503d9cb1204.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-extra2-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-extra2-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave3-extra2-20261012",
+        "sha256": "a0123e504058aee7b4e1a12578b0e9abf0b6425b920ea270cde07bc388c22141",
+        "size": 34010126,
+        "installRoot": ".artifacts/member-components/fred-wave3-extra2-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave3-extra2-20261012/fred-wave3-extra2-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "candidateId": "fred-wave3-extra2-t08i"
+    },
+    {
+      "id": "component:fred-wave2-42-t01g",
+      "label": "T01g",
+      "title": "黑窗打字：背景失焦，黑窗里逐行打出规则",
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/01dd8f80d77b17e3bdd9bdfbc267760fa99cdf1e171612ed732f65dcf15c2622.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/54f8803937cc0c81fe8b14848ade9fae17dca38ace3596e656a482dab405e3c9.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/54f8803937cc0c81fe8b14848ade9fae17dca38ace3596e656a482dab405e3c9.jpg",
+              "frame": 108,
+              "timeSeconds": 1.8
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/17c93d106162d97bac11254b3f4f275a1ae2d3c5f3c988cb80e0c41066fa2b1d.jpg",
+              "frame": 216,
+              "timeSeconds": 3.6
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/2bd99fcf7e2908e8fd3524446b755f349a50d51fdfe8b8e499f065af25852b53.jpg",
+              "frame": 354,
+              "timeSeconds": 5.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 6.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "01dd8f80d77b17e3bdd9bdfbc267760fa99cdf1e171612ed732f65dcf15c2622",
+          "label": "黑窗打字：背景失焦，黑窗里逐行打出规则",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "679e2ed4edb464fb8a1e63b3a8a81e9ec0e8351841f8b4e44b6561b77a1cf22a",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T01g-DarkWindowType.tsx",
+          "path": "src/components/T01g-DarkWindowType.tsx",
+          "symbol": "DarkWindowType",
+          "url": "/api/visual-library/assets/ca2543faa33ebb3525ae4d83b57a816ecd13e916f503d9fd8055cefe00d43efd.txt",
+          "sha256": "ca2543faa33ebb3525ae4d83b57a816ecd13e916f503d9fd8055cefe00d43efd",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/components/T01g-DarkWindowType.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad.txt",
+          "sha256": "658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "matching": {
+        "referenceId": "fred-wave2-42-t01g",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain",
+          "recording-focus"
+        ],
+        "sourceId": "fred-wave2-42",
+        "conceptIds": [
+          "text",
+          "document",
+          "focus"
+        ],
+        "inputObjects": [
+          "规则行 1–4",
+          "背景截图"
+        ],
+        "action": "界面退后 → 黑窗里逐行打出几条规则",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 6.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T01g",
+          "黑窗",
+          "打字",
+          "规则",
+          "光标",
+          "讲解段落",
+          "文字出现与退场"
+        ],
+        "scenarioId": "text",
+        "addedAt": "2026-10-12T16:09:37+08:00",
+        "scenarioTitle": "文字出现与退场",
+        "label": "T01g",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "prompt-reading",
+          "summary"
+        ],
+        "title": "黑窗打字：背景失焦，黑窗里逐行打出规则",
+        "collectionId": "fred-wave2-42-20261012",
+        "kind": "components",
+        "score": 173.0,
+        "matchedConceptIds": [
+          "text"
+        ],
+        "matchedUseIds": [
+          "recording-focus"
+        ],
+        "matchedWords": [],
+        "reasons": [
+          "文字呈现"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/components/T01g-DarkWindowType.tsx",
+          "sha256": "ca2543faa33ebb3525ae4d83b57a816ecd13e916f503d9fd8055cefe00d43efd",
+          "url": "/api/visual-library/assets/ca2543faa33ebb3525ae4d83b57a816ecd13e916f503d9fd8055cefe00d43efd.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "DarkWindowType"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/registry.ts",
+          "sha256": "658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad",
+          "url": "/api/visual-library/assets/658d1150913c15380146f67b79e9279f4d3bc589aa4fcaab697518b698f8caad.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-42-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-42-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave2-42-20261012",
+        "sha256": "fa5ab7e784c6ed4245092ac0993d729b225e6078d96a287f042bd97d63ef13a6",
+        "size": 34144141,
+        "installRoot": ".artifacts/member-components/fred-wave2-42-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave2-42-20261012/fred-wave2-42-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "candidateId": "fred-wave2-42-t01g"
+    }
+  ]
+}

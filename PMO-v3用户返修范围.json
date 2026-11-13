@@ -1,0 +1,50 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "target_stage": "04",
+  "decision": "RETURN_USER_REJECTED_VISUAL_STORY",
+  "at": "2026-10-20T13:53:42.221812+08:00",
+  "human_change_source": "Direct human in this chat: 需要有一个饼图来显示比例或者人数。你这个视频真的差远了。和opus5.5差远了。你真的仔细看过那些视频吗",
+  "old_artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/ai-funnel-v2-fix1-internal-150s.mp4",
+  "old_sha256": "758ab4d64be1aedbafdb4d1c444b34a39de79f7004581bb3f3b9a9882f282e63",
+  "user_approval": false,
+  "prior_internal_scoped_qa_retained_as_history": true,
+  "earliest_affected_stage": "04",
+  "reason": "Visual scale and chart expression change; factual meaning, existing22 beats and150sec remain. Current user overrides prior no-area design restriction; original percentage labels may be added from already-read source. No new topic research or whole script rewrite required.",
+  "evidence_read": [
+    "01-同题参考/Karpathy-原文.txt",
+    "01-七条Vibe参考/七条参考地图与150秒启示.md",
+    "04-制作/v2-fix1/source-map.json",
+    "04-制作/v2-fix1/content-package.json",
+    "T15f precise card and full source",
+    "PMO actually viewed Nico transition1, same-topicB26s and46s, current128-149s contact sheet, T15f22-frame source sheet"
+  ],
+  "reference_truth": {
+    "seven_video_full_continuous_viewing": false,
+    "prior147_frame_samples_not_continuous": true,
+    "prior_full_ASR_only_same_topicB": true,
+    "new_continuous_viewing_claim": false
+  },
+  "chart_contract": {
+    "author_estimates_not_census": true,
+    "source_percentages": [
+      75,
+      20,
+      0.2,
+      6e-05
+    ],
+    "do_not_normalize_four_to_100": true,
+    "first_binary_pie_75_plus_complement25_allowed": true,
+    "tiny_wedge_magnification_must_not_fake_area": true,
+    "primary_candidate": "T15f-DonutShare",
+    "source_gap_would_hide_tiny_segments": true
+  },
+  "preserved": [
+    "source and factual attribution",
+    "150s1080x1920/60fps",
+    "no person/voice/TTS",
+    "BGM user adds, not required",
+    "old assets/source/library retained"
+  ],
+  "task": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-v3图形叙事返修.md"
+}

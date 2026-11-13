@@ -1,0 +1,23 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage": "07",
+  "decision": "PASS",
+  "scope": "Authorized five main-video submissions and task-tab closure; user confirms all current targets published and cancels YouTube",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/PMO-五站提交与关页验收.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布回执.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-关闭标签回执.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/清理授权与范围.json",
+    "/Volumes/EXTERNAL/自媒体/流程协作/08-数据复盘与反馈/定期复盘/复盘-20261020-2144.md"
+  ],
+  "human_completion_source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/清理授权与范围.json",
+  "remaining_required_work": [],
+  "no_duplicate_submissions": true,
+  "accounts_and_media_verified_in_originals": true,
+  "public_status_evidence": "Native X/LinkedIn receipts; later Bilibili/Weibo public detail, TikTok backendEveryone; user all-published confirmation supplies current completion, not new anonymous visibility verification",
+  "youtube": "USER_CANCELLED_THIS_ISSUE; prior claim not magically resolved",
+  "video_account": "USER_CONFIRMED_PUBLISHED; no agent site access",
+  "automatic_followup_started": false
+}
+

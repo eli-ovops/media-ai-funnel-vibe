@@ -1,0 +1,587 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注 14":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+  - generic: "14"
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - generic: 人生的容错率没有那么高
+  - textbox
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 01:56
+- generic: /
+- generic: 02:10
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- generic: 总结：你的终点从始至终都没变，该老还是会老，该死还是会死
+- generic: "20"
+- generic: 那有些人早就跳了呢
+- generic: 要求主线足够稳定，身体必须好
+- generic: 谢谢！
+- generic: 加油陌生人
+- generic: 人生的容错率何其的大
+- generic: "16"
+- generic: 人生的容错率很高
+- generic: 去运动健身吧，会好很多
+- generic: 翻译：没招了
+- generic: "1041"
+- generic: 太治愈了
+- generic: "19"
+- generic: 所以苦难并不是没用的对吗
+- button "展开"
+- 'heading "#vibe知识大赏 人生的容错率，大到超出你的想象。18 岁落榜，22 岁没上岸，25 岁被裁员，30 岁还没结婚——我们总以为人生是一根线，每一步都不能断。可人生其实是一张网：一条路断了，旁边会长出好几条。。别人的人生看起来是一根线，是因为你只看见了走通的那一根。六成左右的人说，改变自己职业的，是一件没计划过的事。超过七成的人一生中都遇到过严重的打击，大多数人都挺了过来；经历过一些挫折的人，反而更扛得住下一次。至于那些小事，连线都没断，只是磨损。断掉的，是一条路，不是你的人生。你曾经以为断掉的那条路，后来把你带去了哪里？ #心理学 #成长 #人生 #认知" [level=1]':
+  - link "#vibe知识大赏":
+    - /url: //www.douyin.com/search/vibe%E7%9F%A5%E8%AF%86%E5%A4%A7%E8%B5%8F?enter_from=video_detail&source=pc_click_hashtag_feed
+  - generic: 人生的容错率，大到超出你的想象。18 岁落榜，22 岁没上岸，25 岁被裁员，30 岁还没结婚——我们总以为人生是一根线，每一步都不能断。可人生其实是一张网：一条路断了，旁边会长出好几条。。别人的人生看起来是一根线，是因为你只看见了走通的那一根。六成左右的人说，改变自己职业的，是一件没计划过的事。超过七成的人一生中都遇到过严重的打击，大多数人都挺了过来；经历过一些挫折的人，反而更扛得住下一次。至于那些小事，连线都没断，只是磨损。断掉的，是一条路，不是你的人生。你曾经以为断掉的那条路，后来把你带去了哪里？
+  - link "#心理学":
+    - /url: //www.douyin.com/search/%E5%BF%83%E7%90%86%E5%AD%A6?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#成长":
+    - /url: //www.douyin.com/search/%E6%88%90%E9%95%BF?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#人生":
+    - /url: //www.douyin.com/search/%E4%BA%BA%E7%94%9F?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#认知":
+    - /url: //www.douyin.com/search/%E8%AE%A4%E7%9F%A5?enter_from=video_detail&source=pc_click_hashtag_feed
+- generic: 76.8万
+- generic: 1.7万
+- generic: 13.3万
+- generic: 36.1万
+- generic: 举报
+- generic: 发布时间：2026-10-16 20:25
+- generic: 全部评论
+- link "Eli-Ai头像":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai头像"
+- generic: 留下你的精彩评论吧
+- link "你的背包":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAp7du8cCLgflxuR0yFR_6ot7lBGVrxhicY5mfP5uW-m0
+  - generic: 你的背包
+- generic: ...
+- text: 我是18岁高考，22岁毕业，然后没找到好工作，28岁结婚，32岁考研，35岁离婚，然后35岁毕业找到了好工作。现在对自己的生活很满意。人生没有一定之规，按照自己的节奏来就好
+- img "[暗中观察]"
+- generic: 3天前·湖北
+- paragraph:
+  - generic: "53"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开3条回复":
+  - generic: 展开3条回复
+- link "喜之螂":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA9EA_kU_3KUt1dn4WcivNFDsTXW-qQaAqg7_6BGo3SpW7_BcmGHcFiZBv-JW6WlXo
+  - generic: 喜之螂
+- generic: ...
+- text: 昨天刷到27岁重度抑郁tzn辞职，后来去卖茶叶蛋，她说每天给茶叶蛋敲裂纹是她最平静的时候。“裂纹”不一定不好，要接受裂纹的存在，并且与裂纹共处。茶叶蛋有裂纹会变得美味，希望有裂纹的人生也一样可以美好
+- img "[流泪]"
+- generic: 3天前·上海
+- paragraph:
+  - generic: "26"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开2条回复":
+  - generic: 展开2条回复
+- link "鲸跃":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA0Q-KNvwoyD9JvYsSyflxinQR_QDJn-rD8hDp6nvMaAQ
+  - generic: 鲸跃
+- generic: ...
+- text: 高考滑档，复读被无缝衔接，导致一天迷迷糊糊的，考前三个月右手摔骨折，现在想起来当时天都塌了，连续两年考公失败，今年终于省考和事业单位双双上岸，回望这一路，真的感慨万分
+- img "[黄脸祈祷]"
+- generic: 3天前·云南
+- paragraph:
+  - generic: "24"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开6条回复":
+  - generic: 展开6条回复
+- link "骨碌碌骨碌碌":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAsHX9VHZRkkOc7QzAvnDXDgA9d6YnCqgIEiZkbVDt3lg
+  - generic: 骨碌碌骨碌碌
+- generic: ...
+- text: 容错率太高了
+- img "[尬笑]"
+- text: 从小留守，父母离异，爷爷奶奶带大，7岁一场病差点完犊子，因为没钱交学费，一路小学，初中，高中，坎坎坷坷，辍学又复学，复学又辍学。考上大学后，创过业，打过工，摆过摊，穷的时候睡桥洞……现在博士毕业，36岁，武汉某公办大学老师，准备40岁评上副教躺平
+- img "[尬笑]"
+- generic: 3天前·湖北
+- paragraph:
+  - generic: "135"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开13条回复":
+  - generic: 展开13条回复
+- link "阿chen爱吃鱼🐟":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAZ9gGneraS2g7b2P3FFo-Lnv-IVb9Vb_rNWfYbtOL6SM
+  - text: 阿chen爱吃鱼
+  - img "🐟"
+- generic: ...
+- generic: 不能断只是因为那条路兼容性最高，将来能挣到更多钱的概率也更高。普通人没有那么多的试错成本。就好比普通人高考成功了也就没必要经历复读或者其他更加辛苦的选项了。
+- generic: 3天前·日本
+- paragraph:
+  - generic: "12"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开2条回复":
+  - generic: 展开2条回复
+- link "春夏秋冬.🍁🍃":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA1tH9tD4gG6Nr64IOQc-i6nwpaKIueEUNgJ3hzyH2UPI
+  - text: 春夏秋冬.
+  - img "🍁"
+  - img "🍃"
+- generic: ...
+- generic: 作为一个高级灵长类生物来到这个世界，你每天唯一的主线任务就是想办法找到健康有营养的2000大卡热量的食物，在日落之前找到一个温暖卫生安全的庇护所睡觉。其他都是支线任务。祝大家游戏愉快。
+- generic: 3天前·四川
+- paragraph:
+  - generic: "33"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "壹.贰":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAso3h010m9X741GVpHFW_-mEh5B7h-My4fJKsYHU-fCu6apAxgngrlfsE66SbxpIa
+  - generic: 壹.贰
+- generic: ...
+- generic: 我真觉得这些视频应该给中年人，特别是有孩子的家长去普及，像年轻一点的这些孩子视频中这些道理他们很容易就理解了，但是一些家长和长辈他们的思想特别固化需要更新
+- generic: 2天前·四川
+- paragraph:
+  - generic: "29"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "加减法_":
+  - /url: //www.douyin.com/user/MS4wLjABAAAArgxs3aqTZfR9OjoG-g25bUdltWGGpOJ8Zd-ceoJi3Vd5IZYIADYJUV87xIUq5LVQ
+  - generic: 加减法_
+- generic: ...
+- generic: 1岁，安徽小城出生，母亡父残，爷爷奶奶抚养长大，从小穷到大。17岁，第1次高考失利。18岁，第2次高考顺利，上岸双非一本，人生第一次转折点由此展开。22岁，入职国企，外派海外4年，赚取人生第一桶金。23岁，老家贷款购房，房价高位买入。24岁，恒大地产暴雷，房产迅速贬值。同年，口罩来袭，大环境整体变差。26岁，国企发展遇到瓶颈，跟领导合不来，开始进入人生低谷。27岁，口罩尚未结束，毅然决定离职，转战杭州，入职行业头部500强上市公司，人生第二次转折点再次展开。28岁，忍痛止损，贱卖恒大房产，再入杭州楼市，落户杭州，成为新杭州人。从低谷开始慢慢发力爬出来，白天上市公司白领，晚上摆地摊/送外卖。29岁，再次接受大厂外派，拟任东南亚分公司销售科科长，走向大厂中层。今年，31岁，房贷清零，财务半自由，下周回国带全家北京旅游。未来计划，35-45岁，努力争取财务完全自由，提前退休养老。
+- generic: 3天前·IP未知
+- paragraph:
+  - generic: "90"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开10条回复":
+  - generic: 展开10条回复
+- link "我本位🎞️":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAYI-XVUVZamxCeX-GOBrIDUNiohexRCqy0vnr0NUIHJ-dq6a9P6arV0qti7ctM7Ch
+  - text: 我本位
+  - img "🎞️"
+- generic: ...
+- text: 你想想要是你直接本科毕业
+- img "[懵]"
+- text: 直接找到工作，直接挣上稳定的钱，是不是下一步直接谈婚论嫁了直接结婚生子了，有的时候岔路口反而给你了反应的机会
+- img "[白眼]"
+- text: 让你多走走路想明白自己到底要什么，反而不是稀里糊涂顺理成章做一些大家都觉得该这么做的事
+- generic: 3天前·山东
+- paragraph:
+  - generic: "34"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "冰冷の凹凸曼":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA4pZxDcBSyJRAXGy5dzIUBaOzudK-82XPo59kTA5X6y9Hu4i1oOAWVhog6NPAvCGY
+  - generic: 冰冷の凹凸曼
+- generic: ...
+- generic: 我舅舅是211研究生觉得学历很重要，得知我要上大专了，直接哭了。第一次见我舅哭，觉得我完蛋了。我现在认为知足常乐吧。我未毕业的时候校招面试通过直接签合同了，玩几个月到苏州上班了刚上班四五千，今年第三年每个月到手八千多。对象在昆山，婚房旁边森林公园风景很好我最喜欢散步了，饭后散步刚好。附近夜市也很好吃，螺蛳粉、旋转小火锅我爱吃的都有，还有一个邳州擀面皮，从我老家学的手艺，家乡味也有了。准备买个三十万的车，明年订婚。他做批发一个月几万块不定。小区人车分离还有落地窗。我从小就喜欢落地窗。我觉得可以了。我的人生没有完蛋。每年还能出去旅游个一两次 。上大专也没什么
+- generic: 2天前·江苏
+- paragraph:
+  - generic: "77"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开20条回复":
+  - generic: 展开20条回复
+- link "迪迦奥特曼":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAjzN2u9ngMgTi_2B-6BBnrwp89IjiBaiCDdiVwY1lpgwKFUlzqIKQb6SD4DmUKg1O
+  - generic: 迪迦奥特曼
+- generic: ...
+- generic: 做事容错率很高，但人生容错率很低
+- generic: 人生的容错率指的是平平凡凡的一生，没有疾病，家人也都正常老去没有意外，自己身体健康，没有精神疾病，这个占比真的很少很少
+- generic: 3天前·安徽
+- paragraph:
+  - generic: "4"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "思钱想厚灰太狼":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAdOOfKet4grQ7M4lxUOde6KxDjO79zOznSuCzTLvq8cI5b38WMJrWuRCnduK6lzDF
+  - generic: 思钱想厚灰太狼
+- generic: ...
+- generic: 2019年高考考出了模考以来最差成绩，当时跟着班上那些同学去填志愿的时候，他们都能上985，我只能上211，看着他们挑挑拣拣我当时心如死灰，但是家庭条件不好，不让复读。后面2023年本科毕业就去了互联网大厂干程序员，一开始遇到了极度pua的老板也，一度焦虑失眠甚至要去看心理医生，当时感觉天塌了，干了一年裸辞了。后续找了适合自己节奏的互联网中厂，还涨薪了。又干了2年攒了不少钱，这个月晋升又涨薪了5.5k。大二遇到喜欢的女生，因为家庭贫穷自卑，一点吸引力都没，贸然表白被拒。去年接触了一个女生，也是被吊着，没有结果。今年年初我说把所有精力放在提升自己身上，去健身，去学习理财 ，去卷升职。结果遇到了现在的女朋友，比我小2岁，还是985本科，也是中大厂程序员，目前感情很好。所以啊日子还在过，路还在走，不要放弃希望。
+- generic: 3天前·上海
+- paragraph:
+  - generic: "18"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "野区偷三只猪":
+  - /url: //www.douyin.com/user/MS4wLjABAAAADqtn-Syt2ZW0DLNG519wenrqLTq3StMDRf3O_xNp4c4
+  - generic: 野区偷三只猪
+- generic: ...
+- generic: 请记住你透支健康换来的优秀，不过是人事档案里随时可替换的几行宋体字。而单位的运转齿轮从未因此停滞半分。人生不是用红头文件丈量的，而是用看见花开、听见雨声的瞬间拼凑的。毕竟，你熬的夜、拼的命、流的泪，最后都成了档案袋里轻飘飘白A4纸，而你错过的晚霞、失约的晚餐、没牵到的手，才是永远无法补录的人生正文。
+- generic: 1小时前·贵州
+- paragraph:
+  - generic: "3"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "呆弟":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAJllLRSZQumZkMsTb-h_DOngcOCrAsZ_DUQIJfc7V-qNhP2uRdjCV9ti5KjVfvjsL
+  - generic: 呆弟
+- generic: ...
+- generic: 功利主义导向的思考方式，往往使我们忘却了生命的本质是一场历程。 人之渺小，在历史长河中犹如沧海一粟。 每一笔的轻描淡写可能就是古人波澜壮阔的一生。 那些人中龙凤且举步维艰，我等鱼目又岂能一路顺遂？ 正所谓三千年读史，无外乎功名名禄，九万里悟道， 终归诗酒田园。争来抢去的浮华，皆是转瞬云烟，古往今来万般起落的恩怨， 时隔多年回头再看，不过一笑而过。 古今多少事，都付笑谈中。
+- generic: 3天前·云南
+- paragraph:
+  - generic: "12"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "荆楚散修厉飞雨":
+  - /url: //www.douyin.com/user/MS4wLjABAAAACuNBoG2MDKHZ5asB-QSVNtoyNFtkHYAZ7OvkKElqlnM
+  - generic: 荆楚散修厉飞雨
+- generic: ...
+- generic: 曲则全，枉则直，洼则盈，敝则新，少则得，多则惑。
+- generic: 是以圣人抱一为天下式。不自见，故明；不自是，故彰；不自伐，故有功；不自矜，故长。夫唯不争，故天下莫能与之争。古之所谓“曲则全”者，岂虚言哉！诚全而归之。
+- generic: ——《道德经》第22章
+- generic: 2天前·湖北
+- paragraph:
+  - generic: "13"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- generic: 加载中
+- link "Nico":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAzZjju_cJxES-ro7MwoplKlGi3bJPiZlOfP4L6M-EKyVINaD9iKpLvxbjVH76VH6e
+  - img "Nico"
+- link "Nico":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAzZjju_cJxES-ro7MwoplKlGi3bJPiZlOfP4L6M-EKyVINaD9iKpLvxbjVH76VH6e
+  - generic: Nico
+- paragraph: 粉丝3.1万获赞115.5万
+- button "关注":
+  - generic: 关注
+- generic: 下载客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- heading "推荐视频" [level=2]
+- list:
+  - 'link "收到阴婚请柬后，发现\"表姐\"竟然想要取缔我 《阴亲请柬》 我叫柳吟，今年17岁。半年前，表姐柳萦在家中自杀，父母觉得不吉利，于是我们家和表姐一家断绝来往。今天，我却突然收到一封邮件，邀请我去参加表姐的婚礼……#阴亲请柬 #阴婚 #封建陋习 #惊悚 #网页解谜游戏 36:59"':
+    - /url: //www.douyin.com/video/7682057273308368180
+    - 'img "收到阴婚请柬后，发现\"表姐\"竟然想要取缔我 《阴亲请柬》 我叫柳吟，今年17岁。半年前，表姐柳萦在家中自杀，父母觉得不吉利，于是我们家和表姐一家断绝来往。今天，我却突然收到一封邮件，邀请我去参加表姐的婚礼……#阴亲请柬 #阴婚 #封建陋习 #惊悚 #网页解谜游戏"'
+    - generic: 36:59
+  - 'heading "收到阴婚请柬后，发现\"表姐\"竟然想要取缔我 《阴亲请柬》 我叫柳吟，今年17岁。半年前，表姐柳萦在家中自杀，父母觉得不吉利，于是我们家和表姐一家断绝来往。今天，我却突然收到一封邮件，邀请我去参加表姐的婚礼……#阴亲请柬 #阴婚 #封建陋习 #惊悚 #网页解谜游戏" [level=3]':
+    - 'link "收到阴婚请柬后，发现\"表姐\"竟然想要取缔我 《阴亲请柬》 我叫柳吟，今年17岁。半年前，表姐柳萦在家中自杀，父母觉得不吉利，于是我们家和表姐一家断绝来往。今天，我却突然收到一封邮件，邀请我去参加表姐的婚礼……#阴亲请柬 #阴婚 #封建陋习 #惊悚 #网页解谜游戏"':
+      - /url: //www.douyin.com/video/7682057273308368180
+      - generic: "收到阴婚请柬后，发现\"表姐\"竟然想要取缔我 《阴亲请柬》 我叫柳吟，今年17岁。半年前，表姐柳萦在家中自杀，父母觉得不吉利，于是我们家和表姐一家断绝来往。今天，我却突然收到一封邮件，邀请我去参加表姐的婚礼……#阴亲请柬 #阴婚 #封建陋习 #惊悚 #网页解谜游戏"
+  - text: 7.0万
+  - link "世一奶妈":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAxTM2zqW0V1_yKVoH_DrpSbUw3RcV3MAWq_P0bapDbZQQAq46xRq1rUcCMOuCE_Ji?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: 世一奶妈
+  - 'link "那时我才明白，什么才是真正的选择：【何为选择】 #配音 #何为系列 #何为选择 #人文创作焕新计划 29:37"':
+    - /url: //www.douyin.com/video/7683161098022964518
+    - 'img "那时我才明白，什么才是真正的选择：【何为选择】 #配音 #何为系列 #何为选择 #人文创作焕新计划"'
+    - generic: 29:37
+  - 'heading "那时我才明白，什么才是真正的选择：【何为选择】 #配音 #何为系列 #何为选择 #人文创作焕新计划" [level=3]':
+    - 'link "那时我才明白，什么才是真正的选择：【何为选择】 #配音 #何为系列 #何为选择 #人文创作焕新计划"':
+      - /url: //www.douyin.com/video/7683161098022964518
+      - generic: "那时我才明白，什么才是真正的选择：【何为选择】 #配音 #何为系列 #何为选择 #人文创作焕新计划"
+  - text: 2.2万
+  - link "子非秋月":
+    - /url: //www.douyin.com/user/MS4wLjABAAAADKU4nh0cCrJB0OwdTAPr6uy8AXIrCp6FIC0oCWSk7SGDKZ8HcyUaWhANzPk3yZGD?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: 子非秋月
+  - 'link "#vibe知识大赏 情侣为什么越吵越凶？ 吵架时，每个人都觉得自己在讲事实。 1951 年，普林斯顿和达特茅斯的学生看同一盘比赛录像，数出来的犯规差了一倍多；一位校友看完，还发电报说录像被剪过。 心理学家把这叫「朴素实在论」：我们以为自己看到的，就是事实本身。 下次吵到一半，先停一下，把 TA 的录像讲给 TA 听。 你们上一次吵架，TA 的录像里是什么？ 视频由Claude Opus 5.5 制作 #心理学 #情侣 #认知 #朴素实在论 02:23"':
+    - /url: //www.douyin.com/video/7694710367122041545
+    - 'img "#vibe知识大赏 情侣为什么越吵越凶？ 吵架时，每个人都觉得自己在讲事实。 1951 年，普林斯顿和达特茅斯的学生看同一盘比赛录像，数出来的犯规差了一倍多；一位校友看完，还发电报说录像被剪过。 心理学家把这叫「朴素实在论」：我们以为自己看到的，就是事实本身。 下次吵到一半，先停一下，把 TA 的录像讲给 TA 听。 你们上一次吵架，TA 的录像里是什么？ 视频由Claude Opus 5.5 制作 #心理学 #情侣 #认知 #朴素实在论"'
+    - generic: 02:23
+  - 'heading "#vibe知识大赏 情侣为什么越吵越凶？ 吵架时，每个人都觉得自己在讲事实。 1951 年，普林斯顿和达特茅斯的学生看同一盘比赛录像，数出来的犯规差了一倍多；一位校友看完，还发电报说录像被剪过。 心理学家把这叫「朴素实在论」：我们以为自己看到的，就是事实本身。 下次吵到一半，先停一下，把 TA 的录像讲给 TA 听。 你们上一次吵架，TA 的录像里是什么？ 视频由Claude Opus 5.5 制作 #心理学 #情侣 #认知 #朴素实在论" [level=3]':
+    - 'link "#vibe知识大赏 情侣为什么越吵越凶？ 吵架时，每个人都觉得自己在讲事实。 1951 年，普林斯顿和达特茅斯的学生看同一盘比赛录像，数出来的犯规差了一倍多；一位校友看完，还发电报说录像被剪过。 心理学家把这叫「朴素实在论」：我们以为自己看到的，就是事实本身。 下次吵到一半，先停一下，把 TA 的录像讲给 TA 听。 你们上一次吵架，TA 的录像里是什么？ 视频由Claude Opus 5.5 制作 #心理学 #情侣 #认知 #朴素实在论"':
+      - /url: //www.douyin.com/video/7694710367122041545
+      - generic: "#vibe知识大赏 情侣为什么越吵越凶？"
+      - generic: 吵架时，每个人都觉得自己在讲事实。
+      - generic: 1951 年，普林斯顿和达特茅斯的学生看同一盘比赛录像，数出来的犯规差了一倍多；一位校友看完，还发电报说录像被剪过。
+      - generic: 心理学家把这叫「朴素实在论」：我们以为自己看到的，就是事实本身。
+      - generic: 下次吵到一半，先停一下，把 TA 的录像讲给 TA 听。
+      - generic: 你们上一次吵架，TA 的录像里是什么？
+      - generic: 视频由Claude Opus 5.5 制作
+      - generic: "#心理学 #情侣 #认知 #朴素实在论"
+  - text: 1.3万
+  - link "Nico":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAzZjju_cJxES-ro7MwoplKlGi3bJPiZlOfP4L6M-EKyVINaD9iKpLvxbjVH76VH6e?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: Nico
+  - 'link "钱是放大器，放大爱，也放大不爱 #开智 #觉醒 #博客推荐 #个人成长 01:08"':
+    - /url: //www.douyin.com/video/7697618098832347833
+    - 'img "钱是放大器，放大爱，也放大不爱 #开智 #觉醒 #博客推荐 #个人成长"'
+    - generic: 01:08
+  - 'heading "钱是放大器，放大爱，也放大不爱 #开智 #觉醒 #博客推荐 #个人成长" [level=3]':
+    - 'link "钱是放大器，放大爱，也放大不爱 #开智 #觉醒 #博客推荐 #个人成长"':
+      - /url: //www.douyin.com/video/7697618098832347833
+      - generic: "钱是放大器，放大爱，也放大不爱 #开智 #觉醒 #博客推荐 #个人成长"
+  - text: 4.8万
+  - link "小桃学姐":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAhReMsmPjsWVEIgvqlSA4BRV7lF_610HjQDeNld-hcVE?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: 小桃学姐
+  - 'link "最好的状态，是意识不到自己在自律 如果你总要求自己努力、自律，可能已经失道了。做好“身份认同”，让你的改变自然而然地发生#vibe知识大赏 #认知#强者思维#人生感悟 01:19"':
+    - /url: //www.douyin.com/video/7693870247002301115
+    - 'img "最好的状态，是意识不到自己在自律 如果你总要求自己努力、自律，可能已经失道了。做好“身份认同”，让你的改变自然而然地发生#vibe知识大赏 #认知#强者思维#人生感悟"'
+    - generic: 01:19
+  - 'heading "最好的状态，是意识不到自己在自律 如果你总要求自己努力、自律，可能已经失道了。做好“身份认同”，让你的改变自然而然地发生#vibe知识大赏 #认知#强者思维#人生感悟" [level=3]':
+    - 'link "最好的状态，是意识不到自己在自律 如果你总要求自己努力、自律，可能已经失道了。做好“身份认同”，让你的改变自然而然地发生#vibe知识大赏 #认知#强者思维#人生感悟"':
+      - /url: //www.douyin.com/video/7693870247002301115
+      - generic: "最好的状态，是意识不到自己在自律 如果你总要求自己努力、自律，可能已经失道了。做好“身份认同”，让你的改变自然而然地发生#vibe知识大赏 #认知#强者思维#人生感悟"
+  - text: 5.7万
+  - link "豹伏":
+    - /url: //www.douyin.com/user/MS4wLjABAAAARQzoBAMIyWQGBZyq3K7JSuKCQseI1HAjod2q6ITWOCdTDfGmDa4HVTAA0Hre78hX?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: 豹伏
+  - 'link "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边 01:44"':
+    - /url: //www.douyin.com/video/7697671776544804138
+    - 'img "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边"'
+    - generic: 01:44
+  - 'heading "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边" [level=3]':
+    - 'link "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边"':
+      - /url: //www.douyin.com/video/7697671776544804138
+      - generic: "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边"
+  - text: 21.3万
+  - link "土豆未响应":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAR10fG52lImdSP6bCvlBmkTugqmi8OmfMEbUNLAYdSuw?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: 土豆未响应
+  - 'link "那天采访结束，我以为和胡楚靓的对话就停在镜头关闭的那一刻。 没想到凌晨一点，我突然收到一条很长很长的信息。她一条一条帮我分析，我为什么会焦虑，焦虑的根在哪里。她说：“就当是我这个刚爬出泥坑的人，给你递来一块毛巾。” 这些年，我采访过很多人，聊过很多故事。但那天晚上我突然意识到，“至真至诚”是人与人之间最本真、最纯粹的情感。 这期节目，我们聊了很多。关于焦虑、欲望、野心和自我。但比内容更打动我的，是坐在我对面的这个人。她让我再次相信，真诚从来不是技巧，而是一个人底色里的善良。 《随玉而安》第三期张玉安对话胡楚靓，我们明天见！ #张玉安 #胡楚靓 #视频播客随玉而安 #感动 01:45"':
+    - /url: //www.douyin.com/video/7690853041754361130
+    - 'img "那天采访结束，我以为和胡楚靓的对话就停在镜头关闭的那一刻。 没想到凌晨一点，我突然收到一条很长很长的信息。她一条一条帮我分析，我为什么会焦虑，焦虑的根在哪里。她说：“就当是我这个刚爬出泥坑的人，给你递来一块毛巾。” 这些年，我采访过很多人，聊过很多故事。但那天晚上我突然意识到，“至真至诚”是人与人之间最本真、最纯粹的情感。 这期节目，我们聊了很多。关于焦虑、欲望、野心和自我。但比内容更打动我的，是坐在我对面的这个人。她让我再次相信，真诚从来不是技巧，而是一个人底色里的善良。 《随玉而安》第三期张玉安对话胡楚靓，我们明天见！ #张玉安 #胡楚靓 #视频播客随玉而安 #感动"'
+    - generic: 01:45
+  - 'heading "那天采访结束，我以为和胡楚靓的对话就停在镜头关闭的那一刻。 没想到凌晨一点，我突然收到一条很长很长的信息。她一条一条帮我分析，我为什么会焦虑，焦虑的根在哪里。她说：“就当是我这个刚爬出泥坑的人，给你递来一块毛巾。” 这些年，我采访过很多人，聊过很多故事。但那天晚上我突然意识到，“至真至诚”是人与人之间最本真、最纯粹的情感。 这期节目，我们聊了很多。关于焦虑、欲望、野心和自我。但比内容更打动我的，是坐在我对面的这个人。她让我再次相信，真诚从来不是技巧，而是一个人底色里的善良。 《随玉而安》第三期张玉安对话胡楚靓，我们明天见！ #张玉安 #胡楚靓 #视频播客随玉而安 #感动" [level=3]':
+    - 'link "那天采访结束，我以为和胡楚靓的对话就停在镜头关闭的那一刻。 没想到凌晨一点，我突然收到一条很长很长的信息。她一条一条帮我分析，我为什么会焦虑，焦虑的根在哪里。她说：“就当是我这个刚爬出泥坑的人，给你递来一块毛巾。” 这些年，我采访过很多人，聊过很多故事。但那天晚上我突然意识到，“至真至诚”是人与人之间最本真、最纯粹的情感。 这期节目，我们聊了很多。关于焦虑、欲望、野心和自我。但比内容更打动我的，是坐在我对面的这个人。她让我再次相信，真诚从来不是技巧，而是一个人底色里的善良。 《随玉而安》第三期张玉安对话胡楚靓，我们明天见！ #张玉安 #胡楚靓 #视频播客随玉而安 #感动"':
+      - /url: //www.douyin.com/video/7690853041754361130
+      - generic: 那天采访结束，我以为和胡楚靓的对话就停在镜头关闭的那一刻。 没想到凌晨一点，我突然收到一条很长很长的信息。她一条一条帮我分析，我为什么会焦虑，焦虑的根在哪里。她说：“就当是我这个刚爬出泥坑的人，给你递来一块毛巾。”
+      - generic: 这些年，我采访过很多人，聊过很多故事。但那天晚上我突然意识到，“至真至诚”是人与人之间最本真、最纯粹的情感。
+      - generic: 这期节目，我们聊了很多。关于焦虑、欲望、野心和自我。但比内容更打动我的，是坐在我对面的这个人。她让我再次相信，真诚从来不是技巧，而是一个人底色里的善良。
+      - generic: 《随玉而安》第三期张玉安对话胡楚靓，我们明天见！
+      - generic: "#张玉安 #胡楚靓 #视频播客随玉而安 #感动"
+  - text: "4968"
+  - link "张玉安":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAtsz_hP3Vs7_t_WdSNDLsT10GXl-qt5CXeS7XUuAJ0ZmhR7Q6VqOQXqn3UcdvKWGw?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: 张玉安
+  - 'link "告诉大家一个玄学的真相—— 在你身上发生的所有一切事情，都是命中注定的。 不管你是遇到什么样的人，或者遇到什么样的事， 其实跟任何人都没有任何关系。 因为是命中注定的，所以你不用因任何事情而后悔、自责。 但凡你留不住的， 都是你命中注定一定会失去的。 哪怕你屏住呼吸、用心去挽留， 他该离你而去，还是会离你而去。 而你命中注定属于你的人， 就算经历再大的坎坷，也不会离开。 所以一定要记住： 你什么时候遇见爱情，什么时候事业有成， 一切都是注定的。 沉下心来， 命运把你带到哪里，你就去哪里。 “允许一切，如其所是。” 你不要跟命运去做抗衡，坦然面对—— “得之我幸，失之我命。” #命中注定 #看完你就释怀了 #人生感悟 #情感共鸣 #颜创语录 01:08"':
+    - /url: //www.douyin.com/video/7675631191639066981
+    - 'img "告诉大家一个玄学的真相—— 在你身上发生的所有一切事情，都是命中注定的。 不管你是遇到什么样的人，或者遇到什么样的事， 其实跟任何人都没有任何关系。 因为是命中注定的，所以你不用因任何事情而后悔、自责。 但凡你留不住的， 都是你命中注定一定会失去的。 哪怕你屏住呼吸、用心去挽留， 他该离你而去，还是会离你而去。 而你命中注定属于你的人， 就算经历再大的坎坷，也不会离开。 所以一定要记住： 你什么时候遇见爱情，什么时候事业有成， 一切都是注定的。 沉下心来， 命运把你带到哪里，你就去哪里。 “允许一切，如其所是。” 你不要跟命运去做抗衡，坦然面对—— “得之我幸，失之我命。” #命中注定 #看完你就释怀了 #人生感悟 #情感共鸣 #颜创语录"'
+    - generic: 01:08
+  - 'heading "告诉大家一个玄学的真相—— 在你身上发生的所有一切事情，都是命中注定的。 不管你是遇到什么样的人，或者遇到什么样的事， 其实跟任何人都没有任何关系。 因为是命中注定的，所以你不用因任何事情而后悔、自责。 但凡你留不住的， 都是你命中注定一定会失去的。 哪怕你屏住呼吸、用心去挽留， 他该离你而去，还是会离你而去。 而你命中注定属于你的人， 就算经历再大的坎坷，也不会离开。 所以一定要记住： 你什么时候遇见爱情，什么时候事业有成， 一切都是注定的。 沉下心来， 命运把你带到哪里，你就去哪里。 “允许一切，如其所是。” 你不要跟命运去做抗衡，坦然面对—— “得之我幸，失之我命。” #命中注定 #看完你就释怀了 #人生感悟 #情感共鸣 #颜创语录" [level=3]':
+    - 'link "告诉大家一个玄学的真相—— 在你身上发生的所有一切事情，都是命中注定的。 不管你是遇到什么样的人，或者遇到什么样的事， 其实跟任何人都没有任何关系。 因为是命中注定的，所以你不用因任何事情而后悔、自责。 但凡你留不住的， 都是你命中注定一定会失去的。 哪怕你屏住呼吸、用心去挽留， 他该离你而去，还是会离你而去。 而你命中注定属于你的人， 就算经历再大的坎坷，也不会离开。 所以一定要记住： 你什么时候遇见爱情，什么时候事业有成， 一切都是注定的。 沉下心来， 命运把你带到哪里，你就去哪里。 “允许一切，如其所是。” 你不要跟命运去做抗衡，坦然面对—— “得之我幸，失之我命。” #命中注定 #看完你就释怀了 #人生感悟 #情感共鸣 #颜创语录"':
+      - /url: //www.douyin.com/video/7675631191639066981
+      - generic: 告诉大家一个玄学的真相——
+      - generic: 在你身上发生的所有一切事情，都是命中注定的。
+      - generic: 不管你是遇到什么样的人，或者遇到什么样的事，
+      - generic: 其实跟任何人都没有任何关系。
+      - generic: 因为是命中注定的，所以你不用因任何事情而后悔、自责。
+      - generic: 但凡你留不住的，
+      - generic: 都是你命中注定一定会失去的。
+      - generic: 哪怕你屏住呼吸、用心去挽留，
+      - generic: 他该离你而去，还是会离你而去。
+      - generic: 而你命中注定属于你的人，
+      - generic: 就算经历再大的坎坷，也不会离开。
+      - generic: 所以一定要记住：
+      - generic: 你什么时候遇见爱情，什么时候事业有成，
+      - generic: 一切都是注定的。
+      - generic: 沉下心来，
+      - generic: 命运把你带到哪里，你就去哪里。
+      - generic: “允许一切，如其所是。”
+      - generic: 你不要跟命运去做抗衡，坦然面对——
+      - generic: “得之我幸，失之我命。”
+      - generic: "#命中注定 #看完你就释怀了 #人生感悟 #情感共鸣 #颜创语录"
+  - text: "6158"
+  - link "颜创":
+    - /url: //www.douyin.com/user/MS4wLjABAAAADNbTM9dERJrsxynQRaDwx8h65TzBgYX2mkfazmcIwaM?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: 颜创
+  - 'link "得不到的永远在骚动被偏爱的都有恃无恐 #得不到的更加爱 #被偏爱的总是有恃无恐 #vibe知识大赏 02:58"':
+    - /url: //www.douyin.com/video/7693611910903056101
+    - 'img "得不到的永远在骚动被偏爱的都有恃无恐 #得不到的更加爱 #被偏爱的总是有恃无恐 #vibe知识大赏"'
+    - generic: 02:58
+  - 'heading "得不到的永远在骚动被偏爱的都有恃无恐 #得不到的更加爱 #被偏爱的总是有恃无恐 #vibe知识大赏" [level=3]':
+    - 'link "得不到的永远在骚动被偏爱的都有恃无恐 #得不到的更加爱 #被偏爱的总是有恃无恐 #vibe知识大赏"':
+      - /url: //www.douyin.com/video/7693611910903056101
+      - generic: "得不到的永远在骚动被偏爱的都有恃无恐 #得不到的更加爱 #被偏爱的总是有恃无恐 #vibe知识大赏"
+  - text: 3.1万
+  - link "罗伯特":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAjts4N--MwK_IuUf5Of60vlQMwgjShADfsw2keFEtsyPV-pXUfO-6MtWryrutb2hR?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: 罗伯特
+  - 'link "每个开挂的人生，为什么都总有一段难熬的“孤独时光”？ 他发了1000条视频，才积累到最初的1000个关注者。 Jett Franzen、Steve Jobs和J.K. Rowling的人生完全不同，却都经历过同一个阶段：旧的身份已经失效，新的结果还没有出现，外界的认可也暂时撤走了。 孤独不保证成功，坚持也不等于盲目死扛。但对正在离开旧轨道、重建能力和身份的人来说，那些没人理解、没有掌声的日子，往往正在留下最重要的内部证据。 当没有人看见你时，你仍然愿意完成什么？ 【话题】 #个人成长 #认知提升 #自媒体创业 #孤独时光 #人生感悟 #ModernWisdom #创业 #创作 #名人 05:44"':
+    - /url: //www.douyin.com/video/7672785614571343155
+    - 'img "每个开挂的人生，为什么都总有一段难熬的“孤独时光”？ 他发了1000条视频，才积累到最初的1000个关注者。 Jett Franzen、Steve Jobs和J.K. Rowling的人生完全不同，却都经历过同一个阶段：旧的身份已经失效，新的结果还没有出现，外界的认可也暂时撤走了。 孤独不保证成功，坚持也不等于盲目死扛。但对正在离开旧轨道、重建能力和身份的人来说，那些没人理解、没有掌声的日子，往往正在留下最重要的内部证据。 当没有人看见你时，你仍然愿意完成什么？ 【话题】 #个人成长 #认知提升 #自媒体创业 #孤独时光 #人生感悟 #ModernWisdom #创业 #创作 #名人"'
+    - generic: 05:44
+  - 'heading "每个开挂的人生，为什么都总有一段难熬的“孤独时光”？ 他发了1000条视频，才积累到最初的1000个关注者。 Jett Franzen、Steve Jobs和J.K. Rowling的人生完全不同，却都经历过同一个阶段：旧的身份已经失效，新的结果还没有出现，外界的认可也暂时撤走了。 孤独不保证成功，坚持也不等于盲目死扛。但对正在离开旧轨道、重建能力和身份的人来说，那些没人理解、没有掌声的日子，往往正在留下最重要的内部证据。 当没有人看见你时，你仍然愿意完成什么？ 【话题】 #个人成长 #认知提升 #自媒体创业 #孤独时光 #人生感悟 #ModernWisdom #创业 #创作 #名人" [level=3]':
+    - 'link "每个开挂的人生，为什么都总有一段难熬的“孤独时光”？ 他发了1000条视频，才积累到最初的1000个关注者。 Jett Franzen、Steve Jobs和J.K. Rowling的人生完全不同，却都经历过同一个阶段：旧的身份已经失效，新的结果还没有出现，外界的认可也暂时撤走了。 孤独不保证成功，坚持也不等于盲目死扛。但对正在离开旧轨道、重建能力和身份的人来说，那些没人理解、没有掌声的日子，往往正在留下最重要的内部证据。 当没有人看见你时，你仍然愿意完成什么？ 【话题】 #个人成长 #认知提升 #自媒体创业 #孤独时光 #人生感悟 #ModernWisdom #创业 #创作 #名人"':
+      - /url: //www.douyin.com/video/7672785614571343155
+      - generic: 每个开挂的人生，为什么都总有一段难熬的“孤独时光”？ 他发了1000条视频，才积累到最初的1000个关注者。
+      - generic: Jett Franzen、Steve Jobs和J.K. Rowling的人生完全不同，却都经历过同一个阶段：旧的身份已经失效，新的结果还没有出现，外界的认可也暂时撤走了。
+      - generic: 孤独不保证成功，坚持也不等于盲目死扛。但对正在离开旧轨道、重建能力和身份的人来说，那些没人理解、没有掌声的日子，往往正在留下最重要的内部证据。
+      - generic: 当没有人看见你时，你仍然愿意完成什么？
+      - generic: 【话题】
+      - generic: "#个人成长 #认知提升 #自媒体创业 #孤独时光 #人生感悟 #ModernWisdom #创业 #创作 #名人"
+  - text: 1.1万
+  - link "曾翊恒":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAhhUD5NjcFCYTPD5PwpR1oijZ84gPlltigzTrWh8PLpU?author_id=4245657399857819&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7697240924837748134&log_pb=%7B%22impr_id%22%3A%2220261020114002F4A30B07BE901F19A2A6%22%7D&relation=0
+    - generic: 曾翊恒
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "抖音游戏":
+    - /url: https://www.douyin.com/jingxuan/game
+  - link "抖音电脑版":
+    - /url: https://www.douyin.com/jingxuan
+  - link "热卖超市":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAAd3OKgyrBat81zlFxtV4jae2GRan0vlXc3jZOd122szXLmFQYAnY8_9dmXAvcNHEl
+  - 'link "年级第一 轻轻松松 手拿把掐 #高中#高三 #简简单单"':
+    - /url: https://www.douyin.com/note/7698315939133143295
+  - link "高考黑板留言":
+    - /url: https://www.douyin.com/topic/7509875536181757992
+  - link "海南转换分对照表":
+    - /url: https://www.douyin.com/shipin/7509905071577253915
+  - link "高考地理结束时间":
+    - /url: https://www.douyin.com/search/%E9%AB%98%E8%80%83%E5%9C%B0%E7%90%86%E7%BB%93%E6%9D%9F%E6%97%B6%E9%97%B4
+  - link "3人摆拍涉外卖员虚假视频被处理":
+    - /url: https://www.douyin.com/video/7613724957255965617?source=Baiduspider
+  - 'link "ug创建程序文件夹，编的程序要放在文件夹里，作为分类。坚持学习编程合集系列（一定要看主页简介）#ug编程 #数控机械加工 #ug学习 #cnc加工中心 #ug五轴编程"':
+    - /url: https://www.douyin.com/video/7331317929843199286?source=Baiduspider
+  - 'link "周瑜黄大水库墓 宿松此来探究竟 #采风 #乡村 #绿水青山我的家 #皖南 #山村 #新农村 #乡村游 #徒步旅行"':
+    - /url: https://www.douyin.com/video/7325692918977629450?source=Baiduspider
+  - 'link "#比赛现场 #弘扬中华武术"':
+    - /url: https://www.douyin.com/video/7531722131576130856?source=Baiduspider-sdc
+  - link "日常保洁操作流程 日常保洁操作详细流程#保洁":
+    - /url: https://www.douyin.com/video/7507587271588744507?source=Baiduspider
+  - 'link "还是菜地比守巨物有趣，今天上鱼个体都偏大～ ##钓鱼 #钓鱼人 #野钓 #钓鱼人就是这么疯狂 #原创"':
+    - /url: https://www.douyin.com/video/7542523357296839996?source=Baiduspider
+  - link "#相思的债 这一首歌酷狗音乐已经下架，陈瑞一首经典老歌《相思的债》，唱的太棒了！怀旧经典音乐收藏版！":
+    - /url: https://www.douyin.com/video/7299681833577352487?source=Baiduspider-sdc

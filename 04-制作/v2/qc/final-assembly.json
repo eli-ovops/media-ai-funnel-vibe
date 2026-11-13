@@ -1,0 +1,85 @@
+{
+  "final": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/ai-funnel-v2-review-150s.mp4",
+  "sha256": "9a3ce43284d15afa47178e7e188d8baca3d17b2aedee5c64eab45a50ec3da537",
+  "source_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+  "input_files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/canvas-final-visual.mp4",
+      "sha256": "29a44792e8ae5b2db7f00ccf74e2ab4958066fbbcce0ce297eb205cc85f53a45"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/canvas-explain-visual.mp4",
+      "sha256": "23d7b22eee584d0144bc8967bf45b94cd7dba3510a12942cbb558a4b7cc6b31c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/canvas-slot-visual.mp4",
+      "sha256": "ef128629d90b51beb2d7e2e78a011a88d0a01c0c447e5bd4a11270858310fc8d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/canvas-reunite-visual.mp4",
+      "sha256": "465dbf07c62115f0b0dada56883ca431abd6065fea4b56a36d46b0d45b92b00a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/code-sfx-v2.wav",
+      "sha256": "acc9d0873ef646d677b465882fd32c57c02f4646e3705136699a63e1c3e62674"
+    }
+  ],
+  "changed_ranges": [
+    [
+      4920,
+      5370
+    ],
+    [
+      6180,
+      6210
+    ],
+    [
+      8340,
+      8370
+    ]
+  ],
+  "command": [
+    "/Users/USER/.local/bin/ffmpeg",
+    "-nostdin",
+    "-hide_banner",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/canvas-final-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/canvas-explain-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/canvas-slot-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/canvas-reunite-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/code-sfx-v2.wav",
+    "-filter_complex",
+    "[0:v]split=4[a][b][c][d];[a]trim=start_frame=0:end_frame=4920,setpts=PTS-STARTPTS[v0];[1:v]setpts=PTS-STARTPTS[v1];[b]trim=start_frame=5370:end_frame=6180,setpts=PTS-STARTPTS[v2];[2:v]setpts=PTS-STARTPTS[v3];[c]trim=start_frame=6210:end_frame=8340,setpts=PTS-STARTPTS[v4];[3:v]setpts=PTS-STARTPTS[v5];[d]trim=start_frame=8370:end_frame=9000,setpts=PTS-STARTPTS[v6];[v0][v1][v2][v3][v4][v5][v6]concat=n=7:v=1:a=0[out]",
+    "-map",
+    "[out]",
+    "-map",
+    "4:a:0",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "fast",
+    "-crf",
+    "18",
+    "-pix_fmt",
+    "yuv420p",
+    "-r",
+    "60",
+    "-frames:v",
+    "9000",
+    "-c:a",
+    "aac",
+    "-b:a",
+    "192k",
+    "-t",
+    "150",
+    "-movflags",
+    "+faststart",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/ai-funnel-v2-review-150s.mp4"
+  ],
+  "wall_seconds": 18.062433004379272,
+  "basis": "Prior 9000-frame composite retained; 510 frames replaced at same60fps source clock; no whole-scene dissolve or retiming"
+}

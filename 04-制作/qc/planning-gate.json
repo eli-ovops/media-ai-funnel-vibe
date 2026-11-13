@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "gate": "planning",
+  "manifestPath": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/manifest.json",
+  "manifestSha256": "4bf01f6369386f21739cdb6904723e47a3ef6269e67d8e1bc59ab0c1ef6162a6",
+  "durationInFrames": 9000,
+  "timelineFps": 60,
+  "previousReceipt": null,
+  "previousReceiptSha256": null,
+  "requiredRepresentativeScenes": [
+    "S1",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+  ],
+  "status": "FAIL",
+  "errors": [
+    "S1: selected source unavailable: fred-wave3-40-t05h (needs-auth); install verified source or choose an available public component",
+    "S2: selected source unavailable: fred-wave3-40-t05h (needs-auth); install verified source or choose an available public component",
+    "S3: selected source unavailable: fred-wave2-42-t04b (needs-auth); install verified source or choose an available public component",
+    "S4: selected source unavailable: fred-wave3-40-t05h (needs-auth); install verified source or choose an available public component",
+    "S5: selected source unavailable: fred-wave3-40-t05h (needs-auth); install verified source or choose an available public component",
+    "S6: selected source unavailable: fred-wave3-40-t05h (needs-auth); install verified source or choose an available public component"
+  ],
+  "warnings": []
+}

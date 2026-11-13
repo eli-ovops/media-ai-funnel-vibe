@@ -1,0 +1,40 @@
+{
+  "target": "Nico exact work 7697240924837748134",
+  "target_url": "https://www.douyin.com/video/7697240924837748134",
+  "user_selected_music_reference_confirmed": true,
+  "name": "UNKNOWN",
+  "artist": "UNKNOWN",
+  "version": "UNKNOWN",
+  "native_music_id": "UNKNOWN",
+  "native_music_url": "UNKNOWN",
+  "original_audio_file": "NOT_OBTAINED",
+  "speech_or_lyrics": "UNKNOWN",
+  "all_seven_same_track": "UNKNOWN",
+  "cut_start_or_length_match": "UNKNOWN",
+  "native_checks": [
+    "Nico-原页.txt",
+    "Nico-展开详情.txt",
+    "read rendered a links: no attributable music URL; unrelated recommendations excluded",
+    "native player right-click menu: screen/comments/like/profile/share/feedback/report; no music identification/export item"
+  ],
+  "download_attempts": {
+    "nico_short_page": "action_failed; tool failed Download 1d353389-5364-4bb3-ade9-5aebde064ebd",
+    "nico_exact_detail_new_tab": "action_failed; Nico-download-error.txt"
+  },
+  "external_searches": [
+    {
+      "query": "\"Nico\" \"人生的容错率\" \"音乐\"",
+      "outcome": "irrelevant results; no identifiable primary music source"
+    },
+    {
+      "query": "site:douyin.com \"人生的容错率，大到超出你的想象\" \"音乐\"",
+      "outcome": "empty results"
+    }
+  ],
+  "external_search_count": 2,
+  "search_budget": 3,
+  "cloud_recognition": false,
+  "new_model_install": false,
+  "minimal_missing_input": "exact local Nico original/audio or its native music page/card; PMO handles user handoff",
+  "blocks": "freeze exact BGM and 150-second audio arrangement; does not block remaining visual structure research"
+}

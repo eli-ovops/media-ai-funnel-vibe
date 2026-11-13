@@ -1,0 +1,20 @@
+{
+  "content_id":"ai-funnel-vibe-20261020",
+  "pmo_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage":"04",
+  "decision":"PASS",
+  "scope":"完整候选及制作原件可交05独立质检；不是整片审美、连续观看或用户终审通过",
+  "video":"/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/output/ai-funnel-v4-complete-150s-r5.mp4",
+  "sha256":"6ac2862d8b34a813ff471ff13d14a572bb77f35e0c5df78e1267bcaab343cbd0",
+  "evidence_read":["04-制作/v4-complete/README.md","delivery-index.json","source-map.json","screen-text-index.json","src/FullEpisode.tsx","qc/verification.json","qc/visual-review.md","qc/motion-review.md","qc/assembly-r5.json","qc/full-1.jpg至full-9.jpg：r4的209个全段/接缝样本","qc/final-r5-1.jpg至final-r5-3.jpg：r5的65个变化及接缝样本","qc/source-stage-comparison.jpg","r5原尺寸F2040/F3210/F3560/F3588/F6210/F7950/F8448/F8472"],
+  "hash_verification":{"delivery_named_entries":8,"source_implementation_call_entries":20,"actual_video_sha_verified":true},
+  "observed_improvement":"完整TSX和kit用于实际输出；T15f扫环/抽出和真实分母放大、T05h状态分支、任务拆分与访问树已实际出现，字阶/表面与准确源组件相符。原v4代表白闪/裁字不在已核对应状态复现。",
+  "remaining_required_work":[],
+  "handoff_scope_limit":"remaining_required_work只表示04完整候选/工程交接无缺项；下列05及最终判断仍待完成，不能转写为全部质量通过。",
+  "independent_review_required":["当前r5整片实际画面与源效果质感","22拍当前实际阅读与停顿","步骤是否演出变化而不只是名称","84/126秒切镜、140.6—141秒旧页退出与结尾汇聚自然度","实际导出全时段及接缝，不仅继承r4截图"],
+  "continuous_normal_speed_visual":"NOT_PERFORMED",
+  "mobile_timed_reading":"NOT_PERFORMED",
+  "audio":"NOT_APPLICABLE_ZERO_AUDIO_TRACK",
+  "user_final_acceptance":"PENDING",
+  "publication":"NOT_AUTHORIZED"
+}

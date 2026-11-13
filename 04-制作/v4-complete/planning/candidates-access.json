@@ -1,0 +1,906 @@
+{
+  "catalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "count": 90,
+  "returned": 5,
+  "entries": [
+    {
+      "id": "component:library-new10-n043",
+      "label": "N043",
+      "title": "长文面板横向展开为背景，手机重新到前景",
+      "reusability": {
+        "level": "snapshot",
+        "label": "准确场景参考",
+        "parameters": [],
+        "limitations": [
+          "用户对本批成片整体认可；不表示此组件已用新文案及素材完成通用参数视觉验收。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/aee5f737225ca18a69ae75f8",
+          "posterUrl": "/api/design-assets/119a02457f1ea64a4fa28df2",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/ac0614ce6825019f25c6740b",
+              "timeSeconds": 0.9,
+              "frame": 54
+            },
+            {
+              "url": "/api/design-assets/16b5bcde6627a8e44d819bec",
+              "timeSeconds": 2.1333333333333333,
+              "frame": 128
+            },
+            {
+              "url": "/api/design-assets/a2f6d63f6778a313f8095694",
+              "timeSeconds": 3.2,
+              "frame": 192
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 4.1,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 3.1166666666666667,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "BatchB.tsx",
+          "symbol": "",
+          "url": "/api/design-source/cb529c9c35da4b08956cc15d",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "matching": {
+        "referenceId": "library-new10-n043",
+        "primaryUse": "explain",
+        "useIds": [
+          "explain",
+          "video-entry",
+          "handoff"
+        ],
+        "sourceId": "fredtalk",
+        "conceptIds": [
+          "text",
+          "media",
+          "handoff"
+        ],
+        "inputObjects": [
+          "文字",
+          "信息结构",
+          "录屏",
+          "视频",
+          "窗口",
+          "前后内容",
+          "载体"
+        ],
+        "action": "长文面板横向展开为背景，手机重新到前景",
+        "segmentRole": "一段解释",
+        "nativeDurationSeconds": 4.1,
+        "adaptation": "按口播分成几步建立与阅读；15–20秒需重排具体cue和阅读窗口，原短片不是现成20秒模板。",
+        "tags": [
+          "讲解段落",
+          "录屏与视频入场",
+          "内容交接",
+          "文字",
+          "信息结构",
+          "录屏",
+          "视频",
+          "窗口",
+          "前后内容",
+          "载体",
+          "一段解释",
+          "输入、聊天与反馈"
+        ],
+        "scenarioId": "input",
+        "scenarioTitle": "输入、聊天与反馈",
+        "label": "N043",
+        "categoryId": "explain",
+        "category": "讲解段落",
+        "sceneTypes": [
+          "device-demo",
+          "prompt-reading"
+        ],
+        "title": "长文面板横向展开为背景，手机重新到前景",
+        "collectionId": null,
+        "kind": "components",
+        "score": 180.4,
+        "matchedConceptIds": [
+          "media"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "窗口"
+        ],
+        "reasons": [
+          "媒体与设备",
+          "原词命中：窗口",
+          "相近词：窗口"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/f383bd215d85/src/BatchB.tsx",
+          "sha256": "a6fdf88ca8f2a91e1a2e3b1b7e7afdbafb6135605674931059eeda1ad339b553",
+          "url": "/api/design-source/cb529c9c35da4b08956cc15d",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "library-new10-n043"
+    },
+    {
+      "id": "component:new30-op03",
+      "label": "OP03",
+      "title": "圆形入口展开为视频窗",
+      "reusability": {
+        "level": "snapshot",
+        "label": "用户精选 · 独立场景源码",
+        "parameters": [
+          "src"
+        ],
+        "limitations": [
+          "认可范围为本轮14个准确示例；新文字、素材、ROI、clock和交接需适配检查。",
+          "本批为画面呈现、内容交接、讲解或录屏聚焦；用户没有认可为吸睛开头。",
+          "Circular crop becomes 16:9. Default media.videoB; start not read by this function."
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/f61577a64b6a86de7b384ea8",
+          "posterUrl": "/api/design-assets/c7b67a650902fc80b9118401",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/29b5136757e839ade040791c",
+              "frame": 9,
+              "timeSeconds": 0.15
+            },
+            {
+              "url": "/api/design-assets/c7b67a650902fc80b9118401",
+              "frame": 54,
+              "timeSeconds": 0.9
+            },
+            {
+              "url": "/api/design-assets/1210675fdb347cb929bf3466",
+              "frame": 138,
+              "timeSeconds": 2.3
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 4.0,
+          "fps": 60,
+          "width": 1920,
+          "height": 1080,
+          "sha256": "f61577a64b6a86de7b384ea8ffd76161216046232a03db0e953d91e70e5f71f3",
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 0.9,
+          "posterSelection": "actual selected mechanism state"
+        }
+      ],
+      "sources": [
+        {
+          "label": "OpeningScenes.tsx",
+          "path": "expansion-selected-20261007/src/OpeningScenes.tsx",
+          "symbol": "OP03",
+          "url": "/api/design-source/7ffd8e123f571e373a7012be",
+          "sha256": "7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "shared.tsx",
+          "path": "expansion-selected-20261007/src/shared.tsx",
+          "symbol": "Frame / Media / Window / Fonts",
+          "url": "/api/design-source/b589565211dd4ceca0aab1fd",
+          "sha256": "b589565211dd4ceca0aab1fdd3bbe57b3db327bc393747fd72c98977d9ab362b",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "component-interfaces.json",
+          "path": "expansion-selected-20261007/component-interfaces.json",
+          "symbol": "OP03",
+          "url": "/api/design-source/0b3090bced9692d75312b844",
+          "sha256": "0b3090bced9692d75312b8446ac8c1f9a746f1bd3402ec60c0d1b5932dd91af7",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "matching": {
+        "referenceId": "new30-op03",
+        "primaryUse": "video-entry",
+        "useIds": [
+          "video-entry",
+          "handoff"
+        ],
+        "sourceId": "expansion-selected",
+        "conceptIds": [
+          "media",
+          "handoff"
+        ],
+        "inputObjects": [
+          "真实视频",
+          "既有画面"
+        ],
+        "action": "圆形作品入口连成完整横向播放窗口",
+        "segmentRole": "用户已选完整示例组件",
+        "nativeDurationSeconds": 4,
+        "adaptation": "Fred认可本次具体示例及准确源码；新的文字、素材、ROI、数量、cue和组合仍需实际审看。",
+        "tags": [
+          "新增精选",
+          "OP03",
+          "录屏与视频入场",
+          "窗口与媒体交接"
+        ],
+        "scenarioId": "window",
+        "scenarioTitle": "窗口与媒体交接",
+        "addedAt": "2026-10-07T08:41:15+08:00",
+        "label": "OP03",
+        "categoryId": "video-entry",
+        "category": "录屏与视频入场",
+        "sceneTypes": [
+          "device-demo"
+        ],
+        "title": "圆形入口展开为视频窗",
+        "collectionId": "expansion-selected-20261007",
+        "kind": "components",
+        "score": 180.4,
+        "matchedConceptIds": [
+          "media"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "窗口"
+        ],
+        "reasons": [
+          "媒体与设备",
+          "原词命中：窗口",
+          "相近词：窗口"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/expansion-selected-20261007/source-view/7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe.txt",
+          "sha256": "7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe",
+          "url": "/api/design-source/7ffd8e123f571e373a7012be",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "OP03"
+        },
+        {
+          "path": "components/projects/expansion-selected-20261007/source-view/b589565211dd4ceca0aab1fdd3bbe57b3db327bc393747fd72c98977d9ab362b.txt",
+          "sha256": "b589565211dd4ceca0aab1fdd3bbe57b3db327bc393747fd72c98977d9ab362b",
+          "url": "/api/design-source/b589565211dd4ceca0aab1fd",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "Frame / Media / Window / Fonts"
+        },
+        {
+          "path": "components/projects/expansion-selected-20261007/source-view/0b3090bced9692d75312b8446ac8c1f9a746f1bd3402ec60c0d1b5932dd91af7.txt",
+          "sha256": "0b3090bced9692d75312b8446ac8c1f9a746f1bd3402ec60c0d1b5932dd91af7",
+          "url": "/api/design-source/0b3090bced9692d75312b844",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "OP03"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "new30-op03"
+    },
+    {
+      "id": "component:ep109-selected-01",
+      "label": "109-01",
+      "title": "白底点击与弹性视频窗展开",
+      "reusability": {
+        "level": "snapshot",
+        "label": "准确场景源码 · 独立工程",
+        "parameters": [
+          "字幕与角标开关",
+          "原视频/九宫格素材路径",
+          "原片入口补片开关"
+        ],
+        "limitations": [
+          "认可范围仅为本次指定区间；新文字、素材、ROI和接缝仍需适配检查。",
+          "源码包保留真实动画函数；33帧原片接缝为示例边界补片。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/51e76fb39b80835ec69067fc",
+          "posterUrl": "/api/design-assets/342470e09ad03258e729b75c",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/1c441f442681b1d67880569a",
+              "frame": 12,
+              "timeSeconds": 0.2
+            },
+            {
+              "url": "/api/design-assets/342470e09ad03258e729b75c",
+              "frame": 60,
+              "timeSeconds": 1.0
+            },
+            {
+              "url": "/api/design-assets/795ecd1ef5d67ceb5699580b",
+              "frame": 119,
+              "timeSeconds": 1.9833333333333334
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 2,
+          "fps": 60,
+          "width": 3840,
+          "height": 2160,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 1.0,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "独立组件",
+          "path": "ep109-selected-20261006/SelectedComponents.tsx",
+          "url": "/api/design-source/096a7713f2f4b56f2551e1f5",
+          "symbol": "EP109Selected01",
+          "sha256": "096a7713f2f4b56f2551e1f508253859082259b6eccb01e50d3f1caf7af95783",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "原场景与时钟源码",
+          "path": "ep109-selected-20261006/versions/white/adapters/opening-v5/OpeningV5.tsx",
+          "url": "/api/design-source/637e4ec7e2e78f4d107a574c",
+          "symbol": "OpeningV5",
+          "sha256": "637e4ec7e2e78f4d107a574c5ed18ed5990b722d8988b631b4b87bfd12e9e290",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "原场景与时钟源码",
+          "path": "ep109-selected-20261006/NativeSceneClock.tsx",
+          "url": "/api/design-source/86c6edaabf8552051ffb54f7",
+          "symbol": "NativeSceneClock",
+          "sha256": "86c6edaabf8552051ffb54f7b1dc33c439ff73329edb2e080ff70472fac9d348",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "matching": {
+        "referenceId": "ep109-selected-01",
+        "primaryUse": "video-entry",
+        "useIds": [
+          "video-entry",
+          "handoff"
+        ],
+        "sourceId": "ep109",
+        "conceptIds": [
+          "media",
+          "handoff"
+        ],
+        "inputObjects": [
+          "鼠标",
+          "视频窗口"
+        ],
+        "action": "白底点击与弹性视频窗展开",
+        "segmentRole": "完整选段场景",
+        "nativeDurationSeconds": 2,
+        "adaptation": "保留准确动作关系与媒体时钟；新文案、ROI、几何及交接需适配检查。",
+        "tags": [
+          "第109期",
+          "用户精选",
+          "鼠标",
+          "视频窗口",
+          "录屏与视频入场",
+          "窗口与媒体交接"
+        ],
+        "scenarioId": "window",
+        "scenarioTitle": "窗口与媒体交接",
+        "addedAt": "2026-10-06T21:39:00+08:00",
+        "label": "109-01",
+        "categoryId": "video-entry",
+        "category": "录屏与视频入场",
+        "sceneTypes": [
+          "device-demo"
+        ],
+        "title": "白底点击与弹性视频窗展开",
+        "collectionId": "ep109-selected-20261006",
+        "kind": "components",
+        "score": 180.4,
+        "matchedConceptIds": [
+          "media"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "窗口"
+        ],
+        "reasons": [
+          "媒体与设备",
+          "原词命中：窗口",
+          "相近词：窗口"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/ep109-selected-20261006/source-view/096a7713f2f4b56f2551e1f508253859082259b6eccb01e50d3f1caf7af95783.txt",
+          "sha256": "096a7713f2f4b56f2551e1f508253859082259b6eccb01e50d3f1caf7af95783",
+          "url": "/api/design-source/096a7713f2f4b56f2551e1f5",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "EP109Selected01"
+        },
+        {
+          "path": "components/projects/ep109-selected-20261006/source-view/637e4ec7e2e78f4d107a574c5ed18ed5990b722d8988b631b4b87bfd12e9e290.txt",
+          "sha256": "637e4ec7e2e78f4d107a574c5ed18ed5990b722d8988b631b4b87bfd12e9e290",
+          "url": "/api/design-source/637e4ec7e2e78f4d107a574c",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "OpeningV5"
+        },
+        {
+          "path": "components/projects/ep109-selected-20261006/source-view/86c6edaabf8552051ffb54f7b1dc33c439ff73329edb2e080ff70472fac9d348.txt",
+          "sha256": "86c6edaabf8552051ffb54f7b1dc33c439ff73329edb2e080ff70472fac9d348",
+          "url": "/api/design-source/86c6edaabf8552051ffb54f7",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "NativeSceneClock"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "ep109-selected-01"
+    },
+    {
+      "id": "component:ep102-selected-02",
+      "label": "102-02",
+      "title": "设备屏幕连续放大全屏",
+      "reusability": {
+        "level": "snapshot",
+        "label": "准确场景参考",
+        "parameters": [],
+        "limitations": [
+          "认可范围是Fred指定的最终成片区间；新增内容的适配仍需检查。",
+          "预览为最终4K60成片的独立摘录；便携源码与已核验素材安装器随独立工程分发。",
+          "成片区间最前两帧是既有接缝补片，独立源码保留该补片后继续原S04时钟。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "/api/design-assets/47852e46227c7e6b185e72bc",
+          "posterUrl": "/api/design-assets/80c79bb08f405afe511e7092",
+          "keyframes": [
+            {
+              "url": "/api/design-assets/0775dab2035b9d0380290873",
+              "timeSeconds": 0.0,
+              "frame": 0
+            },
+            {
+              "url": "/api/design-assets/80c79bb08f405afe511e7092",
+              "timeSeconds": 0.85,
+              "frame": 51
+            },
+            {
+              "url": "/api/design-assets/7cb696534bcfef9979d2a14d",
+              "timeSeconds": 4.266666666666667,
+              "frame": 256
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 6,
+          "fps": 60,
+          "audioPolicy": "no-audio-track",
+          "posterTimeSeconds": 0.85,
+          "posterSelection": "reviewed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Independent component",
+          "path": "components/projects/ep102-selected-20261005/source/SelectedComponents.tsx",
+          "url": "/api/design-source/977550b9d3d51fdd7abb3d66",
+          "symbol": "EP102Selected02",
+          "sha256": "6b8c1002c7be22636b4ca9cf5b45be6b3e178fb8ddcc137fdab3f63eb09fc472",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "Adopted scene source",
+          "path": "components/projects/ep102-selected-20261005/source/versions/install-v8/adapters/MediaRevisionV7.tsx",
+          "url": "/api/design-source/a65892ff4ddedf700b73c7b1",
+          "symbol": "InstallV7",
+          "sha256": "13044021f77d38d6a81e62fe081119405fcafb9537d02c19ee747d11c185bbbe",
+          "available": true,
+          "status": "ready"
+        },
+        {
+          "label": "Native scene clock",
+          "path": "components/projects/ep102-selected-20261005/source/NativeSceneClock.tsx",
+          "url": "/api/design-source/04654ab383c9cb9f8895bce6",
+          "symbol": "NativeSceneClock",
+          "sha256": "981f4634d69343e28e68def65fe40d49357ecf88b9b6072b54c3ab391997c062",
+          "available": true,
+          "status": "ready"
+        }
+      ],
+      "matching": {
+        "referenceId": "ep102-selected-02",
+        "primaryUse": "recording-focus",
+        "useIds": [
+          "recording-focus",
+          "video-entry"
+        ],
+        "sourceId": "ep102",
+        "conceptIds": [
+          "focus",
+          "media"
+        ],
+        "inputObjects": [
+          "设备屏幕",
+          "视频",
+          "特写区域"
+        ],
+        "action": "显示器外壳逐渐退出，录屏窗口持续放大至同一大窗",
+        "segmentRole": "完整场景",
+        "nativeDurationSeconds": 6,
+        "adaptation": "保留源动作与媒体时钟，替换本期对象、素材和cue后检查实际输出。",
+        "tags": [
+          "设备屏幕",
+          "视频",
+          "特写区域",
+          "第102期",
+          "用户精选",
+          "录屏聚焦",
+          "局部放大与标注"
+        ],
+        "scenarioId": "focus",
+        "scenarioTitle": "局部放大与标注",
+        "addedAt": "2026-10-05T11:47:11+08:00",
+        "label": "102-02",
+        "categoryId": "recording-focus",
+        "category": "录屏聚焦",
+        "sceneTypes": [
+          "device-demo",
+          "image-comparison"
+        ],
+        "collectionId": "ep102-selected-20261005",
+        "sourceRangeSeconds": [
+          44,
+          50
+        ],
+        "title": "设备屏幕连续放大全屏",
+        "kind": "components",
+        "score": 180.4,
+        "matchedConceptIds": [
+          "media"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "窗口"
+        ],
+        "reasons": [
+          "媒体与设备",
+          "原词命中：窗口",
+          "相近词：窗口"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": "components/projects/ep102-selected-20261005/source/SelectedComponents.tsx",
+          "sha256": "6b8c1002c7be22636b4ca9cf5b45be6b3e178fb8ddcc137fdab3f63eb09fc472",
+          "url": "/api/design-source/977550b9d3d51fdd7abb3d66",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "EP102Selected02"
+        },
+        {
+          "path": "components/projects/ep102-selected-20261005/source/versions/install-v8/adapters/MediaRevisionV7.tsx",
+          "sha256": "13044021f77d38d6a81e62fe081119405fcafb9537d02c19ee747d11c185bbbe",
+          "url": "/api/design-source/a65892ff4ddedf700b73c7b1",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "InstallV7"
+        },
+        {
+          "path": "components/projects/ep102-selected-20261005/source/NativeSceneClock.tsx",
+          "sha256": "981f4634d69343e28e68def65fe40d49357ecf88b9b6072b54c3ab391997c062",
+          "url": "/api/design-source/04654ab383c9cb9f8895bce6",
+          "available": true,
+          "remoteAvailable": false,
+          "status": "ready",
+          "symbol": "NativeSceneClock"
+        }
+      ],
+      "sourceAvailability": {
+        "available": true,
+        "status": "ready",
+        "authRequired": false,
+        "installationRequired": false,
+        "reason": "Verified source is installed.",
+        "importCommand": null,
+        "downloadCommand": null,
+        "installCommand": null
+      },
+      "candidateId": "ep102-selected-02"
+    },
+    {
+      "id": "component:fred-wave3-40-t20f",
+      "label": "T20f",
+      "title": "先看结果再倒回来",
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "media",
+          "start",
+          "title",
+          "highlight",
+          "badge",
+          "cues"
+        ],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/34c2de726a156a143b00528ecb4303e65d0079857a2f51da87c6d58b3458c69e.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/8b26b2288d12c28655324ab22e12508ec9dce162d6acada662b2a9880c5721f7.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/8b26b2288d12c28655324ab22e12508ec9dce162d6acada662b2a9880c5721f7.jpg",
+              "frame": 90,
+              "timeSeconds": 1.5
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/7c64d91190d109642fafb68146873fbb453e88e00db9ed2454f37d4e517b23ba.jpg",
+              "frame": 180,
+              "timeSeconds": 3.0
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/11ce2cca5e0975344b3fe907f3a41aa4659b4915afa3309998abee38de73cef6.jpg",
+              "frame": 294,
+              "timeSeconds": 4.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 5.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "34c2de726a156a143b00528ecb4303e65d0079857a2f51da87c6d58b3458c69e",
+          "label": "先看结果再倒回来",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "228978f8db03d5acb8fd205ab23507f1003603045192e12a55b7564dbef96158",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T20f-ResultFirst.tsx",
+          "path": "src/components/T20f-ResultFirst.tsx",
+          "symbol": "ResultFirst",
+          "url": "/api/visual-library/assets/33cbfb5d6a9aa5960f778c181e3d1759a6fee8bbddced7623c3311ad2841b159.txt",
+          "sha256": "33cbfb5d6a9aa5960f778c181e3d1759a6fee8bbddced7623c3311ad2841b159",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T20f-ResultFirst.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "matching": {
+        "referenceId": "fred-wave3-40-t20f",
+        "primaryUse": "video-entry",
+        "useIds": [
+          "video-entry",
+          "images",
+          "handoff"
+        ],
+        "sourceId": "fred-wave3-40",
+        "conceptIds": [
+          "media",
+          "handoff",
+          "text"
+        ],
+        "inputObjects": [
+          "成果视频",
+          "播放窗口",
+          "主题标题"
+        ],
+        "action": "成品画面全屏 → 缩到一角，标题“这是怎么做的”落定",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T20f",
+          "结果先行",
+          "缩窗交接",
+          "开场",
+          "录屏与视频入场",
+          "窗口与媒体交接"
+        ],
+        "scenarioId": "window",
+        "addedAt": "2026-10-12T22:14:03+08:00",
+        "scenarioTitle": "窗口与媒体交接",
+        "label": "T20f",
+        "categoryId": "video-entry",
+        "category": "录屏与视频入场",
+        "sceneTypes": [
+          "device-demo"
+        ],
+        "title": "先看结果再倒回来",
+        "collectionId": "fred-wave3-40-20261012",
+        "kind": "components",
+        "score": 180.4,
+        "matchedConceptIds": [
+          "media"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "窗口"
+        ],
+        "reasons": [
+          "媒体与设备",
+          "原词命中：窗口",
+          "相近词：窗口"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T20f-ResultFirst.tsx",
+          "sha256": "33cbfb5d6a9aa5960f778c181e3d1759a6fee8bbddced7623c3311ad2841b159",
+          "url": "/api/visual-library/assets/33cbfb5d6a9aa5960f778c181e3d1759a6fee8bbddced7623c3311ad2841b159.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "ResultFirst"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave3-40-20261012",
+        "sha256": "3b66f705b43458eb37c79c59d261489dfc5b0d64aadc9557f85b4af5c4d53546",
+        "size": 34169121,
+        "installRoot": ".artifacts/member-components/fred-wave3-40-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "candidateId": "fred-wave3-40-t20f"
+    }
+  ]
+}

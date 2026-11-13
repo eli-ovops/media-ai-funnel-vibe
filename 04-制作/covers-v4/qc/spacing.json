@@ -1,0 +1,65 @@
+{
+  "method": "RGB pixel thresholds + separate visual full-image/thumbnail review; excludes faint near-white antialiasing; not subpixel contour measurement",
+  "results": [
+    {
+      "ratio": "3x4",
+      "title_roi": [
+        20,
+        1060,
+        230,
+        450
+      ],
+      "hair_roi": [
+        530,
+        1020,
+        450,
+        650
+      ],
+      "last_dark_text_y": 420,
+      "first_dark_hair_y": 509,
+      "gap_rows": 88
+    },
+    {
+      "ratio": "9x16",
+      "title_roi": [
+        10,
+        1060,
+        390,
+        630
+      ],
+      "hair_roi": [
+        530,
+        1030,
+        630,
+        830
+      ],
+      "last_dark_text_y": 603,
+      "first_dark_hair_y": 674,
+      "gap_rows": 70
+    },
+    {
+      "ratio": "4x3",
+      "title_roi": [
+        60,
+        1380,
+        230,
+        430
+      ],
+      "hair_roi": [
+        750,
+        1150,
+        430,
+        650
+      ],
+      "last_dark_text_y": 400,
+      "first_dark_hair_y": 468,
+      "gap_rows": 67
+    },
+    {
+      "ratio": "16x9",
+      "title_right_x": 1089,
+      "hair_left_x": 1360,
+      "horizontal_gap_columns": 270
+    }
+  ]
+}

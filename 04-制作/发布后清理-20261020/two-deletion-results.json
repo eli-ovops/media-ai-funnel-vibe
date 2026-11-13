@@ -1,0 +1,28 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s-r2.mp4",
+    "bytes": 3407246,
+    "sha256": "917b8e964d5f02e3cea072fc132ccc4c77ffc116cff4b418e0408aeb77a0dac7",
+    "last_handle_check": {
+      "at": "2026-10-20T22:59:00.866750+08:00",
+      "code": 1,
+      "stdout": "",
+      "stderr": ""
+    },
+    "result": "DELETED",
+    "at": "2026-10-20T22:59:00.869502+08:00"
+  },
+  {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s.mp4",
+    "bytes": 3360376,
+    "sha256": "4450f102b264793e56c65a7477055f8d333a71686702026ee5b173fa72ad41dd",
+    "last_handle_check": {
+      "at": "2026-10-20T22:59:00.988064+08:00",
+      "code": 1,
+      "stdout": "",
+      "stderr": ""
+    },
+    "result": "DELETED",
+    "at": "2026-10-20T22:59:00.990702+08:00"
+  }
+]

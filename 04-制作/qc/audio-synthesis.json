@@ -1,0 +1,16 @@
+{
+  "sample_rate": 48000,
+  "channels": 2,
+  "duration_seconds": 150,
+  "seed": 20261020,
+  "events": 37,
+  "peak_dbfs": -14.08105311761398,
+  "clipped_samples": 0,
+  "sha256": "7a2c98b7c97d5817d1640caaa15713277a938cff62cbd95c03a024167a13bc0d",
+  "music_bus": {
+    "status": "PENDING_EXACT_NICO_ASSET",
+    "path": null
+  },
+  "hearing": "NOT_PERFORMED; no direct supported audio perception",
+  "voice_or_tts": false
+}

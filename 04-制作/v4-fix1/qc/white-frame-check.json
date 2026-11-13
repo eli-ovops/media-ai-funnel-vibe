@@ -1,0 +1,12 @@
+{
+  "rangeFramesInclusive": [
+    720,
+    1560
+  ],
+  "framesChecked": 841,
+  "method": "Decode every frame in affected span;108x192 grayscale pixels<245; below10 nonwhite pixels flagged near-empty",
+  "nearEmptyFrames": [],
+  "minNonwhitePixels": 869,
+  "minAtFrame": 720,
+  "claimLimit": "Only detects near-empty/full-white images; not a continuous visual or aesthetic review."
+}

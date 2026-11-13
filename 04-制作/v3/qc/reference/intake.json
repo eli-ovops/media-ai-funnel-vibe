@@ -1,0 +1,24 @@
+{
+  "source": "/Users/USER/Downloads/download.mp4",
+  "sha256": "ad5f01ee4588d2da1e515e736a39e2b5a74505fdae8bb20546f5c354513e88a7",
+  "requested_seconds": [
+    25,
+    30,
+    35,
+    40,
+    45,
+    50,
+    55,
+    60,
+    65,
+    70,
+    75,
+    44.5,
+    45.5,
+    46.5,
+    51.5,
+    52.5,
+    53.5
+  ],
+  "note": "Discrete seek frames; no continuous viewing/audio hearing"
+}

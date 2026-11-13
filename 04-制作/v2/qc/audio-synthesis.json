@@ -1,0 +1,19 @@
+{
+  "sample_rate": 48000,
+  "channels": 2,
+  "duration_seconds": 150,
+  "seed": 20261020,
+  "events": 34,
+  "peak_dbfs": -14.986387254237172,
+  "clipped_samples": 0,
+  "sha256": "acc9d0873ef646d677b465882fd32c57c02f4646e3705136699a63e1c3e62674",
+  "music_bus": {
+    "status": "IDENTIFIED_AUDIO_FILE_MISSING",
+    "path": null,
+    "title": "We Never（Vibe知识大赏）",
+    "artist": "阿布学长",
+    "source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/music-source-update.json"
+  },
+  "hearing": "NOT_PERFORMED; no direct supported audio perception",
+  "voice_or_tts": false
+}

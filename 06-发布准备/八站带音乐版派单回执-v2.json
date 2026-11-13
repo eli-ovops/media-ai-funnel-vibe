@@ -1,0 +1,14 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "tool": "send_message_to_thread",
+  "tool_returned_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "tool_succeeded": true,
+  "at": "2026-10-20T20:21:13.104148+08:00",
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "owner_report_received_for_v2": false
+}

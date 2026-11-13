@@ -1,0 +1,21 @@
+{
+  "id": "weixin_channels",
+  "name": "视频号",
+  "mode": "PRIVATE_PREPARATION_USER_MANUAL_SEND",
+  "title": "AI认知漏斗，你在第几层？",
+  "short_title": "AI认知漏斗你在第几层",
+  "body": "你眼里的AI，是聊天工具，还是能把一件事做完的助手？\n\n同样谈AI，判断却可能差很远。2分半，看懂Karpathy的「AI认知漏斗」。\n\n你最近交给AI的一件具体任务是什么？",
+  "tags": [
+    "人工智能",
+    "AI",
+    "AI应用",
+    "AIAgent",
+    "认知差"
+  ],
+  "cover": "4x3",
+  "video": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/media/ai-funnel-150s-1080p60-with-music.mp4",
+  "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+  "cover_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-4x3-1440x1080-v4.png",
+  "state": "USER_MANUAL_REQUIRED_SITE_SAFETY",
+  "native_tag_validation": "NOT_PERFORMED; select native candidates manually; literal# not proof"
+}

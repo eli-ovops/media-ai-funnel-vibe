@@ -1,0 +1,55 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-20T21:27:08.592415+08:00",
+  "decision": "AUTHORIZED_FIVE_SINGLE_SUBMISSIONS_AND_TASK_TAB_CLOSURE_VERIFIED; NOT_ALL_PUBLIC",
+  "owner_report_actually_received": true,
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布汇总.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布回执.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-关闭标签回执.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/视频号手动包-v2.json"
+  ],
+  "native_screenshots_viewed": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-截图/weibo-processing.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-截图/bilibili-review.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-截图/tiktok-review.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-截图/x-post-detail.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-截图/linkedin-post-detail.png"
+  ],
+  "evidence_hashes": {
+    "07-五站发布回执.json": "6c3d4a4704834e7a230fe4fcb36e8f587e236ba237c5692c402515f3019d475f",
+    "07-关闭标签回执.json": "f83261155510fb77831f31aaa063e0f33aabaebc8c6f2410a6dd908638fde02a",
+    "07-五站发布汇总.md": "920b05b08c042290c545ccf91e5e21ba1a65e03d9515265b313f9eebfb888315"
+  },
+  "five_submit_clicks_each_once": true,
+  "published_native_detail": [
+    "x",
+    "linkedin"
+  ],
+  "submitted_pending_review": [
+    "bilibili",
+    "tiktok"
+  ],
+  "submitted_processing": [
+    "weibo"
+  ],
+  "closed_task_tabs": 10,
+  "remaining_tabs_in_owner_browser": [],
+  "closure_evidence": "Owner native inventory result in exact close receipt; PMO reviewed original, did not reopen browser",
+  "wechat_channels": "USER_MANUAL; ready local copy and file links",
+  "youtube": "BLOCKED_UNPUBLISHED_DRAFT_PRESERVED",
+  "xiaohongshu": "USER_CONFIRMED_PUBLISHED_NO_SECOND_SEND",
+  "post_comments_pins_dms_schedule_paid_deletion_performed": false,
+  "normal_speed_av_and_direct_hearing": "NOT_PERFORMED",
+  "generated_video_cleanup_triggered": false,
+  "reason_no_cleanup": "Targets not all public; Video Account pending manual and YouTube unresolved",
+  "remaining_work_for_fully_public_release": [
+    "bilibili review",
+    "tiktok review/visibility",
+    "weibo processing/public URL",
+    "Video Account manual publication",
+    "YouTube user music decision or explicit exclusion"
+  ],
+  "new_monitoring_or_automatic_refresh": false
+}

@@ -1,0 +1,80 @@
+{
+  "checkedFrames": "aborted",
+  "rects": [
+    [
+      0,
+      150,
+      1080,
+      90
+    ],
+    [
+      0,
+      1750,
+      1080,
+      90
+    ]
+  ],
+  "failures": [
+    {
+      "frame": 0,
+      "region": 0,
+      "pixel": 1
+    },
+    {
+      "frame": 0,
+      "region": 1,
+      "pixel": 1
+    },
+    {
+      "frame": 1,
+      "region": 0,
+      "pixel": 1
+    },
+    {
+      "frame": 1,
+      "region": 1,
+      "pixel": 1
+    },
+    {
+      "frame": 2,
+      "region": 0,
+      "pixel": 1
+    },
+    {
+      "frame": 2,
+      "region": 1,
+      "pixel": 1
+    },
+    {
+      "frame": 3,
+      "region": 0,
+      "pixel": 1
+    },
+    {
+      "frame": 3,
+      "region": 1,
+      "pixel": 1
+    },
+    {
+      "frame": 4,
+      "region": 0,
+      "pixel": 1
+    },
+    {
+      "frame": 4,
+      "region": 1,
+      "pixel": 1
+    },
+    {
+      "frame": 5,
+      "region": 0,
+      "pixel": 1
+    },
+    {
+      "frame": 5,
+      "region": 1,
+      "pixel": 1
+    }
+  ],
+  "method": "Every new-source frame rendered with ROI clip, exact RGBA comparison to same-coordinate code background; no resampling"
+}

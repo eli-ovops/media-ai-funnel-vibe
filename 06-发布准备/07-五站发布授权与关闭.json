@@ -1,0 +1,48 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "human_source": "本PMO聊天用户本轮两条明确指令；先按上一条✅清单授权，随后排除本人已发小红书",
+  "human_quotes": [
+    "✅的直接发送吧",
+    "小红书我手动发了 。你发送完 以后关闭这些平台网站，然后给我一份视频号的发布的内容"
+  ],
+  "platforms": [
+    "bilibili",
+    "weibo",
+    "tiktok",
+    "x",
+    "linkedin"
+  ],
+  "platform_names": [
+    "B站",
+    "微博",
+    "TikTok",
+    "X",
+    "LinkedIn"
+  ],
+  "accounts": {
+    "bilibili": "Eli-AI/432834855",
+    "weibo": "Eli-AI/7720929036",
+    "tiktok": "Eli-AI/@elimakesapps",
+    "x": "Eli-AI/@cczij1112",
+    "linkedin": "ELi Chao/in/eli-chao-548a7a43b"
+  },
+  "video_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+  "video": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/media/ai-funnel-150s-1080p60-with-music.mp4",
+  "actions": [
+    "publish_main_video_once_on_each_selected_platform",
+    "read_native_submission_visibility_receipt",
+    "close_only_this_tasks_platform_tabs_after_recording_and_preserving_recovery"
+  ],
+  "visibility": "PUBLIC_EVERYONE_DEFAULT_AS_PREPARED",
+  "time": "IMMEDIATE_THIS_AUTHORIZED_RUN",
+  "excluded": {
+    "douyin": "USER_ALREADY_PUBLISHED_DO_NOT_REPOST",
+    "xiaohongshu": "LATEST_USER_CONFIRMED_MANUALLY_PUBLISHED_DO_NOT_REPOST",
+    "youtube": "MUSIC_COPYRIGHT_GLOBAL_BLOCK_DO_NOT_PUBLISH_OR_MODIFY",
+    "weixin_channels": "USER_MANUAL_PUBLISH_AND_SITE_SAFETY_RESTRICTION"
+  },
+  "comments_pins_dms_follow_schedule_spend_delete_posts": false,
+  "close_scope": "Only task-owned tabs in existing Codex IAB2 after saving receipts/recovery; preserve login, saved drafts, original files and unrelated tabs",
+  "known_limits_accepted": "User directs publish of checked-ready items; current file/preview/direct-hearing and native hashtag limitations remain accurately recorded, not retroactively passed",
+  "recorded_at": "2026-10-20T21:20:35.323388+08:00"
+}

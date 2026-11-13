@@ -1,0 +1,67 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "lifecycle": "发布后已清理：最终静音及带音乐成片本地不存在；两份来源未充分证明的旧代表段保留",
+  "cleanup_report": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/清理报告.json",
+  "per_path_results": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/deletion-results.json",
+  "retained_videos": [
+    {
+      "id": 2,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s-r2.mp4",
+      "bytes": 3407246,
+      "sha256": "917b8e964d5f02e3cea072fc132ccc4c77ffc116cff4b418e0408aeb77a0dac7",
+      "source_evidence": null,
+      "decision": "RETAIN",
+      "reason": "No exact historical render/output record found for this old representative file; general README r1/r2 mention insufficient for precise provenance.",
+      "result": "RETAINED"
+    },
+    {
+      "id": 3,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s.mp4",
+      "bytes": 3360376,
+      "sha256": "4450f102b264793e56c65a7477055f8d333a71686702026ee5b173fa72ad41dd",
+      "source_evidence": null,
+      "decision": "RETAIN",
+      "reason": "No exact historical render/output record found for this old representative file; general README r1/r2 mention insufficient for precise provenance.",
+      "result": "RETAINED"
+    }
+  ],
+  "final_silent_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+  "final_music_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+  "reexport_guide": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/发布后清理-20261020/重新导出入口.md",
+  "covers_manifest": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/manifest.json",
+  "publication_closure": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-本期发布收口索引.json",
+  "published_or_native_receipt_urls": [
+    {
+      "field": "/platforms/0/management_url",
+      "url": "https://me.weibo.com/content/video",
+      "source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布回执.json",
+      "status": "historical receipt URL; not reverified in cleanup"
+    },
+    {
+      "field": "/platforms/1/url",
+      "url": "https://www.bilibili.com/video/BV1WBnA6iEvn/",
+      "source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布回执.json",
+      "status": "historical receipt URL; not reverified in cleanup"
+    },
+    {
+      "field": "/platforms/2/url",
+      "url": "https://www.tiktok.com/@elimakesapps/video/7698739733651934465",
+      "source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布回执.json",
+      "status": "historical receipt URL; not reverified in cleanup"
+    },
+    {
+      "field": "/platforms/3/url",
+      "url": "https://x.com/cczij1112/status/2112535172579307890",
+      "source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布回执.json",
+      "status": "historical receipt URL; not reverified in cleanup"
+    },
+    {
+      "field": "/platforms/4/url",
+      "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7518295729858203648/",
+      "source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布回执.json",
+      "status": "historical receipt URL; not reverified in cleanup"
+    }
+  ],
+  "old_delivery_indexes": "Historical frozen evidence preserved; old video paths no longer available",
+  "pmo_current_pointer_update": "PENDING_PMO"
+}

@@ -1,0 +1,81 @@
+{
+  "scope": "Source Canvas pixels with same loaded font; final MP4 reencoding is lossy and not byte-identical",
+  "records": [
+    {
+      "frame": 2399,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 2400,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 2430,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 2431,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 3239,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 3240,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 3270,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 3271,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 4079,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 4080,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 4110,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 4111,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 7019,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 7020,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 7050,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 7051,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 1620,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 1635,
+      "identicalSourcePixels": true
+    },
+    {
+      "frame": 1650,
+      "identicalSourcePixels": true
+    }
+  ]
+}

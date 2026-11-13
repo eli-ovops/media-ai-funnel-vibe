@@ -1,0 +1,26 @@
+[
+  {
+    "ratio": "3x4",
+    "width": 1080,
+    "height": 1440,
+    "source": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-31aa4aaa-1301-40e0-899f-c139fe6424c8.png"
+  },
+  {
+    "ratio": "9x16",
+    "width": 1080,
+    "height": 1920,
+    "source": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-6949b587-11e7-4c88-9a69-eb66fec3237c.png"
+  },
+  {
+    "ratio": "16x9",
+    "width": 1920,
+    "height": 1080,
+    "source": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-f1e88686-e0ae-4e1d-9961-af8a5a7de783.png"
+  },
+  {
+    "ratio": "4x3",
+    "width": 1440,
+    "height": 1080,
+    "source": "/Users/USER/.codex/generated_images/01a11a6f-49ef-7653-934a-4312979fd4e7/exec-0b51fd72-e91c-493f-8a1f-77bbc976296b.png"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-20T12:57:47.775631+08:00",
+  "video_url": "https://www.douyin.com/video/7697240924837748134",
+  "native_search_query": "人生的容错率，大到超出你的想象",
+  "native_search_verified_author": "Nico",
+  "work_id": "7697240924837748134",
+  "native_attached_music_title": "We Never（Vibe知识大赏）",
+  "native_music_artist": "阿布学长",
+  "platform": "汽水音乐 PC版 native side panel in Douyin search modal",
+  "proof_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/nico-official-music-panel-20261020.png",
+  "proof_sha256": "cc9ccf1d25939e5bd3d3fbf73bb8b19bfb222b273ed19aee582fd4c1de849637",
+  "proof_bytes": 96878,
+  "native_music_panel_opened": true,
+  "native_preview_played_then_paused": true,
+  "direct_audio_hearing": false,
+  "audio_file_saved": false,
+  "music_file_still_required": true,
+  "share_control_read_result": "No usable link or clipboard text exposed; no external recipient selected",
+  "page_assets_video_count": 0,
+  "unsupported_media_bundle_retried": false,
+  "denied_audio_get_retried": false,
+  "interpretation": "曲名及作者已由本原作挂载的音乐面板核实；尚未取得可供本片混音的音频文件，未核定独立音源与原作的剪辑/速度一致。"
+}

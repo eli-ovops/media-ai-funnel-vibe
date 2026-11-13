@@ -1,0 +1,57 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "v2-fix1",
+  "owner_thread": "01a11a6f-49ef-7653-934a-4312979fd4e7",
+  "status": "04_SCOPED_REWORK_DONE_PENDING_PMO_05_USER",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/ai-funnel-v2-fix1-internal-150s.mp4",
+  "sha256": "758ab4d64be1aedbafdb4d1c444b34a39de79f7004581bb3f3b9a9882f282e63",
+  "source_sha256": "3d9cf1b267641364602417fcdc7665162cec1b47bf79b45c4b00d30d15507d2d",
+  "ranges_frames": [
+    [
+      2400,
+      2430
+    ],
+    [
+      3240,
+      3270
+    ],
+    [
+      4080,
+      4110
+    ],
+    [
+      7020,
+      7050
+    ]
+  ],
+  "range_end_exclusive": true,
+  "rendered_patch_frames": 120,
+  "music_status": "USER_WILL_ADD_NATIVE_PLATFORM_MUSIC; NOT_REQUIRED_IN_MASTER",
+  "review": {
+    "status": "COMPLETED_WITHIN_SCOPED_STILL_FRAME_REVIEW",
+    "contact_sheets_viewed": 8,
+    "final_frames_viewed": 64,
+    "additional_native_size_reviews": [
+      2421,
+      3255,
+      4095,
+      7035
+    ],
+    "finding": "Q1 old counts/descriptions remain unobscured; compact carrier stays in clear gutter; Q2 complete/save contours remain separate in reviewed images. Adjacent splice states reviewed.",
+    "limits": "Discrete exported stills; not continuous normal-speed audiovisual acceptance."
+  },
+  "full_decode": "PASS",
+  "audio_stream_exact_match": true,
+  "normal_speed_continuous": "NOT_PERFORMED",
+  "direct_hearing": "NOT_PERFORMED",
+  "independent_05_recheck": "PENDING",
+  "user_final_review": "PENDING",
+  "pmo_report": {
+    "sent": true,
+    "receipt": "qc/PMO-report-receipt.json",
+    "received": "UNKNOWN",
+    "acceptance": "PENDING"
+  },
+  "evidence_inventory": "file-inventory.json",
+  "readme": "README.md"
+}

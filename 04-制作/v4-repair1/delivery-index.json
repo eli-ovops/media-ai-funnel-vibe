@@ -1,0 +1,82 @@
+{
+  "version": "v4-repair1-150s-r1",
+  "status": "FULL_REPAIR_CANDIDATE_PENDING_PMO_05",
+  "video": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/output/ai-funnel-v4-repair1-150s-r1.mp4",
+    "sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+    "bytes": 9685929,
+    "width": 1080,
+    "height": 1920,
+    "fps": "60/1",
+    "frames": "9000",
+    "duration": "150.000000",
+    "audioStreams": 0
+  },
+  "technical": "PASS",
+  "changes": [
+    "V4-Q1",
+    "V4-Q2",
+    "V4-Q3",
+    "V4-Q4",
+    "V4-Q5"
+  ],
+  "reportStatus": "TOOL_SEND_RETURNED_SUCCESS; PMO_RECEIVED_UNKNOWN; PMO_ACCEPTANCE_PENDING",
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "targetModelEffort": "Astra/high",
+  "continuousVisual": "NOT_PERFORMED",
+  "independent05": "PENDING",
+  "PMOAcceptance": "PENDING",
+  "userFinal": "PENDING",
+  "coverage": {
+    "actualExportSamples": 221,
+    "nativeAdditionalViewed": 11,
+    "phoneScaleViewed": 8,
+    "normalSpeedViewed": false
+  },
+  "manifest": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/Manifest.json",
+    "sha256": "6dfea769c5ee7db793b4ff08d1ac9a2d7ef2502ab0f82551ed1f05cbf9ad44d2"
+  },
+  "sourceMap": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/source-map.json",
+    "sha256": "4f5822abe8e2ebf992675b9242ed424480b17c1dc8503221a05f9eaa5e9f58a0"
+  },
+  "screenText": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/screen-text-index.json",
+    "sha256": "01178550a236a776d395ba184a46e4e3ff87db279d4bf505cf6aeab26211c47f"
+  },
+  "timeMap": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/time-map.json",
+    "sha256": "6d451f5a8365c7651f4117c5fc4db33ed909e16b8fafc07a47482adca8862cc7"
+  },
+  "verification": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/verification.json",
+    "sha256": "f6362435bc798264a9af798964ad3d1b581d766fbebf418a2461ca7534a829e3"
+  },
+  "repairReview": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/repair-review.md",
+    "sha256": "19eea9b584fd6d912c2097b1b044162c2c838c550a3a430d143f0dcbd8797aef"
+  },
+  "repairEvidence": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/repair-evidence.json",
+    "sha256": "5e68754a926a3cbfa75464c8ddbfbc3bfcd36606519117090bd254c1a3f76079"
+  },
+  "sourceProtection": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/source-protection.json",
+    "sha256": "68baccc5c625124a1e488bd655b3372b55e6d6d5b26460054641300ff75f0b48"
+  },
+  "libraryGate": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/library-keyframes-localpaths.json",
+    "sha256": "42aad8d5583f6037ef12290e7b8164659fb21ed42f5e7e3a3476231224756e0d"
+  },
+  "covers": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/covers-index.json",
+    "sha256": "7b08c8a2f96345aaf9e75c3d8e06dba337238dcbe26a7fbde4a7c578ccaee237"
+  },
+  "readme": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/README.md",
+    "sha256": "8370c40ffa0816dde69063c9674f74ba8958c1eefdd1ebaa8c3083c1fc4788d1"
+  },
+  "reportReceipt": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/qc/pmo-report-receipt.json"
+}

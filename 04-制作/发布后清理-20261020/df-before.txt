@@ -1,0 +1,3 @@
+2026-10-20T22:25:03.619411+08:00
+Filesystem   1024-blocks      Used  Available Capacity  Mounted on
+/dev/disk7s1  2000478168 340126076 1660054908    18%    /Volumes/EXTERNAL

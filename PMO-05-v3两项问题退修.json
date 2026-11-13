@@ -1,0 +1,43 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "RETURN_TARGETED_Q1_Q2",
+  "target_stage": "04",
+  "at": "2026-10-20T14:55:50.058306+08:00",
+  "report_received_via_actual_tool_message": true,
+  "report": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3/图形叙事独立复核.md",
+  "report_sha256": "37dc59572532b3fed00c0b3adfbb931e89e6a7f9687ff60d7c98e9b40d2e0e64",
+  "verdict": "FAIL_TARGETED_REPAIR_REQUIRED",
+  "pmo_actual_native_images_viewed": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3/extra-020.jpg",
+      "frame": 1410,
+      "sha256": "208c5bede3d46c3490ab98244a8331c0d514718f89efcb31012fd890c29f6afa"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3/extra-130.jpg",
+      "frame": 7980,
+      "sha256": "cdafe79a5e253c6a25c08e8a75df5b01372cd6741bcd11d985906dab72f3c1ba"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3/extra-132.jpg",
+      "frame": 8160,
+      "sha256": "ee538ab5c3bb201c865c9ea2af6733b85ec55d92017acf9ca45d2202365b425d"
+    }
+  ],
+  "confirmed_issues": [
+    "V3-Q1:25percent label belongs to gray upper-left remainder, current placement is upper-right above gold",
+    "V3-Q2:internal selected H target leaves y540 viewport during explanation"
+  ],
+  "preserved_scope": [
+    "Whole150sec new visual story accepted as basis; no whole remake",
+    "valid independent source percentages and tiny-arc lens",
+    "no-source-badge output",
+    "34SFX and no-BGM decision",
+    "prior internal QA unchanged-range evidence"
+  ],
+  "task": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-v3定向修复Q1Q2.md",
+  "user_final_review": "PENDING",
+  "continuous_visual": "NOT_PERFORMED",
+  "direct_hearing": "NOT_PERFORMED"
+}

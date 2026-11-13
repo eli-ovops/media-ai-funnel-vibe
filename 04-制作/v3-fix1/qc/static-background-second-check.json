@@ -1,0 +1,104 @@
+{
+  "checkedFrames": "aborted",
+  "rects": [
+    [
+      0,
+      150,
+      1080,
+      90
+    ],
+    [
+      0,
+      1750,
+      1080,
+      90
+    ]
+  ],
+  "failures": [
+    {
+      "frame": 0,
+      "region": 0,
+      "pixel": 1,
+      "actual": 4280032534,
+      "expected": 4280032278
+    },
+    {
+      "frame": 0,
+      "region": 1,
+      "pixel": 1,
+      "actual": 4280229912,
+      "expected": 4280164120
+    },
+    {
+      "frame": 1,
+      "region": 0,
+      "pixel": 1,
+      "actual": 4280032534,
+      "expected": 4280032278
+    },
+    {
+      "frame": 1,
+      "region": 1,
+      "pixel": 1,
+      "actual": 4280229912,
+      "expected": 4280164120
+    },
+    {
+      "frame": 2,
+      "region": 0,
+      "pixel": 1,
+      "actual": 4280032534,
+      "expected": 4280032278
+    },
+    {
+      "frame": 2,
+      "region": 1,
+      "pixel": 1,
+      "actual": 4280229912,
+      "expected": 4280164120
+    },
+    {
+      "frame": 3,
+      "region": 0,
+      "pixel": 1,
+      "actual": 4280032534,
+      "expected": 4280032278
+    },
+    {
+      "frame": 3,
+      "region": 1,
+      "pixel": 1,
+      "actual": 4280229912,
+      "expected": 4280164120
+    },
+    {
+      "frame": 4,
+      "region": 0,
+      "pixel": 1,
+      "actual": 4280032534,
+      "expected": 4280032278
+    },
+    {
+      "frame": 4,
+      "region": 1,
+      "pixel": 1,
+      "actual": 4280229912,
+      "expected": 4280164120
+    },
+    {
+      "frame": 5,
+      "region": 0,
+      "pixel": 1,
+      "actual": 4280032534,
+      "expected": 4280032278
+    },
+    {
+      "frame": 5,
+      "region": 1,
+      "pixel": 1,
+      "actual": 4280229912,
+      "expected": 4280164120
+    }
+  ],
+  "method": "Every new-source frame rendered with ROI clip, exact RGBA comparison to same-coordinate code background; no resampling"
+}

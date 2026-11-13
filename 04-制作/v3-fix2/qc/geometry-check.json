@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "cameraChangedFrames": {
+    "first": 7885,
+    "last": 8459,
+    "count": 575
+  },
+  "q1ChangedFrames": {
+    "first": 1380,
+    "last": 1619
+  },
+  "chartGeometryUnchangedAll9000": true,
+  "Q1": {
+    "leaderEnd": [
+      278,
+      674
+    ],
+    "radius": 387.8659562271481,
+    "grayRingRadialBounds": [
+      267,
+      393
+    ],
+    "textBottomApprox": 605,
+    "leaderStartY": 612
+  },
+  "Q2": {
+    "checkedFrameRange": [
+      7884,
+      8460
+    ],
+    "viewport": [
+      0,
+      540,
+      1080,
+      1650
+    ],
+    "projectedBounds": [
+      214.205080219897,
+      558.4195265689158,
+      707.4862898967824,
+      1392.1858896370618
+    ],
+    "objects": "H full circle; selector full circle; 101 path samples/frame; conservative internal-label rectangle",
+    "bad": []
+  },
+  "continuousViewing": false
+}

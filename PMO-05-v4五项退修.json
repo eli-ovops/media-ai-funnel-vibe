@@ -1,0 +1,22 @@
+{
+  "content_id":"ai-funnel-vibe-20261020",
+  "pmo_thread_id":"01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "target_stage":"04",
+  "decision":"RETURN_FIVE_CONFIRMED_ISSUES_TO04",
+  "baseline_video_sha256":"6ac2862d8b34a813ff471ff13d14a572bb77f35e0c5df78e1267bcaab343cbd0",
+  "evidence_read":["05-质检/v4-complete/独立质检报告.md","05-质检/v4-complete/独立判定.json","05-质检/v4-complete/sample-index.json","frame-176.jpg","frame-196.jpg","frame-205.jpg","frame-219.jpg","frame-253.jpg","frame-227.jpg","frame-259.jpg","frame-279.jpg"],
+  "report_sha256_verified":"b70e2f305784c3a563f7d3bbf28bbb82ec5dccac9dec677d5f96b3c051b9975f",
+  "native_issue_image_sha_verified":8,
+  "confirmed":[
+    {"id":"V4-Q1","baseline_seconds":[91,119],"decision":"CONFIRMED","reason":"主画面是动作名/蛇形箭头，接着问号和回弯；没有同一事项从新增到完成、保存、重开后的状态接力。"},
+    {"id":"V4-Q2","baseline_seconds":[133.7,140.5],"decision":"CONFIRMED","reason":"访问树已经齐备，新结论重复根条件，6.8秒没有新增阅读任务。"},
+    {"id":"V4-Q3","baseline_frame":7176,"decision":"CONFIRMED","reason":"旧黑窗口实际遮住数学/编程标题下缘。"},
+    {"id":"V4-Q4","baseline_frame":8436,"decision":"CONFIRMED","reason":"新汇聚线从旧叶卡字区穿入；有意退出裁切本身不误判为缺陷。"},
+    {"id":"V4-Q5","baseline_frame":8796,"decision":"CONFIRMED","reason":"上方因素空胶囊与下方问题胶囊同时保留，形成双层空壳和重复阴影。"}
+  ],
+  "preserve":["比例环及20%组","真实总体锚点/放大窗","59—70秒保存分支和载体交接","角色分工","准确源kit/字体/表面","已排除84/126正常切章等误判","原事实及22拍含义"],
+  "repair_task":"04-v4整片五项集中返修.md",
+  "continuous_visual":"NOT_PERFORMED",
+  "user_final_acceptance":"PENDING",
+  "publication_authorized":false
+}

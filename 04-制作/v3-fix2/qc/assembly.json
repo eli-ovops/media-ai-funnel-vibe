@@ -1,0 +1,59 @@
+{
+  "command": [
+    "/Users/USER/.local/bin/ffmpeg",
+    "-nostdin",
+    "-hide_banner",
+    "-n",
+    "-i",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3-fix1/output/ai-funnel-v3-fix1-review-150s.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3-fix2/output/canvas-q1-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3-fix2/output/canvas-q2-visual.mp4",
+    "-filter_complex",
+    "[0:v]split=3[a][b][c];[a]trim=start_frame=0:end_frame=1380,setpts=PTS-STARTPTS[a0];[1:v]setpts=PTS-STARTPTS[a1];[b]trim=start_frame=1620:end_frame=7884,setpts=PTS-STARTPTS[a2];[2:v]setpts=PTS-STARTPTS[a3];[c]trim=start_frame=8460:end_frame=9000,setpts=PTS-STARTPTS[a4];[a0][a1][a2][a3][a4]concat=n=5:v=1:a=0[v]",
+    "-map",
+    "[v]",
+    "-map",
+    "0:a:0",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "fast",
+    "-crf",
+    "12",
+    "-pix_fmt",
+    "yuv420p",
+    "-threads",
+    "8",
+    "-c:a",
+    "copy",
+    "-frames:v",
+    "9000",
+    "-t",
+    "150",
+    "-movflags",
+    "+faststart",
+    "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3-fix2/output/ai-funnel-v3-fix2-review-150s.mp4"
+  ],
+  "base": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3-fix1/output/ai-funnel-v3-fix1-review-150s.mp4",
+  "base_sha256": "98f5e6328713e2f8bb4ad85c10f74f8957e931a4a27c064d243ed0edb188ca4d",
+  "output": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3-fix2/output/ai-funnel-v3-fix2-review-150s.mp4",
+  "sha256": "17fbb4955849347a09d2364924a3809a575ce5a441b730a5cff4a8e6b67aa434",
+  "bytes": 24908609,
+  "rendered_frame_ranges_inclusive": [
+    [
+      1380,
+      1619
+    ],
+    [
+      7884,
+      8459
+    ]
+  ],
+  "source_camera_actually_changed": [
+    7885,
+    8459
+  ],
+  "method": "frame-index trim/concat, unchanged ranges from base; full stream H264 reencode, AAC packet copy"
+}

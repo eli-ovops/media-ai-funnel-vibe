@@ -1,0 +1,62 @@
+[
+  {
+    "time": 54,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-54.000.jpg",
+    "sha256": "985b74a0b60dbba9de9b65d1943172d29058fe320379d95237a272675fd88e6b"
+  },
+  {
+    "time": 54.5,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-54.500.jpg",
+    "sha256": "013bc9b5d8ccf930a27683f7b14bea0fed7499f70fc68e7ec346b57a5817974f"
+  },
+  {
+    "time": 55.5,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-55.500.jpg",
+    "sha256": "f7955956e64e35b5f95f7b53b81f6e433467b6ca6f81ef9265dea30dc31eae82"
+  },
+  {
+    "time": 57.65,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-57.650.jpg",
+    "sha256": "fc5186b3368f56f7523cab7a24cbc203a8978510cee4c74e85c41a5e4ef3339d"
+  },
+  {
+    "time": 61,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-61.000.jpg",
+    "sha256": "f118cb72d4758a5fa52a9b97ae1b79f55160a9d4728c644424355644b4f48b59"
+  },
+  {
+    "time": 64.65,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-64.650.jpg",
+    "sha256": "7abb56c7760ceef19a27fa7ffd77ea4bbf6c070924cf7c7afcaa8ebc789820f9"
+  },
+  {
+    "time": 68.5,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-68.500.jpg",
+    "sha256": "0e087b5ebe35b2a20e5d1143ece68263d0186c3a64cdcb21d1d52088deb42d11"
+  },
+  {
+    "time": 72,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-72.000.jpg",
+    "sha256": "370eaf716993ecdc06be9040f8be8fd846632e1165a1434208d42e4a6a5c3f01"
+  },
+  {
+    "time": 74.983,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-74.983.jpg",
+    "sha256": "50eba389eceff5e9691629bb5fdacd5e844ae4bec60fb6c3d232a89b2c362160"
+  },
+  {
+    "time": 75.25,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-75.250.jpg",
+    "sha256": "03d31dfbdad797162cc2d33e0ccd4df26fc024fbbca4111295068fdd7ababab0"
+  },
+  {
+    "time": 75.5,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-75.500.jpg",
+    "sha256": "061599b38e00851dde2ba4b7b2b3adb421a16f28b55bfe5f1626dd8d9c133248"
+  },
+  {
+    "time": 75.983,
+    "file": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v2/qc/sample-branch/frame-75.983.jpg",
+    "sha256": "8f104d4efaa664100bfbe5ec8e0eb97ebb82d1517553a20b0602a37cecbe5f80"
+  }
+]

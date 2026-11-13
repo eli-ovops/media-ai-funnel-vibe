@@ -1,0 +1,44 @@
+Input #0, image2pipe, from 'pipe:0':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1080x1920 [SAR 1:1 DAR 9:16], 60 fps, 60 tbr, 60 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (mjpeg (native) -> h264 (libx264))
+[swscaler @ 0x1104b8000] deprecated pixel format used, make sure you did set range correctly
+    Last message repeated 1 times
+[swscaler @ 0x140108000] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x1580a0000] deprecated pixel format used, make sure you did set range correctly
+[libx264 @ 0x12bf06360] using SAR=1/1
+[libx264 @ 0x12bf06360] using cpu capabilities: ARMv8 NEON
+[libx264 @ 0x12bf06360] profile High, level 4.2, 4:2:0, 8-bit
+[libx264 @ 0x12bf06360] 264 - core 164 r3075 66a5bc1 - H.264/MPEG-4 AVC codec - Copyleft 2003-2021 - http://www.videolan.org/x264.html - options: cabac=1 ref=2 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=6 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=15 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=30 rc=crf mbtree=1 crf=18.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/canvas-q1a-visual.mp4':
+  Metadata:
+    encoder         : Lavf60.3.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 60 fps, 15360 tbn
+    Metadata:
+      encoder         : Lavc60.3.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=    0 fps=0.0 q=0.0 size=       0kB time=-577014:32:22.77 bitrate=  -0.0kbits/s speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0kB time=-577014:32:22.77 bitrate=  -0.0kbits/s speed=N/A    
+[mp4 @ 0x12bf05350] Starting second pass: moving the moov atom to the beginning of the file
+frame=   30 fps=0.0 q=-1.0 Lsize=     117kB time=00:00:00.45 bitrate=2131.8kbits/s speed=0.67x    
+video:116kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.024431%
+[libx264 @ 0x12bf06360] frame I:1     Avg QP:12.55  size: 48560
+[libx264 @ 0x12bf06360] frame P:12    Avg QP:15.97  size:  4801
+[libx264 @ 0x12bf06360] frame B:17    Avg QP:17.88  size:   697
+[libx264 @ 0x12bf06360] consecutive B-frames: 20.0% 13.3%  0.0% 66.7%
+[libx264 @ 0x12bf06360] mb I  I16..4: 23.1% 68.8%  8.0%
+[libx264 @ 0x12bf06360] mb P  I16..4:  0.6%  0.5%  0.9%  P16..4:  2.7%  0.4%  0.3%  0.0%  0.0%    skip:94.6%
+[libx264 @ 0x12bf06360] mb B  I16..4:  0.1%  0.2%  0.1%  B16..8:  0.2%  0.1%  0.0%  direct: 0.5%  skip:98.8%  L0:40.1% L1:49.6% BI:10.4%
+[libx264 @ 0x12bf06360] 8x8 transform intra:60.1% inter:48.3%
+[libx264 @ 0x12bf06360] coded y,uvDC,uvAC intra: 44.6% 20.6% 14.8% inter: 0.7% 0.5% 0.0%
+[libx264 @ 0x12bf06360] i16 v,h,dc,p: 20% 76%  4%  0%
+[libx264 @ 0x12bf06360] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 23% 39% 37%  0%  1%  0%  0%  0%  1%
+[libx264 @ 0x12bf06360] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 29% 34% 18%  4%  3%  3%  3%  3%  3%
+[libx264 @ 0x12bf06360] i8c dc,h,v,p: 77%  9% 13%  1%
+[libx264 @ 0x12bf06360] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x12bf06360] ref P L0: 91.4%  8.6%
+[libx264 @ 0x12bf06360] ref B L0: 83.8% 16.2%
+[libx264 @ 0x12bf06360] ref B L1: 93.1%  6.9%
+[libx264 @ 0x12bf06360] kb/s:1888.16

@@ -1,0 +1,56 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PRIVATE_PREPARATION_DELIVERED_WITH_BLOCKERS_NOT_ALL_READY_NOT_PUBLICATION_APPROVAL",
+  "owner_report_actually_received": true,
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/八站执行汇总-v2.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/八站执行回执-v2.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/视频号手动包-v2.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/主动回报回执-v2.json"
+  ],
+  "screenshots_viewed": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/bilibili-audio.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/weibo-audio.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/x-audio.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/linkedin-reopened.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/youtube-copyright-details.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/xiaohongshu-audio.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/tiktok-checks-complete.png"
+  ],
+  "media_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+  "media_file_hash_matches": true,
+  "platform_records": 8,
+  "source_release_actions": 0,
+  "public_release_authorized": false,
+  "draft_saved": [
+    "bilibili",
+    "tiktok",
+    "x",
+    "linkedin"
+  ],
+  "live_editor_only": [
+    "weibo",
+    "xiaohongshu"
+  ],
+  "blockers": {
+    "youtube": "Native screenshot confirms music copyright global block; retained draft, not publishable",
+    "weixin_channels": "Prior site safety refusal respected; local manual package only",
+    "xiaohongshu": "Live editor prepared; persistent save unconfirmed",
+    "linkedin": "Hashtag native attributes unverified, not used as native-tag PASS"
+  },
+  "continuous_audio_hearing": "NOT_PERFORMED",
+  "next": "User reviews ready drafts; personally sends Xiaohongshu/Video Account; YouTube soundtrack decision required; no phase07/public send release",
+  "at": "2026-10-20T21:12:41.790094+08:00",
+  "owner_original_hashes": {
+    "八站执行汇总-v2.md": "cbfefa75755c0fccea33e8d26c6433fa14218363acccb511b4d208994126dde6",
+    "八站执行回执-v2.json": "b032d4a9f604a41e1fc5c9689f7690af7f4b290cb0ea9477271a09558e13fce3",
+    "视频号手动包-v2.md": "cd927f687480e6c353fbe94f69ed6e2f5c7c18485dc95941bc9f0376494961e2"
+  },
+  "xiaohongshu_panel_request": {
+    "tool": "open_in_codex",
+    "tab_id": "9",
+    "returned_status": "queued",
+    "not_claimed_visible": true
+  }
+}

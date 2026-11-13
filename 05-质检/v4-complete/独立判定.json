@@ -1,0 +1,111 @@
+{
+  "version": "v4-complete-150s-r5",
+  "video_sha256": "6ac2862d8b34a813ff471ff13d14a572bb77f35e0c5df78e1267bcaab343cbd0",
+  "verdict": "FAIL_REPAIR_REQUIRED",
+  "issues": [
+    {
+      "id": "V4-Q1",
+      "priority": "必改",
+      "range_seconds": [
+        91,
+        119
+      ],
+      "title": "步骤段有先后，但动作导致的结果没有演出",
+      "evidence_frames": [
+        5640,
+        6180,
+        6480,
+        6960
+      ],
+      "evidence_files": [
+        "frame-176.jpg",
+        "frame-196.jpg",
+        "frame-205.jpg",
+        "frame-219.jpg"
+      ],
+      "observation": "91—105秒是五个动词与蛇形箭头；105秒另起事项问号，112秒淡出后用文字和回弯箭头代替保存处理/再次检查。没有看到同一具体事项新增、完成、保存后被重新核对的状态接力。",
+      "repair": "保留StepChain作为导航，将一条可识别事项的状态变化置于主画面；至少演清完成状态、保存与重新打开后的核对目标，条件分支保持如果，不伪造真实实测。不要再重复一整轮59—70秒分支图。"
+    },
+    {
+      "id": "V4-Q2",
+      "priority": "必改",
+      "range_seconds": [
+        133.7,
+        140.5
+      ],
+      "title": "访问树已讲完，重复结论长停留",
+      "evidence_frames": [
+        8040,
+        8160,
+        8280,
+        8400
+      ],
+      "evidence_files": [
+        "sheet-21.jpg",
+        "sheet-22.jpg",
+        "frame-253.jpg"
+      ],
+      "observation": "三分支约132秒已齐，133.5秒新增的取决于访问条件只是重述根节点，随后到140.5秒基本无新信息。无旁白版这6.8秒没有新增阅读任务。",
+      "repair": "压缩该重复停留，将释放时长用于Q1对象过程或让访问条件发生一次有语义的焦点接力；保留150秒完整范围时重新分配时间，不靠漂移/装饰填空。"
+    },
+    {
+      "id": "V4-Q3",
+      "priority": "必改",
+      "range_seconds": [
+        119,
+        119.7
+      ],
+      "title": "旧窗口上移遮住新标题",
+      "evidence_frames": [
+        7176
+      ],
+      "evidence_files": [
+        "frame-227.jpg"
+      ],
+      "observation": "119.6秒F7176旧黑窗口上沿压住数学、编程下部，新标题已进入阅读区而旧对象仍占同一区域。",
+      "repair": "旧窗口先退出标题区再显新标题，或修改退出轨迹；保护119.8后数学/编程两列。"
+    },
+    {
+      "id": "V4-Q4",
+      "priority": "必改",
+      "range_seconds": [
+        140.4,
+        141
+      ],
+      "title": "新汇聚线从旧叶卡文字中长出",
+      "evidence_frames": [
+        8436
+      ],
+      "evidence_files": [
+        "frame-259.jpg",
+        "sheet-22.jpg"
+      ],
+      "observation": "140.6秒F8436，三条黑线从公开入口/订阅入口/内部授权文字所在高度起笔，进入字形附近；底部旧结论同期被水平裁切。裁切可作为退场，穿入旧字区的线不应保留。",
+      "repair": "线端锚在卡片外缘或先退旧卡再生汇聚线，旧页文字整体退场；保留141.1后的三因素关系。"
+    },
+    {
+      "id": "V4-Q5",
+      "priority": "必改",
+      "range_seconds": [
+        146.4,
+        146.9
+      ],
+      "title": "结尾汇聚形成双层胶囊与重复阴影",
+      "evidence_frames": [
+        8796
+      ],
+      "evidence_files": [
+        "frame-279.jpg",
+        "sheet-24.jpg"
+      ],
+      "observation": "146.6秒F8796，上方空胶囊与下方已换成结尾问题的胶囊叠成双层；三因素胶囊扩成同宽，同时结论胶囊仍在，线条滞留下方。",
+      "repair": "明确唯一继承载体；因素合入结论时先消退多余外壳/阴影，再换结尾文字，保留147秒最终版式。"
+    }
+  ],
+  "technical": "PASS_CURRENT_METADATA_AND_REUSED_DECODE",
+  "sampled_visual": "FAIL",
+  "continuous_visual": "UNKNOWN",
+  "audio": "NOT_APPLICABLE_SILENT",
+  "user_final_review": "PENDING",
+  "pmo_acceptance": "PENDING"
+}

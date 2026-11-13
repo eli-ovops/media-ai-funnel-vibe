@@ -1,0 +1,23 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "target_stage": "04",
+  "decision": "PASS_REPRESENTATIVE_FOR_FULL_PRODUCTION_ONLY",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s-r3.mp4",
+  "sha256": "0452b1e03b9233519869d736fb9066cd7659944b6ee414b40c87df47644cad3c",
+  "file_sha_verified": true,
+  "actual_review": {"all_timeline_samples_viewed":42, "native_images_viewed_and_hash_verified":[765,810,1170,1230,1278,1520,1544,1546,1548], "source_comparison_viewed":true, "counterexample_comparison_viewed":true, "current_source_read":["src/Episode.tsx","src/Magnified.tsx","src/components/T20m-PillToWindow.tsx"], "technical_record_read":"qc/verification.json"},
+  "findings": [
+    {"id":"V4-R1", "decision":"CLOSED_IN_REVIEWED_SCOPE", "observation":"当前F1170保留总体环和旧1%视窗，后续从同一总体展开新视窗；移除了旧版整组淡出/全白重建。"},
+    {"id":"V4-R2", "decision":"CLOSED_IN_REVIEWED_SCOPE", "observation":"F1520钩子全文在胶囊内可读；F1544—1548任务卡文字在载体能容纳后出现，无半截大字、灰色大外窗或重复进场。文字受控显现本身不判为灰化缺陷。"},
+    {"id":"V4-R3", "decision":"IMPLEMENTED_IN_REVIEWED_SCOPE", "observation":"12.75/13.5及20.5秒可见同一环形区间的实际展开与空间接力；灰色视窗和紫色份额共同变为线性尺度，1%与0.0001%分母准确，不插值人口数。来源说明和重复标签减少。"}
+  ],
+  "quality_scope": "原组件的字阶、表面、源对象关系与真实尺度接力已达到可继续编排的代表质量；不是完整150秒审美或用户认可。",
+  "full150_render_released": true,
+  "remaining_for_complete_delivery": ["完整22拍及新时序映射", "其余内容的准确组件选型与真实输出", "完整150秒及技术/全段实际画面检查", "05独立完整版本审查", "PMO审原件与定向返修", "用户终审"],
+  "continuous_normal_speed_visual": "NOT_PERFORMED",
+  "audio": "REPRESENTATIVE_HAS_NO_AUDIO",
+  "new_user_approval_required_for_full_production": false,
+  "next_task": "04-v4完整150秒续接.md",
+  "publication_authorized": false
+}

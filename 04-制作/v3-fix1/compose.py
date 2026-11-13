@@ -1,0 +1,7 @@
+from pathlib import Path
+import json,subprocess,hashlib,os
+P=Path(__file__).resolve().parent;B=P.parent/'v3';base=B/'output/ai-funnel-v3-review-final-150s.mp4';out=P/'output/ai-funnel-v3-fix1-review-150s.mp4';FF='/Users/USER/.local/bin/ffmpeg';sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
+proof=json.loads((P/'qc/static-background-proof.json').read_text());assert proof['checkedFrames']==9000 and not proof['failures']
+cmd=[FF,'-nostdin','-hide_banner','-n','-i',str(base),'-loop','1','-framerate','60','-i',str(P/'qc/background.png'),'-filter_complex','[1:v]format=yuv420p,split=2[a][b];[a]crop=1080:90:0:150[top];[b]crop=1080:90:0:1750[bottom];[0:v][top]overlay=0:150:shortest=1[v1];[v1][bottom]overlay=0:1750:shortest=1[v]','-map','[v]','-map','0:a:0','-c:v','libx264','-preset','fast','-crf','12','-pix_fmt','yuv420p','-threads','8','-c:a','copy','-frames:v','9000','-t','150','-movflags','+faststart',str(out)]
+with (P/'qc/encode.txt').open('w') as f:subprocess.run(cmd,check=True,stdout=f,stderr=f)
+(P/'qc/compose-receipt.json').write_text(json.dumps({'command':cmd,'base_sha256':sha(base),'background_sha256':sha(P/'qc/background.png'),'source_sha256':sha(P/'src/World.ts'),'output':str(out),'sha256':sha(out),'bytes':out.stat().st_size,'method':'Same-coordinate source gradient/noise bands; no blur/flat fill or video crop; H264 reencode and AAC stream copy','proof':'qc/static-background-proof.json'},indent=2));print(sha(out))

@@ -1,0 +1,3 @@
+Error: Error: Download 0025cfe3-d095-4f55-9a04-83e3adbd93a8 failed.
+locator.downloadMedia failed for selector video >> nth=0
+Locator diagnostics: {"kind":"action_failed","action":"downloadMedia","locator":"video >> nth=0","matchCount":1,"matches":[{"ariaLabel":null,"disabled":false,"role":null,"tag":"video","text":"","type":null,"visible":true}],"visibleCount":1,"truncated":false}

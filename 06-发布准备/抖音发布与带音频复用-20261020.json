@@ -1,0 +1,25 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "douyin_receipt": {
+    "platform": "抖音",
+    "status": "USER_CONFIRMED_PUBLISHED_NATIVE_RECEIPT_NOT_YET_CHECKED",
+    "source": "本PMO聊天用户明确表示：抖音已经发送了。",
+    "recorded_at": "2026-10-20T20:07:43.306698+08:00",
+    "published_at": "UNKNOWN",
+    "work_url": "UNKNOWN",
+    "work_id": "UNKNOWN",
+    "audio_version": "USER_REPORTS_DOUYIN_WITH_AUDIO_CANDIDATE_FILE_NOT_RECEIVED"
+  },
+  "reuse": {
+    "source": "用户询问能否用带抖音音频的无水印版发到其余平台",
+    "status": "TECHNICALLY_FEASIBLE_CROSS_PLATFORM_MUSIC_RIGHTS_AND_FILE_PENDING",
+    "new_publication_authorization": false,
+    "prior_stop_before_send_preserved": true,
+    "cross_platform_track_rights": "UNKNOWN",
+    "candidate_local_path": "NOT_PROVIDED",
+    "youtube_primary_policy": "https://support.google.com/youtube/answer/15424877?hl=en",
+    "youtube_150sec_active_claim": "BLOCKED_GLOBALLY_IF_ACTIVE_COPYRIGHT_CLAIM",
+    "prior_denied_media_retrieval_not_retried": true,
+    "at": "2026-10-20T20:07:43.306698+08:00"
+  }
+}

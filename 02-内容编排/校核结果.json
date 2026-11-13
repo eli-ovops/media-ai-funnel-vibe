@@ -1,0 +1,195 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "status": "CONTENT_AND_TIMING_SELF_CHECK_ONLY",
+  "gate": {
+    "allowed": true,
+    "content": "ai-funnel-vibe-20261020",
+    "stage": "02",
+    "thread": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb"
+  },
+  "input_sha_checks": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-无旁白内容编排任务.md",
+      "sha256": "a19a918a24adfb8eaad37f9da7b8831b71585c0e1ecbd863343d0a7c4ba332c6",
+      "actual_sha256": "a19a918a24adfb8eaad37f9da7b8831b71585c0e1ecbd863343d0a7c4ba332c6",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/制作总单.md",
+      "sha256": "a9a6323d32c8d0139248f6d83ac9517a58158ada0ac159bcbcf38723023ce8c0",
+      "actual_sha256": "a9a6323d32c8d0139248f6d83ac9517a58158ada0ac159bcbcf38723023ce8c0",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-PMO输入验收.json",
+      "sha256": "80ede667f9a8c2b94c207bdd407e56b87270fa37c4815cb20515f8895cb0972e",
+      "actual_sha256": "80ede667f9a8c2b94c207bdd407e56b87270fa37c4815cb20515f8895cb0972e",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/同题参考地图.md",
+      "sha256": "95e505cb9050c9b2daa6cdf047daea8a69d7a7320320f1069f1d193b221e4253",
+      "actual_sha256": "95e505cb9050c9b2daa6cdf047daea8a69d7a7320320f1069f1d193b221e4253",
+      "matches": true
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/Karpathy-原文.txt",
+      "sha256": "24e3726bec0355e9be259e9b16912ad5d991521efeb6484008f324fd0b459671",
+      "actual_sha256": "24e3726bec0355e9be259e9b16912ad5d991521efeb6484008f324fd0b459671",
+      "matches": true
+    }
+  ],
+  "timing_contiguous": true,
+  "duration_seconds": 60,
+  "total_frames": 3600,
+  "scenes": 10,
+  "statistics": {
+    "main_text_non_whitespace_characters": 150,
+    "main_text_cjk_characters": 122,
+    "persistent_label_unique_non_whitespace_characters": 22,
+    "reading_units_total_including_first_introduction": 144.0,
+    "minimum_reading_margin_seconds": 0.5,
+    "densest_scene_by_new_reading_units": "professional_frontier"
+  },
+  "reading_windows": [
+    {
+      "id": "question",
+      "units": 12.25,
+      "stable_seconds": 4.5,
+      "estimated_seconds": 4.0,
+      "margin_seconds": 0.5
+    },
+    {
+      "id": "attribution",
+      "units": 13.0,
+      "stable_seconds": 5.5,
+      "estimated_seconds": 4.214,
+      "margin_seconds": 1.286
+    },
+    {
+      "id": "barely_exposed",
+      "units": 14.0,
+      "stable_seconds": 5.5,
+      "estimated_seconds": 4.5,
+      "margin_seconds": 1.0
+    },
+    {
+      "id": "casual_free",
+      "units": 15.25,
+      "stable_seconds": 5.5,
+      "estimated_seconds": 4.857,
+      "margin_seconds": 0.643
+    },
+    {
+      "id": "professional_frontier",
+      "units": 19.25,
+      "stable_seconds": 6.5,
+      "estimated_seconds": 6.0,
+      "margin_seconds": 0.5
+    },
+    {
+      "id": "internal_access",
+      "units": 13.0,
+      "stable_seconds": 5.5,
+      "estimated_seconds": 4.214,
+      "margin_seconds": 1.286
+    },
+    {
+      "id": "task_scale",
+      "units": 15.25,
+      "stable_seconds": 5.5,
+      "estimated_seconds": 4.857,
+      "margin_seconds": 0.643
+    },
+    {
+      "id": "domain",
+      "units": 12.25,
+      "stable_seconds": 5.5,
+      "estimated_seconds": 4.0,
+      "margin_seconds": 1.5
+    },
+    {
+      "id": "access",
+      "units": 14.25,
+      "stable_seconds": 5.5,
+      "estimated_seconds": 4.571,
+      "margin_seconds": 0.929
+    },
+    {
+      "id": "closing",
+      "units": 15.5,
+      "stable_seconds": 5.6,
+      "estimated_seconds": 4.929,
+      "margin_seconds": 0.671
+    }
+  ],
+  "actual_phone_reading": "NOT_DONE",
+  "continuous_reference_video": "NOT_DONE",
+  "reference_direct_audio": "NOT_DONE",
+  "component_gate": "04 responsibility; no component selected or implementation produced by02",
+  "rendered_video": "NOT_DONE",
+  "pmo_approval": "PENDING",
+  "model_actual": "UNKNOWN",
+  "effort_actual": "UNKNOWN",
+  "speed_actual": "UNKNOWN",
+  "reference_reading": {
+    "files_actually_viewed": [
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-01.jpg",
+        "sha256": "71f7e4a83b77cd2b2aa3bd221fddcf0857d6d278eddc7b748b32437ed0152d10",
+        "actually_viewed_by02": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-02.jpg",
+        "sha256": "2f82b35df6862bc49a9c658cd47e3b011a4af457639fde449660c87335008729",
+        "actually_viewed_by02": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-03.jpg",
+        "sha256": "1a7b41489406ddb8f63c9d0fbafb922f0e77d84631895eb18c16e78d7b7596e8",
+        "actually_viewed_by02": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-04.jpg",
+        "sha256": "a76de702b6c795071edd1fc060f56b9e576e3c1d401474b1d04c7bd8ee2f8dcc",
+        "actually_viewed_by02": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/b-01.jpg",
+        "sha256": "28f7535333d3797fbaae489a02d447ca8af428482f0a649fda4fcf9cde3c556a",
+        "actually_viewed_by02": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/b-02.jpg",
+        "sha256": "b73f4225256be20a4e6e792db8b3f30888e7d07f226fcbfc72357f303c8c23c3",
+        "actually_viewed_by02": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-46.jpg",
+        "sha256": "34d5a0dfa91d39e56ab794608738b9b3533f07adc600a5a07396af3aea750acd",
+        "actually_viewed_by02": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-60.jpg",
+        "sha256": "25750264e106baeee2b6a2640d3fb913889c1c9dfd8a3a5d3bcdccc75990d723",
+        "actually_viewed_by02": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/ref-75.jpg",
+        "sha256": "8a7b8c412f8f746f7cf2c9f9205fff3a85f9272dd94783c6f45cda08b3ba2dee",
+        "actually_viewed_by02": true
+      },
+      {
+        "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-参考读取/grid-to-funnel-70-75.jpg",
+        "sha256": "444e73de20e4ac0fcfabdc47b71fb8abd657d43f9b4ca9dac569264781112f83",
+        "actually_viewed_by02": true
+      }
+    ],
+    "frame_presentations": 15,
+    "unique_sample_times": 14,
+    "repeated_time": "B75s",
+    "supplement_asr_read_by02": false,
+    "continuous_viewing": false,
+    "direct_hearing": false
+  }
+}

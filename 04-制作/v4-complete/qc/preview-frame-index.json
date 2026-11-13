@@ -1,0 +1,520 @@
+[
+  {
+    "frame": 4254,
+    "time_sec": 70.9,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4254.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "8536bc51fce80001c7d041b451c471a2ffb0eee36e9d6aa1db6fbb848cc12080"
+  },
+  {
+    "frame": 4266,
+    "time_sec": 71.1,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4266.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "f54690f4a7e742639c5f3be5f58f37611271ec6be1046fd4ad2c49f5e6ab0585"
+  },
+  {
+    "frame": 4278,
+    "time_sec": 71.3,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4278.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "d78680547ffcc98ff44da8440f44cbf88e4beaed858e2e6d857516ce00f2055c"
+  },
+  {
+    "frame": 4290,
+    "time_sec": 71.5,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4290.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "9b098f313de737d77ca9e9a9fcad35d73ddea0eebff8b4a73497e1f4519dc80a"
+  },
+  {
+    "frame": 4302,
+    "time_sec": 71.7,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4302.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "fb0395b36d1f19e6cdaae1fa1dc2e9bb4045ed6bb4b04372eae03cb008fb9098"
+  },
+  {
+    "frame": 4314,
+    "time_sec": 71.9,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4314.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "4e42d57385758f06fadda964ce85412172f8e22cbbf02784a1ba9d6bef55279c"
+  },
+  {
+    "frame": 4326,
+    "time_sec": 72.1,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4326.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "7ab4f7a310573d42f279dd286ace799ad8d53187e96fafaae074f06928faf43f"
+  },
+  {
+    "frame": 4338,
+    "time_sec": 72.3,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4338.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "7727709a59617360a5406a0868d82b6378f2f54a4f71c8471a0b14f221805fee"
+  },
+  {
+    "frame": 4350,
+    "time_sec": 72.5,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4350.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "c6c7a0c030cf5f28c0e12ad6c140acc86ee1d7196e37e6ad783d361246fea5ca"
+  },
+  {
+    "frame": 4362,
+    "time_sec": 72.7,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F4362.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-4254-4367.mp4",
+    "sha256": "01c0ab34d36ef3f392f879ef78e6da08bae666fb4be7f27fbcd501071cf78c4d"
+  },
+  {
+    "frame": 5418,
+    "time_sec": 90.3,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5418.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5418-5501.mp4",
+    "sha256": "14a920302c976140d4cad2ad09829070594b2e3ce71f723d058f50026e913983"
+  },
+  {
+    "frame": 5430,
+    "time_sec": 90.5,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5430.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5418-5501.mp4",
+    "sha256": "c4867675d56fc3fc03678c2df0b33f49f53fbe986226d3bf82a964a765322614"
+  },
+  {
+    "frame": 5442,
+    "time_sec": 90.7,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5442.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5418-5501.mp4",
+    "sha256": "ca8d5f0f5ede569bbd8c5f2183f345e50a9b84dfa74ca42caf4b0122a175ca34"
+  },
+  {
+    "frame": 5454,
+    "time_sec": 90.9,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5454.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5418-5501.mp4",
+    "sha256": "50dc056d0bc0cca8b4d41e23bc89e24727d86d77825e2e993d42214b69650090"
+  },
+  {
+    "frame": 5466,
+    "time_sec": 91.1,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5466.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5418-5501.mp4",
+    "sha256": "225d18376249eae053dbc42b2469fad20bbb593f70efecfd4e034404641b6335"
+  },
+  {
+    "frame": 5478,
+    "time_sec": 91.3,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5478.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5418-5501.mp4",
+    "sha256": "c30b17b7dfe5e3cd2dce04c1d2af3c718243ef3931935996aed45070a2350d56"
+  },
+  {
+    "frame": 5490,
+    "time_sec": 91.5,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5490.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5418-5501.mp4",
+    "sha256": "bddfd2ed2fc282970586f1a4cf6dc58e20470277a536f602f1ed9d0bf0c7d03f"
+  },
+  {
+    "frame": 5700,
+    "time_sec": 95.0,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5700.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "6d137ed333ace90e8b7831dc5350f226a258e8da8fdc407eb94059be8390826b"
+  },
+  {
+    "frame": 5712,
+    "time_sec": 95.2,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5712.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "1d6f2f26703096e08c1f4b1d4744d11c4d6a19229935ac686b54ca145a762c5c"
+  },
+  {
+    "frame": 5724,
+    "time_sec": 95.4,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5724.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "448f5d6f448fc137cfd7b0844c30473c9365f4e80db67a4d8120e11870f89c71"
+  },
+  {
+    "frame": 5736,
+    "time_sec": 95.6,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5736.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "608ff312f0c1e7b4a59429969a9cde882b5c1058eaf7051478f5d05810df1b30"
+  },
+  {
+    "frame": 5748,
+    "time_sec": 95.8,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5748.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "18acb8137291eb4d5c2e48d098733ade19ea25a2759537b703b3f22836ebf106"
+  },
+  {
+    "frame": 5760,
+    "time_sec": 96.0,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5760.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "2a092a2517f1c26a58c52260bdfb645dd8cb48344e39229b662aaa6a83ab3b0f"
+  },
+  {
+    "frame": 5772,
+    "time_sec": 96.2,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5772.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "9cd98b30ef30a09127757f0a20dddc56bae7da619fa3d5d510464a3da17c3179"
+  },
+  {
+    "frame": 5784,
+    "time_sec": 96.4,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5784.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "9cd98b30ef30a09127757f0a20dddc56bae7da619fa3d5d510464a3da17c3179"
+  },
+  {
+    "frame": 5796,
+    "time_sec": 96.6,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5796.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "9cd98b30ef30a09127757f0a20dddc56bae7da619fa3d5d510464a3da17c3179"
+  },
+  {
+    "frame": 5808,
+    "time_sec": 96.8,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5808.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "9cd98b30ef30a09127757f0a20dddc56bae7da619fa3d5d510464a3da17c3179"
+  },
+  {
+    "frame": 5820,
+    "time_sec": 97.0,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5820.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "9cd98b30ef30a09127757f0a20dddc56bae7da619fa3d5d510464a3da17c3179"
+  },
+  {
+    "frame": 5832,
+    "time_sec": 97.2,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5832.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "2b2ec4e3393546d3cf9f0030a696a2cbcfddd20e9b73c3efade5f6e321b021c9"
+  },
+  {
+    "frame": 5844,
+    "time_sec": 97.4,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F5844.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-5700-5850.mp4",
+    "sha256": "30022b7062c46d4a79d38b484116feb8360ef4729e9885c0121033f35eef99f4"
+  },
+  {
+    "frame": 6420,
+    "time_sec": 107.0,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6420.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6420-6509.mp4",
+    "sha256": "6e16bb62d2ddc12519dbd23d187667a438a355c072825ca1b67cb2be7b26472a"
+  },
+  {
+    "frame": 6432,
+    "time_sec": 107.2,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6432.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6420-6509.mp4",
+    "sha256": "9e7a1d5f40d2d6f73ae4b2314a111dff9ef2c563f08f9187d9afdad6e6afa5a8"
+  },
+  {
+    "frame": 6444,
+    "time_sec": 107.4,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6444.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6420-6509.mp4",
+    "sha256": "5795b89042444763c6f14769967ee3f8b8085e47fc3fb9a888f6b8395e3af387"
+  },
+  {
+    "frame": 6456,
+    "time_sec": 107.6,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6456.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6420-6509.mp4",
+    "sha256": "6a1e96ad75f69ca8da4eeb143abb6472c66378cbb0f39ae1ca47da53b2920966"
+  },
+  {
+    "frame": 6468,
+    "time_sec": 107.8,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6468.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6420-6509.mp4",
+    "sha256": "f2e867ec1fac43be201491a4767a2e64e037935f45e9a5dc6ee24572bf82e325"
+  },
+  {
+    "frame": 6480,
+    "time_sec": 108.0,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6480.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6420-6509.mp4",
+    "sha256": "a65e3c2fac09f69d5d56a428831b995f109551f77b7c9c801b803246944a92fa"
+  },
+  {
+    "frame": 6492,
+    "time_sec": 108.2,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6492.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6420-6509.mp4",
+    "sha256": "a65e3c2fac09f69d5d56a428831b995f109551f77b7c9c801b803246944a92fa"
+  },
+  {
+    "frame": 6504,
+    "time_sec": 108.4,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6504.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6420-6509.mp4",
+    "sha256": "a65e3c2fac09f69d5d56a428831b995f109551f77b7c9c801b803246944a92fa"
+  },
+  {
+    "frame": 6760,
+    "time_sec": 112.66666666666667,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6760.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6760-6850.mp4",
+    "sha256": "c67197d19ae6a73afe339d29e5d0581b542e5c4afd47fc3a724fab601532a1ff"
+  },
+  {
+    "frame": 6772,
+    "time_sec": 112.86666666666666,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6772.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6760-6850.mp4",
+    "sha256": "e31b46e9098b512eb76e578f58ebe4490ac98b3eb2f9560ebe9a87426f087539"
+  },
+  {
+    "frame": 6784,
+    "time_sec": 113.06666666666666,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6784.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6760-6850.mp4",
+    "sha256": "a12700e3abdc8e31bc47ea9f1aefc5d237d62e08b81437d57c2d314903eceabc"
+  },
+  {
+    "frame": 6796,
+    "time_sec": 113.26666666666667,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6796.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6760-6850.mp4",
+    "sha256": "c0adb8901d9799aaf2221318896768ced12d5853b45fc8d3ee8af6728941804a"
+  },
+  {
+    "frame": 6808,
+    "time_sec": 113.46666666666667,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6808.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6760-6850.mp4",
+    "sha256": "c0adb8901d9799aaf2221318896768ced12d5853b45fc8d3ee8af6728941804a"
+  },
+  {
+    "frame": 6820,
+    "time_sec": 113.66666666666667,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6820.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6760-6850.mp4",
+    "sha256": "c0adb8901d9799aaf2221318896768ced12d5853b45fc8d3ee8af6728941804a"
+  },
+  {
+    "frame": 6832,
+    "time_sec": 113.86666666666666,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6832.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6760-6850.mp4",
+    "sha256": "c0adb8901d9799aaf2221318896768ced12d5853b45fc8d3ee8af6728941804a"
+  },
+  {
+    "frame": 6844,
+    "time_sec": 114.06666666666666,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F6844.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-6760-6850.mp4",
+    "sha256": "d868ea53b5621037d93844f93ebc450b85a8ffd92f7f85adf6ea32c7673e8c3c"
+  },
+  {
+    "frame": 7638,
+    "time_sec": 127.3,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F7638.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-7638-7739.mp4",
+    "sha256": "d9d46182b8bf3ea7d33337423b556f693dfc7262ae67c2d4187b4ee6ca231e2f"
+  },
+  {
+    "frame": 7650,
+    "time_sec": 127.5,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F7650.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-7638-7739.mp4",
+    "sha256": "1878ec34a40e6b0234f0f821af46ca93eb3ccf32e297e6933814c76c0b772d9a"
+  },
+  {
+    "frame": 7662,
+    "time_sec": 127.7,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F7662.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-7638-7739.mp4",
+    "sha256": "fb33ea970c6e14ffe7f05c19f1adbe2ac84ac9d8ec7d4ea57ca37ae478f34d73"
+  },
+  {
+    "frame": 7674,
+    "time_sec": 127.9,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F7674.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-7638-7739.mp4",
+    "sha256": "bf7c0472050557f5cc59d3eaf3bef0fb19693ee453c3fdd80ced58d6b6638935"
+  },
+  {
+    "frame": 7686,
+    "time_sec": 128.1,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F7686.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-7638-7739.mp4",
+    "sha256": "bf7c0472050557f5cc59d3eaf3bef0fb19693ee453c3fdd80ced58d6b6638935"
+  },
+  {
+    "frame": 7698,
+    "time_sec": 128.3,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F7698.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-7638-7739.mp4",
+    "sha256": "bf7c0472050557f5cc59d3eaf3bef0fb19693ee453c3fdd80ced58d6b6638935"
+  },
+  {
+    "frame": 7710,
+    "time_sec": 128.5,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F7710.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-7638-7739.mp4",
+    "sha256": "bf7c0472050557f5cc59d3eaf3bef0fb19693ee453c3fdd80ced58d6b6638935"
+  },
+  {
+    "frame": 7722,
+    "time_sec": 128.7,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F7722.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-7638-7739.mp4",
+    "sha256": "bf7c0472050557f5cc59d3eaf3bef0fb19693ee453c3fdd80ced58d6b6638935"
+  },
+  {
+    "frame": 7734,
+    "time_sec": 128.9,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F7734.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-7638-7739.mp4",
+    "sha256": "d20e437b9c564f24d7a94784f5858ccde746890f471a225b050263dec6101f88"
+  },
+  {
+    "frame": 8420,
+    "time_sec": 140.33333333333334,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8420.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8420-8489.mp4",
+    "sha256": "d570eac96bd93c46b645e7623b9885b2ad3ddc79ea387b1d89f0feb68605cfaa"
+  },
+  {
+    "frame": 8432,
+    "time_sec": 140.53333333333333,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8432.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8420-8489.mp4",
+    "sha256": "93b0821eeccedeb76c2f6fd1fc92e2712c0af79d905dede0fcdddafe063fdd84"
+  },
+  {
+    "frame": 8444,
+    "time_sec": 140.73333333333332,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8444.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8420-8489.mp4",
+    "sha256": "47b5c42c3f0f824ed8013ccd58312a4d527124b32df37293f23ce03b2469e679"
+  },
+  {
+    "frame": 8456,
+    "time_sec": 140.93333333333334,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8456.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8420-8489.mp4",
+    "sha256": "9f1d92618125d6b128f3af8357b54a3dbe44235d789435274730f8b2cae9c041"
+  },
+  {
+    "frame": 8468,
+    "time_sec": 141.13333333333333,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8468.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8420-8489.mp4",
+    "sha256": "73059b92f931067c72a5cfe2635e842553a0ab83f847a6220476facad94916bf"
+  },
+  {
+    "frame": 8480,
+    "time_sec": 141.33333333333334,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8480.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8420-8489.mp4",
+    "sha256": "56337ba76c081d87249a40a138514cdb42ea3f53129894a15e8866dcdece2321"
+  },
+  {
+    "frame": 8770,
+    "time_sec": 146.16666666666666,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8770.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8770-8850.mp4",
+    "sha256": "ce09001f76e4f79904916feb00c50fba2b6db64714680b5ff611b528d5cb6c17"
+  },
+  {
+    "frame": 8782,
+    "time_sec": 146.36666666666667,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8782.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8770-8850.mp4",
+    "sha256": "b59d6743daa0bbc1b0afd5dd4b903f843ed9527c56e4e415f37953563a721921"
+  },
+  {
+    "frame": 8794,
+    "time_sec": 146.56666666666666,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8794.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8770-8850.mp4",
+    "sha256": "0f420081457b476401491d091f3f922122f355e24034ecf64b53c4c951840e42"
+  },
+  {
+    "frame": 8806,
+    "time_sec": 146.76666666666668,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8806.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8770-8850.mp4",
+    "sha256": "22513a14b0802fac92c81caa925ce96c026c31ebb168ea24c291d24453201493"
+  },
+  {
+    "frame": 8818,
+    "time_sec": 146.96666666666667,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8818.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8770-8850.mp4",
+    "sha256": "9933f2ddfc0fe92d5bbeed2e17accdf7c38daf58c0bfad745c0c82796aba4d09"
+  },
+  {
+    "frame": 8830,
+    "time_sec": 147.16666666666666,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8830.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8770-8850.mp4",
+    "sha256": "229bc6c924d0baa567f651f450b3c086fbce45decf403f3d1e96985b396d19b2"
+  },
+  {
+    "frame": 8842,
+    "time_sec": 147.36666666666667,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F8842.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-8770-8850.mp4",
+    "sha256": "31ac92f61aa38baf5a63151eea2ea719df754ab8e05dae8d7f2dfa8ff281f454"
+  },
+  {
+    "frame": 9,
+    "time_sec": 0.15,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F9.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-9-80.mp4",
+    "sha256": "a1a736760c75625bf60f0383164c4fa57403af7352ad26b4e2a865cf8698fb22"
+  },
+  {
+    "frame": 21,
+    "time_sec": 0.35,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F21.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-9-80.mp4",
+    "sha256": "db8cf2eb5b75a389126f050c12d8bc0d1b79259edf56db239770ea7527470bc1"
+  },
+  {
+    "frame": 33,
+    "time_sec": 0.55,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F33.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-9-80.mp4",
+    "sha256": "0954f52e9640402224185c80a90bd906a09c9e845eafab34b4295506300a4e13"
+  },
+  {
+    "frame": 45,
+    "time_sec": 0.75,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F45.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-9-80.mp4",
+    "sha256": "4ece314da373cab10f0daed3418438f4c680c4efb2bca0b326bcbac417fba98c"
+  },
+  {
+    "frame": 57,
+    "time_sec": 0.95,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F57.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-9-80.mp4",
+    "sha256": "9d4407c166da0837a6fe4c53bbe1e5ca138d174a0acef83f3444049a44aef6da"
+  },
+  {
+    "frame": 69,
+    "time_sec": 1.15,
+    "path": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/preview-frames-r4/F69.png",
+    "video": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/output/preview-r4-9-80.mp4",
+    "sha256": "f914abf9570682ffde14d457bbe6fd6ba521c376b04405337e6e100796c5c00b"
+  }
+]

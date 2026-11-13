@@ -1,0 +1,17 @@
+{
+  "artifact": "output/preflight-54-61s.mp4",
+  "rendered_frames": 420,
+  "expected_seconds": 7,
+  "actual_dimensions": [
+    1080,
+    1920
+  ],
+  "avfoundation_nominal_fps": 60.000004,
+  "full_decode": "PASS",
+  "actual_screenshot_viewed": "qc/preflight-56.5.png",
+  "whole_normal_speed_visual_review": "NOT_SUPPORTED_IN_CURRENT_SESSION",
+  "direct_audio_hearing": "NOT_SUPPORTED_IN_CURRENT_SESSION",
+  "music": "PENDING_NICO_EXACT_TRACK",
+  "source_rendering": "Existing Remotion and Chrome work; native Canvas export was tested next to reduce screenshot overhead. No media playback attempted.",
+  "source_edit_after_preflight": "Intro object safe-area reduction and 0.35-second cross-dissolves at 10 conceptual boundaries; same 54-61s mechanism unchanged."
+}

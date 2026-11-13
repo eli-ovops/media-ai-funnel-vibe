@@ -1,0 +1,60 @@
+{
+  "node_modules": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/node_modules",
+  "public": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/public",
+  "browser": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  "dependencies": {
+    "react": {
+      "version": "19.2.5",
+      "path": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/node_modules/react/package.json",
+      "sha256": "ce01a280a6109d1a837e88ce99784f318785079dbffda086a870aad61adc94e1"
+    },
+    "remotion": {
+      "version": "4.0.451",
+      "path": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/node_modules/remotion/package.json",
+      "sha256": "69a540bcbd016a9af8441b8bb34259d04eb6279aae135544b5bf8a08d6453ce0"
+    },
+    "@remotion/renderer": {
+      "version": "4.0.451",
+      "path": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/node_modules/@remotion/renderer/package.json",
+      "sha256": "a7550e3722255df89d80c2c7d9f02dc4f6dfe8978730483d3cc5f93314cdbabc"
+    },
+    "@remotion/bundler": {
+      "version": "4.0.451",
+      "path": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/node_modules/@remotion/bundler/package.json",
+      "sha256": "efc71a8d0996c79b4e65ff1ec34cf828b4193b1e01507175cb834b22bb5945d5"
+    },
+    "typescript": {
+      "version": "6.0.3",
+      "path": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/node_modules/typescript/package.json",
+      "sha256": "9332e97c30d3e53ed54910b89207ed657fb444066484df6e5b6965bf130865e9"
+    }
+  },
+  "fonts": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-Heavy.otf",
+      "sha256": "6be4fe9fd5fcfbf766e90b0936b44b731893a3836376a77d964673f398b7131c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-License.txt",
+      "sha256": "15089e340c0433e6f08274d6aa10f1fdd53992fd95e6069d8625508161bca4ff"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/RuiZi.ttf",
+      "sha256": "ec8523db8f8373eb49e0fa87da5fd12c4d0d0896f2072a220c578c0e778d10da"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-Medium.otf",
+      "sha256": "f9239c75fa0a661b788916250c6d4ad0d52d8a643f1ce2a9142f6588d4d2cb64"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/RuiZi-official-free-use.txt",
+      "sha256": "4a1dae11ef394a49f6f25111a15b686b8440e2b6ecafe3c4cff6bf46f1bf1810"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/public/fonts/MiSans-Semibold.otf",
+      "sha256": "8a194c3e7f6813f73a2c68988bf77483296268416fb0c1d0870338a0b23b8c9a"
+    }
+  ],
+  "portable": false,
+  "note": "Complete episode source; dependencies and fonts reuse existing authorized local runtime via symlink. No install or external upload performed."
+}

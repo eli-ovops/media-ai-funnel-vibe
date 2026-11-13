@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "file": "content-package.json",
+      "current_sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+      "protected_base_sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+      "equal": true
+    },
+    {
+      "file": "screen-copy-review.srt",
+      "current_sha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8",
+      "protected_base_sha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8",
+      "equal": true
+    },
+    {
+      "file": "screen-script.txt",
+      "current_sha256": "516349a822525a5c23f55033ebac66f3d244b6f7c05797a2c9a07a99234f4de0",
+      "protected_base_sha256": "516349a822525a5c23f55033ebac66f3d244b6f7c05797a2c9a07a99234f4de0",
+      "equal": true
+    },
+    {
+      "file": "events.json",
+      "current_sha256": "e2747b2ccceb5eeddf1bec7b7c9737891494afa971b4bd2ef26eb0c0fc5432fe",
+      "protected_base_sha256": "e2747b2ccceb5eeddf1bec7b7c9737891494afa971b4bd2ef26eb0c0fc5432fe",
+      "equal": true
+    },
+    {
+      "file": "src/kit.ts",
+      "current_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "protected_base_sha256": "9af1b3c8f142207989a478dc17e0a726980b07affb8ddbfc6b7b6a88b86f3e1e",
+      "equal": true
+    }
+  ],
+  "scope": "No whole-script or audio-event rewrite; source meanings and22 beats retained"
+}

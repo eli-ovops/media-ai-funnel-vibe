@@ -1,0 +1,83 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "at": "2026-10-20T19:33:51.677525+08:00",
+  "decision": "PMO_COVER_VISUAL_AND_DIMENSIONS_PASS_USER_REVIEW_PENDING",
+  "requested_title": "AI认知漏斗，你在第几层？",
+  "cover_text": [
+    "AI认知漏斗",
+    "你在第几层？"
+  ],
+  "viewed_originals": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-3x4-1080x1440-v4.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-9x16-1080x1920-v4.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-16x9-1920x1080-v4.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-4x3-1440x1080-v4.png"
+  ],
+  "viewed_thumbnail_sheet": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/qc/contact-sheet.png",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/README.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/manifest.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/inputs.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/prompts-complete.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/qc/spacing.json"
+  ],
+  "identity_input_sha256_verified": true,
+  "final_hashes_dimensions_verified": true,
+  "generated_source_copies_sha256_verified": true,
+  "accepted_files": [
+    {
+      "ratio": "3x4",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-3x4-1080x1440-v4.png",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "sha256": "1e5deba1aa45ec65c8281601f00ece7fc4d37399b43b601f4b821ad5c3b9de73"
+    },
+    {
+      "ratio": "9x16",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-9x16-1080x1920-v4.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "sha256": "3c803b0995e74e5209120b12e1ed86d1bd1d912bd932eadaf390c810ef182597"
+    },
+    {
+      "ratio": "16x9",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-16x9-1920x1080-v4.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "sha256": "b2f6db2ccd569306b74080c281b94dd92c1554db97c2a78bfcd1287ab4e63f2c"
+    },
+    {
+      "ratio": "4x3",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/covers-v4/cover-4x3-1440x1080-v4.png",
+      "dimensions": [
+        1440,
+        1080
+      ],
+      "sha256": "3f3cee255599ef844acdf7faeb2d6916a291bad47ea9f403c79af78ec2af7cd8"
+    }
+  ],
+  "observed": [
+    "棕色西装坐姿换为深蓝卷袖衬衫、侧身开放掌心示意，四版一致新造型",
+    "白底上紫下黑大字，标题及问号完整，无旧主题",
+    "尖顶朝上宽底四层金字塔，上到下紫蓝青琥珀橙，形状/配色一致，无统计数字",
+    "原图与320px缩图文字及脸清楚，头发/眼镜/手腕/手指未见明显畸变或标题相交",
+    "四图精确PNG规格与SHA相符，已审留白"
+  ],
+  "generation": "Built-in imagegen; exact backend UNKNOWN; not claimed Image2.5",
+  "image_processing": "生成图及人像并非原照像素直接抠取；等比规范化至目标规格，9:16/16:9源图有所放大",
+  "process_observation": "prompts-complete保留两个adapt prompt的undefined前缀，说明初始通用prompt拼装曾缺失；实际定向修正与最终图符合本次要求，不以元数据整齐替代成图审查，也不为记录问题重生已验图。",
+  "limits": [
+    "实际平台自动裁切未验",
+    "用户终审PENDING"
+  ],
+  "video_changed": false,
+  "publication": "NOT_AUTHORIZED",
+  "old_assets_preserved": true
+}

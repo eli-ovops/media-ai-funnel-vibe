@@ -1,0 +1,20 @@
+--- /Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/src/World.ts	2026-10-20 14:24:38
++++ /Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/src/World.ts	2026-10-20 14:36:03
+@@ -14,7 +14,7 @@
+ function glowDot(c:C,x:number,y:number,r=7,col=S.gold){c.save();c.shadowColor=col;c.shadowBlur=20;circle(c,x,y,r,col,true);c.restore()}
+ function tick(c:C,x:number,y:number,k=1,size=24,col=S.dark){const ps:V[]=[[x-size*.5,y],[x-size*.1,y+size*.4],[x+size*.6,y-size*.45]];line(c,k<.5?[ps[0],[mix(ps[0][0],ps[1][0],k*2),mix(ps[0][1],ps[1][1],k*2)]]:[ps[0],ps[1],[mix(ps[1][0],ps[2][0],(k-.5)*2),mix(ps[1][1],ps[2][1],(k-.5)*2)]],col,5)}
+ function item(c:C,x:number,y:number,w=160,h=42,checked=0,col=S.gold){rr(c,x-w/2,y-h/2+7,w,h,8,'#0d1413');rr(c,x-w/2,y-h/2,w,h,8,col);rr(c,x-w/2+12,y-11,22,22,4,'#ffffff15',S.dark);line(c,[[x-w/2+49,y],[x+w/2-16,y]],S.dark,4);if(checked>0)tick(c,x-w/2+23,y,checked,14)}
+-function background(c:C){c.fillStyle=S.bg;c.fillRect(0,0,1080,1920);const g=c.createRadialGradient(540,1010,50,540,1010,1050);g.addColorStop(0,'#2b3c34');g.addColorStop(1,S.bg);c.fillStyle=g;c.fillRect(0,0,1080,1920);c.fillStyle='#ffffff05';for(let i=0;i<500;i++)c.fillRect((i*173+37)%1080,(i*283+79)%1920,1,1)}
++export function background(c:C){c.fillStyle=S.bg;c.fillRect(0,0,1080,1920);const g=c.createRadialGradient(540,1010,50,540,1010,1050);g.addColorStop(0,'#2b3c34');g.addColorStop(1,S.bg);c.fillStyle=g;c.fillRect(0,0,1080,1920);c.fillStyle='#ffffff05';for(let i=0;i<500;i++)c.fillRect((i*173+37)%1080,(i*283+79)%1920,1,1)}
+ // T15f exact accumulated share geometry, zero gap and butt caps: never impose minimum visible angle.
+ export function donutShare(c:C,x:number,y:number,r:number,sw:number,share:number,col:string,sweep=1,pull=0){
+  const span=share*TAU,head=sweep*TAU;
+@@ -116,8 +116,6 @@
+  const chartMode=t>=12&&t<75;let y=chartMode?290:280;let size=s.id==='question'?75:s.id==='closing'?70:60;
+  if(t>=27&&t<33)y=285;
+  alpha(c,a,()=>{for(let i=0;i<lines.length;i++){text(c,lines[i],90,y,size,i===0?S.ink:S.dim,i===0?800:500);y+=size*1.48}});
+- text(c,t<75?'Karpathy 粗估':'Karpathy 观点',90,174,36,S.dim);
+- if(t>=12&&t<75)text(c,'各项独立比较 · 非四块相加',90,1770,32,S.dim);
+ }
+ export function geometryAt(t:number){return{time:t,chart:chartGeometry(t),camera:sceneCam(t),persistentIds:['whole-ring','selected-arc','gold-task-item','work-network','storage','reopen','access-selector'],wholeSceneCrossfade:false}}
+ export function drawWorld(c:C,frame:number){const t=frame/60;c.setTransform(1,0,0,1,0,0);c.globalAlpha=1;c.clearRect(0,0,1080,1920);background(c);

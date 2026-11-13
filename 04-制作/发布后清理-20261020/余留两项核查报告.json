@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-20T22:59:01.016712+08:00",
+  "scope": "Only former candidate IDs 2,3",
+  "deleted_count": 2,
+  "deleted_logical_bytes": 6767622,
+  "retained": [],
+  "df_available_delta_bytes": 6750208,
+  "protected_count": 26,
+  "protected_all_unchanged": true,
+  "provenance": "Exact original Owner render/change/completion records, r2 historical SHA match, and sampled frames matching preserved 36s source; both obsolete generated silent previews",
+  "visual_coverage": "5/19/30 seconds per file, 6 frames; not continuous viewing",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN"
+}

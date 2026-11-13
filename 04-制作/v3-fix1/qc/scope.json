@@ -1,0 +1,31 @@
+{
+  "base": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/ai-funnel-v3-review-final-150s.mp4",
+  "base_sha256": "3cdb6ce08d9ab4826737bf76d0efab926a9ca86c2d726ad240be446fd6c6b386",
+  "removed": [
+    "Karpathy 粗估",
+    "Karpathy 观点",
+    "各项独立比较 · 非四块相加"
+  ],
+  "source_before_sha256": "a32db54382183ce81304c2a51916b8724537a683c8f235196b10c9fcca96df17",
+  "source_after_sha256": "74f1795b0a63de29415bce78e591181dd9606d2b57a47f69c2a4a7250db1fda6",
+  "method": "exact static Canvas gradient/noise reconstruction at same coordinates; verify9000 source frames in two ROIs before compositing",
+  "rois": [
+    [
+      0,
+      150,
+      1080,
+      90
+    ],
+    [
+      0,
+      1750,
+      1080,
+      90
+    ]
+  ],
+  "protected": "all other visuals,150s,60fps,AAC,old files",
+  "model_requested": "Astra/medium",
+  "model_actual": "UNKNOWN",
+  "effort_actual": "UNKNOWN",
+  "speed_actual": "UNKNOWN"
+}

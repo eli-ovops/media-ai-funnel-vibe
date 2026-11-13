@@ -1,0 +1,17 @@
+{
+  "status": "PASS_SCOPED_V3_Q1_Q2",
+  "Q1": "CLOSED",
+  "Q2": "CLOSED",
+  "video_sha256": "17fbb4955849347a09d2364924a3809a575ce5a441b730a5cff4a8e6b67aa434",
+  "unique_export_frames_viewed": 18,
+  "contacts_viewed": 3,
+  "native_frames_viewed": [
+    1410,
+    7980,
+    8160
+  ],
+  "continuous_viewing": "UNKNOWN",
+  "direct_hearing": "UNKNOWN",
+  "user_final_review": "PENDING",
+  "pmo_acceptance": "PENDING"
+}

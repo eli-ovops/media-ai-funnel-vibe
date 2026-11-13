@@ -1,0 +1,19 @@
+{
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "content_id": "ai-funnel-vibe-20261020",
+  "at": "2026-10-20T19:56:18.633407+08:00",
+  "trigger": "UPSTREAM_VERSION_CHANGED during current06 nonpublic handoff",
+  "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-repair1/delivery-index.json",
+  "old_frozen_sha256": "b090fe6ad7dcd05863ec49c4c58b54e536c197503d264dcfbaad832a83ba0383",
+  "current_sha256": "844545d594282f4cf4be9c1e0f7a77ce5ed6b8a55c3d22a9500b25385fd2acc0",
+  "exact_old_hash_reconstructed": true,
+  "only_changes": [
+    "reportStatus:NOT_SENT_YET -> TOOL_SEND_RETURNED_SUCCESS; PMO_RECEIVED_UNKNOWN; PMO_ACCEPTANCE_PENDING",
+    "added reportReceipt path"
+  ],
+  "media_and_named_entries_verified": 12,
+  "media_unchanged_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+  "decision": "ACCEPT_REPORT_RECEIPT_METADATA_REFRESH_ONLY",
+  "scope": "仅刷新已审交付索引指纹，不修改索引/视频/工程，不补写未做检查，不重跑质检",
+  "lesson": "主动报告回执更新应放独立回执文件；需冻结的交付索引应完成本岗收尾再冻结。"
+}

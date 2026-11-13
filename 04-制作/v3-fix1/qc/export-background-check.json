@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "frames": 9000,
+  "max_luma_error": 4,
+  "mean_luma_error": 0.05638802069044353,
+  "threshold": 16,
+  "bad_frames": [],
+  "method": "Every decoded final ROI compared to exact source background converted using same pixel format; source and export checks separate",
+  "stderr": ""
+}

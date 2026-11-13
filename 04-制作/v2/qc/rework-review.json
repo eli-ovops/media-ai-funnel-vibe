@@ -1,0 +1,347 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "revision": "v2",
+  "status": "FOUR_ITEMS_IMPLEMENTED_AND_SAMPLED; PMO_ACCEPTANCE_PENDING",
+  "representative_review": {
+    "branch_mp4": "output/canvas-branch-visual.mp4",
+    "branch_original_clock": [
+      54,
+      76
+    ],
+    "actual_frames_seen": 12,
+    "access_mp4": "output/canvas-access-visual.mp4",
+    "access_original_clock": [
+      124,
+      140
+    ],
+    "access_actual_frames_seen": 11,
+    "native_access_check": 135.65,
+    "scope": "Actual MP4 extracted stills; not continuous visual/hearing review",
+    "candidate_limit": "Branch candidate predates sy17 interpolation and final T04b width correction; access candidate predates only the out-of-range T04b correction. Full v2 source SHA and final extracted frames govern."
+  },
+  "issues": [
+    {
+      "id": "V1-01",
+      "change": "Independent four editorial stations; approximate counts appear in frozen order and remain navigation to75; paper enters causes after75. Intro places main diagram before lower copy.",
+      "target_times": [
+        3.15,
+        20.5,
+        36.65,
+        50.15,
+        64.65,
+        68.5,
+        72,
+        74.983,
+        75.25,
+        75.5
+      ],
+      "evidence": [
+        {
+          "second": 3.15,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-3.150.jpg",
+          "sha256": "0c28b97f3d5d51b216c77dbd812f409bec6aaf79fdabde34942c159345ea2574"
+        },
+        {
+          "second": 36.65,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-36.650.jpg",
+          "sha256": "a18d1eb9c439050bc480eaa5d2f741d8504edc13998cdc6c0304d7979db66b6e"
+        },
+        {
+          "second": 50.15,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-50.150.jpg",
+          "sha256": "b813648f443483a0451938f6a68b953030bb51fed05a3c00b032a7a0692dceb7"
+        },
+        {
+          "second": 68.5,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-68.500.jpg",
+          "sha256": "618b6aa04ba28cb406e209008de292768ee2ea19c3ddfdbd1032b8c00f8d356e"
+        },
+        {
+          "second": 72,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-72.000.jpg",
+          "sha256": "44cdeb58b1c15c26217fcd62ad69e86f9b6b55af9884be6a2d054c9dc91c083d"
+        },
+        {
+          "second": 74.983,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-74.983.jpg",
+          "sha256": "50830199876d937b1d17c65dd5ab240d02df5a1d095c1a3e6bae862e57eca961"
+        },
+        {
+          "second": 75.25,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-75.250.jpg",
+          "sha256": "efaa18c2c109076ae8af099577380c14bc8c7c6295c67ebc6be9e9da8f71101c"
+        }
+      ]
+    },
+    {
+      "id": "V1-02",
+      "change": "One paper pose, one task item and three functional carriers, one reopen/conditional window. Removed whole-scene dissolves.",
+      "target_times": [
+        12.167,
+        75.25,
+        82.167,
+        89.167,
+        89.5,
+        103.167,
+        103.5,
+        117.167,
+        117.5,
+        124.167,
+        124.5,
+        139.167,
+        139.5,
+        146.2,
+        146.35
+      ],
+      "evidence": [
+        {
+          "second": 75.25,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-75.250.jpg",
+          "sha256": "efaa18c2c109076ae8af099577380c14bc8c7c6295c67ebc6be9e9da8f71101c"
+        },
+        {
+          "second": 82.167,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-82.167.jpg",
+          "sha256": "ed0a70465a9d40f7e8b51e4d7cab4f259fe2f3fd2916e625f099378e11cd2e24"
+        },
+        {
+          "second": 89.167,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-89.167.jpg",
+          "sha256": "24dd73f0f2c7efc0cdedf71f1ecda5b8362db3d6a360f47d8c7536027f695a46"
+        },
+        {
+          "second": 103.167,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-103.167.jpg",
+          "sha256": "9b71743ec03f17748075ea221f8390762b586871344bba2963c0fa1cfd812b97"
+        },
+        {
+          "second": 124.167,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-124.167.jpg",
+          "sha256": "fe8a055aef21c50a00e0c1c4d1701602aa21a04514602b939e2e1efe999313e3"
+        },
+        {
+          "second": 124.5,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-124.500.jpg",
+          "sha256": "30b32e74af955ecd0990c4024125dd41a2298ca7da4c7664808114ff990e349f"
+        },
+        {
+          "second": 139.167,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-139.167.jpg",
+          "sha256": "5b37f6e5cba26d0e4171886220b139852adc3cd5b01e7464b1217f3c309393be"
+        },
+        {
+          "second": 146.35,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-146.350.jpg",
+          "sha256": "46d1aba1db06156a37c49632c21a9034d9443aeb145d61675f007845de27697b"
+        }
+      ]
+    },
+    {
+      "id": "V1-03",
+      "change": "Branch anchors computed from actual affine contour plus18px outward normal; bus180px below window bottoms. Paths drawn before opaque carriers.",
+      "target_times": [
+        54.167,
+        54.833,
+        55.25,
+        57.65,
+        68.5,
+        72,
+        74.983,
+        75.25,
+        124.167,
+        124.5,
+        126.1,
+        132.5,
+        135.65,
+        139.167
+      ],
+      "evidence": [
+        {
+          "second": 57.65,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-57.650.jpg",
+          "sha256": "7cb5e58167cf5c56f79e95ab0386c67529096b3f461736b0c426b8158c1bfa3f"
+        },
+        {
+          "second": 68.5,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-68.500.jpg",
+          "sha256": "618b6aa04ba28cb406e209008de292768ee2ea19c3ddfdbd1032b8c00f8d356e"
+        },
+        {
+          "second": 72,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-72.000.jpg",
+          "sha256": "44cdeb58b1c15c26217fcd62ad69e86f9b6b55af9884be6a2d054c9dc91c083d"
+        },
+        {
+          "second": 74.983,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-74.983.jpg",
+          "sha256": "50830199876d937b1d17c65dd5ab240d02df5a1d095c1a3e6bae862e57eca961"
+        },
+        {
+          "second": 75.25,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-75.250.jpg",
+          "sha256": "efaa18c2c109076ae8af099577380c14bc8c7c6295c67ebc6be9e9da8f71101c"
+        },
+        {
+          "second": 124.167,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-124.167.jpg",
+          "sha256": "fe8a055aef21c50a00e0c1c4d1701602aa21a04514602b939e2e1efe999313e3"
+        },
+        {
+          "second": 124.5,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-124.500.jpg",
+          "sha256": "30b32e74af955ecd0990c4024125dd41a2298ca7da4c7664808114ff990e349f"
+        },
+        {
+          "second": 135.65,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-135.650.jpg",
+          "sha256": "7fa9e0940af28d1dca28ffcad770465385ebcb2d3b77b275a3ffa0a3480a3a76"
+        },
+        {
+          "second": 139.167,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-139.167.jpg",
+          "sha256": "5b37f6e5cba26d0e4171886220b139852adc3cd5b01e7464b1217f3c309393be"
+        }
+      ]
+    },
+    {
+      "id": "V1-04",
+      "change": "Labeled shared workspace regions show chat, same task paper, and collaboration graph; content differs, not plug connection ratios.",
+      "target_times": [
+        124.167,
+        124.5,
+        128.15,
+        132.5,
+        135.65,
+        139.167
+      ],
+      "evidence": [
+        {
+          "second": 124.167,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-124.167.jpg",
+          "sha256": "fe8a055aef21c50a00e0c1c4d1701602aa21a04514602b939e2e1efe999313e3"
+        },
+        {
+          "second": 124.5,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-124.500.jpg",
+          "sha256": "30b32e74af955ecd0990c4024125dd41a2298ca7da4c7664808114ff990e349f"
+        },
+        {
+          "second": 128.15,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-128.150.jpg",
+          "sha256": "1f847f32bb9943857a837151cfca647840fdd0e9a132369b6a20b313e24789e8"
+        },
+        {
+          "second": 135.65,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-135.650.jpg",
+          "sha256": "7fa9e0940af28d1dca28ffcad770465385ebcb2d3b77b275a3ffa0a3480a3a76"
+        },
+        {
+          "second": 139.167,
+          "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/frame-139.167.jpg",
+          "sha256": "5b37f6e5cba26d0e4171886220b139852adc3cd5b01e7464b1217f3c309393be"
+        }
+      ]
+    }
+  ],
+  "unchanged": [
+    "02v3 words and semantics",
+    "22 reading windows",
+    "150s/9000frames/native60fps/1080x1920",
+    "no person, human audio, voiceover or TTS",
+    "approximate counts with attribution",
+    "conditional save check not fake successful test"
+  ],
+  "unverified": [
+    "normal-speed continuous visual",
+    "direct hearing and subjective mix",
+    "identified Nico music audio file and edit/speed match",
+    "05 independent quality acceptance",
+    "user final approval"
+  ],
+  "new_fees_uploads_shared_library_edits_subagents": false,
+  "prior_complete_candidate_frames_viewed": 75,
+  "latest_version_review_scope": "25 final frames, concentrating on changed transitions and six semantic representative frames; prior candidate75-frame review retained for unchanged ranges",
+  "video_sha256": "9a3ce43284d15afa47178e7e188d8baca3d17b2aedee5c64eab45a50ec3da537",
+  "actual_final_mp4_frames_viewed": 25,
+  "native_size_final_checks": [
+    50.15,
+    57.65,
+    103.167,
+    106.65,
+    124.167,
+    135.65,
+    139.167,
+    146.35
+  ],
+  "scene_observations": {
+    "S1": "任务纸和聊天图形前置，问题置于图形下方；12秒只保留一个任务纸，进入独立观察位。",
+    "S2": "人数按原顺序出现，旧数字保留左侧导航；图形不表示人口面积或筛落。",
+    "S3": "同一任务纸下缘法线外移18px起线，三个功能载体分段展开；四组数字保留至75秒。",
+    "S4": "同一事项含复选框沿步骤传递；同一重开窗口转为条件预期槽，未声称保存测试成功。",
+    "S5": "三个文字对应短答、任务纸、分工图三个工作区观察窗；底部总线与窗口间隔180px。",
+    "S6": "同一纸张收拢为输入；内部内容按变化轮廓裁切，最后问题保留到8999帧。"
+  },
+  "music_status": "Track identified from native PMO screenshot: We Never（Vibe知识大赏） / 阿布学长. Audio asset and edit/speed match still missing.",
+  "additional_transition_repairs": {
+    "reason": "Actual first composite image inspection found explanatory lines crossed by old branches82–89.5; conditional slot detached from morphing window103–103.5; moving function cap over paper139–139.5.",
+    "base_source_sha256": "c074fd836e7c018588eddb00e88348b259b04423f1ee6f40fedc89b47cb9b523",
+    "final_source_sha256": "a803808dc59c1d12b309d2ef7040906c24c183ac491eecac1b462b7d4f1d3447",
+    "ranges": [
+      [
+        4920,
+        5370
+      ],
+      [
+        6180,
+        6210
+      ],
+      [
+        8340,
+        8370
+      ]
+    ],
+    "end_exclusive": true,
+    "total_frames": 510,
+    "base_artifact": "output/ai-funnel-v2-internal-150s.mp4",
+    "base_artifact_sha256": "319acc9a721fa4bd0c25d71a9370c673822a7c760b1c1f5f1409781b160c6833",
+    "first_composite_review": "75 actual MP4 extracted frames viewed in10 contact sheets. Corrections confined to listed ranges."
+  },
+  "comparisons": [
+    {
+      "issue": "V1-01",
+      "times": [
+        3.15,
+        50.15
+      ],
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/comparisons/V1-01-before-after.jpg",
+      "sha256": "989046d3529c01cf5f8830587fadd21d43eab1e6a1153114c038f1b65e3c186c"
+    },
+    {
+      "issue": "V1-02",
+      "times": [
+        82.167,
+        103.167,
+        139.167
+      ],
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/comparisons/V1-02-before-after.jpg",
+      "sha256": "eb33d3bdfa9dbb69aa50753e693a7486957ff8149ac6367468c3398d08a3b1b4"
+    },
+    {
+      "issue": "V1-03",
+      "times": [
+        57.65,
+        135.65
+      ],
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/comparisons/V1-03-before-after.jpg",
+      "sha256": "8acaa093d268c419e5ed58ae098d832076fb2176fe85fbbe94f0aebc1d564d9f"
+    },
+    {
+      "issue": "V1-04",
+      "times": [
+        135.65
+      ],
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/comparisons/V1-04-before-after.jpg",
+      "sha256": "054ea11eb0af261a7b187e9bffcfb902fa19c70c71c1eb120bddbf1b6fe27578"
+    }
+  ]
+}

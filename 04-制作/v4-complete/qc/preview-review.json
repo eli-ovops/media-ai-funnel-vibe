@@ -1,0 +1,9 @@
+{
+  "version": "v4-complete-150s-r4",
+  "source_previews": {"complete_sources_read": ["T02g", "T04b", "T03e", "T04g"], "contact_sheets_viewed": 6, "normal_speed_continuous": false},
+  "stills": {"initial_contact_frames": 82, "revision_contact_frames": 24, "native_views": ["stills-r1/F4500.png", "stills-r3/F6210.png", "stills-r1/F7950.png"]},
+  "short_exports": {"files": 9, "actual_sampled_frames_viewed": 74, "sampling": "every 12 frames at 60fps; approximately 5fps", "normal_speed_continuous": false},
+  "motion_audit": {"blocking": 0, "warnings": 1, "warning": "preview-r4-5700-5850 0.0-2.4s", "decision": "Retain: the sequential wrap line settles on the save step, followed by the next arrow; inspect sampled frames F5700-F5844. This is silent instructional reading, not an idle recorded app."},
+  "fixed": ["T03e Frame obscured the outer heading; heading now above the module", "task window flashed white at reentry; same fixed black window retained", "task/access merges overlapped old and new labels; incoming labels delayed until old faces clear", "opening pill to circle left side remnants; replaced with one continuous outer surface and expanding inner hole", "restoring chart size overlapped lower reading text; chart now retains compact position through the reference change"],
+  "claim_limit": "These are sampled observations, not final whole-film aesthetic approval, normal-speed continuous review or real app test results."
+}

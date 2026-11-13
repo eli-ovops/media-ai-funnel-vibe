@@ -1,0 +1,130 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "stage": "04",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "Complete 150-second INTERNAL visual/code-SFX master is ready for independent05 review, as expressly allowed by04 task. This is not final music/audiovisual approval.",
+  "at": "2026-10-20T13:12:19.280070+08:00",
+  "video": {
+    "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/output/ai-funnel-v2-review-150s.mp4",
+    "sha256": "9a3ce43284d15afa47178e7e188d8baca3d17b2aedee5c64eab45a50ec3da537",
+    "width": 1080,
+    "height": 1920,
+    "r_frame_rate": "60/1",
+    "avg_frame_rate": "60/1",
+    "nb_frames": "9000",
+    "video_duration": "150.000000",
+    "audio_duration": "150.000000",
+    "format_duration": "150.000000",
+    "full_decode": "PASS"
+  },
+  "files_independently_hashed": 40,
+  "file_mismatches": [],
+  "frame_hashes_checked": 25,
+  "frame_hash_mismatches": [],
+  "actual_images_read": {
+    "current_mp4_distinct_sample_times": [
+      3.15,
+      36.65,
+      50.15,
+      57.65,
+      68.5,
+      72,
+      74.983,
+      75.25,
+      82.167,
+      82.5,
+      85.65,
+      89.167,
+      103.167,
+      103.35,
+      103.483,
+      106.65,
+      124.167,
+      124.5,
+      128.15,
+      135.65,
+      139.167,
+      139.35,
+      139.483,
+      146.35,
+      148.25
+    ],
+    "current_contact_sheets": [
+      "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/content-1.jpg",
+      "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/content-2.jpg",
+      "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/content-3.jpg",
+      "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/content-4.jpg"
+    ],
+    "before_after_comparisons": [
+      "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/comparisons/V1-01-before-after.jpg",
+      "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/comparisons/V1-02-before-after.jpg",
+      "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/comparisons/V1-03-before-after.jpg",
+      "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/comparisons/V1-04-before-after.jpg"
+    ],
+    "native_size_current_frames": [
+      57.65,
+      103.167,
+      135.65,
+      139.35
+    ],
+    "normal_speed_continuous_visual": false,
+    "direct_hearing": false
+  },
+  "four_issue_findings": [
+    {
+      "id": "V1-01",
+      "result": "RESOLVED_IN_READ_SCOPE",
+      "evidence": "Counts persist as clearly separated left navigation through74.983s, main task paper remains at right then moves to center75.25s; no population-proportional geometry. Composition has diagram above the opening question."
+    },
+    {
+      "id": "V1-02",
+      "result": "RESOLVED_IN_READ_SCOPE",
+      "evidence": "Read full World.ts and kit.ts. No compositeFigures whole-scene cross-dissolve; one paper pose and one moving item, separate object fades retained. Actual82.167/103.167/139.167 comparison and139.35native frame show one opaque paper, not duplicate scene geometries."
+    },
+    {
+      "id": "V1-03",
+      "result": "RESOLVED_IN_READ_SCOPE",
+      "evidence": "Actual57.65 native image: branches originate below the affine paper outer edge. Actual135.65 native: bus lies below the windows; no line crossing text or window tops. Code derives paper contour and draws paths behind opaque carriers."
+    },
+    {
+      "id": "V1-04",
+      "result": "RESOLVED_IN_READ_SCOPE",
+      "evidence": "Three fixed labels now map to chat/task paper/collaboration content in shared access workspace. Conditional wording remains; no fabricated successful product test."
+    }
+  ],
+  "technical_evidence_reused": {
+    "metadata_actual_read": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/metadata.json",
+    "raw_decode_progress_actual_read": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/decode-progress.txt",
+    "raw_decode_terminal": "frame9000, dup0, drop0, progress=end",
+    "raw_decode_error_bytes": 0,
+    "pmo_did_not_rerender_or_repeat_full_decode": true
+  },
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/delivery.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/README.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/src/World.ts",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/src/kit.ts",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/verify-final-review.py",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/source-map.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/rework-review.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/export-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/metadata.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/decode-progress.txt",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-review/decode-errors.txt",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/final-assembly.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/protected-inputs.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/copy-reading-stability.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/music-source-update.json"
+  ],
+  "remaining_required_work": [],
+  "outside_this_internal_handoff_scope_still_required": [
+    "05 independent visual/code-SFX review",
+    "Exact identified Nico BGM audio, edit/speed verification and integration through04",
+    "Music-dependent mix/event checks and truthful perceptual scope",
+    "User same-version final review and publish decision"
+  ],
+  "formal_final_audiovisual_acceptance": false,
+  "user_approval": "PENDING",
+  "music_asset": "MISSING"
+}

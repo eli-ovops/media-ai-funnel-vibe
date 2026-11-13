@@ -1,0 +1,39 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "source": "User asked status; one bounded owner snapshot and one targeted latest-turn read",
+  "owner_thread_id": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "last_turn_id": "01a15941-8d2a-7863-b90e-20b9fae1687a",
+  "owner_state": "idle/completed",
+  "last_cursor": "5287235a-893f-4d61-83b2-05f687fded10:3",
+  "finding": "After context compaction, Owner handled historical automation9 text and ended the turn without completing current eight-site preparation or proactively reporting interruption",
+  "v2_report_state": "PARTIAL_PROGRESS_JSON_ONLY; final summary absent",
+  "originals_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/八站执行回执-v2.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/bilibili-audio.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/tiktok-audio.png",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/执行截图-v2/weibo-audio.png"
+  ],
+  "accepted_scope": {
+    "bilibili": "Audio draft saved/reopened",
+    "tiktok": "Audio draft saved/reopened; music check no issues, content check pending",
+    "weibo": "Audio edit page filled, not persistent draft"
+  },
+  "not_accepted_as_ready": [
+    "X",
+    "YouTube",
+    "LinkedIn",
+    "小红书",
+    "视频号"
+  ],
+  "preserved_task": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/八站带音乐版待发任务-v2.md",
+  "resume_scope": "Finish remaining stations and evidence from current live tabs; preserve completed sites; no repeated old automation handling",
+  "media_sha256": "d6673fb12be23bc07bf18fb5c2fd6539cc95858ece200062e9c2354a25838746",
+  "requested_model": "gpt-6.1-sol",
+  "requested_effort": "medium",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "quota_weekly_used_percent": 32,
+  "quota_five_hour_used_percent": "UNKNOWN",
+  "public_release_authorized": false,
+  "continuous_audio_hearing": "NOT_PERFORMED"
+}

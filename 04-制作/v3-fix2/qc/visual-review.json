@@ -1,0 +1,108 @@
+{
+  "reviewer": "04 production Owner",
+  "final_export_native_images_actually_viewed": [
+    {
+      "frame": 1379,
+      "seconds": 22.983333333333334,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-001.png"
+    },
+    {
+      "frame": 1380,
+      "seconds": 23.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-002.png"
+    },
+    {
+      "frame": 1410,
+      "seconds": 23.5,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-003.png"
+    },
+    {
+      "frame": 1440,
+      "seconds": 24.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-004.png"
+    },
+    {
+      "frame": 1619,
+      "seconds": 26.983333333333334,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-005.png"
+    },
+    {
+      "frame": 1620,
+      "seconds": 27.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-006.png"
+    },
+    {
+      "frame": 7860,
+      "seconds": 131.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-007.png"
+    },
+    {
+      "frame": 7883,
+      "seconds": 131.38333333333333,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-008.png"
+    },
+    {
+      "frame": 7884,
+      "seconds": 131.4,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-009.png"
+    },
+    {
+      "frame": 7885,
+      "seconds": 131.41666666666666,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-010.png"
+    },
+    {
+      "frame": 7920,
+      "seconds": 132.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-011.png"
+    },
+    {
+      "frame": 7980,
+      "seconds": 133.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-012.png"
+    },
+    {
+      "frame": 8160,
+      "seconds": 136.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-013.png"
+    },
+    {
+      "frame": 8280,
+      "seconds": 138.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-014.png"
+    },
+    {
+      "frame": 8340,
+      "seconds": 139.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-015.png"
+    },
+    {
+      "frame": 8459,
+      "seconds": 140.98333333333332,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-016.png"
+    },
+    {
+      "frame": 8460,
+      "seconds": 141.0,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-017.png"
+    },
+    {
+      "frame": 8461,
+      "seconds": 141.01666666666668,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frames/sample-018.png"
+    }
+  ],
+  "count": 18,
+  "original_counterexamples_viewed": [
+    "05-质检/v3/extra-020.jpg",
+    "05-质检/v3/extra-130.jpg",
+    "05-质检/v3/extra-132.jpg"
+  ],
+  "Q1": "Correct gray upper-left label ownership; short leader ends on gray ring, no text crossing; 23/27 entry exit preserved",
+  "Q2": "H target, highlighted path, selector and internal-system label visible; 131.4 and 141 seams show no sampled positional discontinuity",
+  "removed_badges": "No recurrence in reviewed final frames; source drawing remains removed",
+  "continuous_normal_speed_viewing": "NOT_PERFORMED",
+  "direct_hearing": "NOT_PERFORMED",
+  "independent_05": "PENDING",
+  "pmo_acceptance": "PENDING"
+}

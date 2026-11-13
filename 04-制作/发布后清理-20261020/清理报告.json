@@ -1,0 +1,13 @@
+{
+  "at": "2026-10-20T22:25:11.176323+08:00",
+  "candidate_count": 56,
+  "deleted_count": 54,
+  "deleted_logical_bytes": 245737390,
+  "retained_count": 2,
+  "retained_logical_bytes": 6767622,
+  "df_available_delta_bytes": 257163264,
+  "df_note": "Observed filesystem available-space change only; allocation/APFS/concurrent activity may affect attribution.",
+  "protected_selected_all_unchanged": true,
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN"
+}

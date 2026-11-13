@@ -1,0 +1,32 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage": "06",
+  "decision": "PASS",
+  "scope": "ONLY five selected platforms now explicitly authorized; not a PASS for YouTube, Video Account or all eight",
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/PMO-八站带音乐待发验收-v2.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/八站执行回执-v2.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/八站执行汇总-v2.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/PMO-八站待发清单-v2.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布授权与关闭.json"
+  ],
+  "remaining_required_work": [],
+  "selected_platforms": [
+    "bilibili",
+    "weibo",
+    "tiktok",
+    "x",
+    "linkedin"
+  ],
+  "passed_preparation": "Selected accounts, exact video/audio SHA and prepared fields frozen; user explicitly orders main-post send. Native duplicate/account/media recheck immediately before submitting is part of stage07.",
+  "known_limits": [
+    "No normal-speed continuous audiovisual QA or direct listening added",
+    "LinkedIn hashtag native property before posting remains unverified",
+    "Weibo current editor not persistent before submission; use tab8, preserve recoverable local fields",
+    "YouTube blocked and Video Account manual are outside released publish subset",
+    "Xiaohongshu latest user manual receipt excludes it"
+  ],
+  "public_release_scope_source": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/07-五站发布授权与关闭.json"
+}
+

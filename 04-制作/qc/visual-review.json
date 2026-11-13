@@ -1,0 +1,45 @@
+{
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/output/ai-funnel-v1-internal-150s.mp4",
+  "artifactSha256": "4a287e4dee64f6ebb689788dd002da481bbaf9a2413158672ee91962c8496adf",
+  "status": "SAMPLED_IMAGE_REVIEW_COMPLETED; FULL_AV_REVIEW_NOT_CLAIMED",
+  "unique_final_mp4_frames_viewed": 61,
+  "coverage": "22 cue midpoints +39 transition/semantic event points; 8 contact sheets actually displayed",
+  "additional_native_size_checks": [
+    50.15,
+    106.65,
+    135.65
+  ],
+  "observations": {
+    "S1": "同一个端口连接短答与立体任务纸；首段纸张已收进画布，文字无裁切。",
+    "S2": "断开端口与接通后的聊天/纸张有区别；人数只有约数文字，没有数量对应的粒子。",
+    "S3": "三功能分工、下方负责端和交换路径可见；5000绑定内部访问说明，未写Agent总人数。",
+    "S4": "保存前事项与刷新后虚线预期槽对照；回查线路保持条件句，没有测试成功勾。",
+    "S5": "三访问窗口大小按构图处理，未表示性能倍数；文字和线条分区，完整可读。",
+    "S6": "三关系收回到单个任务输入；最后提问保留到8999帧。"
+  },
+  "transitions": "10 conceptual boundary cross-dissolves last 0.35s within orientation windows; observed intentional brief double exposure. In-scene split/pulse/camera/reopen/return stages sampled. No full-time smoothness claim.",
+  "copy": "All22 screen cues visible in sampled frames, with proper approximate counts and persistent attribution. Actual font geometry has46 lines within safe area.",
+  "covers": "Four full candidate images and four phone thumbnails viewed; corrected3:4 bottom margin before final inspection; all are candidates, not user approved.",
+  "unverified": [
+    "Normal-speed continuous visual perception",
+    "Direct hearing and subjective mix",
+    "Exact Nico BGM",
+    "05 independent review",
+    "User final approval"
+  ],
+  "repair_batch": {
+    "user_rework_rounds": 0,
+    "internal_layout_rounds": 1,
+    "fixed": [
+      "intro project object right margin",
+      "chapter boundary 0.35s transitions",
+      "3:4 cover bottom margin"
+    ]
+  },
+  "technical_only_fixes": [
+    "source catalog local path binding by exact hash",
+    "local existing TypeScript parser resolution",
+    "one aborted cwd/hash refresh attempt; final source receipt and video SHA govern",
+    "PNG full-page capture replaced by native Canvas image export after two same-code short tests"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "gate": "planning",
+  "manifestPath": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/manifest.json",
+  "manifestSha256": "28d0cf7408a8d21d3136dea38ff46924cb0320d9b10cad8bb34f3e946dd56d93",
+  "durationInFrames": 9000,
+  "timelineFps": 60,
+  "previousReceipt": null,
+  "previousReceiptSha256": null,
+  "requiredRepresentativeScenes": [
+    "S1",
+    "S3",
+    "S4",
+    "S5",
+    "S6"
+  ],
+  "status": "PASS",
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "source": "Standing project post-publication cleanup rule plus current human completion and exclusion",
+  "standing_rule": "/Volumes/EXTERNAL/自媒体/AGENTS.md:157",
+  "standing_quote": "每次内容发布完成后，删除该条内容所有生成的视频文件；包含最终成片；不需要每次重复请求批准",
+  "completion_quote": "已全部发布了",
+  "youtube_exclusion_quote": "这期不发YouTube了",
+  "trigger_confirmed": true,
+  "current_targets": [
+    "抖音",
+    "小红书",
+    "B站",
+    "视频号",
+    "微博",
+    "TikTok",
+    "X",
+    "LinkedIn"
+  ],
+  "excluded_this_issue": [
+    "YouTube"
+  ],
+  "permission": "Delete only this content's proved generated local video files, with per-path source/hash/live-use checks, preserve all inputs and assets",
+  "candidate_inventory": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/06-发布准备/PMO-发布完成清理前只读视频范围.json",
+  "max_candidate_count": 56,
+  "listed_bytes_not_expected_release": 252505012,
+  "keep_inputs": [
+    "/Users/USER/Downloads/微信视频2026-10-20_201157_614.mp4",
+    "All downloaded references and all paid/shared component MP4s",
+    "Engineering/source/audio/subtitles/covers/screenshots/hashes/publication receipts"
+  ],
+  "no_cloud_or_account_action": true,
+  "cleanup_does_not_cancel_qa_limitations": true,
+  "recorded_at": "2026-10-20T22:15:09.900381+08:00"
+}

@@ -1,0 +1,639 @@
+- button "开启读屏标签"
+- generic: 读屏标签已关闭
+- link:
+  - /url: //www.douyin.com/jingxuan
+- link "精选":
+  - /url: https://www.douyin.com/jingxuan?from_nav=1
+  - generic: 精选
+- link "推荐":
+  - /url: https://www.douyin.com/?recommend=1&from_nav=1
+  - generic: 推荐
+- link "AI抖音":
+  - /url: https://www.douyin.com/aisearch?from_nav=1
+  - generic: AI抖音
+- link "关注 14":
+  - /url: https://www.douyin.com/follow?from_nav=1
+  - generic: 关注
+  - generic: "14"
+- link "朋友":
+  - /url: https://www.douyin.com/friend?from_nav=1
+  - generic: 朋友
+- link "我的":
+  - /url: https://www.douyin.com/user/self?from_nav=1
+  - generic: 我的
+- link "直播":
+  - /url: https://live.douyin.com/?from_nav=1
+  - generic: 直播
+- link "放映厅":
+  - /url: https://www.douyin.com/vs?from_nav=1
+  - generic: 放映厅
+- link "短剧":
+  - /url: https://www.douyin.com/series?from_nav=1
+  - generic: 短剧
+- generic: 下载抖音精选
+- generic: 2026 © 抖音
+- link "京ICP备16016397号-3":
+  - /url: https://beian.miit.gov.cn/
+- contentinfo:
+  - link "icon京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+    - img "icon"
+    - text: 京公网安备11010802050006号
+  - link "icon电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+    - img "icon"
+    - text: 电子营业执照
+  - generic: 信息网络传播视听节目许可证 0126733
+  - generic: 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: 增值电信业务经营许可证 京B2-20170846
+  - generic: 网络文化经营许可证 京网文〔2025〕0181-061号
+  - generic: 互联网宗教信息服务许可证 京（2025）0000017
+  - generic: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+  - generic: 互联网新闻信息服务许可证 11220230001
+  - link "（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - link "网络谣言曝光台":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: 违法和不良信息举报 400-140-2108 [REDACTED_EMAIL]
+  - generic: 算法推荐专项举报 [REDACTED_EMAIL]
+  - generic: 体育饭圈专项举报 [REDACTED_EMAIL]
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+- banner:
+  - generic: 概率学
+  - textbox
+  - button "搜索":
+    - generic: 搜索
+  - paragraph: 充钻石
+  - link "客户端":
+    - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+    - paragraph: 客户端
+  - generic: 壁纸
+  - list:
+    - paragraph: 通知
+  - list:
+    - paragraph: 消息
+  - paragraph: 投稿
+  - link:
+    - /url: //www.douyin.com/user/self
+- generic: 00:18
+- generic: /
+- generic: 02:10
+- generic: 倍速
+- generic: 智能
+- button
+- generic: 清屏
+- button
+- generic: 连播
+- generic: 张脑子小曲
+- generic: 与易经盛极而衰的道理异曲同工
+- generic: 落子无悔
+- generic: 触网弹起的网球🎾
+- generic: "293"
+- generic: Opus 小曲
+- generic: 可我是赌圣
+- generic: 贝叶斯定理
+- generic: "171"
+- generic: 运道大宗师
+- generic: "164"
+- generic: 信念可以改变结果
+- generic: 开智小曲
+- generic: 圣杯
+- generic: 这不就是概率论吗
+- generic: 还我鼻子还我妈生鼻
+- generic: 十赌九输 你以为你真的能赢吗
+- 'heading "第1集 | Vibe知识大赏 | 《运气的形状》本视频由#Claude5.5 制作 #opus5.5#概率 #ai新星计划 #vibe知识大赏" [level=1]':
+  - text: 第1集 |
+  - generic: Vibe知识大赏 | 《运气的形状》本视频由
+  - link "#Claude5":
+    - /url: //www.douyin.com/search/Claude5?enter_from=video_detail&source=pc_click_hashtag_feed
+  - generic: .5 制作
+  - link "#opus5":
+    - /url: //www.douyin.com/search/opus5?enter_from=video_detail&source=pc_click_hashtag_feed
+  - generic: ".5"
+  - link "#概率":
+    - /url: //www.douyin.com/search/%E6%A6%82%E7%8E%87?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#ai新星计划":
+    - /url: //www.douyin.com/search/ai%E6%96%B0%E6%98%9F%E8%AE%A1%E5%88%92?enter_from=video_detail&source=pc_click_hashtag_feed
+  - link "#vibe知识大赏":
+    - /url: //www.douyin.com/search/vibe%E7%9F%A5%E8%AF%86%E5%A4%A7%E8%B5%8F?enter_from=video_detail&source=pc_click_hashtag_feed
+- generic: 60.9万
+- generic: "3310"
+- generic: 13.1万
+- generic: 9.6万
+- generic: 举报
+- generic: 发布时间：2026-09-28 06:25
+- generic: 全部评论
+- link "Eli-Ai头像":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA5LVKqAWfTG40DI3xWmdYCgegjxnDqqocrZlcGqFDldzRQLOWg4S65imwRNIA_ycH
+  - img "Eli-Ai头像"
+- generic: 留下你的精彩评论吧
+- generic: 大家都在搜：
+- link "概率学":
+  - /url: //www.douyin.com/search/%E6%A6%82%E7%8E%87%E5%AD%A6?aweme_id=7690344836800913785&enter_from=video_detail&gid=7690344836800913785&source=comment_related_search
+  - generic: 概率学
+- link "顺意":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA259t95xf6u4ILDMYTm2oOsg4LDJhlSpXLD4ikftnfkmQTn0e25Gdeh3gqVL_NbRU
+  - generic: 顺意
+- generic: ...
+- generic: 看似研究学问，实则欣赏音乐。
+- generic: 3周前·中国香港
+- paragraph:
+  - generic: 2.4万
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开109条回复":
+  - generic: 展开109条回复
+- link "Veronica":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAmPt2hP22mtLRBPy_xdvKXDtIrSbIkPBjYE3JPTJ8LteXhrDcQbKaPP9EmSaMkPAD
+  - generic: Veronica
+- generic: ...
+- text: 大数定律今年江苏事业编题干写到了 当时看到我都惊呆了
+- img "[听歌]"
+- img "[听歌]"
+- img "[听歌]"
+- text: 但是蛮治愈的
+- generic: 2周前·江苏
+- paragraph:
+  - generic: "63"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "咸鱼大人":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAd7cBjwGiby82SBZRDTug_PZzY-LiRee4OKn25j2-5GXWSYRAYssP76AbwhK5aFP7
+  - generic: 咸鱼大人
+- generic: ...
+- generic: 概率我觉得是最有用的一门知识之一，人生就是大大小小的选择组合成的，懂概率能少走很多弯路
+- generic: 作者赞过
+- generic: 3周前·美国
+- paragraph:
+  - generic: 8.0万
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开354条回复":
+  - generic: 展开354条回复
+- link "胖胖派大星":
+  - /url: //www.douyin.com/user/MS4wLjABAAAANmVNrqWWuUYFMT8KPwTXmko6hArmqHcgBgEmWKCGG5Q
+  - generic: 胖胖派大星
+- generic: ...
+- generic: 我唯一能懂的就只有音乐了
+- generic: 2周前·江苏
+- paragraph:
+  - generic: "4580"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开26条回复":
+  - generic: 展开26条回复
+- link "优之（A雕）":
+  - /url: //www.douyin.com/user/MS4wLjABAAAARtOYX-WOENFXOz8W8cN9KxP2eD-40jSXOxV8AsemfbLFEMMFzvucJ4V9s9mV4y_B
+  - generic: 优之（A雕）
+- generic: ...
+- generic: 突然理解到了数学的美感，虽然我依然不会数学
+- generic: 2周前·河北
+- paragraph:
+  - generic: "382"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开5条回复":
+  - generic: 展开5条回复
+- link "m0NESY":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA6y874oZJKEuEKmtOyWB2rH_hjbOwy0qkywI6pEkIuhU
+  - generic: m0NESY
+- generic: ...
+- generic: 歌名：We Never
+- generic: 1周前·安徽
+- paragraph:
+  - generic: "2"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "🔥。":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAqKq6iQHTXb_icFJAUwN_y1hN4q69y5vRmz9zQmE9O98
+  - img "🔥"
+  - text: 。
+- generic: ...
+- generic: 小一点的叫运气，大一点的叫命运
+- generic: 3周前·天津
+- paragraph:
+  - generic: "5457"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开22条回复":
+  - generic: 展开22条回复
+- link "清心":
+  - /url: //www.douyin.com/user/MS4wLjABAAAASiQWyl8YtM49lIdfOQ17IDjR4MxOjLSH_8pLiXG1BUy-dhjCbWlcJtKW0-YpTMzZ
+  - generic: 清心
+- generic: ...
+- text: 这个音乐在37%时候就一直缠上了我
+- img "[捂脸]"
+- generic: 2周前·山东
+- paragraph:
+  - generic: "220"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开6条回复":
+  - generic: 展开6条回复
+- link "金木研":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAWifEEOQskOi2efH3H-DsPqBY9CPKYIyV2i3XQ21pffk
+  - generic: 金木研
+- generic: ...
+- generic: 运气会给你随机的惊喜和打击；但你的人生结局，不是由某一次走运或者倒霉决定，而是由千千万万次你的选择、反应，堆积出来的形状。
+- generic: 偶然负责敲门，你的性格和选择，才决定门打开之后能留住什么。
+- generic: 2周前·江苏
+- paragraph:
+  - generic: "193"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开7条回复":
+  - generic: 展开7条回复
+- link "泰酱美式和牛堡🍔":
+  - /url: //www.douyin.com/user/MS4wLjABAAAASZVwvo6BUBuD5H_qkzRUjpqnaA1kTSlXsbgCYc5DJSc
+  - text: 泰酱美式和牛堡
+  - img "🍔"
+- generic: ...
+- generic: 概率论和统计学，是否掌握好这里面的思想基本可以反映出一个人是否真正受到过良好的高等教育。因为太有用了，无论干什么都很有用，几乎是研究任何问题都会涉及的
+- generic: 3周前·广东
+- paragraph:
+  - generic: "177"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开2条回复":
+  - generic: 展开2条回复
+- link "佛系青莲":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAp8kBcXxjOa4N-KoA9TN4XBUPNJzh84DpKO-3QeGvugQ-tk8TveKn19FAsYJnLKk9
+  - generic: 佛系青莲
+- generic: ...
+- generic: 假如世界上的一切如果都可以被量化，那么你又如何证明命运不是从一开始就是固定好的
+- generic: 3周前·安徽
+- paragraph:
+  - generic: "375"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开14条回复":
+  - generic: 展开14条回复
+- link "Zzzzzzzzz":
+  - /url: //www.douyin.com/user/MS4wLjABAAAA1UVE2_jIhhMsF8F2a0ufpINZiRcVbvmZBi43i1gREVw
+  - generic: Zzzzzzzzz
+- generic: ...
+- generic: 这个音乐配的太好了
+- generic: 3周前·重庆
+- paragraph:
+  - generic: "1384"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开6条回复":
+  - generic: 展开6条回复
+- link "墨长风":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAJv8Z-4FwUjG1kY13PN2j4xKeRYAi6Ukeg1fKm_Oo0vyCEYkjIkcfc0vVJD6EPLLP
+  - generic: 墨长风
+- generic: ...
+- generic: 概率不是运气的形状，概率是我们描述随机结果分布的一种数学工具。
+- generic: 而运气，尤其是“这个结果偏偏落在我身上”这件事，概率论本身并没有替你解释。
+- generic: 2周前·广东
+- paragraph:
+  - generic: "87"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开1条回复":
+  - generic: 展开1条回复
+- link "乌梅栀":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAvc8lHpG9WD1ufzPW-ugp4J0vZrZuviFjjyylNcBTgoA
+  - generic: 乌梅栀
+- generic: ...
+- text: 这个bgm宿命感好强，有一种被动入局的无奈之感
+- img "[流泪]"
+- generic: 2周前·浙江
+- paragraph:
+  - generic: "22"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- link "夏至未至":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAqGUX4EEmz6D6w7b-7ae0TZx5kdD1qvKilScueAJxdB2PR9DYIX0Ff9OvcNbhi15p
+  - generic: 夏至未至
+- generic: ...
+- generic: 命就是概率学，是趋势，运就是趋势里可变的变量
+- generic: 2周前·江苏
+- paragraph:
+  - generic: "126"
+- paragraph:
+- generic: 分享
+- generic: 回复
+- button "展开4条回复":
+  - generic: 展开4条回复
+- generic: 加载中
+- link "Iwanau":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAm4K4NmeVDgnWRzzy5dZf093WBGkH9OnSIEMzJx1-T4cXQE59AbbP1nmMyYlxWE32
+  - img "Iwanau"
+- link "Iwanau":
+  - /url: //www.douyin.com/user/MS4wLjABAAAAm4K4NmeVDgnWRzzy5dZf093WBGkH9OnSIEMzJx1-T4cXQE59AbbP1nmMyYlxWE32
+  - generic: Iwanau
+- paragraph: 粉丝15.5万获赞232.7万
+- button "关注":
+  - generic: 关注
+- generic: 下载客户端，桌面快捷访问
+- link "下载":
+  - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/495279540/8.7.0/darwin-universal/douyin-v8.7.0-darwin-universal.dmg
+  - generic: 下载
+- heading "运气与选择" [level=2]
+- list:
+  - link "运气与选择第1集 播放中":
+    - /url: //www.douyin.com/video/7690344836800913785
+    - img "运气与选择第1集"
+    - generic: 播放中
+  - 'heading "第1集 | Vibe知识大赏 | 《运气的形状》本视频由#Claude5.5 制作 #opus5.5#概率 #ai新星计划 #vibe知识大赏" [level=3]':
+    - 'link "第1集 | Vibe知识大赏 | 《运气的形状》本视频由#Claude5.5 制作 #opus5.5#概率 #ai新星计划 #vibe知识大赏"':
+      - /url: //www.douyin.com/video/7690344836800913785
+      - generic: "第1集 | Vibe知识大赏 | 《运气的形状》本视频由#Claude5.5 制作 #opus5.5#概率 #ai新星计划 #vibe知识大赏"
+  - text: 60.9万
+  - link "运气与选择第2集 02:23":
+    - /url: //www.douyin.com/video/7690785624487590054
+    - img "运气与选择第2集"
+    - generic: 02:23
+  - 'heading "第2集 | Vibe知识大赏 | 《月老的算法》一个拿了诺贝尔奖的“相亲算法”：谁先开口，谁更如愿？#诺贝尔奖 #博弈论 #相亲#claude5.5#vibe知识大赏 一千多年前，人们说姻缘是月老用红线系定的；1962 年，两位数学家把它写成了一道题。同一份心意名单，男生先开口和女生先开口，会得到两种完全不同、却同样“稳定”的结局——开口的一方，拿到的是所有稳定结局里最好的那个。这套算法后来拿了诺贝尔经济学奖，如今还在给医生分医院、给学生分学校。 #抖音精选app陪你看诺奖" [level=3]':
+    - 'link "第2集 | Vibe知识大赏 | 《月老的算法》一个拿了诺贝尔奖的“相亲算法”：谁先开口，谁更如愿？#诺贝尔奖 #博弈论 #相亲#claude5.5#vibe知识大赏 一千多年前，人们说姻缘是月老用红线系定的；1962 年，两位数学家把它写成了一道题。同一份心意名单，男生先开口和女生先开口，会得到两种完全不同、却同样“稳定”的结局——开口的一方，拿到的是所有稳定结局里最好的那个。这套算法后来拿了诺贝尔经济学奖，如今还在给医生分医院、给学生分学校。 #抖音精选app陪你看诺奖"':
+      - /url: //www.douyin.com/video/7690785624487590054
+      - generic: "第2集 | Vibe知识大赏 | 《月老的算法》一个拿了诺贝尔奖的“相亲算法”：谁先开口，谁更如愿？#诺贝尔奖 #博弈论 #相亲#claude5.5#vibe知识大赏"
+      - generic: "一千多年前，人们说姻缘是月老用红线系定的；1962 年，两位数学家把它写成了一道题。同一份心意名单，男生先开口和女生先开口，会得到两种完全不同、却同样“稳定”的结局——开口的一方，拿到的是所有稳定结局里最好的那个。这套算法后来拿了诺贝尔经济学奖，如今还在给医生分医院、给学生分学校。 #抖音精选app陪你看诺奖"
+  - text: 42.0万
+  - link "运气与选择第3集 02:26":
+    - /url: //www.douyin.com/video/7691358069305586094
+    - img "运气与选择第3集"
+    - generic: 02:26
+  - 'heading "第3集 | Vibe知识大赏 | 《多修一条路，为什么反而更堵？》 1990 年地球日，纽约封掉了 42 街，所有人都等着看一场大堵车——结果车流反而更顺了。早在 1968 年，德国数学家布雷斯就算出来了：路网里多加一条路，可能让每个人都更慢。因为每个人都选了最快的路。人人都抢的捷径，就是最慢的路。#博弈论 #纳什均衡 #堵车 #Claude5.5 #vibe知识大赏" [level=3]':
+    - 'link "第3集 | Vibe知识大赏 | 《多修一条路，为什么反而更堵？》 1990 年地球日，纽约封掉了 42 街，所有人都等着看一场大堵车——结果车流反而更顺了。早在 1968 年，德国数学家布雷斯就算出来了：路网里多加一条路，可能让每个人都更慢。因为每个人都选了最快的路。人人都抢的捷径，就是最慢的路。#博弈论 #纳什均衡 #堵车 #Claude5.5 #vibe知识大赏"':
+      - /url: //www.douyin.com/video/7691358069305586094
+      - generic: 第3集 | Vibe知识大赏 | 《多修一条路，为什么反而更堵？》
+      - generic: "1990 年地球日，纽约封掉了 42 街，所有人都等着看一场大堵车——结果车流反而更顺了。早在 1968 年，德国数学家布雷斯就算出来了：路网里多加一条路，可能让每个人都更慢。因为每个人都选了最快的路。人人都抢的捷径，就是最慢的路。#博弈论 #纳什均衡 #堵车 #Claude5.5 #vibe知识大赏"
+  - text: 30.2万
+  - link "运气与选择第4集 02:28":
+    - /url: //www.douyin.com/video/7690958721451593650
+    - img "运气与选择第4集"
+    - generic: 02:28
+  - 'heading "第4集 | Vibe知识大赏 | 《一美元拍卖》 一美元，为什么能把两个人拖进赔钱竞赛？#博弈论 #沉没成本 #诺贝尔奖 #vibe知识大赏 1971 年，耶鲁经济学家舒比克（他在普林斯顿的室友，是后来拿了诺贝尔奖的纳什和沙普利）写了一篇只有 3 页的论文，介绍一个派对游戏：拍卖一张 1 美元，出价最高的人拿走它，出价第二高的人也要付钱。每一轮，加价看起来都比退出划算 90 美分，于是两个人从“捡便宜”走到“少亏点”，最后花 2 美元买下 1 美元。卡尼曼的“损失厌恶”、塞勒研究的“沉没成本”，解释了为什么越亏越停不下来。最后我们把拍卖重来一次：只多了一条离场线，亏钱的就变成了拍卖师。视频里有三次暂停——换成你，会退出还是加价？ #抖音精选app陪你看诺奖" [level=3]':
+    - 'link "第4集 | Vibe知识大赏 | 《一美元拍卖》 一美元，为什么能把两个人拖进赔钱竞赛？#博弈论 #沉没成本 #诺贝尔奖 #vibe知识大赏 1971 年，耶鲁经济学家舒比克（他在普林斯顿的室友，是后来拿了诺贝尔奖的纳什和沙普利）写了一篇只有 3 页的论文，介绍一个派对游戏：拍卖一张 1 美元，出价最高的人拿走它，出价第二高的人也要付钱。每一轮，加价看起来都比退出划算 90 美分，于是两个人从“捡便宜”走到“少亏点”，最后花 2 美元买下 1 美元。卡尼曼的“损失厌恶”、塞勒研究的“沉没成本”，解释了为什么越亏越停不下来。最后我们把拍卖重来一次：只多了一条离场线，亏钱的就变成了拍卖师。视频里有三次暂停——换成你，会退出还是加价？ #抖音精选app陪你看诺奖"':
+      - /url: //www.douyin.com/video/7690958721451593650
+      - generic: "第4集 | Vibe知识大赏 | 《一美元拍卖》 一美元，为什么能把两个人拖进赔钱竞赛？#博弈论 #沉没成本 #诺贝尔奖 #vibe知识大赏"
+      - generic: "1971 年，耶鲁经济学家舒比克（他在普林斯顿的室友，是后来拿了诺贝尔奖的纳什和沙普利）写了一篇只有 3 页的论文，介绍一个派对游戏：拍卖一张 1 美元，出价最高的人拿走它，出价第二高的人也要付钱。每一轮，加价看起来都比退出划算 90 美分，于是两个人从“捡便宜”走到“少亏点”，最后花 2 美元买下 1 美元。卡尼曼的“损失厌恶”、塞勒研究的“沉没成本”，解释了为什么越亏越停不下来。最后我们把拍卖重来一次：只多了一条离场线，亏钱的就变成了拍卖师。视频里有三次暂停——换成你，会退出还是加价？ #抖音精选app陪你看诺奖"
+  - text: 8.0万
+  - link "运气与选择第5集 02:24":
+    - /url: //www.douyin.com/video/7691850536207456714
+    - img "运气与选择第5集"
+    - generic: 02:24
+  - 'heading "第5集 | vibe知识大赏｜《月老的算法2》——该在第几个停下？开普勒相亲 11 次，37% 法则让他停在第 5 个 1611 年，天文学家开普勒的妻子病逝。他决定像算行星轨道一样，认真挑一位新娘。 两年里他见了 11 位：最心动第 5 位，却听朋友的去追第 4 位，犹豫太久被拒；第 7 位也没等他。见完 11 位，他又回头去找第 5 位。 三百多年后，数学家把这类事写成了一道题：一次只见一个，当场决定，错过不能回头。答案是 37%——前 37% 只看不选，之后遇到比前面都好的，就停下。放回开普勒的 11 位，它正好停在第 5 位。 可它也有 63% 的时候会失败，何况真实的人会拒绝你。所以规则要跟着现实调整：看清之前别急，看清之后别等。 #最优停止 #找对象 #相亲 #概率#vibe知识大赏" [level=3]':
+    - 'link "第5集 | vibe知识大赏｜《月老的算法2》——该在第几个停下？开普勒相亲 11 次，37% 法则让他停在第 5 个 1611 年，天文学家开普勒的妻子病逝。他决定像算行星轨道一样，认真挑一位新娘。 两年里他见了 11 位：最心动第 5 位，却听朋友的去追第 4 位，犹豫太久被拒；第 7 位也没等他。见完 11 位，他又回头去找第 5 位。 三百多年后，数学家把这类事写成了一道题：一次只见一个，当场决定，错过不能回头。答案是 37%——前 37% 只看不选，之后遇到比前面都好的，就停下。放回开普勒的 11 位，它正好停在第 5 位。 可它也有 63% 的时候会失败，何况真实的人会拒绝你。所以规则要跟着现实调整：看清之前别急，看清之后别等。 #最优停止 #找对象 #相亲 #概率#vibe知识大赏"':
+      - /url: //www.douyin.com/video/7691850536207456714
+      - generic: 第5集 | vibe知识大赏｜《月老的算法2》——该在第几个停下？开普勒相亲 11 次，37% 法则让他停在第 5 个
+      - generic: 1611 年，天文学家开普勒的妻子病逝。他决定像算行星轨道一样，认真挑一位新娘。 两年里他见了 11 位：最心动第 5 位，却听朋友的去追第 4 位，犹豫太久被拒；第 7 位也没等他。见完 11 位，他又回头去找第 5 位。
+      - generic: 三百多年后，数学家把这类事写成了一道题：一次只见一个，当场决定，错过不能回头。答案是 37%——前 37% 只看不选，之后遇到比前面都好的，就停下。放回开普勒的 11 位，它正好停在第 5 位。
+      - generic: "可它也有 63% 的时候会失败，何况真实的人会拒绝你。所以规则要跟着现实调整：看清之前别急，看清之后别等。 #最优停止 #找对象 #相亲 #概率#vibe知识大赏"
+  - text: 7.4万
+  - link "运气与选择第6集 02:22":
+    - /url: //www.douyin.com/video/7691663869630121657
+    - img "运气与选择第6集"
+    - generic: 02:22
+  - 'heading "第6集 | vibe知识大赏｜《换不换门？》近千位博士都算错了这道题 三扇门，一辆跑车，两只山羊。你选了 1 号门，知道答案的主持人打开 3 号门——是羊。 现在，换还是不换？先在心里选好。 1990 年，吉尼斯纪录里智商最高的人说：换。一万封信寄到杂志社，近千封署名带着“博士”。 连发表了约 1500 篇论文的埃尔德什都不信，直到看见电脑模拟。 那我们也跑一千局。#蒙提霍尔问题 #概率 #反直觉 #思维模型 #vibe知识大赏" [level=3]':
+    - 'link "第6集 | vibe知识大赏｜《换不换门？》近千位博士都算错了这道题 三扇门，一辆跑车，两只山羊。你选了 1 号门，知道答案的主持人打开 3 号门——是羊。 现在，换还是不换？先在心里选好。 1990 年，吉尼斯纪录里智商最高的人说：换。一万封信寄到杂志社，近千封署名带着“博士”。 连发表了约 1500 篇论文的埃尔德什都不信，直到看见电脑模拟。 那我们也跑一千局。#蒙提霍尔问题 #概率 #反直觉 #思维模型 #vibe知识大赏"':
+      - /url: //www.douyin.com/video/7691663869630121657
+      - generic: 第6集 | vibe知识大赏｜《换不换门？》近千位博士都算错了这道题
+      - generic: "三扇门，一辆跑车，两只山羊。你选了 1 号门，知道答案的主持人打开 3 号门——是羊。 现在，换还是不换？先在心里选好。 1990 年，吉尼斯纪录里智商最高的人说：换。一万封信寄到杂志社，近千封署名带着“博士”。 连发表了约 1500 篇论文的埃尔德什都不信，直到看见电脑模拟。 那我们也跑一千局。#蒙提霍尔问题 #概率 #反直觉 #思维模型 #vibe知识大赏"
+  - text: 3.2万
+- button "点击加载更多"
+- heading "推荐视频" [level=2]
+- list:
+  - 'link "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗 37:58"':
+    - /url: //www.douyin.com/video/7696553975587409171
+    - 'img "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗"'
+    - generic: 37:58
+  - 'heading "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗" [level=3]':
+    - 'link "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗"':
+      - /url: //www.douyin.com/video/7696553975587409171
+      - generic: "AI越能干，我们会越有钱吗？ #探寻人工智能2026 #ai越能干我们会越幸福吗"
+  - text: "9460"
+  - link "杨澜":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAHw1AQ6Htw9XJrLpd1xluDK1DC0yQ0c_WYWDyA8S98_W7lurdxgUcVj8Wxi6yB206?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: 杨澜
+  - 'link "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划 34:18"':
+    - /url: //www.douyin.com/video/7695647918417530131
+    - 'img "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划"'
+    - generic: 34:18
+  - 'heading "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划" [level=3]':
+    - 'link "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划"':
+      - /url: //www.douyin.com/video/7695647918417530131
+      - generic: "AI时代，活人味将是奢侈品？普通人有必要产生AI焦虑吗 #AI #投资 #燃起来了大国重器 #真财实学计划 #视频播客扶持计划"
+  - text: 3.8万
+  - link "天爱Talk":
+    - /url: //www.douyin.com/user/MS4wLjABAAAALBQu0odP0MyyGWgDpnvBTsSLhorbHcYxES8uubAVDEitEw3liy-Ytsk6tr_JKgN9?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: 天爱Talk
+  - link "人和Ai的未来 |一人公司|赛博焚书|经验蒸馏|提示词辩 证法 33:44":
+    - /url: //www.douyin.com/video/7670533405959851291
+    - img "人和Ai的未来 |一人公司|赛博焚书|经验蒸馏|提示词辩 证法"
+    - generic: 33:44
+  - heading "人和Ai的未来 |一人公司|赛博焚书|经验蒸馏|提示词辩 证法" [level=3]:
+    - link "人和Ai的未来 |一人公司|赛博焚书|经验蒸馏|提示词辩 证法":
+      - /url: //www.douyin.com/video/7670533405959851291
+      - generic: 人和Ai的未来 |一人公司|赛博焚书|经验蒸馏|提示词辩 证法
+  - text: "2788"
+  - link "亲爱的安先生":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAkzWHrOb9pgCBETkFM6RLp0GLDmfqrtz31YOJJrfHbAxH9gk3tGEEpke43cLZDgE-?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: 亲爱的安先生
+  - 'link "Github 零基础终极教程！ 这是你能看到最完整的 Github零基础系统教程！ 我们从什么是github开始， 到找到Github好资源和开源软件的4个方法， 详解基本概念， 然后搞清楚 GitHub 的工作原理， 7 种常见的开源许可证， 4 种下载使用 GitHub 项目的方式， 最后，我们一起手把手创建并且开源你的第一个项目 全程假设你完全没有任何编程的基础， 跟到最后成为玩转github的专家！ #ai新星计划 #github #github优质项目 #ai教程 #开源 37:30"':
+    - /url: //www.douyin.com/video/7667952980074745151
+    - 'img "Github 零基础终极教程！ 这是你能看到最完整的 Github零基础系统教程！ 我们从什么是github开始， 到找到Github好资源和开源软件的4个方法， 详解基本概念， 然后搞清楚 GitHub 的工作原理， 7 种常见的开源许可证， 4 种下载使用 GitHub 项目的方式， 最后，我们一起手把手创建并且开源你的第一个项目 全程假设你完全没有任何编程的基础， 跟到最后成为玩转github的专家！ #ai新星计划 #github #github优质项目 #ai教程 #开源"'
+    - generic: 37:30
+  - 'heading "Github 零基础终极教程！ 这是你能看到最完整的 Github零基础系统教程！ 我们从什么是github开始， 到找到Github好资源和开源软件的4个方法， 详解基本概念， 然后搞清楚 GitHub 的工作原理， 7 种常见的开源许可证， 4 种下载使用 GitHub 项目的方式， 最后，我们一起手把手创建并且开源你的第一个项目 全程假设你完全没有任何编程的基础， 跟到最后成为玩转github的专家！ #ai新星计划 #github #github优质项目 #ai教程 #开源" [level=3]':
+    - 'link "Github 零基础终极教程！ 这是你能看到最完整的 Github零基础系统教程！ 我们从什么是github开始， 到找到Github好资源和开源软件的4个方法， 详解基本概念， 然后搞清楚 GitHub 的工作原理， 7 种常见的开源许可证， 4 种下载使用 GitHub 项目的方式， 最后，我们一起手把手创建并且开源你的第一个项目 全程假设你完全没有任何编程的基础， 跟到最后成为玩转github的专家！ #ai新星计划 #github #github优质项目 #ai教程 #开源"':
+      - /url: //www.douyin.com/video/7667952980074745151
+      - generic: Github 零基础终极教程！ 这是你能看到最完整的 Github零基础系统教程！
+      - generic: 我们从什么是github开始，
+      - generic: 到找到Github好资源和开源软件的4个方法，
+      - generic: 详解基本概念，
+      - generic: 然后搞清楚 GitHub 的工作原理，
+      - generic: 7 种常见的开源许可证，
+      - generic: 4 种下载使用 GitHub 项目的方式，
+      - generic: 最后，我们一起手把手创建并且开源你的第一个项目
+      - generic: 全程假设你完全没有任何编程的基础，
+      - generic: 跟到最后成为玩转github的专家！
+      - generic: "#ai新星计划 #github #github优质项目 #ai教程 #开源"
+  - text: 25.3万
+  - link "木子不写代码":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAy_5W-LNi-cp7QbySyzEm3PskTDnDMUF34XijUKmZvywSej4Pm4UtLhQHiY_7Fryj?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: 木子不写代码
+  - 'link "Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀 简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应 02:00"':
+    - /url: //www.douyin.com/video/7692978258690970865
+    - 'img "Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀 简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应"'
+    - generic: 02:00
+  - 'heading "Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀 简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应" [level=3]':
+    - 'link "Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀 简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应"':
+      - /url: //www.douyin.com/video/7692978258690970865
+      - generic: Vibe知识大赏｜晕轮效应 一个亮点，照亮了整个人
+      - generic: 晕轮效应（Halo Effect），又叫光环效应、月晕效应，是一种常见的认知偏差：人们往往会根据对某人或某物的某一个突出特征或整体印象，去推断其其他方面的特质，也就是“以点概面”“爱屋及乌”。
+      - generic: 它最早由美国心理学家爱德华·桑代克在1920年提出。他在研究军官评价士兵时发现：如果上级认为一个士兵某方面优秀，就容易顺带认为他其他方面也优秀
+      - generic: "简单说，晕轮效应就是：因为喜欢或讨厌某一点，就顺带喜欢或讨厌全部#vibe知识大赏 #晕轮效应"
+  - text: 4.6万
+  - link "落笺":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAqQFr7zRSoHlgBKgJ3ZPIoYju6tmyBTsC43cDD_ex9t3mqJ8vPZh_lMuLrZl6gGTl?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: 落笺
+  - 'link "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类 28:30"':
+    - /url: //www.douyin.com/video/7692721231992278306
+    - 'img "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类"'
+    - generic: 28:30
+  - 'heading "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类" [level=3]':
+    - 'link "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类"':
+      - /url: //www.douyin.com/video/7692721231992278306
+      - generic: "香港科技大学熊辉：AI时代的职业图谱 AI已经碾压人类的记忆和融通，连推理预测都在快速超越。孩子学什么才不会被淘汰？熊辉教授：未来要培养的是 \"一个人拖着N台机器\" 的新型劳动体——发现问题、形成问题、分解问题，执行交给AI。转给所有为孩子焦虑的父母！#人工智能 #AI #教育 #太学 #ai替代人类"
+  - text: 1.8万
+  - link "太学TAIXUE":
+    - /url: //www.douyin.com/user/MS4wLjABAAAA4x0t--J9poN4y3Ds2vjy9i0xDcw-sHAAQX2IfpaFKcQ?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: 太学TAIXUE
+  - 'link "Vibe知识大赏丨中彩票一等奖到底有多难 #vibe知识大赏 你以为中彩票靠的是运气，其实你面对的是一场概率游戏。 双色球一等奖的中奖概率仅为1772万分之一，二等奖、三等奖又有多难？这期视频，用数学和动态可视化，带你看清彩票背后的概率真相。每一张彩票都承载着改变命运的期待，但希望不等于概率。你可以心怀幸运，但更要尊重概率。 02:00"':
+    - /url: //www.douyin.com/video/7696432092293570789
+    - 'img "Vibe知识大赏丨中彩票一等奖到底有多难 #vibe知识大赏 你以为中彩票靠的是运气，其实你面对的是一场概率游戏。 双色球一等奖的中奖概率仅为1772万分之一，二等奖、三等奖又有多难？这期视频，用数学和动态可视化，带你看清彩票背后的概率真相。每一张彩票都承载着改变命运的期待，但希望不等于概率。你可以心怀幸运，但更要尊重概率。"'
+    - generic: 02:00
+  - 'heading "Vibe知识大赏丨中彩票一等奖到底有多难 #vibe知识大赏 你以为中彩票靠的是运气，其实你面对的是一场概率游戏。 双色球一等奖的中奖概率仅为1772万分之一，二等奖、三等奖又有多难？这期视频，用数学和动态可视化，带你看清彩票背后的概率真相。每一张彩票都承载着改变命运的期待，但希望不等于概率。你可以心怀幸运，但更要尊重概率。" [level=3]':
+    - 'link "Vibe知识大赏丨中彩票一等奖到底有多难 #vibe知识大赏 你以为中彩票靠的是运气，其实你面对的是一场概率游戏。 双色球一等奖的中奖概率仅为1772万分之一，二等奖、三等奖又有多难？这期视频，用数学和动态可视化，带你看清彩票背后的概率真相。每一张彩票都承载着改变命运的期待，但希望不等于概率。你可以心怀幸运，但更要尊重概率。"':
+      - /url: //www.douyin.com/video/7696432092293570789
+      - generic: "Vibe知识大赏丨中彩票一等奖到底有多难 #vibe知识大赏 你以为中彩票靠的是运气，其实你面对的是一场概率游戏。 双色球一等奖的中奖概率仅为1772万分之一，二等奖、三等奖又有多难？这期视频，用数学和动态可视化，带你看清彩票背后的概率真相。每一张彩票都承载着改变命运的期待，但希望不等于概率。你可以心怀幸运，但更要尊重概率。"
+  - text: "2847"
+  - link "破局ing":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAB27QEQ1CU5lqEsyruKiHoQfllkHOtp4cIstHiqV6PltCkPF7FmwU_ozaeh8RyKmm?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: 破局ing
+  - 'link "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏 02:14"':
+    - /url: //www.douyin.com/video/7691365431341690303
+    - 'img "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏"'
+    - generic: 02:14
+  - 'heading "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏" [level=3]':
+    - 'link "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏"':
+      - /url: //www.douyin.com/video/7691365431341690303
+      - generic: "Vibe知识大赏丨《缘分的形状》本视频由#Claude5 制作#opus #缘分 #ai新星计划 #vibe知识大赏"
+  - text: 8.3万
+  - link "zny":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAIa8BP3RwuntIFHgAW9Z7xYXQL7oLLzUMD6u0cVl1XqA?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: zny
+  - 'link "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边 01:44"':
+    - /url: //www.douyin.com/video/7697671776544804138
+    - 'img "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边"'
+    - generic: 01:44
+  - 'heading "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边" [level=3]':
+    - 'link "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边"':
+      - /url: //www.douyin.com/video/7697671776544804138
+      - generic: "vibe知识大赏：《宫商角徵羽》 #vibe知识大赏 #抖音科技两千年前的五个音，至今还在你身边"
+  - text: 21.3万
+  - link "土豆未响应":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAR10fG52lImdSP6bCvlBmkTugqmi8OmfMEbUNLAYdSuw?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: 土豆未响应
+  - 'link "本视频由opus5.5制作#claude #vibe知识大赏 01:02"':
+    - /url: //www.douyin.com/video/7689710282470143653
+    - 'img "本视频由opus5.5制作#claude #vibe知识大赏"'
+    - generic: 01:02
+  - 'heading "本视频由opus5.5制作#claude #vibe知识大赏" [level=3]':
+    - 'link "本视频由opus5.5制作#claude #vibe知识大赏"':
+      - /url: //www.douyin.com/video/7689710282470143653
+      - generic: "本视频由opus5.5制作#claude #vibe知识大赏"
+  - text: 9.7万
+  - link "Immanuelle":
+    - /url: //www.douyin.com/user/MS4wLjABAAAAQfDGoR5ivx6_gE9XFuB6R9XXONzp-9yBlFBPl6mmgJY?author_id=1362995362932783&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7690344836800913785&log_pb=%7B%22impr_id%22%3A%222026102011414029AB52B1E11A9B74CF81%22%7D&relation=0
+    - generic: Immanuelle
+- contentinfo:
+  - link "广告投放":
+    - /url: https://www.oceanengine.com/resource/douyin
+  - link "用户服务协议":
+    - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+  - link "隐私政策":
+    - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+  - link "账号找回":
+    - /url: https://www.douyin.com/recovery_account/
+  - link "联系我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "加入我们":
+    - /url: https://www.douyin.com/aboutus/
+  - link "友情链接":
+    - /url: https://www.douyin.com/friend_links
+  - link "站点地图":
+    - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+  - link "下载抖音":
+    - /url: https://www.douyin.com/downloadpage/pc
+  - link "抖音电商":
+    - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+  - link "网络谣言曝光台 ｜":
+    - /url: https://www.piyao.org.cn/yybgt/index.htm
+  - link "网上有害信息举报":
+    - /url: https://www.12377.cn/
+  - generic: ｜ 违法和不良信息举报：400-140-2108 [REDACTED_EMAIL] ｜ 算法推荐专项举报：[REDACTED_EMAIL] | 体育饭圈专项举报：[REDACTED_EMAIL]
+  - link "京ICP备16016397号-3":
+    - /url: https://beian.miit.gov.cn/
+  - generic: ｜ 信息网络传播视听节目许可证 0126733
+  - generic: ｜ 广播电视节目制作经营许可证 （京）字第11313号
+  - generic: ｜ 增值电信业务经营许可证 京B2-20170846
+  - generic: ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+  - img "icon"
+  - link "京公网安备11010802050006号":
+    - /url: https://beian.mps.gov.cn/
+  - generic: ｜ 互联网宗教信息服务许可证 京（2025）0000017 ｜
+  - img "icon"
+  - link "电子营业执照":
+    - /url: https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do
+  - link "｜（京）人服证字〔2026〕第0600005023号":
+    - /url: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/d1cb34abe8ebb5600b51bac36ce3247f.jpg
+  - generic: 热门：
+  - link "抖音游戏":
+    - /url: https://www.douyin.com/jingxuan/game
+  - link "抖音知识":
+    - /url: https://www.douyin.com/jingxuan/knowledge
+  - link "疯狂的油漆辅料":
+    - /url: https://www.douyin.com/user/MS4wLjABAAAA5JCLUGOGOotXumb_Zyu3xZ7ShtYhLyWKC8yzb3R-4S0
+  - 'link "如题，湖南汽车工程职业大学合唱比赛#湖南汽车工程职业大学 #株洲 #合唱#打鼓"':
+    - /url: https://www.douyin.com/video/7698376610017397354
+  - link "仙游一中省状元":
+    - /url: https://www.douyin.com/topic/7509869082850773044
+  - link "掌上高考英语":
+    - /url: https://www.douyin.com/shipin/7509917526147631104
+  - link "山东物理原卷2025":
+    - /url: https://www.douyin.com/search/%E5%B1%B1%E4%B8%9C%E7%89%A9%E7%90%86%E5%8E%9F%E5%8D%B72025
+  - link "OpenAI创始人跳槽Anthropic":
+    - /url: https://www.douyin.com/video/7641693371244809512?source=Baiduspider
+  - 'link "大卫不可以系列#小朋友都爱看 #教育绘本故事 #大卫不可以绘本故事 #大卫不可以绘本创意画 #少儿动画片推荐"':
+    - /url: https://www.douyin.com/video/7167867128513645860?source=Baiduspider
+  - 'link "#在家做美食 #抖音美食创作人 #东北特色"':
+    - /url: https://www.douyin.com/video/7175079574542224678?source=Baiduspider
+  - link:
+    - /url: https://www.douyin.com/video/7492024631830875432?source=Baiduspider-sdc
+  - link "注，齐剧在1985年由原洛阳地区文化局组织以渑池曲剧团为班底，参加省首届戏剧大𡧳，特邀借調栾曲剧团兰文祥，洛地区予剧团吴虎臣，三门峡市予剧团苏君芳等及省外艺朮专家指导参加排谏齐剧，在省比𡧳中等六项大奖，轰动省城，在演员表演上更具特色，由兰文祥，王荣光，李润杰，张朋召，四位参加此剧，並担任主要角色，联袂携手，配合默契，发挥各自特长，使齐剧演出效果更佳，引起省城轰动，被参评的专家一致高评，称洛阳曲剧四掛胡子(须生)表演唱腔各具特色，真正代表了洛阳曲剧高水平，特别是誉赞饰演齐桓公的兰文祥先生，以他特色唱腔，潇洒":
+    - /url: https://www.douyin.com/video/7194394009568120119?source=Baiduspider
+  - 'link "又是一个呕心沥血长视频英语启蒙零基础该怎么做，学习语言的共性无非听说读写四个步骤，听是非常重要的基础#英语 #幼儿园 #英语启蒙 #育儿 #幼儿英语启蒙"':
+    - /url: https://www.douyin.com/video/7435520971429252392?source=Baiduspider
+  - link "子恒为爱坚持，大方牵手艾瑞卡！岳父催婚父亲反对，怎样才能破局":
+    - /url: https://www.douyin.com/video/7415600191878778139?source=Baiduspider-sdc

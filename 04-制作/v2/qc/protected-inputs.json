@@ -1,0 +1,18 @@
+{
+  "content-package.json": {
+    "sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a",
+    "matches_frozen": true
+  },
+  "screen-copy-review.srt": {
+    "sha256": "1066632f674e08dcd77c8ead24189ff0f9b831e744bf86426b1a9bd770e1d1b8",
+    "matches_frozen": true
+  },
+  "v1/output/ai-funnel-v1-internal-150s.mp4": {
+    "sha256": "4a287e4dee64f6ebb689788dd002da481bbaf9a2413158672ee91962c8496adf",
+    "preserved": true
+  },
+  "v1/src/World.ts": {
+    "sha256": "5e69d3dbe033a9df7ba74066c8e4b4b971c842bc26e70b24fccb97b3ce0d0fdf",
+    "preserved": true
+  }
+}

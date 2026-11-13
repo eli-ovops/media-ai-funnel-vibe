@@ -1,0 +1,63 @@
+{
+  "baseline_sha256": "4a287e4dee64f6ebb689788dd002da481bbaf9a2413158672ee91962c8496adf",
+  "purpose": "Immutable counterexamples for4-item rework review, not monitoring execution status",
+  "originals_untouched": true,
+  "files": [
+    {
+      "name": "frame-57.650.jpg",
+      "result": "ARCHIVED_EXACT_PREVIOUSLY_REVIEWED_V1_FRAME",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-v1-proof/frame-57.650.jpg",
+      "sha256": "c0d47f6a6b0b7380292be694acee8677769650daea39e0d33c54a19a78ecfd14",
+      "bytes": 82949
+    },
+    {
+      "name": "frame-135.650.jpg",
+      "result": "ARCHIVED_EXACT_PREVIOUSLY_REVIEWED_V1_FRAME",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-v1-proof/frame-135.650.jpg",
+      "sha256": "1ede042573178a420b50851426c93f818d7d128fbc390fd3d89be61c877d486f",
+      "bytes": 86308
+    },
+    {
+      "name": "frame-12.167.jpg",
+      "result": "ARCHIVED_EXACT_PREVIOUSLY_REVIEWED_V1_FRAME",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-v1-proof/frame-12.167.jpg",
+      "sha256": "60dba23703439e6c0b0ad773eaac089f7b757a91fb1f260d6694e8fd397686df",
+      "bytes": 52022
+    },
+    {
+      "name": "frame-82.167.jpg",
+      "result": "ARCHIVED_EXACT_PREVIOUSLY_REVIEWED_V1_FRAME",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-v1-proof/frame-82.167.jpg",
+      "sha256": "8ab9ce472f5dcf5fc5ab60bf64b77796d9baac1c073024181affdb0c914e67d2",
+      "bytes": 66680
+    },
+    {
+      "name": "frame-89.167.jpg",
+      "result": "ARCHIVED_EXACT_PREVIOUSLY_REVIEWED_V1_FRAME",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-v1-proof/frame-89.167.jpg",
+      "sha256": "45fe85c1fbdbabd515265a0981c35a4e944a047afd8dad8cccca3488b3fced99",
+      "bytes": 52060
+    },
+    {
+      "name": "frame-103.167.jpg",
+      "result": "ARCHIVED_EXACT_PREVIOUSLY_REVIEWED_V1_FRAME",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-v1-proof/frame-103.167.jpg",
+      "sha256": "2d0fefce23c9293207a199a9e55a207ba8e8c26c73889f1b0c9bc38ef4cb2f26",
+      "bytes": 59306
+    },
+    {
+      "name": "frame-117.167.jpg",
+      "result": "ARCHIVED_EXACT_PREVIOUSLY_REVIEWED_V1_FRAME",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-v1-proof/frame-117.167.jpg",
+      "sha256": "3af652cafd99e1aae983b9ffc500a665ae4506a54e14f2af3816f35a8748dc40",
+      "bytes": 61140
+    },
+    {
+      "name": "frame-139.167.jpg",
+      "result": "ARCHIVED_EXACT_PREVIOUSLY_REVIEWED_V1_FRAME",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-v1-proof/frame-139.167.jpg",
+      "sha256": "e6cb2797d6b3cc510b61052c38725ffaad2f5d976b6c1bfa48ea1114b4d7c494",
+      "bytes": 63569
+    }
+  ]
+}

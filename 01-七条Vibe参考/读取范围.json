@@ -1,0 +1,1116 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "status": "PARTIAL_RESEARCH_MEDIA_EXPORT_BLOCKED",
+  "start_utc": "2026-10-20T03:39:54Z",
+  "completed_local_index_utc": "2026-10-20T03:51:54.761997+00:00",
+  "budget_minutes": 35,
+  "public_media_budget_bytes": 262144000,
+  "new_original_media_obtained_bytes": 0,
+  "all_samples_read": 147,
+  "continuous_visual_count": 0,
+  "full_audio_asr_count": 0,
+  "direct_listening_count": 0,
+  "route": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN",
+    "actual_speed": "UNKNOWN"
+  },
+  "videos": [
+    {
+      "key": "Zhao",
+      "work_id": "7697240961214106880",
+      "url": "https://www.douyin.com/video/7697240961214106880",
+      "subtitles": {
+        "text_tracks_at_page_capture": 0,
+        "full_track_obtained": false,
+        "visible_text_in_samples_read": true,
+        "full_track_asr": "NOT_OBTAINED",
+        "reason": "native media export action_failed; no source file for Whisper"
+      },
+      "visual": {
+        "paused_samples": 17,
+        "playing_samples": 7,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Zhao/sheet-1.jpg",
+          "Zhao/sheet-2.jpg",
+          "Zhao/sheet-3.jpg",
+          "Zhao/transition-1.jpg",
+          "Zhao/transition-2.jpg"
+        ],
+        "actual_sample_seconds": [
+          1.81751,
+          15.51482,
+          30.455546,
+          46.507518,
+          60.396367,
+          75.541112,
+          77.493506,
+          80.523851,
+          83.629599,
+          86.690778,
+          90.502158,
+          103.59956,
+          105.470716,
+          105.799775,
+          107.576941,
+          119.913622,
+          135.305453,
+          150.570155,
+          165.584995,
+          180.514764,
+          195.637189,
+          210.585383,
+          225.560102,
+          234.392808
+        ],
+        "max_gap_seconds": 16.051972,
+        "unobserved_between_samples": [
+          {
+            "start": 0,
+            "end": 1.81751
+          },
+          {
+            "start": 1.81751,
+            "end": 15.51482
+          },
+          {
+            "start": 15.51482,
+            "end": 30.455546
+          },
+          {
+            "start": 30.455546,
+            "end": 46.507518
+          },
+          {
+            "start": 46.507518,
+            "end": 60.396367
+          },
+          {
+            "start": 60.396367,
+            "end": 75.541112
+          },
+          {
+            "start": 75.541112,
+            "end": 77.493506
+          },
+          {
+            "start": 77.493506,
+            "end": 80.523851
+          },
+          {
+            "start": 80.523851,
+            "end": 83.629599
+          },
+          {
+            "start": 83.629599,
+            "end": 86.690778
+          },
+          {
+            "start": 86.690778,
+            "end": 90.502158
+          },
+          {
+            "start": 90.502158,
+            "end": 103.59956
+          },
+          {
+            "start": 103.59956,
+            "end": 105.470716
+          },
+          {
+            "start": 105.470716,
+            "end": 105.799775
+          },
+          {
+            "start": 105.799775,
+            "end": 107.576941
+          },
+          {
+            "start": 107.576941,
+            "end": 119.913622
+          },
+          {
+            "start": 119.913622,
+            "end": 135.305453
+          },
+          {
+            "start": 135.305453,
+            "end": 150.570155
+          },
+          {
+            "start": 150.570155,
+            "end": 165.584995
+          },
+          {
+            "start": 165.584995,
+            "end": 180.514764
+          },
+          {
+            "start": 180.514764,
+            "end": 195.637189
+          },
+          {
+            "start": 195.637189,
+            "end": 210.585383
+          },
+          {
+            "start": 210.585383,
+            "end": 225.560102
+          },
+          {
+            "start": 225.560102,
+            "end": 234.392808
+          },
+          {
+            "start": 234.392808,
+            "end": 235.649
+          }
+        ],
+        "continuous_visual": "NOT_VERIFIED",
+        "paused_samples_overlay": "native large play triangle obscures center",
+        "playing_sample_clock_bounds": "播放中采样时点.json"
+      },
+      "audio": {
+        "direct_listening": "NOT_VERIFIED",
+        "speech_presence": "UNKNOWN",
+        "full_audio_asr": "NOT_OBTAINED"
+      },
+      "music": {
+        "name": "UNKNOWN",
+        "artist": "UNKNOWN",
+        "version": "UNKNOWN",
+        "music_id": "UNKNOWN",
+        "audio_file": "NOT_OBTAINED",
+        "same_as_nico": "UNKNOWN",
+        "native_music_field": "NOT_VISIBLE"
+      },
+      "download_error_evidence": "Zhao-download-error.txt",
+      "next": "obtain same exact original via supported native export or user-supplied local source; probe with existing avprobe, transcribe with existing local Whisper, inspect changes only"
+    },
+    {
+      "key": "Xiao",
+      "work_id": "7697527130892111154",
+      "url": "https://www.douyin.com/video/7697527130892111154",
+      "subtitles": {
+        "text_tracks_at_page_capture": 0,
+        "full_track_obtained": false,
+        "visible_text_in_samples_read": true,
+        "full_track_asr": "NOT_OBTAINED",
+        "reason": "native media export action_failed; no source file for Whisper"
+      },
+      "visual": {
+        "paused_samples": 21,
+        "playing_samples": 5,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Xiao/sheet-1.jpg",
+          "Xiao/sheet-2.jpg",
+          "Xiao/sheet-3.jpg",
+          "Xiao/sheet-4.jpg",
+          "Xiao/transition-1.jpg"
+        ],
+        "actual_sample_seconds": [
+          1.651187,
+          30.373815,
+          60.337026,
+          90.940723,
+          96.883141,
+          100.501384,
+          104.87201,
+          108.502874,
+          112.891876,
+          120.692504,
+          150.727862,
+          180.444283,
+          210.311,
+          240.102887,
+          270.867369,
+          300.579806,
+          330.443392,
+          360.272672,
+          390.26401,
+          420.78083,
+          450.619947,
+          480.515998,
+          510.436272,
+          540.284995,
+          570.131815,
+          581.929298
+        ],
+        "max_gap_seconds": 30.764481999999987,
+        "unobserved_between_samples": [
+          {
+            "start": 0,
+            "end": 1.651187
+          },
+          {
+            "start": 1.651187,
+            "end": 30.373815
+          },
+          {
+            "start": 30.373815,
+            "end": 60.337026
+          },
+          {
+            "start": 60.337026,
+            "end": 90.940723
+          },
+          {
+            "start": 90.940723,
+            "end": 96.883141
+          },
+          {
+            "start": 96.883141,
+            "end": 100.501384
+          },
+          {
+            "start": 100.501384,
+            "end": 104.87201
+          },
+          {
+            "start": 104.87201,
+            "end": 108.502874
+          },
+          {
+            "start": 108.502874,
+            "end": 112.891876
+          },
+          {
+            "start": 112.891876,
+            "end": 120.692504
+          },
+          {
+            "start": 120.692504,
+            "end": 150.727862
+          },
+          {
+            "start": 150.727862,
+            "end": 180.444283
+          },
+          {
+            "start": 180.444283,
+            "end": 210.311
+          },
+          {
+            "start": 210.311,
+            "end": 240.102887
+          },
+          {
+            "start": 240.102887,
+            "end": 270.867369
+          },
+          {
+            "start": 270.867369,
+            "end": 300.579806
+          },
+          {
+            "start": 300.579806,
+            "end": 330.443392
+          },
+          {
+            "start": 330.443392,
+            "end": 360.272672
+          },
+          {
+            "start": 360.272672,
+            "end": 390.26401
+          },
+          {
+            "start": 390.26401,
+            "end": 420.78083
+          },
+          {
+            "start": 420.78083,
+            "end": 450.619947
+          },
+          {
+            "start": 450.619947,
+            "end": 480.515998
+          },
+          {
+            "start": 480.515998,
+            "end": 510.436272
+          },
+          {
+            "start": 510.436272,
+            "end": 540.284995
+          },
+          {
+            "start": 540.284995,
+            "end": 570.131815
+          },
+          {
+            "start": 570.131815,
+            "end": 581.929298
+          },
+          {
+            "start": 581.929298,
+            "end": 584.252
+          }
+        ],
+        "continuous_visual": "NOT_VERIFIED",
+        "paused_samples_overlay": "native large play triangle obscures center",
+        "playing_sample_clock_bounds": "播放中采样时点.json"
+      },
+      "audio": {
+        "direct_listening": "NOT_VERIFIED",
+        "speech_presence": "UNKNOWN",
+        "full_audio_asr": "NOT_OBTAINED"
+      },
+      "music": {
+        "name": "UNKNOWN",
+        "artist": "UNKNOWN",
+        "version": "UNKNOWN",
+        "music_id": "UNKNOWN",
+        "audio_file": "NOT_OBTAINED",
+        "same_as_nico": "UNKNOWN",
+        "native_music_field": "NOT_VISIBLE"
+      },
+      "download_error_evidence": "Xiao-download-error.txt",
+      "next": "obtain same exact original via supported native export or user-supplied local source; probe with existing avprobe, transcribe with existing local Whisper, inspect changes only"
+    },
+    {
+      "key": "Bird",
+      "work_id": "7693880461517615526",
+      "url": "https://www.douyin.com/video/7693880461517615526",
+      "subtitles": {
+        "text_tracks_at_page_capture": 0,
+        "full_track_obtained": false,
+        "visible_text_in_samples_read": true,
+        "full_track_asr": "NOT_OBTAINED",
+        "reason": "native media export action_failed; no source file for Whisper"
+      },
+      "visual": {
+        "paused_samples": 13,
+        "playing_samples": 6,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Bird/sheet-1.jpg",
+          "Bird/sheet-2.jpg",
+          "Bird/sheet-3.jpg",
+          "Bird/transition-1.jpg"
+        ],
+        "actual_sample_seconds": [
+          1.659018,
+          12.76674,
+          24.626228,
+          36.61086,
+          48.672724,
+          59.760862,
+          60.757134,
+          61.730946,
+          63.751155,
+          65.756129,
+          67.737791,
+          69.736137,
+          72.678539,
+          84.570683,
+          96.781586,
+          108.572799,
+          120.403228,
+          132.669102,
+          145.677177
+        ],
+        "max_gap_seconds": 13.008074999999991,
+        "unobserved_between_samples": [
+          {
+            "start": 0,
+            "end": 1.659018
+          },
+          {
+            "start": 1.659018,
+            "end": 12.76674
+          },
+          {
+            "start": 12.76674,
+            "end": 24.626228
+          },
+          {
+            "start": 24.626228,
+            "end": 36.61086
+          },
+          {
+            "start": 36.61086,
+            "end": 48.672724
+          },
+          {
+            "start": 48.672724,
+            "end": 59.760862
+          },
+          {
+            "start": 59.760862,
+            "end": 60.757134
+          },
+          {
+            "start": 60.757134,
+            "end": 61.730946
+          },
+          {
+            "start": 61.730946,
+            "end": 63.751155
+          },
+          {
+            "start": 63.751155,
+            "end": 65.756129
+          },
+          {
+            "start": 65.756129,
+            "end": 67.737791
+          },
+          {
+            "start": 67.737791,
+            "end": 69.736137
+          },
+          {
+            "start": 69.736137,
+            "end": 72.678539
+          },
+          {
+            "start": 72.678539,
+            "end": 84.570683
+          },
+          {
+            "start": 84.570683,
+            "end": 96.781586
+          },
+          {
+            "start": 96.781586,
+            "end": 108.572799
+          },
+          {
+            "start": 108.572799,
+            "end": 120.403228
+          },
+          {
+            "start": 120.403228,
+            "end": 132.669102
+          },
+          {
+            "start": 132.669102,
+            "end": 145.677177
+          },
+          {
+            "start": 145.677177,
+            "end": 146.471
+          }
+        ],
+        "continuous_visual": "NOT_VERIFIED",
+        "paused_samples_overlay": "native large play triangle obscures center",
+        "playing_sample_clock_bounds": "播放中采样时点.json"
+      },
+      "audio": {
+        "direct_listening": "NOT_VERIFIED",
+        "speech_presence": "UNKNOWN",
+        "full_audio_asr": "NOT_OBTAINED"
+      },
+      "music": {
+        "name": "UNKNOWN",
+        "artist": "UNKNOWN",
+        "version": "UNKNOWN",
+        "music_id": "UNKNOWN",
+        "audio_file": "NOT_OBTAINED",
+        "same_as_nico": "UNKNOWN",
+        "native_music_field": "NOT_VISIBLE"
+      },
+      "download_error_evidence": "Bird-download-error.txt",
+      "next": "obtain same exact original via supported native export or user-supplied local source; probe with existing avprobe, transcribe with existing local Whisper, inspect changes only"
+    },
+    {
+      "key": "Opus",
+      "work_id": "7688645727061272805",
+      "url": "https://www.douyin.com/video/7688645727061272805",
+      "subtitles": {
+        "text_tracks_at_page_capture": 0,
+        "full_track_obtained": false,
+        "visible_text_in_samples_read": true,
+        "full_track_asr": "NOT_OBTAINED",
+        "reason": "native media export action_failed; no source file for Whisper"
+      },
+      "visual": {
+        "paused_samples": 13,
+        "playing_samples": 6,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Opus/sheet-1.jpg",
+          "Opus/sheet-2.jpg",
+          "Opus/sheet-3.jpg",
+          "Opus/transition-1.jpg"
+        ],
+        "actual_sample_seconds": [
+          1.762599,
+          15.433023,
+          30.627921,
+          45.513454,
+          60.570545,
+          75.634646,
+          90.61904,
+          105.708305,
+          120.390948,
+          126.802286,
+          129.671856,
+          132.72874,
+          135.463671,
+          135.6094,
+          148.664365,
+          150.448336,
+          151.771827,
+          165.629324,
+          176.744645
+        ],
+        "max_gap_seconds": 15.194898,
+        "unobserved_between_samples": [
+          {
+            "start": 0,
+            "end": 1.762599
+          },
+          {
+            "start": 1.762599,
+            "end": 15.433023
+          },
+          {
+            "start": 15.433023,
+            "end": 30.627921
+          },
+          {
+            "start": 30.627921,
+            "end": 45.513454
+          },
+          {
+            "start": 45.513454,
+            "end": 60.570545
+          },
+          {
+            "start": 60.570545,
+            "end": 75.634646
+          },
+          {
+            "start": 75.634646,
+            "end": 90.61904
+          },
+          {
+            "start": 90.61904,
+            "end": 105.708305
+          },
+          {
+            "start": 105.708305,
+            "end": 120.390948
+          },
+          {
+            "start": 120.390948,
+            "end": 126.802286
+          },
+          {
+            "start": 126.802286,
+            "end": 129.671856
+          },
+          {
+            "start": 129.671856,
+            "end": 132.72874
+          },
+          {
+            "start": 132.72874,
+            "end": 135.463671
+          },
+          {
+            "start": 135.463671,
+            "end": 135.6094
+          },
+          {
+            "start": 135.6094,
+            "end": 148.664365
+          },
+          {
+            "start": 148.664365,
+            "end": 150.448336
+          },
+          {
+            "start": 150.448336,
+            "end": 151.771827
+          },
+          {
+            "start": 151.771827,
+            "end": 165.629324
+          },
+          {
+            "start": 165.629324,
+            "end": 176.744645
+          },
+          {
+            "start": 176.744645,
+            "end": 177.401
+          }
+        ],
+        "continuous_visual": "NOT_VERIFIED",
+        "paused_samples_overlay": "native large play triangle obscures center",
+        "playing_sample_clock_bounds": "播放中采样时点.json"
+      },
+      "audio": {
+        "direct_listening": "NOT_VERIFIED",
+        "speech_presence": "UNKNOWN",
+        "full_audio_asr": "NOT_OBTAINED"
+      },
+      "music": {
+        "name": "UNKNOWN",
+        "artist": "UNKNOWN",
+        "version": "UNKNOWN",
+        "music_id": "UNKNOWN",
+        "audio_file": "NOT_OBTAINED",
+        "same_as_nico": "UNKNOWN",
+        "native_music_field": "NOT_VISIBLE"
+      },
+      "download_error_evidence": "Opus-download-error.txt",
+      "next": "obtain same exact original via supported native export or user-supplied local source; probe with existing avprobe, transcribe with existing local Whisper, inspect changes only"
+    },
+    {
+      "key": "Curse",
+      "work_id": "7692022955122937098",
+      "url": "https://www.douyin.com/video/7692022955122937098",
+      "subtitles": {
+        "text_tracks_at_page_capture": 0,
+        "full_track_obtained": false,
+        "visible_text_in_samples_read": true,
+        "full_track_asr": "NOT_OBTAINED",
+        "reason": "native media export action_failed; no source file for Whisper"
+      },
+      "visual": {
+        "paused_samples": 13,
+        "playing_samples": 4,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Curse/sheet-1.jpg",
+          "Curse/sheet-2.jpg",
+          "Curse/sheet-3.jpg",
+          "Curse/transition-1.jpg"
+        ],
+        "actual_sample_seconds": [
+          1.632436,
+          12.55502,
+          24.620028,
+          36.576639,
+          48.688095,
+          60.696879,
+          64.676478,
+          67.642929,
+          70.711427,
+          72.631111,
+          73.584416,
+          84.624913,
+          96.58154,
+          108.623903,
+          120.386336,
+          132.445479,
+          144.686611
+        ],
+        "max_gap_seconds": 12.241131999999993,
+        "unobserved_between_samples": [
+          {
+            "start": 0,
+            "end": 1.632436
+          },
+          {
+            "start": 1.632436,
+            "end": 12.55502
+          },
+          {
+            "start": 12.55502,
+            "end": 24.620028
+          },
+          {
+            "start": 24.620028,
+            "end": 36.576639
+          },
+          {
+            "start": 36.576639,
+            "end": 48.688095
+          },
+          {
+            "start": 48.688095,
+            "end": 60.696879
+          },
+          {
+            "start": 60.696879,
+            "end": 64.676478
+          },
+          {
+            "start": 64.676478,
+            "end": 67.642929
+          },
+          {
+            "start": 67.642929,
+            "end": 70.711427
+          },
+          {
+            "start": 70.711427,
+            "end": 72.631111
+          },
+          {
+            "start": 72.631111,
+            "end": 73.584416
+          },
+          {
+            "start": 73.584416,
+            "end": 84.624913
+          },
+          {
+            "start": 84.624913,
+            "end": 96.58154
+          },
+          {
+            "start": 96.58154,
+            "end": 108.623903
+          },
+          {
+            "start": 108.623903,
+            "end": 120.386336
+          },
+          {
+            "start": 120.386336,
+            "end": 132.445479
+          },
+          {
+            "start": 132.445479,
+            "end": 144.686611
+          },
+          {
+            "start": 144.686611,
+            "end": 145.534
+          }
+        ],
+        "continuous_visual": "NOT_VERIFIED",
+        "paused_samples_overlay": "native large play triangle obscures center",
+        "playing_sample_clock_bounds": "播放中采样时点.json"
+      },
+      "audio": {
+        "direct_listening": "NOT_VERIFIED",
+        "speech_presence": "UNKNOWN",
+        "full_audio_asr": "NOT_OBTAINED"
+      },
+      "music": {
+        "name": "UNKNOWN",
+        "artist": "UNKNOWN",
+        "version": "UNKNOWN",
+        "music_id": "UNKNOWN",
+        "audio_file": "NOT_OBTAINED",
+        "same_as_nico": "UNKNOWN",
+        "native_music_field": "NOT_VISIBLE"
+      },
+      "download_error_evidence": "Curse-download-error.txt",
+      "next": "obtain same exact original via supported native export or user-supplied local source; probe with existing avprobe, transcribe with existing local Whisper, inspect changes only"
+    },
+    {
+      "key": "Luck",
+      "work_id": "7690344836800913785",
+      "url": "https://www.douyin.com/video/7690344836800913785",
+      "subtitles": {
+        "text_tracks_at_page_capture": 0,
+        "full_track_obtained": false,
+        "visible_text_in_samples_read": true,
+        "full_track_asr": "NOT_OBTAINED",
+        "reason": "native media export action_failed; no source file for Whisper"
+      },
+      "visual": {
+        "paused_samples": 12,
+        "playing_samples": 4,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Luck/sheet-1.jpg",
+          "Luck/sheet-2.jpg",
+          "Luck/transition-1.jpg"
+        ],
+        "actual_sample_seconds": [
+          1.672627,
+          12.655787,
+          24.647322,
+          36.658543,
+          48.640034,
+          60.633921,
+          72.670725,
+          84.430122,
+          96.62638,
+          102.674442,
+          105.878372,
+          108.66249,
+          108.700767,
+          112.401772,
+          120.530155,
+          128.76108
+        ],
+        "max_gap_seconds": 12.196258,
+        "unobserved_between_samples": [
+          {
+            "start": 0,
+            "end": 1.672627
+          },
+          {
+            "start": 1.672627,
+            "end": 12.655787
+          },
+          {
+            "start": 12.655787,
+            "end": 24.647322
+          },
+          {
+            "start": 24.647322,
+            "end": 36.658543
+          },
+          {
+            "start": 36.658543,
+            "end": 48.640034
+          },
+          {
+            "start": 48.640034,
+            "end": 60.633921
+          },
+          {
+            "start": 60.633921,
+            "end": 72.670725
+          },
+          {
+            "start": 72.670725,
+            "end": 84.430122
+          },
+          {
+            "start": 84.430122,
+            "end": 96.62638
+          },
+          {
+            "start": 96.62638,
+            "end": 102.674442
+          },
+          {
+            "start": 102.674442,
+            "end": 105.878372
+          },
+          {
+            "start": 105.878372,
+            "end": 108.66249
+          },
+          {
+            "start": 108.66249,
+            "end": 108.700767
+          },
+          {
+            "start": 108.700767,
+            "end": 112.401772
+          },
+          {
+            "start": 112.401772,
+            "end": 120.530155
+          },
+          {
+            "start": 120.530155,
+            "end": 128.76108
+          },
+          {
+            "start": 128.76108,
+            "end": 130.009
+          }
+        ],
+        "continuous_visual": "NOT_VERIFIED",
+        "paused_samples_overlay": "native large play triangle obscures center",
+        "playing_sample_clock_bounds": "播放中采样时点.json"
+      },
+      "audio": {
+        "direct_listening": "NOT_VERIFIED",
+        "speech_presence": "UNKNOWN",
+        "full_audio_asr": "NOT_OBTAINED"
+      },
+      "music": {
+        "name": "UNKNOWN",
+        "artist": "UNKNOWN",
+        "version": "UNKNOWN",
+        "music_id": "UNKNOWN",
+        "audio_file": "NOT_OBTAINED",
+        "same_as_nico": "UNKNOWN",
+        "native_music_field": "NOT_VISIBLE"
+      },
+      "download_error_evidence": "Luck-download-error.txt",
+      "next": "obtain same exact original via supported native export or user-supplied local source; probe with existing avprobe, transcribe with existing local Whisper, inspect changes only"
+    },
+    {
+      "key": "Nico",
+      "work_id": "7697240924837748134",
+      "url": "https://www.douyin.com/video/7697240924837748134",
+      "subtitles": {
+        "text_tracks_at_page_capture": 0,
+        "full_track_obtained": false,
+        "visible_text_in_samples_read": true,
+        "full_track_asr": "NOT_OBTAINED",
+        "reason": "native media export action_failed; no source file for Whisper"
+      },
+      "visual": {
+        "paused_samples": 14,
+        "playing_samples": 12,
+        "all_saved_samples_actually_inspected": true,
+        "contact_sheets_actually_inspected": [
+          "Nico/sheet-1.jpg",
+          "Nico/sheet-2.jpg",
+          "Nico/sheet-3.jpg",
+          "Nico/transition-1.jpg",
+          "Nico/transition-2.jpg"
+        ],
+        "actual_sample_seconds": [
+          0.119262,
+          1.66339,
+          7.760383,
+          9.697929,
+          10.73534,
+          20.604261,
+          21.642452,
+          23.871557,
+          25.772385,
+          30.64023,
+          40.517784,
+          50.657457,
+          58.777532,
+          60.549027,
+          60.687969,
+          62.739548,
+          70.636389,
+          80.742622,
+          90.655369,
+          100.645261,
+          110.51491,
+          118.879895,
+          120.641954,
+          120.797328,
+          122.772522,
+          129.534629
+        ],
+        "max_gap_seconds": 10.139673000000002,
+        "unobserved_between_samples": [
+          {
+            "start": 0,
+            "end": 0.119262
+          },
+          {
+            "start": 0.119262,
+            "end": 1.66339
+          },
+          {
+            "start": 1.66339,
+            "end": 7.760383
+          },
+          {
+            "start": 7.760383,
+            "end": 9.697929
+          },
+          {
+            "start": 9.697929,
+            "end": 10.73534
+          },
+          {
+            "start": 10.73534,
+            "end": 20.604261
+          },
+          {
+            "start": 20.604261,
+            "end": 21.642452
+          },
+          {
+            "start": 21.642452,
+            "end": 23.871557
+          },
+          {
+            "start": 23.871557,
+            "end": 25.772385
+          },
+          {
+            "start": 25.772385,
+            "end": 30.64023
+          },
+          {
+            "start": 30.64023,
+            "end": 40.517784
+          },
+          {
+            "start": 40.517784,
+            "end": 50.657457
+          },
+          {
+            "start": 50.657457,
+            "end": 58.777532
+          },
+          {
+            "start": 58.777532,
+            "end": 60.549027
+          },
+          {
+            "start": 60.549027,
+            "end": 60.687969
+          },
+          {
+            "start": 60.687969,
+            "end": 62.739548
+          },
+          {
+            "start": 62.739548,
+            "end": 70.636389
+          },
+          {
+            "start": 70.636389,
+            "end": 80.742622
+          },
+          {
+            "start": 80.742622,
+            "end": 90.655369
+          },
+          {
+            "start": 90.655369,
+            "end": 100.645261
+          },
+          {
+            "start": 100.645261,
+            "end": 110.51491
+          },
+          {
+            "start": 110.51491,
+            "end": 118.879895
+          },
+          {
+            "start": 118.879895,
+            "end": 120.641954
+          },
+          {
+            "start": 120.641954,
+            "end": 120.797328
+          },
+          {
+            "start": 120.797328,
+            "end": 122.772522
+          },
+          {
+            "start": 122.772522,
+            "end": 129.534629
+          },
+          {
+            "start": 129.534629,
+            "end": 130.234
+          }
+        ],
+        "continuous_visual": "NOT_VERIFIED",
+        "paused_samples_overlay": "native large play triangle obscures center",
+        "playing_sample_clock_bounds": "播放中采样时点.json"
+      },
+      "audio": {
+        "direct_listening": "NOT_VERIFIED",
+        "speech_presence": "UNKNOWN",
+        "full_audio_asr": "NOT_OBTAINED"
+      },
+      "music": {
+        "name": "UNKNOWN",
+        "artist": "UNKNOWN",
+        "version": "UNKNOWN",
+        "music_id": "UNKNOWN",
+        "audio_file": "NOT_OBTAINED",
+        "same_as_nico": "UNKNOWN",
+        "native_music_field": "NOT_VISIBLE"
+      },
+      "download_error_evidence": "Nico-download-error.txt",
+      "next": "obtain same exact original via supported native export or user-supplied local source; probe with existing avprobe, transcribe with existing local Whisper, inspect changes only"
+    }
+  ]
+}

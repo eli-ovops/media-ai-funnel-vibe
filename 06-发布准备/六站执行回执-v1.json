@@ -1,0 +1,264 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "owner": "01a11a7f-9a85-7481-9e6c-75f11280ba56",
+  "observed_at": "2026-10-20T20:09:00.603399+08:00",
+  "video_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+  "browser": "Codex IAB 2",
+  "release_actions": 0,
+  "audio_status": "AUDIO_PENDING_ALL_SIX",
+  "desired_music": "We Never（Vibe知识大赏）/阿布学长",
+  "local_audio": "NOT_OBTAINED",
+  "audio_associated": false,
+  "direct_listening": "NOT_PERFORMED",
+  "actual_model": "UNKNOWN",
+  "actual_effort": "UNKNOWN",
+  "actual_speed": "UNKNOWN",
+  "platforms": [
+    {
+      "platform": "bilibili",
+      "tabId": "1",
+      "account": "Eli-AI/432834855",
+      "state": "PRIVATE_DRAFT_SAVED_AND_REOPENED",
+      "url": "https://member.bilibili.com/platform/upload/video/frame?type=draft&draftId=4011403",
+      "video_uploaded": true,
+      "native_tags": [
+        "人工智能",
+        "AI",
+        "AI智能体"
+      ],
+      "cover_files": [
+        "cover-4x3-1440x1080-v4.png",
+        "cover-16x9-1920x1080-v4.png"
+      ],
+      "music": "No music-add entry seen in upload/more settings; BGM auto tag removed; not audio association",
+      "notes": [
+        "Existing 6 published, 0 drafts before upload",
+        "Creation declaration 含AI生成内容",
+        "Partiton 人工智能",
+        "Title/body/tags reopened verified; both4:3/16:9 actual saved preview complete, screenshot bilibili-covers-final.png"
+      ],
+      "video_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+      "release_submitted": false,
+      "audio_status": "AUDIO_PENDING",
+      "audio_associated": false,
+      "direct_listening": "NOT_PERFORMED",
+      "music_segment": "NOT_SELECTED",
+      "audio_volume": "NOT_APPLICABLE",
+      "account_verification": "same IAB /space.bilibili.com/ redirected432834855; 视角我自己/编辑本人资料",
+      "cover_sha256": [
+        "3f3cee255599ef844acdf7faeb2d6916a291bad47ea9f403c79af78ec2af7cd8",
+        "b2f6db2ccd569306b74080c281b94dd92c1554db97c2a78bfcd1287ab4e63f2c"
+      ],
+      "screenshot": "执行截图/bilibili-draft.png",
+      "cover_screenshot": "执行截图/bilibili-covers-final.png"
+    },
+    {
+      "platform": "weibo",
+      "tabId": "2",
+      "account": "Eli-AI/7720929036",
+      "state": "UNSAVED_EDIT_PAGE",
+      "url": "https://weibo.com/upload/channel",
+      "video_uploaded": true,
+      "cover_file": "cover-3x4-1080x1440-v4.png",
+      "native_topic_candidates_selected": [
+        "人工智能",
+        "AI"
+      ],
+      "music": "No add-music entry seen in uploader; external audio required",
+      "notes": [
+        "Existing latest post is 做大决定前先让AI反对你; no funnel found in recent list",
+        "Title/body entered, 原创/含AI生成内容; no draft save UI; publish not clicked",
+        "Hashtag candidate selection verified, unpublished final clickable property not claimed",
+        "Channel classification unselected; field optional shown without star; no native music entry"
+      ],
+      "video_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+      "release_submitted": false,
+      "audio_status": "AUDIO_PENDING",
+      "audio_associated": false,
+      "direct_listening": "NOT_PERFORMED",
+      "music_segment": "NOT_SELECTED",
+      "audio_volume": "NOT_APPLICABLE",
+      "cover_sha256": "1e5deba1aa45ec65c8281601f00ece7fc4d37399b43b601f4b821ad5c3b9de73",
+      "screenshot": "执行截图/weibo-edit-final.png",
+      "draft_persistence": "UNKNOWN_NO_SAVE_DRAFT_CONTROL"
+    },
+    {
+      "platform": "tiktok",
+      "tabId": "3",
+      "account": "Eli-AI/@elimakesapps",
+      "state": "PRIVATE_DRAFT_SAVED_AND_REOPENED",
+      "url": "https://www.tiktok.com/tiktokstudio/upload?from=creator_center&draft_id=176764753924&open_editor=0",
+      "video_uploaded": true,
+      "cover_file": "cover-3x4-1080x1440-v4.png",
+      "native_tags": [
+        "AI",
+        "人工智慧",
+        "AIAgent"
+      ],
+      "native_tag_evidence": "DraftEditor span.mention[data-testid=mentionText] for all three",
+      "music": "Native library searched We Never and 阿布学长. We Never/燕双鹰 02:05 is not same artist and shorter than150s. No desired exact match identified. No music selected.",
+      "notes": [
+        "0 drafts before upload, 1 after save; private crossdevice draft 60days",
+        "9x16 cut top title;4x3cut sides;3x4 actualpreview complete; selected andsaved",
+        "Front label 原声-Eli-AI is automatic and does not prove audio"
+      ],
+      "video_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+      "release_submitted": false,
+      "audio_status": "AUDIO_PENDING",
+      "audio_associated": false,
+      "direct_listening": "NOT_PERFORMED",
+      "music_segment": "NOT_SELECTED",
+      "audio_volume": "NOT_APPLICABLE",
+      "cover_sha256": "1e5deba1aa45ec65c8281601f00ece7fc4d37399b43b601f4b821ad5c3b9de73",
+      "draft_id": "176764753924",
+      "screenshot": "执行截图/tiktok-edit-final.png",
+      "cover_screenshot": "执行截图/tiktok-cover.png"
+    },
+    {
+      "platform": "x",
+      "tabId": "4",
+      "account": "Eli-AI/@cczij1112",
+      "state": "PRIVATE_DRAFT_SAVED_AND_REOPENED",
+      "url": "https://x.com/compose/post",
+      "video_uploaded": true,
+      "cover_file": "NOT_SET_NO_UI",
+      "native_tags": [
+        "AI",
+        "AIAgent"
+      ],
+      "native_tag_evidence": "composer native blue hashtag spans; public click not verified",
+      "music": "No audio-add entry in composer/media editor; media editor only subtitle/contentwarning",
+      "notes": [
+        "Unsent list empty before upload",
+        "Complete video ready and draft list2:30; no length rejection observed",
+        "Playwright upload controls no chooser twice; native AX click recovered, no alternate browser",
+        "Reopened draft native media filename transcodes to2ybMwlVEi-AZAcV-.mp4, readiness就绪; original uploaded SHA fixed; no download/duplicateupload"
+      ],
+      "video_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+      "release_submitted": false,
+      "audio_status": "AUDIO_PENDING",
+      "audio_associated": false,
+      "direct_listening": "NOT_PERFORMED",
+      "music_segment": "NOT_SELECTED",
+      "audio_volume": "NOT_APPLICABLE",
+      "screenshot": "执行截图/x-edit-final.png"
+    },
+    {
+      "platform": "linkedin",
+      "tabId": "5",
+      "account": "ELi Chao/in/eli-chao-548a7a43b",
+      "state": "BLOCKED_EXISTING_OTHER_WORK_DRAFT",
+      "url": "https://www.linkedin.com/sharing/compose",
+      "video_uploaded": false,
+      "cover_file": "NOT_UPLOADED",
+      "native_tags": "NOT_PREPARED",
+      "music": "Not verified because prior-work draft occupies composer",
+      "notes": [
+        "Prior published post 做大決定前，先讓AI反對你 also restored as video draft",
+        "New body briefly entered before delayed media visible; original body restored with paragraphs and old media retained; no post/save action",
+        "Need PMO decide how to handle existing draft before replacing attachment; current work copy remains local"
+      ],
+      "video_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+      "release_submitted": false,
+      "audio_status": "AUDIO_PENDING",
+      "audio_associated": false,
+      "direct_listening": "NOT_PERFORMED",
+      "music_segment": "NOT_SELECTED",
+      "audio_volume": "NOT_APPLICABLE",
+      "screenshot": "执行截图/linkedin-existing-draft.png",
+      "recovery_needed": "Decide whether to reuse single old published-work draft slot; no new video uploaded",
+      "prior_draft_title": "做大決定前，先讓AI反對你。"
+    },
+    {
+      "platform": "youtube",
+      "tabId": "6",
+      "account": "Eli-AI/UCqJaVQRO3FrxD5spt1GG7Iw",
+      "state": "UPLOAD_DRAFT_SAVED_AND_REOPENED_NOT_PUBLISHED",
+      "url": "https://studio.youtube.com/channel/UCqJaVQRO3FrxD5spt1GG7Iw/videos/short?d=ud&filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D&udvid=BCuF26Dfg2U",
+      "draft_video_link": "https://youtube.com/shorts/BCuF26Dfg2U",
+      "video_uploaded": true,
+      "cover_file": "cover-9x16-1080x1920-v4.png",
+      "backend_tags": [
+        "AI",
+        "人工智慧",
+        "AI Agent",
+        "AI智能體",
+        "AI認知漏斗",
+        "Karpathy",
+        "知識動畫"
+      ],
+      "description_hashtags": [
+        "AI",
+        "人工智慧",
+        "AIAgent",
+        "Vibe知識大賞",
+        "Shorts"
+      ],
+      "description_hashtag_property": "PLAIN_EDITOR_TEXT_PUBLIC_LINKS_NOT_VERIFIED",
+      "music": "Upload details/video elements have no add-music entry; no final Save/private publish performed",
+      "notes": [
+        "No funnel found Shorts list before upload; upload file matches",
+        "UI auto says 已保存为私享视频 during upload; this is raw UI wording, not final private-release receipt",
+        "Not made forchildren; no paid promotion; AI disclosure no under displayed realistic-alteration criteria (video is explanatory animation and silent)",
+        "Native content list explicitly 草稿/编辑草稿 after upload close; reopened sameBCuF26Dfg2U, fields persist, copyrightcheck complete noissues; finalSave/Publish never clicked"
+      ],
+      "video_sha256": "71c213a4b4d90fc3448a463f8d96e6994786ec32c56168acba2d1518d4dff7dc",
+      "release_submitted": false,
+      "audio_status": "AUDIO_PENDING",
+      "audio_associated": false,
+      "direct_listening": "NOT_PERFORMED",
+      "music_segment": "NOT_SELECTED",
+      "audio_volume": "NOT_APPLICABLE",
+      "cover_sha256": "3c803b0995e74e5209120b12e1ed86d1bd1d912bd932eadaf390c810ef182597",
+      "screenshot": "执行截图/youtube-draft-saved.png",
+      "edit_screenshot": "执行截图/youtube-edit-final.png",
+      "cover_validation": "File upload accepted, filename/native uploaded thumbnail returned; final public crop not verified"
+    }
+  ],
+  "finished_at": "2026-10-20T20:12:47.050353+08:00",
+  "result": "PARTIAL_PREPARATION_AUDIO_PENDING_AND_LINKEDIN_EXISTING_DRAFT",
+  "target_model": "gpt-6.1-sol",
+  "target_effort": "medium",
+  "rules_read": [
+    "PERMISSIONS-2026-10-14-v1",
+    "ROUTING-2026-10-13-v4",
+    "HANDOFF-2026-10-10-v2",
+    "CODEX-MEDIA-20261020-v1"
+  ],
+  "input_verification": {
+    "gate": "06 RELEASED in runs.ai-funnel-vibe-20261020.stages.06",
+    "actual_video_sha_matches": true,
+    "video_bytes": 9685929,
+    "audio_tracks": 0,
+    "audio_basis": "frozen task metadata; not re-probed or played in this run",
+    "covers_sha_verified": {
+      "3x4": true,
+      "9x16": true,
+      "16x9": true,
+      "4x3": true
+    }
+  },
+  "needed_from_pmo": [
+    "指定曲目可合法使用的独立音频文件（覆盖150秒）或另行明确可用配乐方案；六站都未完成音乐关联",
+    "领英已有上一条视频草稿，需决定是否复用该草稿槽；原正文和旧视频已保留，本条未上传",
+    "YouTube正文hashtag当前只是编辑文本，后台7个native chips已验证；发布后可点击话题仍待本条发布授权后核",
+    "X当前编辑器无自定义封面/配乐入口，不能把封面文件已准备当平台已关联"
+  ],
+  "local_files": [
+    "六站执行回执-v1.json",
+    "平台实际适配-v1.json",
+    "原生字段回读-v1.json",
+    "六站执行汇总-v1.md",
+    "执行截图/ (native screenshot receipts)"
+  ],
+  "temporary_files_deleted": [],
+  "pmo_report_status": "TOOL_SEND_SUCCEEDED_RECEIPT_RETURNED",
+  "pmo_report_receipt": {
+    "threadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "hostId": "local",
+    "tool": "mcp__codex_app__send_message_to_thread",
+    "returned_threadId": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "pmo_actual_read_or_acceptance": "NOT_YET_VERIFIED",
+    "at": "2026-10-20T20:13:11.451539+08:00"
+  }
+}

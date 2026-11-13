@@ -1,0 +1,27 @@
+{
+  "command": [
+    "/Users/USER/.local/bin/ffmpeg",
+    "-nostdin",
+    "-hide_banner",
+    "-n",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/canvas-patched-visual.mp4",
+    "-i",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2-fix1/output/ai-funnel-v2-fix1-internal-150s.mp4",
+    "-map",
+    "0:v:0",
+    "-map",
+    "1:a:0",
+    "-c",
+    "copy",
+    "-t",
+    "150",
+    "-movflags",
+    "+faststart",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3/output/ai-funnel-v3-review-150s.mp4"
+  ],
+  "source_video_sha256": "6a236997d51f0089fbc1f51e69f25c70862f959444921f5b2a1b6cd87b7e3b09",
+  "audio_source_sha256": "758ab4d64be1aedbafdb4d1c444b34a39de79f7004581bb3f3b9a9882f282e63",
+  "output_sha256": "af6bd4398955812e89910affa223f6c1208f0a6966c70bfd6a2dfe9ce6c3a94a",
+  "music": "USER_WILL_ADD_NATIVE_PLATFORM_MUSIC; NOT_REQUIRED_IN_MASTER"
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS_INTERNAL_VISUAL_QA_COMPLETE_VIDEO_READY_FOR_USER_REVIEW",
+  "scope": "Current full150sec video delivery: prior v3 story163-frame independent review plus current two-range fixes. Not formal user-final approval or continuous audiovisual PASS.",
+  "at": "2026-10-20T15:14:06.502080+08:00",
+  "actual_proactive_tool_report_received": true,
+  "report": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3-fix2/定点复核报告.md",
+  "report_sha256": "789d8e77922862d53bac8638f6a65f902fbcae31972ae65ea8409c4421675381",
+  "index": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3-fix2/sample-index.json",
+  "index_sha256": "e8bfed614cd4ca9f88fbe2868ae367b2ee35a1220f6dc23b7fa1f9c21442b750",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/output/ai-funnel-v3-fix2-review-150s.mp4",
+  "sha256": "17fbb4955849347a09d2364924a3809a575ce5a441b730a5cff4a8e6b67aa434",
+  "frozen_inputs_verified": 16,
+  "current_image_hashes_verified": 18,
+  "hash_mismatches": [],
+  "PMO_actual_current_views_reused_from_immediate04_audit": {
+    "export_samples": 18,
+    "contact_sheets": 3,
+    "native_frames": [
+      1410,
+      7980,
+      8160
+    ]
+  },
+  "independent05_actual_current_views": {
+    "export_samples": 18,
+    "contact_sheets": 3,
+    "native_frames": [
+      1410,
+      7980,
+      8160
+    ]
+  },
+  "issues": {
+    "V3-Q1": "CLOSED_LABEL_ANCHORED_TO_GRAY25",
+    "V3-Q2": "CLOSED_TARGET_PATH_SELECTOR_VISIBLE"
+  },
+  "new_required_repairs_in_reviewed_scope": [],
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3-fix2/定点复核报告.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3-fix2/sample-index.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3-fix2/独立判定.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/PMO-04-v3fix2定向验收.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/05-质检/v3/图形叙事独立复核.md"
+  ],
+  "unchanged_range_visual_basis": "Previous sole05 v3-fix1 review163 frames/22 beats/21 seams; current8184 protected frames from base, documented source/assembly and SSIM0.999811. No full-stage rerun or oldv2 aesthetic approval substitution.",
+  "AAC_unchanged": true,
+  "BGM_required": false,
+  "normal_speed_continuous_visual": "NOT_PERFORMED",
+  "direct_SFX_hearing": "NOT_PERFORMED",
+  "subjective_SFX_sync": "UNKNOWN",
+  "user_final_review": "PENDING",
+  "publication": "PENDING_NOT_AUTHORIZED",
+  "formal05_user_approval_written": false,
+  "production_delivery_remaining_required_work": []
+}

@@ -1,0 +1,43 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "stage": "01",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "SELECTED_ATTRIBUTED_PRIMARY_CONTENT_AND_SPARSE_SAME_TOPIC_VISUAL_REFERENCE_ONLY",
+  "date": "2026-10-20T11:26:05.444084+08:00",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/同题参考地图.md",
+      "sha256": "95e505cb9050c9b2daa6cdf047daea8a69d7a7320320f1069f1d193b221e4253"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/读取范围.json",
+      "sha256": "520e3f316a221babbc80aa5817dc15362b8f5edb7ae9a6952396a856b2d9754b"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/Karpathy-原文.txt",
+      "sha256": "24e3726bec0355e9be259e9b16912ad5d991521efeb6484008f324fd0b459671"
+    }
+  ],
+  "actual_images_viewed": [
+    "a-01.jpg",
+    "a-02.jpg",
+    "a-03.jpg",
+    "a-04.jpg",
+    "b-01.jpg",
+    "b-02.jpg"
+  ],
+  "manifest_entries_verified": 13,
+  "remaining_required_work": [],
+  "known_limits": [
+    "Counts attributed to Karpathy napkin math, not independent global census or Agent usage statistics",
+    "No normalization to100percent, strict mutual exclusion or individual nested subset",
+    "Reference videos only6discrete images; complete source audio and continuous motion not signed off;04 must inspect relevant actual reference intervals before asserting matched motion",
+    "Current direct audio input unsupported; no audio hearing PASS",
+    "Unknown generic download.mp4 not treated as verified source or deleted"
+  ],
+  "delivery_message_received": true,
+  "actual_model_effort_speed": "UNKNOWN",
+  "next_stage": "02",
+  "user_film_recording_required": false
+}

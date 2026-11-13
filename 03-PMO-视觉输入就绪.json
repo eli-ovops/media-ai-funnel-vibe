@@ -1,0 +1,37 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "stage": "03",
+  "decision": "PASS",
+  "scope": "CODE_VISUAL_PRODUCTION_INPUT_READINESS_ONLY_USER_NO_CAPTURE_EXCEPTION",
+  "evidence_read": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/交接说明.md",
+      "sha256": "91a2af10d03c96810ac6d28403845d6681f3709b060a125b7f0e20506942ee8a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-内容编排/v3-150s/content-package.json",
+      "sha256": "873cb721b6356fb4f11db4c07f010032ddb7783e7b5e76c172a0b563e684e94a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-七条Vibe参考-PMO审阅.json",
+      "sha256": "ad6e62b26d4bce94f3c7634ff606f5bc8c4885829156d07fa963df705e38d641"
+    }
+  ],
+  "checks": {
+    "human_filming": "NOT_APPLICABLE_BY_USER",
+    "narration_recording": "NOT_APPLICABLE_BY_USER",
+    "screen_copy_timing": "READY_150SEC_9000FRAMES",
+    "semantic_objects": "READY",
+    "reference_mechanism_evidence": "SAMPLED_VISUAL_INPUT_ACCEPTED_WITH_LIMITS",
+    "font_and_component_instantiation": "04_IMPLEMENTATION_RESPONSIBILITY_NOT_CLAIMED_LOADED"
+  },
+  "deferred_input": {
+    "exact_nico_music": "UNKNOWN_ASSET_NOT_OBTAINED",
+    "next_owner": "PMO unified user clarification then01 music identity check",
+    "impact": "04 visual implementation can proceed; final requested BGM/AV completion cannot be claimed yet"
+  },
+  "no_shooting_receipt_fabricated": true,
+  "remaining_required_work": [],
+  "at": "2026-10-20T12:02:57.639563+08:00"
+}

@@ -1,0 +1,34 @@
+{
+  "reviewer": "04 production Owner",
+  "scope": "Actual final export sampled images only",
+  "all_19_samples_viewed": true,
+  "contact_sheets": [
+    "contact-1.jpg",
+    "contact-2.jpg",
+    "contact-3.jpg",
+    "contact-4.jpg"
+  ],
+  "native_resolution_samples": [
+    {
+      "frame": 3900,
+      "seconds": 65
+    },
+    {
+      "frame": 4500,
+      "seconds": 75
+    },
+    {
+      "frame": 8999,
+      "seconds": 149.9833333333
+    }
+  ],
+  "observations": [
+    "三处指定角标未见残留",
+    "所看画面背景渐变及噪点连续，未见修补条带边缘",
+    "必要的约、数值、比例刻度与放大说明保留"
+  ],
+  "continuous_normal_speed_viewing": "NOT_PERFORMED",
+  "direct_hearing": "NOT_PERFORMED",
+  "independent_05_review": "PENDING",
+  "pmo_acceptance": "PENDING"
+}

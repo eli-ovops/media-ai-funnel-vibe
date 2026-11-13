@@ -1,0 +1,17 @@
+{
+  "before_sha256": "e804dcd6c1d839f0b85422c26bc828d70e67379225f2bd64f11a5d237ab2d3d5",
+  "after_sha256": "8a82a40c1136fd08427f5bf43bf6d1569011170f13e065ae2410d8b7ef26aa74",
+  "ranges_frames_end_exclusive": [
+    [
+      5280,
+      5736
+    ],
+    [
+      6996,
+      7104
+    ]
+  ],
+  "source_before": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/src/World-before-camera-seam.ts",
+  "source_after": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v3/src/World.ts",
+  "scope": "camera function only; no chart/text/audio/source data changed"
+}

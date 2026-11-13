@@ -1,0 +1,230 @@
+{
+  "baseline": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-complete/output/ai-funnel-v4-complete-150s-r5.mp4",
+    "sha256": "6ac2862d8b34a813ff471ff13d14a572bb77f35e0c5df78e1267bcaab343cbd0"
+  },
+  "fps": 60,
+  "mapping": [
+    {
+      "id": "preserved",
+      "old": [
+        0,
+        84
+      ],
+      "new": [
+        0,
+        84
+      ],
+      "note": "从冻结r5继承，无场景改动",
+      "oldFramesExclusive": [
+        0,
+        5040
+      ],
+      "newFramesExclusive": [
+        0,
+        5040
+      ]
+    },
+    {
+      "id": "small_task",
+      "old": [
+        84,
+        91
+      ],
+      "new": [
+        84,
+        91
+      ],
+      "note": "沿用问答窗，清除说明后接具体事项",
+      "oldFramesExclusive": [
+        5040,
+        5460
+      ],
+      "newFramesExclusive": [
+        5040,
+        5460
+      ]
+    },
+    {
+      "id": "large_task",
+      "old": [
+        91,
+        98
+      ],
+      "new": [
+        91,
+        98
+      ],
+      "note": "同一01事项逐字新增和打勾",
+      "oldFramesExclusive": [
+        5460,
+        5880
+      ],
+      "newFramesExclusive": [
+        5460,
+        5880
+      ]
+    },
+    {
+      "id": "scale_meaning",
+      "old": [
+        98,
+        105
+      ],
+      "new": [
+        98,
+        105
+      ],
+      "note": "保存01状态，关窗，再打开；StepChain只作导航",
+      "oldFramesExclusive": [
+        5880,
+        6300
+      ],
+      "newFramesExclusive": [
+        5880,
+        6300
+      ]
+    },
+    {
+      "id": "verifiable_domains",
+      "old": [
+        105,
+        112
+      ],
+      "new": [
+        105,
+        111
+      ],
+      "note": "逐项检查同一事项文字和勾选状态",
+      "oldFramesExclusive": [
+        6300,
+        6720
+      ],
+      "newFramesExclusive": [
+        6300,
+        6660
+      ]
+    },
+    {
+      "id": "training_feedback",
+      "old": [
+        112,
+        119
+      ],
+      "new": [
+        111,
+        125
+      ],
+      "note": "如果记录丢失，回保存逻辑，再核对同一事项；尾部退场",
+      "oldFramesExclusive": [
+        6720,
+        7140
+      ],
+      "newFramesExclusive": [
+        6660,
+        7500
+      ]
+    },
+    {
+      "id": "uneven_capability",
+      "old": [
+        119,
+        126
+      ],
+      "new": [
+        125,
+        132
+      ],
+      "note": "数学/编程延后6秒，标题在旧窗退出时单独接入",
+      "oldFramesExclusive": [
+        7140,
+        7560
+      ],
+      "newFramesExclusive": [
+        7500,
+        7920
+      ]
+    },
+    {
+      "id": "access_tiers",
+      "old": [
+        126,
+        133.5
+      ],
+      "new": [
+        132,
+        137.6
+      ],
+      "note": "三种条件按原组件cue建立",
+      "oldFramesExclusive": [
+        7560,
+        8010
+      ],
+      "newFramesExclusive": [
+        7920,
+        8256
+      ]
+    },
+    {
+      "id": "access_meaning",
+      "old": [
+        133.5,
+        141
+      ],
+      "new": [
+        137.6,
+        141
+      ],
+      "note": "三分支阅读至140.1后退出；删除重复结论",
+      "oldFramesExclusive": [
+        8010,
+        8460
+      ],
+      "newFramesExclusive": [
+        8256,
+        8460
+      ]
+    },
+    {
+      "id": "synthesis",
+      "old": [
+        141,
+        147
+      ],
+      "new": [
+        141,
+        147
+      ],
+      "note": "旧树退离后从新因素下缘连线；因素缩入唯一结论载体",
+      "oldFramesExclusive": [
+        8460,
+        8820
+      ],
+      "newFramesExclusive": [
+        8460,
+        8820
+      ]
+    },
+    {
+      "id": "closing",
+      "old": [
+        147,
+        150
+      ],
+      "new": [
+        147,
+        150
+      ],
+      "note": "仅结论载体换成最终问题",
+      "oldFramesExclusive": [
+        8820,
+        9000
+      ],
+      "newFramesExclusive": [
+        8820,
+        9000
+      ]
+    }
+  ],
+  "mappingType": "semantic ranges, not uniform timewarp"
+}

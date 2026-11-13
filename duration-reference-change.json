@@ -1,0 +1,37 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "change_source": "Direct user 2026-10-20: seven exact Vibe reference links, duration approximately 2min30sec, music from Nico reference",
+  "change": {
+    "duration_goal_sec": 150,
+    "old_duration_sec": 60,
+    "references": 7,
+    "bgm": "USER_SELECTED_NICO_REFERENCE_PENDING_IDENTIFICATION"
+  },
+  "preserved": [
+    "primary-source meaning and passed01 content evidence",
+    "existing60sec content package as history",
+    "no-person/no-voice/code-visuals/1080x1920/60fps",
+    "no publication authority"
+  ],
+  "affected_stage": "02",
+  "decision": "RETURN02_TO_INPUT_BOUNDARY_FOR_NEW_DURATION_AND_REFERENCES",
+  "archives": [
+    {
+      "previous_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/制作总单.md",
+      "archive_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/history-60sec/制作总单.md",
+      "sha256": "a9a6323d32c8d0139248f6d83ac9517a58158ada0ac159bcbcf38723023ce8c0"
+    },
+    {
+      "previous_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/02-无旁白内容编排任务.md",
+      "archive_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/history-60sec/02-无旁白内容编排任务.md",
+      "sha256": "a19a918a24adfb8eaad37f9da7b8831b71585c0e1ecbd863343d0a7c4ba332c6"
+    },
+    {
+      "previous_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-完整代码动画任务.md",
+      "archive_path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/history-60sec/04-完整代码动画任务.md",
+      "sha256": "5153b6a916ecc5b3b63f57efef497d352d27eb50612cf285f52c2289a2c6feb7"
+    }
+  ],
+  "at": "2026-10-20T11:39:06.385159+08:00"
+}

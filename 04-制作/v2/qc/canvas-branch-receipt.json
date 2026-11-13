@@ -1,0 +1,31 @@
+{
+  "startFrame": 3240,
+  "endFrameExclusive": 4560,
+  "renderedFrames": 1320,
+  "durationSeconds": 22,
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "wallSeconds": 91.142,
+  "frames": [
+    {
+      "frame": 3240,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/canvas-branch-proof-3240.jpg",
+      "sha256": "f638375293a9e6a2a8ceca61e108e01c797ac1dab44a3dbfaeb242a10db40c4f"
+    },
+    {
+      "frame": 3900,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/canvas-branch-proof-3900.jpg",
+      "sha256": "0b5553cd7c84cc4dd38f3dc18adbdd5de7efcd837e4667b3162a0060dd28c184"
+    },
+    {
+      "frame": 4559,
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v2/qc/canvas-branch-proof-4559.jpg",
+      "sha256": "3a6e8f47d84fdfe6a8311fbf5996e5e8cb78ee2e11888370733bd476812c96ce"
+    }
+  ],
+  "sourceSha256ReportedAtEnd": "16f454e8d75dbb42b31c4c726a4da4022ce843b230e679fe90454e7058e4c78f",
+  "sourceSha256AtBuild": "UNKNOWN; renderer originally hashed source at completion, not build start",
+  "correction": "Short branch candidate preceded final sy17 camera interpolation. Compiled JS snapshot preserved. Final master receipt hashes source before compilation.",
+  "compiledBundleSha256": "26c72910713a8a078987e4a866c014e9c20b27091100c3081a095aeb4e890381"
+}

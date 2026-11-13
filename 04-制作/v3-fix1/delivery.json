@@ -1,0 +1,39 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "v3-fix1",
+  "status": "04_DELIVERED_PENDING_PMO_AND_05",
+  "output": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix1/output/ai-funnel-v3-fix1-review-150s.mp4",
+  "sha256": "98f5e6328713e2f8bb4ad85c10f74f8957e931a4a27c064d243ed0edb188ca4d",
+  "bytes": 23053125,
+  "duration_seconds": 150,
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "frames": 9000,
+  "removed_labels": [
+    "Karpathy 粗估",
+    "Karpathy 观点",
+    "各项独立比较 · 非四块相加"
+  ],
+  "preserved": [
+    "约与必要数值/比例/标尺/放大说明",
+    "原有全部过程与时间线",
+    "34处SFX音轨直接复制"
+  ],
+  "base_version": "v3",
+  "method": "经9000帧源代码验证的同坐标原始渐变噪点背景局部合成；全视频H264重新编码",
+  "source_background_proof": "qc/static-background-proof.json",
+  "export_background_proof": "qc/export-background-check.json",
+  "outside_roi_ssim": 0.999733,
+  "audio_packet_hash_equal": true,
+  "visual_review": "qc/visual-review.json",
+  "continuous_audiovisual_review": "NOT_PERFORMED",
+  "pmo_report_sent": true,
+  "pmo_received": "UNKNOWN",
+  "pmo_acceptance": "PENDING",
+  "music": "USER_WILL_ADD_NATIVE_PLATFORM_MUSIC; NOT_REQUIRED_IN_MASTER",
+  "model_actual": "UNKNOWN",
+  "effort_actual": "UNKNOWN",
+  "speed_actual": "UNKNOWN",
+  "pmo_report_receipt": "qc/pmo-report-receipt.json"
+}

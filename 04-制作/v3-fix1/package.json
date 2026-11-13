@@ -1,0 +1,16 @@
+{
+  "name": "ai-funnel-vibe-v3-fix1",
+  "private": true,
+  "scripts": {
+    "check:background": "node verify-background.cjs",
+    "compose": "python3 compose.py",
+    "validate": "/Users/USER/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 validate.py"
+  },
+  "dependencies": {
+    "remotion": "4.0.451",
+    "@remotion/renderer": "4.0.451",
+    "@remotion/bundler": "4.0.451",
+    "react": "19.2.5",
+    "react-dom": "19.2.5"
+  }
+}

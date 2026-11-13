@@ -1,0 +1,12 @@
+{
+  "startFrame": 0,
+  "endFrameExclusive": 9000,
+  "renderedFrames": 9000,
+  "durationSeconds": 150,
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "wallSeconds": 622.593,
+  "frames": [],
+  "sourceSha256": "4729886afd38ef5a09227f596c764f814889b5449db591427987e756a5f3e01a"
+}

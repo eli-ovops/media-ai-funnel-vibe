@@ -1,0 +1,172 @@
+[
+  {
+    "frame": 60,
+    "type": "tap",
+    "object": "question-root"
+  },
+  {
+    "frame": 90,
+    "type": "air",
+    "object": "two-outcomes"
+  },
+  {
+    "frame": 720,
+    "type": "air",
+    "object": "four-stations"
+  },
+  {
+    "frame": 1200,
+    "type": "tap",
+    "object": "group-1"
+  },
+  {
+    "frame": 1620,
+    "type": "paper",
+    "object": "group-1-dock"
+  },
+  {
+    "frame": 1980,
+    "type": "tap",
+    "object": "group-2"
+  },
+  {
+    "frame": 2400,
+    "type": "paper",
+    "object": "group-2-dock"
+  },
+  {
+    "frame": 2760,
+    "type": "tap",
+    "object": "group-3"
+  },
+  {
+    "frame": 3240,
+    "type": "air",
+    "object": "three-function-split"
+  },
+  {
+    "frame": 3330,
+    "type": "tap",
+    "object": "add-route"
+  },
+  {
+    "frame": 3360,
+    "type": "tap",
+    "object": "complete-route"
+  },
+  {
+    "frame": 3390,
+    "type": "tap",
+    "object": "save-route"
+  },
+  {
+    "frame": 3660,
+    "type": "paper",
+    "object": "internal-boundary"
+  },
+  {
+    "frame": 4080,
+    "type": "paper",
+    "object": "group-4-dock"
+  },
+  {
+    "frame": 4110,
+    "type": "tap",
+    "object": "worker-1"
+  },
+  {
+    "frame": 4122,
+    "type": "tap",
+    "object": "worker-2"
+  },
+  {
+    "frame": 4134,
+    "type": "tap",
+    "object": "worker-3"
+  },
+  {
+    "frame": 4260,
+    "type": "air",
+    "object": "reconverge"
+  },
+  {
+    "frame": 4500,
+    "type": "air",
+    "object": "task-center"
+  },
+  {
+    "frame": 4920,
+    "type": "paper",
+    "object": "explanation"
+  },
+  {
+    "frame": 5340,
+    "type": "air",
+    "object": "steps"
+  },
+  {
+    "frame": 5460,
+    "type": "tap",
+    "object": "add-item"
+  },
+  {
+    "frame": 5520,
+    "type": "tap",
+    "object": "complete-item"
+  },
+  {
+    "frame": 5580,
+    "type": "paper",
+    "object": "save-reopen"
+  },
+  {
+    "frame": 6180,
+    "type": "air",
+    "object": "conditional-window"
+  },
+  {
+    "frame": 6690,
+    "type": "air",
+    "object": "return-save"
+  },
+  {
+    "frame": 6840,
+    "type": "tap",
+    "object": "recheck"
+  },
+  {
+    "frame": 7020,
+    "type": "paper",
+    "object": "verifiable-task"
+  },
+  {
+    "frame": 7440,
+    "type": "paper",
+    "object": "access-workspace"
+  },
+  {
+    "frame": 7560,
+    "type": "tap",
+    "object": "free-scope-route"
+  },
+  {
+    "frame": 7578,
+    "type": "tap",
+    "object": "paid-scope-route"
+  },
+  {
+    "frame": 7596,
+    "type": "tap",
+    "object": "internal-scope-route"
+  },
+  {
+    "frame": 8340,
+    "type": "air",
+    "object": "relations-reunite"
+  },
+  {
+    "frame": 8760,
+    "type": "air",
+    "object": "same-paper-input"
+  }
+]

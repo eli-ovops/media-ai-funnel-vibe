@@ -1,0 +1,34 @@
+{
+  "video": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4-fix1/output/ai-funnel-v4-fix1-representative-36s-r3.mp4",
+  "sha256": "0452b1e03b9233519869d736fb9066cd7659944b6ee414b40c87df47644cad3c",
+  "bytes": 3401068,
+  "width": 1080,
+  "height": 1920,
+  "fps": "60/1",
+  "frames": 2160,
+  "duration": 36,
+  "audioStreams": 0,
+  "completeDecode": "PASS",
+  "exportSamples": 42,
+  "continuousVisual": "NOT_PERFORMED",
+  "PMOAcceptance": "PENDING",
+  "libraryGate": "PASS: same previously validated exact-SHA local path binding, no shared changes.",
+  "visualReview": {
+    "sampledActualFramesViewed": 42,
+    "nativeActualFramesViewed": [
+      1140,
+      1170,
+      1278,
+      1520,
+      1546,
+      1548
+    ],
+    "sameStageSourceComparison": "Viewed, mechanism and surface comparison only; T20m destination is deliberately different",
+    "fullNormalSpeed": "NOT_PERFORMED",
+    "limitations": "42 sampled frames of2160; all841 frames12–26s machine-checked only for near-white, not visual semantics"
+  },
+  "baselineProtected": {
+    "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/output/ai-funnel-v4-representative-36s-silent.mp4",
+    "sha256": "91b9fbd13c16994be43be0839a535df535c2e2ecc37263b85993b25339aaff91"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "video": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/output/ai-funnel-v4-representative-36s-silent.mp4",
+  "sha256": "91b9fbd13c16994be43be0839a535df535c2e2ecc37263b85993b25339aaff91",
+  "bytes": 3501164,
+  "width": 1080,
+  "height": 1920,
+  "fps": "60/1",
+  "frames": 2160,
+  "duration": 36,
+  "audioStreams": 0,
+  "completeDecode": "PASS",
+  "exportSamples": 38,
+  "continuousVisual": "NOT_PERFORMED",
+  "PMOAcceptance": "PENDING",
+  "libraryGate": "PASS with previously validated local-path adapter: source SHA must match catalog; existing TypeScript. Original default-path failure retained separately.",
+  "visualReview": {
+    "contactSamplesViewed": 38,
+    "nativeExportFramesViewed": [
+      285,
+      1260,
+      1530,
+      1980
+    ],
+    "sourceComparisonViewed": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v4/qc/source-stage-comparison.jpg",
+    "continuousNormalSpeed": false,
+    "audio": "No audio stream in delivered representative",
+    "limits": "38 of2160 frames; most frames not viewed. Overall aesthetic not accepted byPMO/user."
+  }
+}

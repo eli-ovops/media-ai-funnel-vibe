@@ -1,0 +1,374 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "version": "02-screen-v1",
+  "owner_thread": "01a11a70-35e6-7db1-86ac-80a7ce40a9cb",
+  "status": "SUBMITTED_TO_PMO_NOT_STAGE_PASSED",
+  "duration_seconds": 60,
+  "fps": 60,
+  "total_frames": 3600,
+  "width": 1080,
+  "height": 1920,
+  "voiceover": false,
+  "tts": false,
+  "human_filming_required": false,
+  "music": "04 deterministic local code synthesis",
+  "sfx": "04 deterministic local code synthesis",
+  "text_role": "All spoken narration is absent. screen_lines and persistent_labels are the authoritative visible copy; SRT is review/accessibility export, not an extra duplicated subtitle layer.",
+  "source_url": "https://x.com/karpathy/status/2109361546505966046",
+  "source_status": "Attribution to author napkin estimates; counts not independently validated",
+  "persistent_labels": [
+    {
+      "id": "attribution",
+      "start_frame": 300,
+      "end_frame_exclusive": 2160,
+      "text": "Karpathy 粗估",
+      "first_counted_in_scene": "attribution"
+    },
+    {
+      "id": "diagram_label",
+      "start_frame": 300,
+      "end_frame_exclusive": 2160,
+      "text": "示意",
+      "first_counted_in_scene": "attribution"
+    },
+    {
+      "id": "commentary_attribution",
+      "start_frame": 2160,
+      "end_frame_exclusive": 3600,
+      "text": "Karpathy 观点",
+      "first_counted_in_scene": "task_scale"
+    }
+  ],
+  "diagram_contract": {
+    "four_group_nodes": "Equal-size semantic nodes with an unarrowed observation spine; no proportional area/width/count encoding.",
+    "focus_ring": "Represents attention, not one person moving between groups.",
+    "task_carrier": "A task symbol carried between explanations; never represents a counted individual.",
+    "group_to_causes_handoff": "At36s retain the existing task-carrier/verification-node/access-boundary IDs and transforms. Move the task chain into focus while preserving frame edges as the working bounds. Reorganize relations within that same field; no replacement slide, fake population filtering or copied particle scale. Supplement B70-75 provides sampled evidence of field reorganization, not verified individual trajectories.",
+    "retained_group_numbers": "After each group, retain its number only at its original node; no new copy. Maximum four numbers; never animate one number into another.",
+    "prohibited": [
+      "100% normalization",
+      "exact pie chart",
+      "people filtering or falling between groups",
+      "population-count particles",
+      "5000=all Agent experts",
+      "20M=all Agent users",
+      "individual nested cohorts",
+      "value/intelligence ranking",
+      "paid always correct",
+      "copied wash-car test",
+      "unsupported speed or income claims"
+    ],
+    "counts": [
+      {
+        "label": "约60亿人",
+        "value": 6000000000,
+        "scope": "几乎未接触LLM",
+        "scene": "barely_exposed"
+      },
+      {
+        "label": "约10—20亿人",
+        "value_range": [
+          1000000000,
+          2000000000
+        ],
+        "scope": "偶尔使用免费聊天产品",
+        "scene": "casual_free"
+      },
+      {
+        "label": "约2000万人",
+        "value": 20000000,
+        "scope": "在数学/编程工作中专业使用前沿LLM",
+        "scene": "professional_frontier"
+      },
+      {
+        "label": "约5000人",
+        "value": 5000,
+        "scope": "有内部前沿系统访问权限",
+        "scene": "internal_access"
+      }
+    ]
+  },
+  "reading_method": {
+    "units": "CJK=1; Latin letters/digits=.5; punctuation=.25; spaces=0",
+    "assumed_rate_units_per_second": 3.5,
+    "orientation_allowance_seconds": 0.5,
+    "counting": "New foreground and newly introduced attribution; already-read static node numbers are retained navigation, not new reading.",
+    "claim_limit": "Planning estimate only; not an actual timed phone-reading, final font, motion or export acceptance."
+  },
+  "scenes": [
+    {
+      "id": "question",
+      "start_frame": 0,
+      "end_frame_exclusive": 300,
+      "start_sec": 0,
+      "end_sec": 5,
+      "screen_lines": [
+        "同样谈AI",
+        "为何判断差这么远？"
+      ],
+      "reading_start_frame": 24,
+      "reading_end_frame_exclusive": 294,
+      "reading_window_seconds": 4.5,
+      "new_reading_units": 12.25,
+      "estimated_reading_seconds": 4.0,
+      "reading_margin_seconds": 0.5,
+      "purpose": "建立体验反差，不声称同一版本对同一问题得到两种已测试结果。",
+      "knowledge_change": "共用观察框内，一条短对话路径与多步任务路径同时可见；一个焦点环从二者之间移到观察框边缘。",
+      "handoff_object": "观察框、焦点环、未命名任务点",
+      "source_basis": "原帖结尾：不同群体同时有不同体验",
+      "reference_frame_ids": [
+        "B:b-01",
+        "B:b-02"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    },
+    {
+      "id": "attribution",
+      "start_frame": 300,
+      "end_frame_exclusive": 660,
+      "start_sec": 5,
+      "end_sec": 11,
+      "screen_lines": [
+        "AI认知漏斗"
+      ],
+      "reading_start_frame": 324,
+      "reading_end_frame_exclusive": 654,
+      "reading_window_seconds": 5.5,
+      "new_reading_units": 13.0,
+      "estimated_reading_seconds": 4.214,
+      "reading_margin_seconds": 1.286,
+      "purpose": "明确是作者粗估的观点解读，建立四个观察位置。",
+      "knowledge_change": "原观察框展开四个等尺寸观察节点，共用一根无箭头定位脊线。节点只代表四类体验，不代表人数、面积或个人升级。焦点环定位第一组。",
+      "handoff_object": "同一观察框、四个固定节点、焦点环",
+      "source_basis": "原帖Napkin math及四组描述",
+      "reference_frame_ids": [
+        "A:a-01",
+        "B:b-02"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    },
+    {
+      "id": "barely_exposed",
+      "start_frame": 660,
+      "end_frame_exclusive": 1020,
+      "start_sec": 11,
+      "end_sec": 17,
+      "screen_lines": [
+        "约60亿人",
+        "几乎未接触",
+        "大语言模型"
+      ],
+      "reading_start_frame": 684,
+      "reading_end_frame_exclusive": 1014,
+      "reading_window_seconds": 5.5,
+      "new_reading_units": 14.0,
+      "estimated_reading_seconds": 4.5,
+      "reading_margin_seconds": 1.0,
+      "purpose": "没有使用经历，也构成公众对AI认知差异的背景。",
+      "knowledge_change": "第一观察节点旁出现数字与组名。焦点环圈住尚未接通的模型接口符号；不出现60亿个粒子，也不把节点大小映射人数。",
+      "handoff_object": "四节点及第一节点状态；焦点环沿脊线移向第二节点",
+      "source_basis": "原帖第1组：barely come in contact with LLMs",
+      "reference_frame_ids": [
+        "A:a-01"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    },
+    {
+      "id": "casual_free",
+      "start_frame": 1020,
+      "end_frame_exclusive": 1380,
+      "start_sec": 17,
+      "end_sec": 23,
+      "screen_lines": [
+        "约10—20亿人",
+        "偶尔使用",
+        "免费聊天产品"
+      ],
+      "reading_start_frame": 1044,
+      "reading_end_frame_exclusive": 1374,
+      "reading_window_seconds": 5.5,
+      "new_reading_units": 15.25,
+      "estimated_reading_seconds": 4.857,
+      "reading_margin_seconds": 0.643,
+      "purpose": "保留范围，说明使用频率与产品层级。",
+      "knowledge_change": "第一组信息收为原节点上的静止数值；第二节点在同一框内接出单次问答线，返回一条短回答，再停稳阅读。不是免费版答错演示。",
+      "handoff_object": "第二节点的问答线与焦点环；其余节点保持位置",
+      "source_basis": "原帖第2组：casual and infrequent users of free-tier ChatGPT-like products",
+      "reference_frame_ids": [
+        "B:b-01",
+        "B:b-02"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    },
+    {
+      "id": "professional_frontier",
+      "start_frame": 1380,
+      "end_frame_exclusive": 1800,
+      "start_sec": 23,
+      "end_sec": 30,
+      "screen_lines": [
+        "约2000万人",
+        "数学／编程中",
+        "专业使用前沿大模型"
+      ],
+      "reading_start_frame": 1404,
+      "reading_end_frame_exclusive": 1794,
+      "reading_window_seconds": 6.5,
+      "new_reading_units": 19.25,
+      "estimated_reading_seconds": 6.0,
+      "reading_margin_seconds": 0.5,
+      "purpose": "准确限定专业用途、领域及模型层级，不改成所有Agent用户。",
+      "knowledge_change": "焦点环移到第三节点。原问答线的任务载体保留，由单端点展开为相连的任务、验证、结果三个无文字节点，表达工作跨度；不画速度倍数、完成率或必然成功打勾。",
+      "handoff_object": "第三节点及已展开的任务链；焦点环",
+      "source_basis": "原帖第3组：professional use of frontier-grade LLMs in math&code",
+      "reference_frame_ids": [
+        "A:a-03",
+        "B:b-01",
+        "B:supp-ref-46"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    },
+    {
+      "id": "internal_access",
+      "start_frame": 1800,
+      "end_frame_exclusive": 2160,
+      "start_sec": 30,
+      "end_sec": 36,
+      "screen_lines": [
+        "约5000人",
+        "可访问",
+        "内部前沿系统"
+      ],
+      "reading_start_frame": 1824,
+      "reading_end_frame_exclusive": 2154,
+      "reading_window_seconds": 5.5,
+      "new_reading_units": 13.0,
+      "estimated_reading_seconds": 4.214,
+      "reading_margin_seconds": 1.286,
+      "purpose": "人数对应内部系统访问权限，不对应智力或Agent技能排名。",
+      "knowledge_change": "焦点环定位第四节点，明确的访问门边界露出门内关联节点。不是第三组人口流入或筛选成5000人；只比较另一种访问环境。",
+      "handoff_object": "访问门、任务链和焦点环，四组位置保留",
+      "source_basis": "原帖第4组：with access to frontier-grade systems internally",
+      "reference_frame_ids": [
+        "A:a-03",
+        "B:supp-ref-60"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    },
+    {
+      "id": "task_scale",
+      "start_frame": 2160,
+      "end_frame_exclusive": 2520,
+      "start_sec": 36,
+      "end_sec": 42,
+      "screen_lines": [
+        "任务规模",
+        "问一句话 → 做一个项目"
+      ],
+      "reading_start_frame": 2184,
+      "reading_end_frame_exclusive": 2514,
+      "reading_window_seconds": 5.5,
+      "new_reading_units": 15.25,
+      "estimated_reading_seconds": 4.857,
+      "reading_margin_seconds": 0.643,
+      "purpose": "从人数转到原因一：交给系统的问题规模。",
+      "knowledge_change": "四组数字退到背景且不再承担阅读。第三节点已有任务链进入中心：单个问题端点延展为多个相连任务节点。该图解释跨度，没有时间倍率。",
+      "handoff_object": "同一任务链、验证节点、焦点环",
+      "source_basis": "原帖因素1：ambition, problem size, horizon",
+      "reference_frame_ids": [
+        "B:b-01",
+        "B:supp-grid-70-75"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    },
+    {
+      "id": "domain",
+      "start_frame": 2520,
+      "end_frame_exclusive": 2880,
+      "start_sec": 42,
+      "end_sec": 48,
+      "screen_lines": [
+        "领域",
+        "数学、编程",
+        "结果更易验证"
+      ],
+      "reading_start_frame": 2544,
+      "reading_end_frame_exclusive": 2874,
+      "reading_window_seconds": 5.5,
+      "new_reading_units": 12.25,
+      "estimated_reading_seconds": 4.0,
+      "reading_margin_seconds": 1.5,
+      "purpose": "原因二：不同领域的可验证性不同，避免人人都能获得同等收益。",
+      "knowledge_change": "不新开壳：焦点环沿任务链移动到已有验证节点；两条输入路径通过验证接口汇合为一个结果端点。几何动作说明可核对，不演出具体正确答案。",
+      "handoff_object": "任务链、验证接口、结果端点",
+      "source_basis": "原帖因素2：digital, verifiable and economically valuable domains",
+      "reference_frame_ids": [
+        "B:b-01",
+        "B:supp-ref-75"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    },
+    {
+      "id": "access",
+      "start_frame": 2880,
+      "end_frame_exclusive": 3240,
+      "start_sec": 48,
+      "end_sec": 54,
+      "screen_lines": [
+        "访问权限",
+        "免费版 · 付费版",
+        "内部系统"
+      ],
+      "reading_start_frame": 2904,
+      "reading_end_frame_exclusive": 3234,
+      "reading_window_seconds": 5.5,
+      "new_reading_units": 14.25,
+      "estimated_reading_seconds": 4.571,
+      "reading_margin_seconds": 0.929,
+      "purpose": "原因三：访问层级影响所能接触的系统，不许诺付费必然答对。",
+      "knowledge_change": "已有访问门回到任务链侧边，同一观察框内标出三个访问位置；焦点环依次触及位置，门后可见范围变化。没有购买按钮、价格、效果评分或等级奖章。",
+      "handoff_object": "同一任务端点与焦点环；访问门边界",
+      "source_basis": "原帖因素3：Free-tier, paid-tier, internal",
+      "reference_frame_ids": [
+        "B:b-01",
+        "A:a-03"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    },
+    {
+      "id": "closing",
+      "start_frame": 3240,
+      "end_frame_exclusive": 3600,
+      "start_sec": 54,
+      "end_sec": 60,
+      "screen_lines": [
+        "你用AI问过什么？",
+        "又让它完成过什么？"
+      ],
+      "reading_start_frame": 3264,
+      "reading_end_frame_exclusive": 3600,
+      "reading_window_seconds": 5.6,
+      "new_reading_units": 15.5,
+      "estimated_reading_seconds": 4.929,
+      "reading_margin_seconds": 0.671,
+      "purpose": "回到观众自己的使用经历，结束一个核心反差。",
+      "knowledge_change": "任务链收回开头的观察框；短问答端点和项目端点再次并置，焦点环在二者之间停稳。保留原始身份，不突然换成结尾大字卡。最后0.5秒保持完整可读。",
+      "handoff_object": "开头同一观察框及两个路径端点；不自动循环重放",
+      "source_basis": "依据原帖任务规模因素作编辑性提问，不是效果承诺",
+      "reference_frame_ids": [
+        "B:b-01"
+      ],
+      "component_selection": "04_TO_SELECT_ACCURATE_SOURCE_AND_VERIFY; content mechanism only, no selected or validated component",
+      "movement_rule": "前0.4秒建立焦点；阅读窗口内文字位置/尺寸固定，关系节点可做低幅动作，不穿过文字；末0.1秒只交接焦点，不移走未读完文字。"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "stage": "04",
+  "pmo_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+  "decision": "PASS",
+  "scope": "Two targeted changes ready for05 scoped recheck; preserve prior163-frame whole-story review, not user approval or continuous AV PASS.",
+  "at": "2026-10-20T15:09:17.341556+08:00",
+  "artifact": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/output/ai-funnel-v3-fix2-review-150s.mp4",
+  "sha256": "17fbb4955849347a09d2364924a3809a575ce5a441b730a5cff4a8e6b67aa434",
+  "files_hashed": 87,
+  "symlink_targets_checked_without_traversal": 2,
+  "hash_mismatches": [],
+  "actual_current_export_frames_viewed": 18,
+  "actual_contact_sheets": 3,
+  "actual_native_frames": [
+    1410,
+    7980,
+    8160
+  ],
+  "Q1": "Label now upper-left and short leader ends on gray25percent arc, not gold75percent; timing/shape preserved.",
+  "Q2": "Selector, highlighted route and H endpoint visible in current133/136sec native images; neighboring131.4/141 frames stay aligned in viewed contact sequence.",
+  "source_diff_read": "Only25percent label/leader and camera keys133/138 changed. Source badge calls remain absent.",
+  "geometry_evidence_read": {
+    "chart_unchanged_frames": 9000,
+    "Q2_source_changed_frames": [
+      7885,
+      8459
+    ],
+    "Q2_render_patch": [
+      7884,
+      8459
+    ],
+    "Q2_target_selector_path_label_bad": [],
+    "min_Q2_y": 558.4195265689158
+  },
+  "technical_raw_read": {
+    "frame_concat_patches": [
+      [
+        1380,
+        1619
+      ],
+      [
+        7884,
+        8459
+      ]
+    ],
+    "total_frames": 9000,
+    "duration": 150,
+    "native_fps": "60/1",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "protected_ssim": 0.999811,
+    "all_frames_decode": "PASS reused current raw record",
+    "audio_packet_copy_equal": true,
+    "pmo_did_not_rerun_decode": true
+  },
+  "evidence_read": [
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/README.md",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/delivery.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/file-inventory.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/ffprobe.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/technical-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/assembly.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/geometry-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/visual-review.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/audio-check.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/export-frame-index.json",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作/v3-fix2/qc/source-diff.txt"
+  ],
+  "remaining_required_work": [],
+  "outside_this_04_handoff_scope": [
+    "05 scoped recheck",
+    "PMO final receipt acceptance and user complete-video delivery"
+  ],
+  "normal_speed_continuous_visual": "NOT_PERFORMED",
+  "direct_SFX_hearing": "NOT_PERFORMED",
+  "user_final_review": "PENDING"
+}

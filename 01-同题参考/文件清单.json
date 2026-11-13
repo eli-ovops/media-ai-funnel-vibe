@@ -1,0 +1,75 @@
+{
+  "content_id": "ai-funnel-vibe-20261020",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/Karpathy-原文.txt",
+      "bytes": 11928,
+      "sha256": "24e3726bec0355e9be259e9b16912ad5d991521efeb6484008f324fd0b459671"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-01.jpg",
+      "bytes": 106856,
+      "sha256": "71f7e4a83b77cd2b2aa3bd221fddcf0857d6d278eddc7b748b32437ed0152d10"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-02.jpg",
+      "bytes": 113814,
+      "sha256": "2f82b35df6862bc49a9c658cd47e3b011a4af457639fde449660c87335008729"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-03.jpg",
+      "bytes": 111239,
+      "sha256": "1a7b41489406ddb8f63c9d0fbafb922f0e77d84631895eb18c16e78d7b7596e8"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/a-04.jpg",
+      "bytes": 113445,
+      "sha256": "a76de702b6c795071edd1fc060f56b9e576e3c1d401474b1d04c7bd8ee2f8dcc"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/b-01.jpg",
+      "bytes": 97717,
+      "sha256": "28f7535333d3797fbaae489a02d447ca8af428482f0a649fda4fcf9cde3c556a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/b-02.jpg",
+      "bytes": 101127,
+      "sha256": "b73f4225256be20a4e6e792db8b3f30888e7d07f226fcbfc72357f303c8c23c3"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/傲岭-原页.txt",
+      "bytes": 35885,
+      "sha256": "46687cba6de486c3c3d186ca68715d90c50a0f1238e73825bfe136deeb8e8dda"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/傲岭-弹层原件.txt",
+      "bytes": 13801,
+      "sha256": "5af7676005863dcd496a1b[REDACTED_PHONE]ec40ad71605482198311525fd07b841"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/同题参考地图.md",
+      "bytes": 8727,
+      "sha256": "95e505cb9050c9b2daa6cdf047daea8a69d7a7320320f1069f1d193b221e4253"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/抖音同题搜索.txt",
+      "bytes": 11644,
+      "sha256": "36bdad5e20748a918b45a0ebf93395773c7b49d4244270dd2486b901f0eb4dec"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/江景-原页.txt",
+      "bytes": 31628,
+      "sha256": "d2f56fef06216ea5ebaae3002fd791248a0a58b1ea8cd058db015237a250d75e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/01-同题参考/读取范围.json",
+      "bytes": 1965,
+      "sha256": "520e3f316a221babbc80aa5817dc15362b8f5edb7ae9a6952396a856b2d9754b"
+    }
+  ],
+  "excluded": [
+    "文件清单.json (self-reference)",
+    "PMO发送回执.json (created after send)"
+  ],
+  "retained_evidence": true
+}

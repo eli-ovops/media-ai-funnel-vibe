@@ -1,0 +1,30 @@
+[
+  {
+    "key": "T02g",
+    "source": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/Fred\u4ed8\u8d39\u8d44\u6599\u5168\u7ad9\u5b66\u4e60-20261016/\u8bc1\u636e/01/\u52a8\u6001\u91c7\u6837\u56fe\u96c6/T02g-key-11.jpg",
+    "sourceSha256": "1395b4cbb006987418870fbf130c13f7f9ce406e229b181cf9262f5c116e829d",
+    "final": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/export-frames-r4/F650.png",
+    "finalSha256": "ed4167da60341542ce0d7530af5ba4614f52e64515d7be605838b595e688b645"
+  },
+  {
+    "key": "T04b",
+    "source": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/Fred\u4ed8\u8d39\u8d44\u6599\u5168\u7ad9\u5b66\u4e60-20261016/\u8bc1\u636e/01/\u52a8\u6001\u91c7\u6837\u56fe\u96c6/T04b-key-19.jpg",
+    "sourceSha256": "daa2f5971d8ac9a382112a5fae7fdfa182ba32651f171aaa1a0a6f069988fcc2",
+    "final": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/export-frames-r4/F4500.png",
+    "finalSha256": "c3e804db80c4c4fc57208058b0a7f1163d510ea334b580afeacd5d3b66507ec5"
+  },
+  {
+    "key": "T03e",
+    "source": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/Fred\u4ed8\u8d39\u8d44\u6599\u5168\u7ad9\u5b66\u4e60-20261016/\u8bc1\u636e/01/\u52a8\u6001\u91c7\u6837\u56fe\u96c6/T03e-key-28.jpg",
+    "sourceSha256": "10dec96aeabe378b52733ad684c98c38fc610a1e300be6827ae956b2575e9beb",
+    "final": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/export-frames-r4/F6210.png",
+    "finalSha256": "528096bcf8694cfdce56d099213f10886a1b0a5297b376110f1de13ab71497ac"
+  },
+  {
+    "key": "T04g",
+    "source": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/Fred\u4ed8\u8d39\u8d44\u6599\u5168\u7ad9\u5b66\u4e60-20261016/\u8bc1\u636e/01/\u52a8\u6001\u91c7\u6837\u56fe\u96c6/T04g-key-07.jpg",
+    "sourceSha256": "8a0daf42ab3388d906192a431673f2220701bd3aa8f09e783de5395c85e7f428",
+    "final": "/Volumes/EXTERNAL/\u81ea\u5a92\u4f53/ai-funnel-vibe-20261020/04-\u5236\u4f5c/v4-complete/qc/export-frames-r4/F7950.png",
+    "finalSha256": "1a124c4a7ce1b5c460823dd70a1a5c0d1fc6b6de13f739d1ebf8ce989aa69211"
+  }
+]
